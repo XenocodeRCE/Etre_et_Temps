@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1877pt" height="775pt" viewBox="0.00 0.00 1876.51 775.38">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 771.38)">
+<title>StructureFormelle</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-771.38 1872.51,-771.38 1872.51,4 -4,4"/>
+<text text-anchor="middle" x="934.26" y="-750.78" font-family="Georgia" font-size="14.00">§2 - La structure formelle de la question de l'être</text>
+<text text-anchor="middle" x="934.26" y="-733.98" font-family="Georgia" font-size="14.00">(Analyse des moments structuraux du questionnement)</text>
+<g id="clust2" class="cluster">
+<title>cluster_entente</title>
+<polygon fill="#f8f9fa" stroke="#f59e0b" stroke-dasharray="5,2" points="313.2,-8 313.2,-409.28 611.2,-409.28 611.2,-8 313.2,-8"/>
+<text text-anchor="middle" x="462.2" y="-392.68" font-family="Georgia" font-size="14.00" fill="#f59e0b">ENTENTE PRÉALABLE (PROBLÉMATIQUE)</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_dasein</title>
+<polygon fill="#f8f9fa" stroke="#7c3aed" stroke-dasharray="5,2" points="619.2,-277.05 619.2,-582.88 889.2,-582.88 889.2,-277.05 619.2,-277.05"/>
+<text text-anchor="middle" x="754.2" y="-566.28" font-family="Georgia" font-size="14.00" fill="#7c3aed">DASEIN ET SA PRIMAUTÉ</text>
+</g>
+<!-- Fragen -->
+<g id="node1" class="node">
+<title>Fragen</title>
+<ellipse fill="#3b82f6" stroke="black" cx="263.2" cy="-678.13" rx="47.65" ry="47.65"/>
+<text text-anchor="middle" x="263.2" y="-681.13" font-family="Georgia" font-size="10.00" fill="white">QUESTIONNER</text>
+<text text-anchor="middle" x="263.2" y="-669.13" font-family="Georgia" font-size="10.00" fill="white">(Fragen)</text>
+</g>
+<!-- Suchen -->
+<g id="node2" class="node">
+<title>Suchen</title>
+<ellipse fill="#1e40af" stroke="black" cx="43.2" cy="-489.28" rx="43.2" ry="43.2"/>
+<text text-anchor="middle" x="43.2" y="-492.28" font-family="Georgia" font-size="10.00" fill="white">CHERCHER</text>
+<text text-anchor="middle" x="43.2" y="-480.28" font-family="Georgia" font-size="10.00" fill="white">(Suchen)</text>
+</g>
+<!-- Fragen&#45;&gt;Suchen -->
+<g id="edge1" class="edge">
+<title>Fragen-&gt;Suchen</title>
+<path fill="none" stroke="#3b82f6" d="M218.89,-660.28C182.26,-644.61 130.68,-618.34 95.2,-582.88 82.79,-570.47 72.42,-554.5 64.29,-539.32"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="67.63,-538.16 59.96,-530.85 61.4,-541.35 67.63,-538.16"/>
+<text text-anchor="middle" x="139.24" y="-598.98" font-family="Georgia" font-size="9.00">est un</text>
+</g>
+<!-- Gefragtes -->
+<g id="node4" class="node">
+<title>Gefragtes</title>
+<polygon fill="#10b981" stroke="black" points="198,-511.28 104.4,-511.28 104.4,-467.28 198,-467.28 198,-511.28"/>
+<text text-anchor="middle" x="151.2" y="-498.28" font-family="Georgia" font-size="10.00" fill="white">QUESTIONNÉ</text>
+<text text-anchor="middle" x="151.2" y="-486.28" font-family="Georgia" font-size="10.00" fill="white">(das Gefragte)</text>
+<text text-anchor="middle" x="151.2" y="-474.28" font-family="Georgia" font-size="10.00" fill="white">= l'être</text>
+</g>
+<!-- Fragen&#45;&gt;Gefragtes -->
+<g id="edge3" class="edge">
+<title>Fragen-&gt;Gefragtes</title>
+<path fill="none" stroke="#10b981" d="M238.9,-636.59C218.11,-601.91 188.65,-552.75 169.73,-521.18"/>
+<polygon fill="#10b981" stroke="#10b981" points="172.9,-519.67 164.76,-512.89 166.9,-523.27 172.9,-519.67"/>
+<text text-anchor="middle" x="236.56" y="-598.98" font-family="Georgia" font-size="9.00">a pour</text>
+</g>
+<!-- Befragtes -->
+<g id="node5" class="node">
+<title>Befragtes</title>
+<polygon fill="#059669" stroke="black" points="310,-511.28 216.4,-511.28 216.4,-467.28 310,-467.28 310,-511.28"/>
+<text text-anchor="middle" x="263.2" y="-498.28" font-family="Georgia" font-size="10.00" fill="white">INTERROGÉ</text>
+<text text-anchor="middle" x="263.2" y="-486.28" font-family="Georgia" font-size="10.00" fill="white">(das Befragte)</text>
+<text text-anchor="middle" x="263.2" y="-474.28" font-family="Georgia" font-size="10.00" fill="white">= l'étant</text>
+</g>
+<!-- Fragen&#45;&gt;Befragtes -->
+<g id="edge4" class="edge">
+<title>Fragen-&gt;Befragtes</title>
+<path fill="none" stroke="#059669" d="M263.2,-629.98C263.2,-596.53 263.2,-552.5 263.2,-522.88"/>
+<polygon fill="#059669" stroke="#059669" points="266.7,-523.04 263.2,-513.04 259.7,-523.04 266.7,-523.04"/>
+<text text-anchor="middle" x="281.49" y="-598.98" font-family="Georgia" font-size="9.00">interroge</text>
+</g>
+<!-- Erfragtes -->
+<g id="node6" class="node">
+<title>Erfragtes</title>
+<polygon fill="#047857" stroke="black" points="446.53,-511.28 327.87,-511.28 327.87,-467.28 446.53,-467.28 446.53,-511.28"/>
+<text text-anchor="middle" x="387.2" y="-498.28" font-family="Georgia" font-size="10.00" fill="white">POINT EN QUESTION</text>
+<text text-anchor="middle" x="387.2" y="-486.28" font-family="Georgia" font-size="10.00" fill="white">(das Erfragtes)</text>
+<text text-anchor="middle" x="387.2" y="-474.28" font-family="Georgia" font-size="10.00" fill="white">= sens de l'être</text>
+</g>
+<!-- Fragen&#45;&gt;Erfragtes -->
+<g id="edge5" class="edge">
+<title>Fragen-&gt;Erfragtes</title>
+<path fill="none" stroke="#047857" d="M289.19,-637.96C312.3,-603.14 345.61,-552.94 366.83,-520.97"/>
+<polygon fill="#047857" stroke="#047857" points="369.56,-523.2 372.17,-512.93 363.72,-519.32 369.56,-523.2"/>
+<text text-anchor="middle" x="325.45" y="-598.98" font-family="Georgia" font-size="9.00">vise</text>
+</g>
+<!-- Forschung -->
+<g id="node3" class="node">
+<title>Forschung</title>
+<ellipse fill="#1d4ed8" stroke="black" cx="43.2" cy="-307.68" rx="43.2" ry="43.2"/>
+<text text-anchor="middle" x="43.2" y="-310.68" font-family="Georgia" font-size="10.00" fill="white">RECHERCHE</text>
+<text text-anchor="middle" x="43.2" y="-298.68" font-family="Georgia" font-size="10.00" fill="white">(Forschung)</text>
+</g>
+<!-- Suchen&#45;&gt;Forschung -->
+<g id="edge2" class="edge">
+<title>Suchen-&gt;Forschung</title>
+<path fill="none" stroke="#1e40af" d="M43.2,-445.71C43.2,-420.87 43.2,-389.27 43.2,-362.68"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="46.7,-362.76 43.2,-352.76 39.7,-362.76 46.7,-362.76"/>
+<text text-anchor="middle" x="57.9" y="-419.98" font-family="Georgia" font-size="9.00">devient</text>
+</g>
+<!-- Sein -->
+<g id="node10" class="node">
+<title>Sein</title>
+<polygon fill="#dc2626" stroke="black" points="184.8,-307.68 165,-333.8 125.4,-333.8 105.6,-307.68 125.4,-281.55 165,-281.55 184.8,-307.68"/>
+<text text-anchor="middle" x="145.2" y="-310.68" font-family="Georgia" font-size="10.00" fill="white">ÊTRE</text>
+<text text-anchor="middle" x="145.2" y="-298.68" font-family="Georgia" font-size="10.00" fill="white">(Sein)</text>
+</g>
+<!-- Gefragtes&#45;&gt;Sein -->
+<g id="edge9" class="edge">
+<title>Gefragtes-&gt;Sein</title>
+<path fill="none" stroke="#dc2626" d="M150.49,-466.97C149.49,-437.04 147.65,-382.11 146.43,-345.49"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="149.94,-345.68 146.11,-335.81 142.94,-345.92 149.94,-345.68"/>
+<text text-anchor="middle" x="157.77" y="-419.98" font-family="Georgia" font-size="9.00">c'est</text>
+</g>
+<!-- Seiendes -->
+<g id="node11" class="node">
+<title>Seiendes</title>
+<polygon fill="#b91c1c" stroke="black" points="305.24,-307.68 279.72,-333.8 228.68,-333.8 203.16,-307.68 228.68,-281.55 279.72,-281.55 305.24,-307.68"/>
+<text text-anchor="middle" x="254.2" y="-310.68" font-family="Georgia" font-size="10.00" fill="white">ÉTANT</text>
+<text text-anchor="middle" x="254.2" y="-298.68" font-family="Georgia" font-size="10.00" fill="white">(Seiendes)</text>
+</g>
+<!-- Befragtes&#45;&gt;Seiendes -->
+<g id="edge10" class="edge">
+<title>Befragtes-&gt;Seiendes</title>
+<path fill="none" stroke="#b91c1c" d="M262.13,-466.97C260.63,-437.04 257.88,-382.11 256.04,-345.49"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="259.56,-345.62 255.56,-335.81 252.56,-345.97 259.56,-345.62"/>
+<text text-anchor="middle" x="268.72" y="-419.98" font-family="Georgia" font-size="9.00">c'est</text>
+</g>
+<!-- Dasein -->
+<g id="node13" class="node">
+<title>Dasein</title>
+<ellipse fill="#7c3aed" stroke="black" cx="700.2" cy="-489.28" rx="72.87" ry="36"/>
+<text text-anchor="middle" x="700.2" y="-498.28" font-family="Georgia" font-size="10.00" fill="white">DASEIN</text>
+<text text-anchor="middle" x="700.2" y="-486.28" font-family="Georgia" font-size="10.00" fill="white">(l'étant que nous</text>
+<text text-anchor="middle" x="700.2" y="-474.28" font-family="Georgia" font-size="10.00" fill="white">sommes nous-mêmes)</text>
+</g>
+<!-- Befragtes&#45;&gt;Dasein -->
+<g id="edge13" class="edge">
+<title>Befragtes-&gt;Dasein</title>
+<path fill="none" stroke="#7c3aed" d="M269.61,-511.58C277.36,-533.97 292.76,-567.33 319.2,-582.88 391.61,-625.46 426.74,-603.37 508.2,-582.88 557.22,-570.55 608.48,-544.81 645.69,-523.44"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="647.13,-526.65 654.01,-518.59 643.61,-520.6 647.13,-526.65"/>
+<text text-anchor="middle" x="421.2" y="-604.38" font-family="Georgia" font-size="9.00">quel étant?</text>
+<text text-anchor="middle" x="421.2" y="-593.58" font-family="Georgia" font-size="9.00">primauté de</text>
+</g>
+<!-- VorVerstandnis -->
+<g id="node7" class="node">
+<title>VorVerstandnis</title>
+<polygon fill="#f59e0b" stroke="black" points="481.2,-351.68 358.97,-307.68 481.2,-263.68 603.43,-307.68 481.2,-351.68"/>
+<text text-anchor="middle" x="481.2" y="-316.68" font-family="Georgia" font-size="10.00" fill="white">ENTENTE PRÉALABLE</text>
+<text text-anchor="middle" x="481.2" y="-304.68" font-family="Georgia" font-size="10.00" fill="white">DE L'ÊTRE</text>
+<text text-anchor="middle" x="481.2" y="-292.68" font-family="Georgia" font-size="10.00" fill="white">(Vorverständnis)</text>
+</g>
+<!-- Erfragtes&#45;&gt;VorVerstandnis -->
+<g id="edge20" class="edge">
+<title>Erfragtes-&gt;VorVerstandnis</title>
+<path fill="none" stroke="#047857" stroke-dasharray="5,2" d="M397.55,-467.06C404.51,-452.9 413.96,-433.9 422.59,-417.28 433.3,-396.64 445.46,-373.99 455.91,-354.74"/>
+<polygon fill="#047857" stroke="#047857" points="458.94,-356.51 460.64,-346.05 452.79,-353.16 458.94,-356.51"/>
+<text text-anchor="middle" x="445.39" y="-419.98" font-family="Georgia" font-size="9.00">présuppose</text>
+</g>
+<!-- VorVerstandnis&#45;&gt;Fragen -->
+<g id="edge6" class="edge">
+<title>VorVerstandnis-&gt;Fragen</title>
+<path fill="none" stroke="#f59e0b" d="M490.08,-348.77C501.72,-412.84 513.76,-538.59 449.2,-612.48 417.33,-648.95 363.77,-664.86 322.28,-671.79"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="321.79,-668.32 312.43,-673.29 322.84,-675.24 321.79,-668.32"/>
+<text text-anchor="middle" x="510.27" y="-486.58" font-family="Georgia" font-size="9.00">guide</text>
+</g>
+<!-- Unbestimmtheit -->
+<g id="node8" class="node">
+<title>Unbestimmtheit</title>
+<polygon fill="#d97706" stroke="black" points="481.2,-194.73 368.84,-162.73 481.2,-130.73 593.56,-162.73 481.2,-194.73"/>
+<text text-anchor="middle" x="481.2" y="-165.73" font-family="Georgia" font-size="10.00" fill="white">INDÉTERMINATION</text>
+<text text-anchor="middle" x="481.2" y="-153.73" font-family="Georgia" font-size="10.00" fill="white">VAGUE</text>
+</g>
+<!-- VorVerstandnis&#45;&gt;Unbestimmtheit -->
+<g id="edge7" class="edge">
+<title>VorVerstandnis-&gt;Unbestimmtheit</title>
+<path fill="none" stroke="#d97706" d="M481.2,-263.4C481.2,-245.33 481.2,-224.4 481.2,-206.4"/>
+<polygon fill="#d97706" stroke="#d97706" points="484.7,-206.57 481.2,-196.57 477.7,-206.57 484.7,-206.57"/>
+<text text-anchor="middle" x="512.61" y="-219.35" font-family="Georgia" font-size="9.00">caractérisée par</text>
+</g>
+<!-- PositivPhanomen -->
+<g id="node9" class="node">
+<title>PositivPhanomen</title>
+<polygon fill="#b45309" stroke="black" points="481.2,-80 402.71,-48 481.2,-16 559.69,-48 481.2,-80"/>
+<text text-anchor="middle" x="481.2" y="-51" font-family="Georgia" font-size="10.00" fill="white">PHÉNOMÈNE</text>
+<text text-anchor="middle" x="481.2" y="-39" font-family="Georgia" font-size="10.00" fill="white">POSITIF</text>
+</g>
+<!-- Unbestimmtheit&#45;&gt;PositivPhanomen -->
+<g id="edge8" class="edge">
+<title>Unbestimmtheit-&gt;PositivPhanomen</title>
+<path fill="none" stroke="#b45309" d="M481.2,-130.33C481.2,-118.35 481.2,-104.5 481.2,-91.66"/>
+<polygon fill="#b45309" stroke="#b45309" points="484.7,-91.75 481.2,-81.75 477.7,-91.75 484.7,-91.75"/>
+<text text-anchor="middle" x="503.79" y="-100.7" font-family="Georgia" font-size="9.00">mais est un</text>
+</g>
+<!-- OntDifferenz -->
+<g id="node12" class="node">
+<title>OntDifferenz</title>
+<polygon fill="#991b1b" stroke="black" points="269.42,-162.73 232.31,-198.65 158.09,-198.65 120.98,-162.73 158.09,-126.8 232.31,-126.8 269.42,-162.73"/>
+<text text-anchor="middle" x="195.2" y="-171.73" font-family="Georgia" font-size="10.00" fill="white">DIFFÉRENCE</text>
+<text text-anchor="middle" x="195.2" y="-159.73" font-family="Georgia" font-size="10.00" fill="white">ONTOLOGIQUE</text>
+<text text-anchor="middle" x="195.2" y="-147.73" font-family="Georgia" font-size="10.00" fill="white">(être ≠ étant)</text>
+</g>
+<!-- Sein&#45;&gt;OntDifferenz -->
+<g id="edge11" class="edge">
+<title>Sein-&gt;OntDifferenz</title>
+<path fill="none" stroke="#991b1b" d="M154.14,-281.12C161.05,-261.36 170.8,-233.48 179.07,-209.85"/>
+<polygon fill="#991b1b" stroke="#991b1b" points="182.37,-211.02 182.36,-200.42 175.76,-208.71 182.37,-211.02"/>
+<text text-anchor="middle" x="179.41" y="-219.35" font-family="Georgia" font-size="9.00">≠</text>
+</g>
+<!-- Seiendes&#45;&gt;OntDifferenz -->
+<g id="edge12" class="edge">
+<title>Seiendes-&gt;OntDifferenz</title>
+<path fill="none" stroke="#991b1b" d="M243.65,-281.12C235.46,-261.27 223.89,-233.23 214.11,-209.53"/>
+<polygon fill="#991b1b" stroke="#991b1b" points="217.38,-208.3 210.33,-200.39 210.91,-210.97 217.38,-208.3"/>
+<text text-anchor="middle" x="224.42" y="-219.35" font-family="Georgia" font-size="9.00">≠</text>
+</g>
+<!-- Dasein&#45;&gt;VorVerstandnis -->
+<g id="edge19" class="edge">
+<title>Dasein-&gt;VorVerstandnis</title>
+<path fill="none" stroke="#7c3aed" stroke-dasharray="5,2" d="M651.95,-461.96C635.36,-452.13 617.03,-440.34 601.38,-428.08 571.25,-404.47 540.69,-374 517.93,-349.75"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="520.62,-347.51 511.25,-342.57 515.49,-352.27 520.62,-347.51"/>
+<text text-anchor="middle" x="644.29" y="-419.98" font-family="Georgia" font-size="9.00">possède toujours déjà</text>
+</g>
+<!-- Dasein&#45;&gt;Dasein -->
+<g id="edge21" class="edge">
+<title>Dasein-&gt;Dasein</title>
+<path fill="none" stroke="#7c3aed" stroke-dasharray="1,5" d="M769.53,-501.08C782.19,-499.58 791.07,-495.65 791.07,-489.28 791.07,-484.99 787.06,-481.81 780.59,-479.73"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="781.51,-476.35 771.02,-477.78 780.11,-483.21 781.51,-476.35"/>
+<text text-anchor="middle" x="818.29" y="-491.98" font-family="Georgia" font-size="9.00">se questionne</text>
+<text text-anchor="middle" x="818.29" y="-481.18" font-family="Georgia" font-size="9.00">lui-même</text>
+</g>
+<!-- Primat -->
+<g id="node14" class="node">
+<title>Primat</title>
+<ellipse fill="#5b21b6" stroke="black" cx="677.2" cy="-307.68" rx="50.47" ry="22.63"/>
+<text text-anchor="middle" x="677.2" y="-310.68" font-family="Georgia" font-size="10.00" fill="white">PRIMAUTÉ</text>
+<text text-anchor="middle" x="677.2" y="-298.68" font-family="Georgia" font-size="10.00" fill="white">DU DASEIN</text>
+</g>
+<!-- Dasein&#45;&gt;Primat -->
+<g id="edge14" class="edge">
+<title>Dasein-&gt;Primat</title>
+<path fill="none" stroke="#5b21b6" d="M695.71,-453.22C691.58,-421 685.51,-373.56 681.46,-341.92"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="684.95,-341.61 680.2,-332.14 678,-342.5 684.95,-341.61"/>
+<text text-anchor="middle" x="702.88" y="-419.98" font-family="Georgia" font-size="9.00">a une</text>
+</g>
+<!-- Selbsttransparenz -->
+<g id="node15" class="node">
+<title>Selbsttransparenz</title>
+<ellipse fill="#4c1d95" stroke="black" cx="813.2" cy="-307.68" rx="68.01" ry="22.63"/>
+<text text-anchor="middle" x="813.2" y="-310.68" font-family="Georgia" font-size="10.00" fill="white">TRANSPARENCE</text>
+<text text-anchor="middle" x="813.2" y="-298.68" font-family="Georgia" font-size="10.00" fill="white">À SOI-MÊME</text>
+</g>
+<!-- Dasein&#45;&gt;Selbsttransparenz -->
+<g id="edge15" class="edge">
+<title>Dasein-&gt;Selbsttransparenz</title>
+<path fill="none" stroke="#4c1d95" d="M721.45,-454.5C742.16,-421.58 773.39,-371.94 793.54,-339.92"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="796.5,-341.8 798.86,-331.47 790.57,-338.07 796.5,-341.8"/>
+<text text-anchor="middle" x="767.21" y="-419.98" font-family="Georgia" font-size="9.00">doit devenir</text>
+</g>
+<!-- Zirkel -->
+<g id="node16" class="node">
+<title>Zirkel</title>
+<polygon fill="#ec4899" stroke="black" points="1003.2,-369.9 899.53,-276.56 1106.87,-276.56 1003.2,-369.9"/>
+<text text-anchor="middle" x="1003.2" y="-316.68" font-family="Georgia" font-size="10.00" fill="white">OBJECTION</text>
+<text text-anchor="middle" x="1003.2" y="-304.68" font-family="Georgia" font-size="10.00" fill="white">DU CERCLE</text>
+<text text-anchor="middle" x="1003.2" y="-292.68" font-family="Georgia" font-size="10.00" fill="white">(Zirkel)</text>
+</g>
+<!-- Dasein&#45;&gt;Zirkel -->
+<g id="edge16" class="edge">
+<title>Dasein-&gt;Zirkel</title>
+<path fill="none" stroke="#ec4899" d="M761.56,-469.39C800.88,-455.82 852.06,-435.34 893.2,-409.28 919.14,-392.85 944.66,-370.03 964.59,-350.29"/>
+<polygon fill="#ec4899" stroke="#ec4899" points="966.86,-352.96 971.42,-343.4 961.89,-348.03 966.86,-352.96"/>
+<text text-anchor="middle" x="915.35" y="-419.98" font-family="Georgia" font-size="9.00">soulève l'objection</text>
+</g>
+<!-- Note -->
+<g id="node19" class="node">
+<title>Note</title>
+<polygon fill="none" stroke="black" stroke-dasharray="5,2" points="1862.51,-329.68 1727.89,-329.68 1727.89,-285.68 1868.51,-285.68 1868.51,-323.68 1862.51,-329.68"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1862.51,-329.68 1862.51,-323.68"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1868.51,-323.68 1862.51,-323.68"/>
+<text text-anchor="middle" x="1798.2" y="-316.68" font-family="Georgia" font-size="10.00" fill="#92400e">Note: Le Dasein a un</text>
+<text text-anchor="middle" x="1798.2" y="-304.68" font-family="Georgia" font-size="10.00" fill="#92400e">rapport insigne à la</text>
+<text text-anchor="middle" x="1798.2" y="-292.68" font-family="Georgia" font-size="10.00" fill="#92400e">question de l'être elle-même</text>
+</g>
+<!-- Dasein&#45;&gt;Note -->
+<!-- Wechselbezug -->
+<g id="node17" class="node">
+<title>Wechselbezug</title>
+<polygon fill="#db2777" stroke="black" points="1299.2,-369.9 1186,-276.56 1412.4,-276.56 1299.2,-369.9"/>
+<text text-anchor="middle" x="1299.2" y="-316.68" font-family="Georgia" font-size="10.00" fill="white">RÉCIPROCITÉ</text>
+<text text-anchor="middle" x="1299.2" y="-304.68" font-family="Georgia" font-size="10.00" fill="white">DE RAPPORT</text>
+<text text-anchor="middle" x="1299.2" y="-292.68" font-family="Georgia" font-size="10.00" fill="white">(va-et-vient)</text>
+</g>
+<!-- Zirkel&#45;&gt;Wechselbezug -->
+<g id="edge17" class="edge">
+<title>Zirkel-&gt;Wechselbezug</title>
+<path fill="none" stroke="#db2777" d="M1072.97,-307.68C1114.48,-307.68 1167.51,-307.68 1211.79,-307.68"/>
+<polygon fill="#db2777" stroke="#db2777" points="1211.63,-311.18 1221.63,-307.68 1211.63,-304.18 1211.63,-311.18"/>
+<text text-anchor="middle" x="1146.44" y="-313.38" font-family="Georgia" font-size="9.00">mais révèle une</text>
+</g>
+<!-- KeinZirkel -->
+<g id="node18" class="node">
+<title>KeinZirkel</title>
+<polygon fill="#be185d" stroke="black" points="1579.2,-352.93 1448.77,-285.05 1709.63,-285.05 1579.2,-352.93"/>
+<text text-anchor="middle" x="1579.2" y="-310.68" font-family="Georgia" font-size="10.00" fill="white">PAS DE CERCLE</text>
+<text text-anchor="middle" x="1579.2" y="-298.68" font-family="Georgia" font-size="10.00" fill="white">VICIEUX</text>
+</g>
+<!-- Wechselbezug&#45;&gt;KeinZirkel -->
+<g id="edge18" class="edge">
+<title>Wechselbezug-&gt;KeinZirkel</title>
+<path fill="none" stroke="#be185d" d="M1375.34,-307.68C1407.5,-307.68 1445.37,-307.68 1479.69,-307.68"/>
+<polygon fill="#be185d" stroke="#be185d" points="1479.67,-311.18 1489.67,-307.68 1479.67,-304.18 1479.67,-311.18"/>
+<text text-anchor="middle" x="1430.59" y="-313.38" font-family="Georgia" font-size="9.00">donc</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,423 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1273pt" height="1307pt" viewBox="0.00 0.00 1272.97 1307.37">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1303.37)">
+<title>DesobstructionOntologie</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-1303.37 1268.97,-1303.37 1268.97,4 -4,4"/>
+<text text-anchor="middle" x="632.49" y="-1284.57" font-family="Georgia" font-size="12.00">§6 - La tâche d'une désobstruction de l'histoire de l'ontologie</text>
+<text text-anchor="middle" x="632.49" y="-1270.17" font-family="Georgia" font-size="12.00">(Destruktion der Ontologiegeschichte)</text>
+<g id="clust1" class="cluster">
+<title>cluster_historialite</title>
+<polygon fill="#f8f9fa" stroke="#3b82f6" stroke-dasharray="5,2" points="8,-704.29 8,-999.49 252,-999.49 252,-704.29 8,-704.29"/>
+<text text-anchor="middle" x="130" y="-984.69" font-family="Georgia" font-size="12.00" fill="#3b82f6">HISTORIALITÉ FONDAMENTALE</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_tradition</title>
+<polygon fill="#f8f9fa" stroke="#dc2626" stroke-dasharray="5,2" points="347,-575.08 347,-987.3 543,-987.3 543,-575.08 347,-575.08"/>
+<text text-anchor="middle" x="445" y="-972.5" font-family="Georgia" font-size="12.00" fill="#dc2626">TRADITION ET OCCULTATION</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_destruction</title>
+<polygon fill="#f8f9fa" stroke="#059669" stroke-dasharray="5,2" points="221,-83.93 221,-547.48 431,-547.48 431,-83.93 221,-83.93"/>
+<text text-anchor="middle" x="326" y="-532.68" font-family="Georgia" font-size="12.00" fill="#059669">DÉSOBSTRUCTION</text>
+</g>
+<!-- Geschichtlichkeit -->
+<g id="node1" class="node">
+<title>Geschichtlichkeit</title>
+<polygon fill="#f59e0b" stroke="black" points="363.59,-1175.68 272.23,-1175.68 244,-1262.57 215.77,-1175.68 124.41,-1175.68 198.32,-1121.98 170.09,-1035.09 244,-1088.79 317.91,-1035.09 289.68,-1121.98 363.59,-1175.68"/>
+<text text-anchor="middle" x="244" y="-1162.33" font-family="Georgia" font-size="9.00" fill="white">HISTORIALITÉ</text>
+<text text-anchor="middle" x="244" y="-1151.53" font-family="Georgia" font-size="9.00" fill="white">(Geschichtlichkeit)</text>
+<text text-anchor="middle" x="244" y="-1140.73" font-family="Georgia" font-size="9.00" fill="white">constitution d'être</text>
+<text text-anchor="middle" x="244" y="-1129.93" font-family="Georgia" font-size="9.00" fill="white">du Dasein</text>
+</g>
+<!-- Geschehen -->
+<g id="node3" class="node">
+<title>Geschehen</title>
+<ellipse fill="#1e40af" stroke="black" cx="193" cy="-915.09" rx="51.47" ry="51.47"/>
+<text text-anchor="middle" x="193" y="-928.59" font-family="Georgia" font-size="9.00" fill="white">ADVENIR</text>
+<text text-anchor="middle" x="193" y="-917.79" font-family="Georgia" font-size="9.00" fill="white">(Geschehen)</text>
+<text text-anchor="middle" x="193" y="-906.99" font-family="Georgia" font-size="9.00" fill="white">le Dasein 'advient'</text>
+<text text-anchor="middle" x="193" y="-896.19" font-family="Georgia" font-size="9.00" fill="white">à partir de l'avenir</text>
+</g>
+<!-- Geschichtlichkeit&#45;&gt;Geschehen -->
+<g id="edge2" class="edge">
+<title>Geschichtlichkeit-&gt;Geschehen</title>
+<path fill="none" stroke="#f59e0b" d="M228.42,-1077.04C221.16,-1044.05 212.63,-1005.29 205.76,-974.07"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="208.18,-973.68 204.28,-967.37 203.4,-974.73 208.18,-973.68"/>
+<text text-anchor="middle" x="232.27" y="-1009.89" font-family="Georgia" font-size="8.00">structure :</text>
+</g>
+<!-- Tradition -->
+<g id="node5" class="node">
+<title>Tradition</title>
+<polygon fill="#dc2626" stroke="black" points="508.13,-915.09 476.56,-956.9 413.44,-956.9 381.87,-915.09 413.44,-873.29 476.56,-873.29 508.13,-915.09"/>
+<text text-anchor="middle" x="445" y="-928.59" font-family="Georgia" font-size="9.00" fill="white">TRADITION</text>
+<text text-anchor="middle" x="445" y="-917.79" font-family="Georgia" font-size="9.00" fill="white">(Überlieferung)</text>
+<text text-anchor="middle" x="445" y="-906.99" font-family="Georgia" font-size="9.00" fill="white">transmission et</text>
+<text text-anchor="middle" x="445" y="-896.19" font-family="Georgia" font-size="9.00" fill="white">occultation</text>
+</g>
+<!-- Geschichtlichkeit&#45;&gt;Tradition -->
+<g id="edge4" class="edge">
+<title>Geschichtlichkeit-&gt;Tradition</title>
+<path fill="none" stroke="#dc2626" d="M304.31,-1078.3C337.29,-1040.27 377.19,-994.27 406.06,-960.98"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="407.6,-962.96 410.33,-956.06 403.89,-959.75 407.6,-962.96"/>
+<text text-anchor="middle" x="389.27" y="-1009.89" font-family="Georgia" font-size="8.00">se cristallise en</text>
+</g>
+<!-- Destruktion -->
+<g id="node8" class="node">
+<title>Destruktion</title>
+<polygon fill="#059669" stroke="black" points="326,-517.08 229.09,-476.68 326,-436.28 422.91,-476.68 326,-517.08"/>
+<text text-anchor="middle" x="326" y="-484.78" font-family="Georgia" font-size="9.00" fill="white">DÉSOBSTRUCTION</text>
+<text text-anchor="middle" x="326" y="-473.98" font-family="Georgia" font-size="9.00" fill="white">(Destruktion)</text>
+<text text-anchor="middle" x="326" y="-463.18" font-family="Georgia" font-size="9.00" fill="white">tâche positive</text>
+</g>
+<!-- Geschichtlichkeit&#45;&gt;Destruktion -->
+<g id="edge22" class="edge">
+<title>Geschichtlichkeit-&gt;Destruktion</title>
+<path fill="none" stroke="#f59e0b" stroke-dasharray="5,2" d="M259.9,-1076.72C268.75,-1031.07 278,-970.38 278,-916.09 278,-916.09 278,-916.09 278,-623.89 278,-586.61 292.26,-546.54 305.23,-517.79"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="307.32,-519.12 308.04,-511.74 302.87,-517.06 307.32,-519.12"/>
+<text text-anchor="middle" x="308.4" y="-761.49" font-family="Georgia" font-size="8.00">s'impose à</text>
+<text text-anchor="middle" x="308.4" y="-751.89" font-family="Georgia" font-size="8.00">la question d'être</text>
+</g>
+<!-- Zeitlichkeit -->
+<g id="node2" class="node">
+<title>Zeitlichkeit</title>
+<ellipse fill="#3b82f6" stroke="black" cx="70" cy="-915.09" rx="54" ry="54"/>
+<text text-anchor="middle" x="70" y="-928.59" font-family="Georgia" font-size="9.00" fill="white">TEMPORALITÉ</text>
+<text text-anchor="middle" x="70" y="-917.79" font-family="Georgia" font-size="9.00" fill="white">(Zeitlichkeit)</text>
+<text text-anchor="middle" x="70" y="-906.99" font-family="Georgia" font-size="9.00" fill="white">condition de</text>
+<text text-anchor="middle" x="70" y="-896.19" font-family="Georgia" font-size="9.00" fill="white">l'historialité</text>
+</g>
+<!-- Zeitlichkeit&#45;&gt;Geschichtlichkeit -->
+<g id="edge1" class="edge">
+<title>Zeitlichkeit-&gt;Geschichtlichkeit</title>
+<path fill="none" stroke="#3b82f6" d="M102.21,-958.99C121.99,-985.34 148.15,-1020.18 172.61,-1052.75"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="170.4,-1053.89 176.56,-1058.02 174.32,-1050.95 170.4,-1053.89"/>
+<text text-anchor="middle" x="165" y="-1009.89" font-family="Georgia" font-size="8.00">rend possible</text>
+</g>
+<!-- Gewesenheit -->
+<g id="node4" class="node">
+<title>Gewesenheit</title>
+<ellipse fill="#1d4ed8" stroke="black" cx="193" cy="-759.09" rx="46.8" ry="46.8"/>
+<text text-anchor="middle" x="193" y="-772.59" font-family="Georgia" font-size="9.00" fill="white">ÊTRE-ÉTÉ</text>
+<text text-anchor="middle" x="193" y="-761.79" font-family="Georgia" font-size="9.00" fill="white">(Gewesenheit)</text>
+<text text-anchor="middle" x="193" y="-750.99" font-family="Georgia" font-size="9.00" fill="white">le passé ouvre</text>
+<text text-anchor="middle" x="193" y="-740.19" font-family="Georgia" font-size="9.00" fill="white">la voie</text>
+</g>
+<!-- Geschehen&#45;&gt;Gewesenheit -->
+<g id="edge3" class="edge">
+<title>Geschehen-&gt;Gewesenheit</title>
+<path fill="none" stroke="#1e40af" d="M193,-863.24C193,-847.57 193,-830.27 193,-814.38"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="195.45,-814.73 193,-807.73 190.55,-814.73 195.45,-814.73"/>
+<text text-anchor="middle" x="211.22" y="-831.09" font-family="Georgia" font-size="8.00">à partir de</text>
+</g>
+<!-- Verdeckung -->
+<g id="node6" class="node">
+<title>Verdeckung</title>
+<polygon fill="#b91c1c" stroke="black" points="510.95,-759.09 477.98,-800.9 412.02,-800.9 379.05,-759.09 412.02,-717.29 477.98,-717.29 510.95,-759.09"/>
+<text text-anchor="middle" x="445" y="-772.59" font-family="Georgia" font-size="9.00" fill="white">OCCULTATION</text>
+<text text-anchor="middle" x="445" y="-761.79" font-family="Georgia" font-size="9.00" fill="white">(Verdeckung)</text>
+<text text-anchor="middle" x="445" y="-750.99" font-family="Georgia" font-size="9.00" fill="white">des sources</text>
+<text text-anchor="middle" x="445" y="-740.19" font-family="Georgia" font-size="9.00" fill="white">originaires</text>
+</g>
+<!-- Tradition&#45;&gt;Verdeckung -->
+<g id="edge5" class="edge">
+<title>Tradition-&gt;Verdeckung</title>
+<path fill="none" stroke="#b91c1c" d="M445,-872.82C445,-853.33 445,-829.9 445,-809.47"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="447.45,-809.72 445,-802.72 442.55,-809.72 447.45,-809.72"/>
+<text text-anchor="middle" x="458.23" y="-831.09" font-family="Georgia" font-size="8.00">produit</text>
+</g>
+<!-- Selbstverstandlich -->
+<g id="node7" class="node">
+<title>Selbstverstandlich</title>
+<polygon fill="#991b1b" stroke="black" points="535.26,-624.89 490.13,-666.69 399.87,-666.69 354.74,-624.89 399.87,-583.08 490.13,-583.08 535.26,-624.89"/>
+<text text-anchor="middle" x="445" y="-638.39" font-family="Georgia" font-size="9.00" fill="white">ÉVIDENCE</text>
+<text text-anchor="middle" x="445" y="-627.59" font-family="Georgia" font-size="9.00" fill="white">(Selbstverständlichkeit)</text>
+<text text-anchor="middle" x="445" y="-616.79" font-family="Georgia" font-size="9.00" fill="white">barre l'accès</text>
+<text text-anchor="middle" x="445" y="-605.99" font-family="Georgia" font-size="9.00" fill="white">aux sources</text>
+</g>
+<!-- Verdeckung&#45;&gt;Selbstverstandlich -->
+<g id="edge6" class="edge">
+<title>Verdeckung-&gt;Selbstverstandlich</title>
+<path fill="none" stroke="#991b1b" d="M445,-716.99C445,-703.81 445,-689.07 445,-675.35"/>
+<polygon fill="#991b1b" stroke="#991b1b" points="447.45,-675.48 445,-668.48 442.55,-675.48 447.45,-675.48"/>
+<text text-anchor="middle" x="450.17" y="-687.09" font-family="Georgia" font-size="8.00">via</text>
+</g>
+<!-- Selbstverstandlich&#45;&gt;Destruktion -->
+<g id="edge7" class="edge">
+<title>Selbstverstandlich-&gt;Destruktion</title>
+<path fill="none" stroke="#059669" d="M411.54,-582.77C393.92,-561.13 372.51,-534.82 355.52,-513.95"/>
+<polygon fill="#059669" stroke="#059669" points="357.44,-512.43 351.12,-508.55 353.64,-515.52 357.44,-512.43"/>
+<text text-anchor="middle" x="412.14" y="-557.88" font-family="Georgia" font-size="8.00">nécessite</text>
+</g>
+<!-- Ursprung -->
+<g id="node9" class="node">
+<title>Ursprung</title>
+<polygon fill="#10b981" stroke="black" points="326,-369.48 236.61,-318.28 326,-267.08 415.39,-318.28 326,-369.48"/>
+<text text-anchor="middle" x="326" y="-331.78" font-family="Georgia" font-size="9.00" fill="white">EXPÉRIENCES</text>
+<text text-anchor="middle" x="326" y="-320.98" font-family="Georgia" font-size="9.00" fill="white">ORIGINAIRES</text>
+<text text-anchor="middle" x="326" y="-310.18" font-family="Georgia" font-size="9.00" fill="white">(Ursprung)</text>
+<text text-anchor="middle" x="326" y="-299.38" font-family="Georgia" font-size="9.00" fill="white">retour aux sources</text>
+</g>
+<!-- Destruktion&#45;&gt;Ursprung -->
+<g id="edge8" class="edge">
+<title>Destruktion-&gt;Ursprung</title>
+<path fill="none" stroke="#10b981" d="M326,-435.81C326,-418.39 326,-397.59 326,-378.42"/>
+<polygon fill="#10b981" stroke="#10b981" points="328.45,-378.55 326,-371.55 323.55,-378.55 328.45,-378.55"/>
+<text text-anchor="middle" x="344.35" y="-411.08" font-family="Georgia" font-size="8.00">retour aux</text>
+</g>
+<!-- ZeitProblem -->
+<g id="node14" class="node">
+<title>ZeitProblem</title>
+<polygon fill="#f97316" stroke="black" points="571,-375.41 439.48,-289.71 702.52,-289.71 571,-375.41"/>
+<text text-anchor="middle" x="571" y="-326.38" font-family="Georgia" font-size="9.00" fill="white">PROBLÉMATIQUE</text>
+<text text-anchor="middle" x="571" y="-315.58" font-family="Georgia" font-size="9.00" fill="white">DU TEMPS</text>
+<text text-anchor="middle" x="571" y="-304.78" font-family="Georgia" font-size="9.00" fill="white">(Zeit-Problematik)</text>
+</g>
+<!-- Destruktion&#45;&gt;ZeitProblem -->
+<g id="edge15" class="edge">
+<title>Destruktion-&gt;ZeitProblem</title>
+<path fill="none" stroke="#059669" d="M363.74,-451.59C405.75,-424.77 473.83,-381.31 520.42,-351.57"/>
+<polygon fill="#059669" stroke="#059669" points="521.56,-353.74 526.14,-347.91 518.93,-349.61 521.56,-353.74"/>
+<text text-anchor="middle" x="451.14" y="-411.08" font-family="Georgia" font-size="8.00">fil conducteur</text>
+</g>
+<!-- Limites -->
+<g id="node23" class="node">
+<title>Limites</title>
+<polygon fill="#ecfdf5" stroke="black" points="1126.73,-343.88 1011.27,-343.88 1011.27,-292.68 1132.73,-292.68 1132.73,-337.88 1126.73,-343.88"/>
+<polyline fill="none" stroke="black" points="1126.73,-343.88 1126.73,-337.88"/>
+<polyline fill="none" stroke="black" points="1132.73,-337.88 1126.73,-337.88"/>
+<text text-anchor="middle" x="1072" y="-331.78" font-family="Georgia" font-size="9.00" fill="#065f46">LIMITES :</text>
+<text text-anchor="middle" x="1072" y="-320.98" font-family="Georgia" font-size="9.00" fill="#065f46">Seules certaines étapes</text>
+<text text-anchor="middle" x="1072" y="-310.18" font-family="Georgia" font-size="9.00" fill="#065f46">décisives de l'histoire</text>
+<text text-anchor="middle" x="1072" y="-299.38" font-family="Georgia" font-size="9.00" fill="#065f46">(Aristote, Descartes, Kant)</text>
+</g>
+<!-- Destruktion&#45;&gt;Limites -->
+<!-- NonNegatif -->
+<g id="node25" class="node">
+<title>NonNegatif</title>
+<polygon fill="#dbeafe" stroke="black" points="1258.97,-343.88 1151.03,-343.88 1151.03,-292.68 1264.97,-292.68 1264.97,-337.88 1258.97,-343.88"/>
+<polyline fill="none" stroke="black" points="1258.97,-343.88 1258.97,-337.88"/>
+<polyline fill="none" stroke="black" points="1264.97,-337.88 1258.97,-337.88"/>
+<text text-anchor="middle" x="1208" y="-331.78" font-family="Georgia" font-size="9.00" fill="#1e40af">CARACTÈRE POSITIF :</text>
+<text text-anchor="middle" x="1208" y="-320.98" font-family="Georgia" font-size="9.00" fill="#1e40af">Pas destruction du passé</text>
+<text text-anchor="middle" x="1208" y="-310.18" font-family="Georgia" font-size="9.00" fill="#1e40af">mais appropriation</text>
+<text text-anchor="middle" x="1208" y="-299.38" font-family="Georgia" font-size="9.00" fill="#1e40af">productive</text>
+</g>
+<!-- Destruktion&#45;&gt;NonNegatif -->
+<!-- Geburtsurkunde -->
+<g id="node10" class="node">
+<title>Geburtsurkunde</title>
+<polygon fill="#34d399" stroke="black" points="326,-194.33 237.78,-143.13 326,-91.93 414.22,-143.13 326,-194.33"/>
+<text text-anchor="middle" x="326" y="-156.63" font-family="Georgia" font-size="9.00" fill="#1f2937">ACTE DE</text>
+<text text-anchor="middle" x="326" y="-145.83" font-family="Georgia" font-size="9.00" fill="#1f2937">NAISSANCE</text>
+<text text-anchor="middle" x="326" y="-135.03" font-family="Georgia" font-size="9.00" fill="#1f2937">(Geburtsurkunde)</text>
+<text text-anchor="middle" x="326" y="-124.23" font-family="Georgia" font-size="9.00" fill="#1f2937">des concepts</text>
+</g>
+<!-- Ursprung&#45;&gt;Geburtsurkunde -->
+<g id="edge9" class="edge">
+<title>Ursprung-&gt;Geburtsurkunde</title>
+<path fill="none" stroke="#34d399" d="M326,-266.73C326,-246.82 326,-223.81 326,-203.14"/>
+<polygon fill="#34d399" stroke="#34d399" points="328.45,-203.26 326,-196.26 323.55,-203.26 328.45,-203.26"/>
+<text text-anchor="middle" x="337.26" y="-220.67" font-family="Georgia" font-size="8.00">établit</text>
+</g>
+<!-- Resultat -->
+<g id="node24" class="node">
+<title>Resultat</title>
+<polygon fill="#fecaca" stroke="black" stroke-dasharray="5,2" points="368.18,-40.4 277.82,-40.4 277.82,0 374.18,0 374.18,-34.4 368.18,-40.4"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="368.18,-40.4 368.18,-34.4"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="374.18,-34.4 368.18,-34.4"/>
+<text text-anchor="middle" x="326" y="-28.3" font-family="Georgia" font-size="9.00" fill="#7f1d1d">La question de l'être</text>
+<text text-anchor="middle" x="326" y="-17.5" font-family="Georgia" font-size="9.00" fill="#7f1d1d">atteint sa véritable</text>
+<text text-anchor="middle" x="326" y="-6.7" font-family="Georgia" font-size="9.00" fill="#7f1d1d">CONCRÉTISATION</text>
+</g>
+<!-- Geburtsurkunde&#45;&gt;Resultat -->
+<g id="edge25" class="edge">
+<title>Geburtsurkunde-&gt;Resultat</title>
+<path fill="none" stroke="#34d399" d="M326,-91.55C326,-77.03 326,-61.74 326,-49.13"/>
+<polygon fill="#34d399" stroke="#34d399" points="328.45,-49.39 326,-42.39 323.55,-49.39 328.45,-49.39"/>
+<text text-anchor="middle" x="341.54" y="-60.8" font-family="Georgia" font-size="8.00">aboutit à</text>
+</g>
+<!-- GriechOntologie -->
+<g id="node11" class="node">
+<title>GriechOntologie</title>
+<polygon fill="#7c3aed" stroke="black" points="851.4,-1174.43 750.6,-1174.43 750.6,-1123.23 851.4,-1123.23 851.4,-1174.43"/>
+<text text-anchor="middle" x="801" y="-1162.33" font-family="Georgia" font-size="9.00" fill="white">ONTOLOGIE</text>
+<text text-anchor="middle" x="801" y="-1151.53" font-family="Georgia" font-size="9.00" fill="white">GRECQUE</text>
+<text text-anchor="middle" x="801" y="-1140.73" font-family="Georgia" font-size="9.00" fill="white">(Platon, Aristote)</text>
+<text text-anchor="middle" x="801" y="-1129.93" font-family="Georgia" font-size="9.00" fill="white">être = παρουσία</text>
+</g>
+<!-- Mittelalter -->
+<g id="node12" class="node">
+<title>Mittelalter</title>
+<polygon fill="#5b21b6" stroke="black" points="762.8,-940.69 669.2,-940.69 669.2,-889.49 762.8,-889.49 762.8,-940.69"/>
+<text text-anchor="middle" x="716" y="-928.59" font-family="Georgia" font-size="9.00" fill="white">MOYEN ÂGE</text>
+<text text-anchor="middle" x="716" y="-917.79" font-family="Georgia" font-size="9.00" fill="white">(Scolastique)</text>
+<text text-anchor="middle" x="716" y="-906.99" font-family="Georgia" font-size="9.00" fill="white">ens creatum/</text>
+<text text-anchor="middle" x="716" y="-896.19" font-family="Georgia" font-size="9.00" fill="white">ens increatum</text>
+</g>
+<!-- GriechOntologie&#45;&gt;Mittelalter -->
+<g id="edge10" class="edge">
+<title>GriechOntologie-&gt;Mittelalter</title>
+<path fill="none" stroke="#7c3aed" d="M791.9,-1123.03C776.48,-1080.98 745.2,-995.69 728,-948.8"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="730.39,-948.21 725.68,-942.49 725.79,-949.9 730.39,-948.21"/>
+<text text-anchor="middle" x="773.65" y="-1009.89" font-family="Georgia" font-size="8.00">transmise au</text>
+</g>
+<!-- ZoonLogon -->
+<g id="node17" class="node">
+<title>ZoonLogon</title>
+<ellipse fill="#6b7280" stroke="black" cx="843" cy="-915.09" rx="62.26" ry="36.2"/>
+<text text-anchor="middle" x="843" y="-928.59" font-family="Georgia" font-size="9.00" fill="white">ΖΩΟΝ ΛΟΓΟΝ ΕΧΟΝ</text>
+<text text-anchor="middle" x="843" y="-917.79" font-family="Georgia" font-size="9.00" fill="white">(animal rationale)</text>
+<text text-anchor="middle" x="843" y="-906.99" font-family="Georgia" font-size="9.00" fill="white">fil conducteur</text>
+<text text-anchor="middle" x="843" y="-896.19" font-family="Georgia" font-size="9.00" fill="white">ontologique</text>
+</g>
+<!-- GriechOntologie&#45;&gt;ZoonLogon -->
+<g id="edge16" class="edge">
+<title>GriechOntologie-&gt;ZoonLogon</title>
+<path fill="none" stroke="#7c3aed" d="M805.49,-1123.03C812.56,-1084.04 826.37,-1007.88 835.11,-959.62"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="837.52,-960.06 836.36,-952.73 832.7,-959.18 837.52,-960.06"/>
+<text text-anchor="middle" x="838.28" y="-1009.89" font-family="Georgia" font-size="8.00">part de</text>
+</g>
+<!-- Neuzeit -->
+<g id="node13" class="node">
+<title>Neuzeit</title>
+<polygon fill="#4c1d95" stroke="black" points="651.16,-1174.43 550.84,-1174.43 550.84,-1123.23 651.16,-1123.23 651.16,-1174.43"/>
+<text text-anchor="middle" x="601" y="-1162.33" font-family="Georgia" font-size="9.00" fill="white">TEMPS MODERNES</text>
+<text text-anchor="middle" x="601" y="-1151.53" font-family="Georgia" font-size="9.00" fill="white">(Descartes → Kant)</text>
+<text text-anchor="middle" x="601" y="-1140.73" font-family="Georgia" font-size="9.00" fill="white">subjectum/</text>
+<text text-anchor="middle" x="601" y="-1129.93" font-family="Georgia" font-size="9.00" fill="white">cogito</text>
+</g>
+<!-- Mittelalter&#45;&gt;Neuzeit -->
+<g id="edge11" class="edge">
+<title>Mittelalter-&gt;Neuzeit</title>
+<path fill="none" stroke="#5b21b6" d="M703.61,-941.07C682.64,-983.32 640.18,-1068.89 616.99,-1115.61"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="614.9,-1114.32 613.98,-1121.68 619.29,-1116.5 614.9,-1114.32"/>
+<text text-anchor="middle" x="688.43" y="-1009.89" font-family="Georgia" font-size="8.00">reprise aux</text>
+</g>
+<!-- Neuzeit&#45;&gt;Tradition -->
+<g id="edge12" class="edge">
+<title>Neuzeit-&gt;Tradition</title>
+<path fill="none" stroke="#4c1d95" d="M584.31,-1123.03C558.83,-1085.2 509.8,-1012.35 477.23,-963.98"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="479.34,-962.72 473.4,-958.28 475.27,-965.45 479.34,-962.72"/>
+<text text-anchor="middle" x="530.03" y="-1009.89" font-family="Georgia" font-size="8.00">cristallise la</text>
+</g>
+<!-- Cogito -->
+<g id="node20" class="node">
+<title>Cogito</title>
+<polygon fill="#fce7f3" stroke="black" points="645.4,-946.09 550.6,-946.09 550.6,-884.09 651.4,-884.09 651.4,-940.09 645.4,-946.09"/>
+<polyline fill="none" stroke="black" points="645.4,-946.09 645.4,-940.09"/>
+<polyline fill="none" stroke="black" points="651.4,-940.09 645.4,-940.09"/>
+<text text-anchor="middle" x="601" y="-933.99" font-family="Georgia" font-size="9.00" fill="#831843">COGITO SUM</text>
+<text text-anchor="middle" x="601" y="-923.19" font-family="Georgia" font-size="9.00" fill="#831843">(Descartes)</text>
+<text text-anchor="middle" x="601" y="-912.39" font-family="Georgia" font-size="9.00" fill="#831843">sol nouveau mais</text>
+<text text-anchor="middle" x="601" y="-901.59" font-family="Georgia" font-size="9.00" fill="#831843">sens d'être</text>
+<text text-anchor="middle" x="601" y="-890.79" font-family="Georgia" font-size="9.00" fill="#831843">indéterminé</text>
+</g>
+<!-- Neuzeit&#45;&gt;Cogito -->
+<g id="edge19" class="edge">
+<title>Neuzeit-&gt;Cogito</title>
+<path fill="none" stroke="#4c1d95" d="M601,-1123.03C601,-1082.72 601,-1002.67 601,-954.81"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="603.45,-955.07 601,-948.07 598.55,-955.07 603.45,-955.07"/>
+<text text-anchor="middle" x="625.39" y="-1009.89" font-family="Georgia" font-size="8.00">inaugurés par</text>
+</g>
+<!-- KantSchema -->
+<g id="node15" class="node">
+<title>KantSchema</title>
+<polygon fill="#ea580c" stroke="black" points="729,-200.27 606.27,-114.57 851.73,-114.57 729,-200.27"/>
+<text text-anchor="middle" x="729" y="-151.23" font-family="Georgia" font-size="9.00" fill="white">KANT</text>
+<text text-anchor="middle" x="729" y="-140.43" font-family="Georgia" font-size="9.00" fill="white">(Schématisme)</text>
+<text text-anchor="middle" x="729" y="-129.63" font-family="Georgia" font-size="9.00" fill="white">art caché de l'âme</text>
+</g>
+<!-- ZeitProblem&#45;&gt;KantSchema -->
+<g id="edge13" class="edge">
+<title>ZeitProblem-&gt;KantSchema</title>
+<path fill="none" stroke="#f97316" d="M596.39,-289.46C622.15,-261.23 662.31,-217.22 691.69,-185.02"/>
+<polygon fill="#f97316" stroke="#f97316" points="693.48,-186.69 696.39,-179.87 689.86,-183.39 693.48,-186.69"/>
+<text text-anchor="middle" x="683.29" y="-220.67" font-family="Georgia" font-size="8.00">amorcée chez</text>
+</g>
+<!-- AristotelesZeit -->
+<g id="node16" class="node">
+<title>AristotelesZeit</title>
+<polygon fill="#c2410c" stroke="black" points="878,-390.68 762.43,-282.07 993.57,-282.07 878,-390.68"/>
+<text text-anchor="middle" x="878" y="-331.78" font-family="Georgia" font-size="9.00" fill="white">ARISTOTE</text>
+<text text-anchor="middle" x="878" y="-320.98" font-family="Georgia" font-size="9.00" fill="white">(Physique Δ)</text>
+<text text-anchor="middle" x="878" y="-310.18" font-family="Georgia" font-size="9.00" fill="white">temps = nombre</text>
+<text text-anchor="middle" x="878" y="-299.38" font-family="Georgia" font-size="9.00" fill="white">du mouvement</text>
+</g>
+<!-- ZeitProblem&#45;&gt;AristotelesZeit -->
+<g id="edge14" class="edge">
+<title>ZeitProblem-&gt;AristotelesZeit</title>
+<path fill="none" stroke="#ea580c" d="M659.39,-318.28C701.06,-318.28 750.6,-318.28 791.98,-318.28"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="791.89,-320.73 798.89,-318.28 791.89,-315.83 791.89,-320.73"/>
+<text text-anchor="middle" x="732.48" y="-323.68" font-family="Georgia" font-size="8.00">fondée chez</text>
+</g>
+<!-- TacheConcrete -->
+<g id="node22" class="node">
+<title>TacheConcrete</title>
+<polygon fill="#fef3c7" stroke="black" points="582.63,-174.13 477.37,-174.13 477.37,-112.13 588.63,-112.13 588.63,-168.13 582.63,-174.13"/>
+<polyline fill="none" stroke="black" points="582.63,-174.13 582.63,-168.13"/>
+<polyline fill="none" stroke="black" points="588.63,-168.13 582.63,-168.13"/>
+<text text-anchor="middle" x="533" y="-162.03" font-family="Georgia" font-size="9.00" fill="#92400e">TÂCHE CONCRÈTE :</text>
+<text text-anchor="middle" x="533" y="-151.23" font-family="Georgia" font-size="9.00" fill="#92400e">Montrer comment l'être</text>
+<text text-anchor="middle" x="533" y="-140.43" font-family="Georgia" font-size="9.00" fill="#92400e">a été interprété</text>
+<text text-anchor="middle" x="533" y="-129.63" font-family="Georgia" font-size="9.00" fill="#92400e">à partir du temps</text>
+<text text-anchor="middle" x="533" y="-118.83" font-family="Georgia" font-size="9.00" fill="#92400e">(sans le savoir)</text>
+</g>
+<!-- ZeitProblem&#45;&gt;TacheConcrete -->
+<!-- Logos -->
+<g id="node18" class="node">
+<title>Logos</title>
+<ellipse fill="#4b5563" stroke="black" cx="995" cy="-915.09" rx="54.47" ry="36.2"/>
+<text text-anchor="middle" x="995" y="-928.59" font-family="Georgia" font-size="9.00" fill="white">ΛΟΓΟΣ</text>
+<text text-anchor="middle" x="995" y="-917.79" font-family="Georgia" font-size="9.00" fill="white">(parole/raison)</text>
+<text text-anchor="middle" x="995" y="-906.99" font-family="Georgia" font-size="9.00" fill="white">herméneutique</text>
+<text text-anchor="middle" x="995" y="-896.19" font-family="Georgia" font-size="9.00" fill="white">du logos</text>
+</g>
+<!-- ZoonLogon&#45;&gt;Logos -->
+<g id="edge17" class="edge">
+<title>ZoonLogon-&gt;Logos</title>
+<path fill="none" stroke="#6b7280" d="M905.7,-915.09C914.29,-915.09 923.11,-915.09 931.71,-915.09"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="931.7,-917.54 938.7,-915.09 931.7,-912.64 931.7,-917.54"/>
+<text text-anchor="middle" x="922.9" y="-920.49" font-family="Georgia" font-size="8.00">via</text>
+</g>
+<!-- Parousia -->
+<g id="node19" class="node">
+<title>Parousia</title>
+<ellipse fill="#374151" stroke="black" cx="1154" cy="-915.09" rx="54.29" ry="28.57"/>
+<text text-anchor="middle" x="1154" y="-923.19" font-family="Georgia" font-size="9.00" fill="white">ΠΑΡΟΥΣΙΑ</text>
+<text text-anchor="middle" x="1154" y="-912.39" font-family="Georgia" font-size="9.00" fill="white">(présenteté)</text>
+<text text-anchor="middle" x="1154" y="-901.59" font-family="Georgia" font-size="9.00" fill="white">être = présence</text>
+</g>
+<!-- Logos&#45;&gt;Parousia -->
+<g id="edge18" class="edge">
+<title>Logos-&gt;Parousia</title>
+<path fill="none" stroke="#4b5563" d="M1049.72,-915.09C1063.03,-915.09 1077.38,-915.09 1091.05,-915.09"/>
+<polygon fill="#4b5563" stroke="#4b5563" points="1090.94,-917.54 1097.94,-915.09 1090.94,-912.64 1090.94,-917.54"/>
+<text text-anchor="middle" x="1074.59" y="-920.49" font-family="Georgia" font-size="8.00">conduit à</text>
+</g>
+<!-- ResEns -->
+<g id="node21" class="node">
+<title>ResEns</title>
+<polygon fill="#f3e8ff" stroke="black" points="690.82,-784.69 601.18,-784.69 601.18,-733.49 696.82,-733.49 696.82,-778.69 690.82,-784.69"/>
+<polyline fill="none" stroke="black" points="690.82,-784.69 690.82,-778.69"/>
+<polyline fill="none" stroke="black" points="696.82,-778.69 690.82,-778.69"/>
+<text text-anchor="middle" x="649" y="-772.59" font-family="Georgia" font-size="9.00" fill="#581c87">RES COGITANS</text>
+<text text-anchor="middle" x="649" y="-761.79" font-family="Georgia" font-size="9.00" fill="#581c87">= ENS CREATUM</text>
+<text text-anchor="middle" x="649" y="-750.99" font-family="Georgia" font-size="9.00" fill="#581c87">ontologie médiévale</text>
+<text text-anchor="middle" x="649" y="-740.19" font-family="Georgia" font-size="9.00" fill="#581c87">transférée</text>
+</g>
+<!-- Cogito&#45;&gt;ResEns -->
+<g id="edge20" class="edge">
+<title>Cogito-&gt;ResEns</title>
+<path fill="none" stroke="#ec4899" d="M610.36,-883.6C615.75,-866.12 622.65,-843.76 628.86,-823.89 631.99,-813.85 635.43,-802.92 638.57,-792.99"/>
+<polygon fill="#ec4899" stroke="#ec4899" points="640.89,-793.78 640.66,-786.37 636.22,-792.31 640.89,-793.78"/>
+<text text-anchor="middle" x="656.43" y="-835.89" font-family="Georgia" font-size="8.00">mais déterminé</text>
+<text text-anchor="middle" x="656.43" y="-826.29" font-family="Georgia" font-size="8.00">comme</text>
+</g>
+<!-- ResEns&#45;&gt;Mittelalter -->
+<g id="edge21" class="edge">
+<title>ResEns-&gt;Mittelalter</title>
+<path fill="none" stroke="#581c87" d="M663.92,-785.07C670.52,-796.66 678.11,-810.75 684,-823.89 692.37,-842.56 700.09,-864.14 705.85,-881.51"/>
+<polygon fill="#581c87" stroke="#581c87" points="703.38,-881.84 707.88,-887.73 708.04,-880.32 703.38,-881.84"/>
+<text text-anchor="middle" x="705.2" y="-831.09" font-family="Georgia" font-size="8.00">reprend</text>
+</g>
+</g>
+</svg>

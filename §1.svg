@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="676pt" height="1047pt" viewBox="0.00 0.00 675.95 1047.14">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1043.14)">
+<title>SeinsfrageParagraph1</title>
+<polygon fill="#f5f7fa" stroke="none" points="-4,4 -4,-1043.14 671.95,-1043.14 671.95,4 -4,4"/>
+<text text-anchor="middle" x="333.97" y="-1022.54" font-family="Georgia" font-size="14.00">§1 - La nécessité d'une répétition de la question de l'être</text>
+<text text-anchor="middle" x="333.97" y="-1005.74" font-family="Georgia" font-size="14.00">(Heidegger, Être et Temps)</text>
+<g id="clust3" class="cluster">
+<title>cluster_tradition</title>
+<polygon fill="#f5f7fa" stroke="#4a5dc7" stroke-dasharray="5,2" points="108.45,-576.91 108.45,-989.54 324.45,-989.54 324.45,-576.91 108.45,-576.91"/>
+<text text-anchor="middle" x="216.45" y="-972.94" font-family="Georgia" font-size="14.00" fill="#4a5dc7">TRADITION PHILOSOPHIQUE</text>
+</g>
+<!-- SeinsFrage -->
+<g id="node1" class="node">
+<title>SeinsFrage</title>
+<ellipse fill="#667eea" stroke="black" cx="387.45" cy="-758.74" rx="54" ry="54"/>
+<text text-anchor="middle" x="387.45" y="-767.74" font-family="Georgia" font-size="10.00" fill="white">QUESTION</text>
+<text text-anchor="middle" x="387.45" y="-755.74" font-family="Georgia" font-size="10.00" fill="white">DE L'ÊTRE</text>
+<text text-anchor="middle" x="387.45" y="-743.74" font-family="Georgia" font-size="10.00" fill="white">(Seinsfrage)</text>
+</g>
+<!-- Oubli -->
+<g id="node4" class="node">
+<title>Oubli</title>
+<polygon fill="#56ab2f" stroke="black" points="363.63,-538.11 265.27,-538.11 265.27,-502.11 363.63,-502.11 363.63,-538.11"/>
+<text text-anchor="middle" x="314.45" y="-523.11" font-family="Georgia" font-size="10.00" fill="white">OUBLI</text>
+<text text-anchor="middle" x="314.45" y="-511.11" font-family="Georgia" font-size="10.00" fill="white">CONTEMPORAIN</text>
+</g>
+<!-- SeinsFrage&#45;&gt;Oubli -->
+<g id="edge2" class="edge">
+<title>SeinsFrage-&gt;Oubli</title>
+<path fill="none" stroke="#e74c3c" stroke-dasharray="5,2" d="M373.22,-706.48C361.6,-665.55 344.41,-606.86 327.45,-556.11 326.7,-553.85 325.89,-551.52 325.07,-549.19"/>
+<polygon fill="#e74c3c" stroke="#e74c3c" points="328.39,-548.1 321.68,-539.9 321.82,-550.49 328.39,-548.1"/>
+<text text-anchor="middle" x="380.14" y="-613.32" font-family="Georgia" font-size="9.00">chute dans l'</text>
+</g>
+<!-- Grecs -->
+<g id="node2" class="node">
+<title>Grecs</title>
+<ellipse fill="#4a5dc7" stroke="black" cx="265.45" cy="-913.54" rx="43.2" ry="43.2"/>
+<text text-anchor="middle" x="265.45" y="-922.54" font-family="Georgia" font-size="10.00" fill="white">PLATON</text>
+<text text-anchor="middle" x="265.45" y="-910.54" font-family="Georgia" font-size="10.00" fill="white">&amp;</text>
+<text text-anchor="middle" x="265.45" y="-898.54" font-family="Georgia" font-size="10.00" fill="white">ARISTOTE</text>
+</g>
+<!-- Grecs&#45;&gt;SeinsFrage -->
+<g id="edge1" class="edge">
+<title>Grecs-&gt;SeinsFrage</title>
+<path fill="none" stroke="#4a5dc7" d="M292.22,-879C308.26,-858.92 328.97,-832.99 346.97,-810.44"/>
+<polygon fill="#4a5dc7" stroke="#4a5dc7" points="349.53,-812.84 353.04,-802.84 344.06,-808.47 349.53,-812.84"/>
+<text text-anchor="middle" x="349.57" y="-844.24" font-family="Georgia" font-size="9.00">fondation</text>
+<text text-anchor="middle" x="349.57" y="-833.44" font-family="Georgia" font-size="9.00">originaire</text>
+</g>
+<!-- ThomasAquin -->
+<g id="node14" class="node">
+<title>ThomasAquin</title>
+<ellipse fill="#dddddd" stroke="black" cx="241.45" cy="-758.74" rx="74.04" ry="22.63"/>
+<text text-anchor="middle" x="241.45" y="-761.74" font-family="Georgia" font-size="10.00">THOMAS D'AQUIN</text>
+<text text-anchor="middle" x="241.45" y="-749.74" font-family="Georgia" font-size="10.00">(S.th. I², qu. 94a2)</text>
+</g>
+<!-- Grecs&#45;&gt;ThomasAquin -->
+<g id="edge14" class="edge">
+<title>Grecs-&gt;ThomasAquin</title>
+<path fill="none" stroke="gray" stroke-dasharray="1,5" d="M258.83,-870.38C254.98,-845.86 250.19,-815.4 246.62,-792.65"/>
+<polygon fill="gray" stroke="gray" points="250.12,-792.36 245.11,-783.03 243.2,-793.45 250.12,-792.36"/>
+<text text-anchor="middle" x="281.44" y="-844.24" font-family="Georgia" font-size="9.00">transmission</text>
+<text text-anchor="middle" x="281.44" y="-833.44" font-family="Georgia" font-size="9.00">médiévale</text>
+</g>
+<!-- Wiederholung -->
+<g id="node3" class="node">
+<title>Wiederholung</title>
+<ellipse fill="#764ba2" stroke="black" cx="373.45" cy="-149.46" rx="50.4" ry="50.4"/>
+<text text-anchor="middle" x="373.45" y="-158.46" font-family="Georgia" font-size="10.00" fill="white">NÉCESSITÉ DE</text>
+<text text-anchor="middle" x="373.45" y="-146.46" font-family="Georgia" font-size="10.00" fill="white">RÉPÉTITION</text>
+<text text-anchor="middle" x="373.45" y="-134.46" font-family="Georgia" font-size="10.00" fill="white">(Wiederholung)</text>
+</g>
+<!-- Elaboration -->
+<g id="node12" class="node">
+<title>Elaboration</title>
+<polygon fill="#d63031" stroke="black" points="455.05,-26.13 414.25,-52.26 332.65,-52.26 291.85,-26.13 332.65,0 414.25,0 455.05,-26.13"/>
+<text text-anchor="middle" x="373.45" y="-29.13" font-family="Georgia" font-size="10.00" fill="white">ÉLABORATION</text>
+<text text-anchor="middle" x="373.45" y="-17.13" font-family="Georgia" font-size="10.00" fill="white">DE LA QUESTION</text>
+</g>
+<!-- Wiederholung&#45;&gt;Elaboration -->
+<g id="edge13" class="edge">
+<title>Wiederholung-&gt;Elaboration</title>
+<path fill="none" stroke="#d63031" d="M373.45,-98.76C373.45,-87.13 373.45,-74.94 373.45,-63.98"/>
+<polygon fill="#d63031" stroke="#d63031" points="376.95,-64.18 373.45,-54.18 369.95,-64.18 376.95,-64.18"/>
+<text text-anchor="middle" x="383.68" y="-72.96" font-family="Georgia" font-size="9.00">exige</text>
+</g>
+<!-- Dogme -->
+<g id="node11" class="node">
+<title>Dogme</title>
+<polygon fill="#ee5a24" stroke="black" points="391.56,-429.18 353.01,-455.31 275.9,-455.31 237.34,-429.18 275.9,-403.06 353.01,-403.06 391.56,-429.18"/>
+<text text-anchor="middle" x="314.45" y="-432.18" font-family="Georgia" font-size="10.00" fill="white">DOGME</text>
+<text text-anchor="middle" x="314.45" y="-420.18" font-family="Georgia" font-size="10.00" fill="white">MÉTAPHYSIQUE</text>
+</g>
+<!-- Oubli&#45;&gt;Dogme -->
+<g id="edge3" class="edge">
+<title>Oubli-&gt;Dogme</title>
+<path fill="none" stroke="#e74c3c" d="M314.45,-501.97C314.45,-492.02 314.45,-479.1 314.45,-466.97"/>
+<polygon fill="#e74c3c" stroke="#e74c3c" points="317.95,-467.21 314.45,-457.21 310.95,-467.21 317.95,-467.21"/>
+<text text-anchor="middle" x="327.76" y="-476.01" font-family="Georgia" font-size="9.00">génère</text>
+</g>
+<!-- Transcendens -->
+<g id="node5" class="node">
+<title>Transcendens</title>
+<polygon fill="#a8e6cf" stroke="black" points="142.01,-167.46 44.89,-167.46 44.89,-131.46 142.01,-131.46 142.01,-167.46"/>
+<text text-anchor="middle" x="93.45" y="-146.46" font-family="Georgia" font-size="10.00" fill="#2c5f18">TRANSCENDENS</text>
+</g>
+<!-- Definitio -->
+<g id="node6" class="node">
+<title>Definitio</title>
+<polygon fill="#a8e6cf" stroke="black" points="305.16,-167.46 189.74,-167.46 189.74,-131.46 305.16,-131.46 305.16,-167.46"/>
+<text text-anchor="middle" x="247.45" y="-152.46" font-family="Georgia" font-size="10.00" fill="#2c5f18">DEFINITIO</text>
+<text text-anchor="middle" x="247.45" y="-140.46" font-family="Georgia" font-size="10.00" fill="#2c5f18">(per genus proximum)</text>
+</g>
+<!-- Intelligibilite -->
+<g id="node7" class="node">
+<title>Intelligibilite</title>
+<polygon fill="#a8e6cf" stroke="black" points="560.84,-167.46 462.06,-167.46 462.06,-131.46 560.84,-131.46 560.84,-167.46"/>
+<text text-anchor="middle" x="511.45" y="-152.46" font-family="Georgia" font-size="10.00" fill="#2c5f18">INTELLIGIBILITÉ</text>
+<text text-anchor="middle" x="511.45" y="-140.46" font-family="Georgia" font-size="10.00" fill="#2c5f18">COURANTE</text>
+</g>
+<!-- Prejuge1 -->
+<g id="node8" class="node">
+<title>Prejuge1</title>
+<polygon fill="#f093fb" stroke="black" points="93.45,-356.26 0,-312.26 93.45,-268.26 186.9,-312.26 93.45,-356.26"/>
+<text text-anchor="middle" x="93.45" y="-321.26" font-family="Georgia" font-size="10.00" fill="white">1. GÉNÉRALITÉ</text>
+<text text-anchor="middle" x="93.45" y="-309.26" font-family="Georgia" font-size="10.00" fill="white">SUPRÊME</text>
+<text text-anchor="middle" x="93.45" y="-297.26" font-family="Georgia" font-size="10.00" fill="white">(καθόλου μάλιστα)</text>
+</g>
+<!-- Prejuge1&#45;&gt;Wiederholung -->
+<g id="edge10" class="edge">
+<title>Prejuge1-&gt;Wiederholung</title>
+<path fill="none" stroke="#764ba2" d="M119.44,-280.07C138.84,-258.98 167.24,-232.41 198.06,-217.86 245.39,-195.51 266.77,-221.45 314.45,-199.86 319.29,-197.66 324.05,-194.96 328.64,-191.96"/>
+<polygon fill="#764ba2" stroke="#764ba2" points="330.45,-194.97 336.56,-186.32 326.38,-189.27 330.45,-194.97"/>
+<text text-anchor="middle" x="220.25" y="-231.36" font-family="Georgia" font-size="9.00">nécessitent</text>
+</g>
+<!-- Prejuge1&#45;&gt;Transcendens -->
+<g id="edge7" class="edge">
+<title>Prejuge1-&gt;Transcendens</title>
+<path fill="none" stroke="#56ab2f" d="M93.45,-267.74C93.45,-239.57 93.45,-203.7 93.45,-179.08"/>
+<polygon fill="#56ab2f" stroke="#56ab2f" points="96.95,-179.18 93.45,-169.18 89.95,-179.18 96.95,-179.18"/>
+<text text-anchor="middle" x="114.94" y="-242.16" font-family="Georgia" font-size="9.00">mais</text>
+<text text-anchor="middle" x="114.94" y="-231.36" font-family="Georgia" font-size="9.00">outrepasse</text>
+<text text-anchor="middle" x="114.94" y="-220.56" font-family="Georgia" font-size="9.00">le genre</text>
+</g>
+<!-- Prejuge2 -->
+<g id="node9" class="node">
+<title>Prejuge2</title>
+<polygon fill="#f5576c" stroke="black" points="314.45,-356.26 205.38,-312.26 314.45,-268.26 423.52,-312.26 314.45,-356.26"/>
+<text text-anchor="middle" x="314.45" y="-321.26" font-family="Georgia" font-size="10.00" fill="white">2. INDÉFINISSABLE</text>
+<text text-anchor="middle" x="314.45" y="-309.26" font-family="Georgia" font-size="10.00" fill="white">(enti non additur</text>
+<text text-anchor="middle" x="314.45" y="-297.26" font-family="Georgia" font-size="10.00" fill="white">aliqua natura)</text>
+</g>
+<!-- Prejuge2&#45;&gt;Wiederholung -->
+<g id="edge11" class="edge">
+<title>Prejuge2-&gt;Wiederholung</title>
+<path fill="none" stroke="#764ba2" d="M328.28,-273.56C335.48,-253.93 344.44,-229.53 352.47,-207.63"/>
+<polygon fill="#764ba2" stroke="#764ba2" points="355.65,-209.13 355.81,-198.54 349.08,-206.72 355.65,-209.13"/>
+<text text-anchor="middle" x="369.68" y="-231.36" font-family="Georgia" font-size="9.00">nécessitent</text>
+</g>
+<!-- Prejuge2&#45;&gt;Definitio -->
+<g id="edge8" class="edge">
+<title>Prejuge2-&gt;Definitio</title>
+<path fill="none" stroke="#56ab2f" d="M278.58,-282.54C269.39,-273.26 260.57,-262.23 255.16,-250.26 245.06,-227.88 243.76,-199.81 244.62,-179.14"/>
+<polygon fill="#56ab2f" stroke="#56ab2f" points="248.1,-179.64 245.24,-169.44 241.11,-179.2 248.1,-179.64"/>
+<text text-anchor="middle" x="293.81" y="-236.76" font-family="Georgia" font-size="9.00">échoue de la</text>
+<text text-anchor="middle" x="293.81" y="-225.96" font-family="Georgia" font-size="9.00">définition classique</text>
+</g>
+<!-- Prejuge3 -->
+<g id="node10" class="node">
+<title>Prejuge3</title>
+<polygon fill="#ff6b6b" stroke="black" points="511.45,-356.26 441.56,-312.26 511.45,-268.26 581.34,-312.26 511.45,-356.26"/>
+<text text-anchor="middle" x="511.45" y="-321.26" font-family="Georgia" font-size="10.00" fill="white">3. ÉVIDENT</text>
+<text text-anchor="middle" x="511.45" y="-309.26" font-family="Georgia" font-size="10.00" fill="white">EN SOI</text>
+<text text-anchor="middle" x="511.45" y="-297.26" font-family="Georgia" font-size="10.00" fill="white">(va de soi)</text>
+</g>
+<!-- Prejuge3&#45;&gt;Wiederholung -->
+<g id="edge12" class="edge">
+<title>Prejuge3-&gt;Wiederholung</title>
+<path fill="none" stroke="#764ba2" d="M487.41,-283.25C466.98,-259.44 437.22,-224.77 413.24,-196.82"/>
+<polygon fill="#764ba2" stroke="#764ba2" points="416.16,-194.84 406.99,-189.53 410.84,-199.4 416.16,-194.84"/>
+<text text-anchor="middle" x="481.07" y="-231.36" font-family="Georgia" font-size="9.00">nécessitent</text>
+</g>
+<!-- Prejuge3&#45;&gt;Intelligibilite -->
+<g id="edge9" class="edge">
+<title>Prejuge3-&gt;Intelligibilite</title>
+<path fill="none" stroke="#56ab2f" d="M511.45,-267.74C511.45,-239.57 511.45,-203.7 511.45,-179.08"/>
+<polygon fill="#56ab2f" stroke="#56ab2f" points="514.95,-179.18 511.45,-169.18 507.95,-179.18 514.95,-179.18"/>
+<text text-anchor="middle" x="543.06" y="-236.76" font-family="Georgia" font-size="9.00">révèle</text>
+<text text-anchor="middle" x="543.06" y="-225.96" font-family="Georgia" font-size="9.00">l'inintelligibilité</text>
+</g>
+<!-- Prejuge3&#45;&gt;Prejuge3 -->
+<g id="edge17" class="edge">
+<title>Prejuge3-&gt;Prejuge3</title>
+<path fill="none" stroke="#ff6b6b" stroke-dasharray="5,2" d="M562.03,-324.82C582.32,-325.53 599.34,-321.34 599.34,-312.26 599.34,-304.95 588.32,-300.81 573.44,-299.84"/>
+<polygon fill="#ff6b6b" stroke="#ff6b6b" points="573.59,-296.34 563.54,-299.71 573.5,-303.34 573.59,-296.34"/>
+<text text-anchor="middle" x="633.64" y="-320.36" font-family="Georgia" font-size="9.00">paradoxe :</text>
+<text text-anchor="middle" x="633.64" y="-309.56" font-family="Georgia" font-size="9.00">plus évident =</text>
+<text text-anchor="middle" x="633.64" y="-298.76" font-family="Georgia" font-size="9.00">plus énigmatique</text>
+</g>
+<!-- Dogme&#45;&gt;Prejuge1 -->
+<g id="edge4" class="edge">
+<title>Dogme-&gt;Prejuge1</title>
+<path fill="none" stroke="#f093fb" d="M271.32,-405.75C235.8,-387.28 185.27,-361.01 147.14,-341.18"/>
+<polygon fill="#f093fb" stroke="#f093fb" points="149.06,-338.23 138.58,-336.72 145.83,-344.44 149.06,-338.23"/>
+<text text-anchor="middle" x="252.23" y="-376.96" font-family="Georgia" font-size="9.00">1er préjugé</text>
+</g>
+<!-- Dogme&#45;&gt;Prejuge2 -->
+<g id="edge5" class="edge">
+<title>Dogme-&gt;Prejuge2</title>
+<path fill="none" stroke="#f5576c" d="M314.45,-402.68C314.45,-392.45 314.45,-380.25 314.45,-368.2"/>
+<polygon fill="#f5576c" stroke="#f5576c" points="317.95,-368.27 314.45,-358.27 310.95,-368.27 317.95,-368.27"/>
+<text text-anchor="middle" x="341.31" y="-376.96" font-family="Georgia" font-size="9.00">2ème préjugé</text>
+</g>
+<!-- Dogme&#45;&gt;Prejuge3 -->
+<g id="edge6" class="edge">
+<title>Dogme-&gt;Prejuge3</title>
+<path fill="none" stroke="#ff6b6b" d="M355.27,-404.37C387.58,-385.52 432.68,-359.21 466.11,-339.71"/>
+<polygon fill="#ff6b6b" stroke="#ff6b6b" points="467.46,-342.97 474.34,-334.91 463.94,-336.92 467.46,-342.97"/>
+<text text-anchor="middle" x="427.99" y="-376.96" font-family="Georgia" font-size="9.00">3ème préjugé</text>
+</g>
+<!-- Hegel -->
+<g id="node13" class="node">
+<title>Hegel</title>
+<ellipse fill="#dddddd" stroke="black" cx="248.45" cy="-616.02" rx="64.17" ry="31.11"/>
+<text text-anchor="middle" x="248.45" y="-625.02" font-family="Georgia" font-size="10.00">HEGEL</text>
+<text text-anchor="middle" x="248.45" y="-613.02" font-family="Georgia" font-size="10.00">(être = immédiat</text>
+<text text-anchor="middle" x="248.45" y="-601.02" font-family="Georgia" font-size="10.00">indéterminé)</text>
+</g>
+<!-- Hegel&#45;&gt;Oubli -->
+<g id="edge16" class="edge">
+<title>Hegel-&gt;Oubli</title>
+<path fill="none" stroke="gray" stroke-dasharray="1,5" d="M268.79,-586.08C277.46,-573.75 287.5,-559.46 295.95,-547.43"/>
+<polygon fill="gray" stroke="gray" points="298.58,-549.78 301.47,-539.59 292.85,-545.76 298.58,-549.78"/>
+<text text-anchor="middle" x="306.56" y="-558.81" font-family="Georgia" font-size="9.00">trivialisé</text>
+</g>
+<!-- ThomasAquin&#45;&gt;Hegel -->
+<g id="edge15" class="edge">
+<title>ThomasAquin-&gt;Hegel</title>
+<path fill="none" stroke="gray" stroke-dasharray="1,5" d="M242.54,-735.75C243.56,-715.27 245.11,-684.18 246.37,-658.95"/>
+<polygon fill="gray" stroke="gray" points="249.86,-659.14 246.86,-648.98 242.87,-658.8 249.86,-659.14"/>
+<text text-anchor="middle" x="276.53" y="-678.64" font-family="Georgia" font-size="9.00">développement</text>
+<text text-anchor="middle" x="276.53" y="-667.84" font-family="Georgia" font-size="9.00">moderne</text>
+</g>
+</g>
+</svg>

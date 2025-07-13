@@ -1,0 +1,477 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2207pt" height="1509pt" viewBox="0.00 0.00 2206.99 1509.25">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1505.25)">
+<title>AppartenanceMonde</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-1505.25 2202.99,-1505.25 2202.99,4 -4,4"/>
+<text text-anchor="middle" x="1099.5" y="-1486.45" font-family="Georgia" font-size="12.00">§16 - La modalité d'appartenance au monde</text>
+<text text-anchor="middle" x="1099.5" y="-1472.05" font-family="Georgia" font-size="12.00">(Comment le monde 'filtre' à travers l'étant défaillant)</text>
+<g id="clust5" class="cluster">
+<title>cluster_monde_revele</title>
+<polygon fill="#f8f9fa" stroke="#f97316" stroke-dasharray="5,2" points="143.13,-241.8 143.13,-656.84 302.13,-656.84 302.13,-241.8 143.13,-241.8"/>
+<text text-anchor="middle" x="222.63" y="-642.04" font-family="Georgia" font-size="12.00" fill="#f97316">RÉVÉLATION DU MONDE</text>
+</g>
+<g id="clust6" class="cluster">
+<title>cluster_ensoi</title>
+<polygon fill="#f8f9fa" stroke="#ec4899" stroke-dasharray="5,2" points="1789.13,-777.07 1789.13,-1394.05 1945.13,-1394.05 1945.13,-777.07 1789.13,-777.07"/>
+<text text-anchor="middle" x="1867.13" y="-1379.25" font-family="Georgia" font-size="12.00" fill="#ec4899">ÊTRE-EN-SOI (NORMAL)</text>
+</g>
+<!-- Welt -->
+<g id="node1" class="node">
+<title>Welt</title>
+<polygon fill="#f59e0b" stroke="black" points="324.26,-1346.65 200.4,-1346.65 162.13,-1464.45 123.85,-1346.65 0,-1346.65 100.2,-1273.85 61.93,-1156.06 162.13,-1228.86 262.33,-1156.06 224.06,-1273.85 324.26,-1346.65"/>
+<text text-anchor="middle" x="162.13" y="-1334.55" font-family="Georgia" font-size="9.00" fill="white">MONDE</text>
+<text text-anchor="middle" x="162.13" y="-1323.75" font-family="Georgia" font-size="9.00" fill="white">(Welt)</text>
+<text text-anchor="middle" x="162.13" y="-1312.95" font-family="Georgia" font-size="9.00" fill="white">n'est pas étant</text>
+<text text-anchor="middle" x="162.13" y="-1302.15" font-family="Georgia" font-size="9.00" fill="white">mais détermine</text>
+<text text-anchor="middle" x="162.13" y="-1291.35" font-family="Georgia" font-size="9.00" fill="white">l'étant intramondain</text>
+<text text-anchor="middle" x="162.13" y="-1280.55" font-family="Georgia" font-size="9.00" fill="white">'filtre' à travers</text>
+</g>
+<!-- Verweisung -->
+<g id="node8" class="node">
+<title>Verweisung</title>
+<ellipse fill="#3b82f6" stroke="black" cx="242.13" cy="-1042.48" rx="67.98" ry="67.98"/>
+<text text-anchor="middle" x="242.13" y="-1061.38" font-family="Georgia" font-size="9.00" fill="white">RENVOI</text>
+<text text-anchor="middle" x="242.13" y="-1050.58" font-family="Georgia" font-size="9.00" fill="white">(Verweisung)</text>
+<text text-anchor="middle" x="242.13" y="-1039.78" font-family="Georgia" font-size="9.00" fill="white">structure d'être</text>
+<text text-anchor="middle" x="242.13" y="-1028.98" font-family="Georgia" font-size="9.00" fill="white">de l'utilisable</text>
+<text text-anchor="middle" x="242.13" y="-1018.18" font-family="Georgia" font-size="9.00" fill="white">fait-pour → destination</text>
+</g>
+<!-- Welt&#45;&gt;Verweisung -->
+<g id="edge22" class="edge">
+<title>Welt-&gt;Verweisung</title>
+<path fill="none" stroke="#f59e0b" stroke-width="2" d="M193.29,-1205.74C202.16,-1176.27 211.64,-1144.78 219.86,-1117.45"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" stroke-width="2" points="222.17,-1118.28 221.84,-1110.87 217.48,-1116.87 222.17,-1118.28"/>
+<text text-anchor="middle" x="240.56" y="-1130.86" font-family="Georgia" font-size="8.00">détermine via</text>
+</g>
+<!-- Aufleuchten -->
+<g id="node14" class="node">
+<title>Aufleuchten</title>
+<ellipse fill="#f97316" stroke="black" cx="224.13" cy="-560.2" rx="69.82" ry="43.84"/>
+<text text-anchor="middle" x="224.13" y="-579.1" font-family="Georgia" font-size="9.00" fill="white">LUEUR</text>
+<text text-anchor="middle" x="224.13" y="-568.3" font-family="Georgia" font-size="9.00" fill="white">(Aufleuchten)</text>
+<text text-anchor="middle" x="224.13" y="-557.5" font-family="Georgia" font-size="9.00" fill="white">du monde</text>
+<text text-anchor="middle" x="224.13" y="-546.7" font-family="Georgia" font-size="9.00" fill="white">commence à poindre</text>
+<text text-anchor="middle" x="224.13" y="-535.9" font-family="Georgia" font-size="9.00" fill="white">filtre à travers</text>
+</g>
+<!-- Welt&#45;&gt;Aufleuchten -->
+<g id="edge23" class="edge">
+<title>Welt-&gt;Aufleuchten</title>
+<path fill="none" stroke="#f59e0b" d="M152.9,-1221.55C142.55,-1100.92 131.8,-877.67 170.13,-692.44 176.01,-664.03 187.9,-633.99 199.04,-609.83"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="201.22,-610.95 201.97,-603.57 196.78,-608.87 201.22,-610.95"/>
+<text text-anchor="middle" x="166.23" y="-949.3" font-family="Georgia" font-size="8.00">filtre comme</text>
+</g>
+<!-- Auffallig -->
+<g id="node2" class="node">
+<title>Auffallig</title>
+<polygon fill="#dc2626" stroke="black" points="1191.79,-1042.48 1150.46,-1101.92 1067.8,-1101.92 1026.47,-1042.48 1067.8,-983.04 1150.46,-983.04 1191.79,-1042.48"/>
+<text text-anchor="middle" x="1109.13" y="-1066.78" font-family="Georgia" font-size="9.00" fill="white">SURPRENANT</text>
+<text text-anchor="middle" x="1109.13" y="-1055.98" font-family="Georgia" font-size="9.00" fill="white">(Auffällig)</text>
+<text text-anchor="middle" x="1109.13" y="-1045.18" font-family="Georgia" font-size="9.00" fill="white">outil endommagé</text>
+<text text-anchor="middle" x="1109.13" y="-1034.38" font-family="Georgia" font-size="9.00" fill="white">matériau inapproprié</text>
+<text text-anchor="middle" x="1109.13" y="-1023.58" font-family="Georgia" font-size="9.00" fill="white">ne répond plus</text>
+<text text-anchor="middle" x="1109.13" y="-1012.78" font-family="Georgia" font-size="9.00" fill="white">à l'emploi</text>
+</g>
+<!-- Vorhanden -->
+<g id="node5" class="node">
+<title>Vorhanden</title>
+<polygon fill="#7c3aed" stroke="black" points="921.13,-883.47 829.39,-810.67 921.13,-737.87 1012.87,-810.67 921.13,-883.47"/>
+<text text-anchor="middle" x="921.13" y="-834.97" font-family="Georgia" font-size="9.00" fill="white">ÊTRE-LÀ-DEVANT</text>
+<text text-anchor="middle" x="921.13" y="-824.17" font-family="Georgia" font-size="9.00" fill="white">(Vorhandenheit)</text>
+<text text-anchor="middle" x="921.13" y="-813.37" font-family="Georgia" font-size="9.00" fill="white">émerge à même</text>
+<text text-anchor="middle" x="921.13" y="-802.57" font-family="Georgia" font-size="9.00" fill="white">l'utilisable</text>
+<text text-anchor="middle" x="921.13" y="-791.77" font-family="Georgia" font-size="9.00" fill="white">mais reste lié</text>
+<text text-anchor="middle" x="921.13" y="-780.97" font-family="Georgia" font-size="9.00" fill="white">à l'utilisabilité</text>
+</g>
+<!-- Auffallig&#45;&gt;Vorhanden -->
+<g id="edge1" class="edge">
+<title>Auffallig-&gt;Vorhanden</title>
+<path fill="none" stroke="#dc2626" d="M1055.58,-1000.07C1040.35,-986.99 1024.34,-971.91 1011.19,-956.5 988.7,-930.13 967.95,-897.6 952.05,-870.06"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="954.25,-868.98 948.66,-864.11 950,-871.41 954.25,-868.98"/>
+<text text-anchor="middle" x="1032.66" y="-949.3" font-family="Georgia" font-size="8.00">fait émerger</text>
+</g>
+<!-- Unzuhandenheit -->
+<g id="node6" class="node">
+<title>Unzuhandenheit</title>
+<polygon fill="#5b21b6" stroke="black" points="1121.13,-872.67 1030.57,-810.67 1121.13,-748.67 1211.69,-810.67 1121.13,-872.67"/>
+<text text-anchor="middle" x="1121.13" y="-829.57" font-family="Georgia" font-size="9.00" fill="white">INUTILISABILITÉ</text>
+<text text-anchor="middle" x="1121.13" y="-818.77" font-family="Georgia" font-size="9.00" fill="white">(Unzuhandenheit)</text>
+<text text-anchor="middle" x="1121.13" y="-807.97" font-family="Georgia" font-size="9.00" fill="white">utilisable se fait</text>
+<text text-anchor="middle" x="1121.13" y="-797.17" font-family="Georgia" font-size="9.00" fill="white">remarquer</text>
+<text text-anchor="middle" x="1121.13" y="-786.37" font-family="Georgia" font-size="9.00" fill="white">par défaillance</text>
+</g>
+<!-- Auffallig&#45;&gt;Unzuhandenheit -->
+<g id="edge4" class="edge">
+<title>Auffallig-&gt;Unzuhandenheit</title>
+<path fill="none" stroke="#5b21b6" d="M1117.69,-982.6C1118.69,-973.87 1119.55,-964.96 1120.13,-956.5 1121.8,-931.82 1122.34,-904.71 1122.36,-880.69"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="1124.81,-880.84 1122.35,-873.85 1119.91,-880.85 1124.81,-880.84"/>
+<text text-anchor="middle" x="1131.18" y="-949.3" font-family="Georgia" font-size="8.00">révèle</text>
+</g>
+<!-- Aufdringlich -->
+<g id="node3" class="node">
+<title>Aufdringlich</title>
+<polygon fill="#b91c1c" stroke="black" points="1529.75,-1042.48 1486.94,-1101.92 1401.31,-1101.92 1358.5,-1042.48 1401.31,-983.04 1486.94,-983.04 1529.75,-1042.48"/>
+<text text-anchor="middle" x="1444.13" y="-1066.78" font-family="Georgia" font-size="9.00" fill="white">IMPORTUN</text>
+<text text-anchor="middle" x="1444.13" y="-1055.98" font-family="Georgia" font-size="9.00" fill="white">(Aufdringlich)</text>
+<text text-anchor="middle" x="1444.13" y="-1045.18" font-family="Georgia" font-size="9.00" fill="white">quelque chose</text>
+<text text-anchor="middle" x="1444.13" y="-1034.38" font-family="Georgia" font-size="9.00" fill="white">manque</text>
+<text text-anchor="middle" x="1444.13" y="-1023.58" font-family="Georgia" font-size="9.00" fill="white">'pas moyen de</text>
+<text text-anchor="middle" x="1444.13" y="-1012.78" font-family="Georgia" font-size="9.00" fill="white">mettre la main dessus'</text>
+</g>
+<!-- Aufdringlich&#45;&gt;Vorhanden -->
+<g id="edge2" class="edge">
+<title>Aufdringlich-&gt;Vorhanden</title>
+<path fill="none" stroke="#b91c1c" d="M1374.53,-1019.72C1326.25,-1005.26 1260.26,-986.76 1201.13,-974.5 1144.9,-962.85 1127.81,-974.21 1073.19,-956.5 1070.08,-955.49 1023.68,-930.95 1021.13,-928.9 998.15,-910.47 976.44,-886.21 959.16,-864.54"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="961.13,-863.08 954.87,-859.1 957.28,-866.11 961.13,-863.08"/>
+<text text-anchor="middle" x="1094.66" y="-949.3" font-family="Georgia" font-size="8.00">fait émerger</text>
+</g>
+<!-- Aufdringlich&#45;&gt;Unzuhandenheit -->
+<g id="edge5" class="edge">
+<title>Aufdringlich-&gt;Unzuhandenheit</title>
+<path fill="none" stroke="#5b21b6" d="M1381.52,-1010.46C1341.63,-989.56 1289.65,-960.18 1247.13,-928.9 1216.95,-906.7 1186.11,-878.13 1162.5,-854.75"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="1164.41,-853.2 1157.73,-849.99 1160.95,-856.67 1164.41,-853.2"/>
+<text text-anchor="middle" x="1293.43" y="-949.3" font-family="Georgia" font-size="8.00">révèle</text>
+</g>
+<!-- Leere -->
+<g id="node12" class="node">
+<title>Leere</title>
+<polygon fill="#10b981" stroke="black" points="1552.13,-913.63 1434.75,-759.19 1669.51,-759.19 1552.13,-913.63"/>
+<text text-anchor="middle" x="1552.13" y="-834.97" font-family="Georgia" font-size="9.00" fill="white">VIDE</text>
+<text text-anchor="middle" x="1552.13" y="-824.17" font-family="Georgia" font-size="9.00" fill="white">(Leere)</text>
+<text text-anchor="middle" x="1552.13" y="-813.37" font-family="Georgia" font-size="9.00" fill="white">discernation</text>
+<text text-anchor="middle" x="1552.13" y="-802.57" font-family="Georgia" font-size="9.00" fill="white">se heurte au vide</text>
+<text text-anchor="middle" x="1552.13" y="-791.77" font-family="Georgia" font-size="9.00" fill="white">quand quelque</text>
+<text text-anchor="middle" x="1552.13" y="-780.97" font-family="Georgia" font-size="9.00" fill="white">chose manque</text>
+</g>
+<!-- Aufdringlich&#45;&gt;Leere -->
+<g id="edge11" class="edge">
+<title>Aufdringlich-&gt;Leere</title>
+<path fill="none" stroke="#10b981" d="M1471.8,-982.6C1486.15,-952.06 1503.78,-914.54 1518.87,-882.44"/>
+<polygon fill="#10b981" stroke="#10b981" points="1521.04,-883.58 1521.8,-876.2 1516.61,-881.5 1521.04,-883.58"/>
+<text text-anchor="middle" x="1505.25" y="-949.3" font-family="Georgia" font-size="8.00">heurte au</text>
+</g>
+<!-- Paradoxe -->
+<g id="node24" class="node">
+<title>Paradoxe</title>
+<polygon fill="#fecaca" stroke="black" stroke-dasharray="5,2" points="1775.02,-847.07 1687.24,-847.07 1687.24,-774.27 1781.02,-774.27 1781.02,-841.07 1775.02,-847.07"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1775.02,-847.07 1775.02,-841.07"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1781.02,-841.07 1775.02,-841.07"/>
+<text text-anchor="middle" x="1734.13" y="-834.97" font-family="Georgia" font-size="9.00" fill="#7f1d1d">PARADOXE :</text>
+<text text-anchor="middle" x="1734.13" y="-824.17" font-family="Georgia" font-size="9.00" fill="#7f1d1d">Plus ce qui manque</text>
+<text text-anchor="middle" x="1734.13" y="-813.37" font-family="Georgia" font-size="9.00" fill="#7f1d1d">est urgent, plus</text>
+<text text-anchor="middle" x="1734.13" y="-802.57" font-family="Georgia" font-size="9.00" fill="#7f1d1d">l'utilisable devient</text>
+<text text-anchor="middle" x="1734.13" y="-791.77" font-family="Georgia" font-size="9.00" fill="#7f1d1d">importun et semble</text>
+<text text-anchor="middle" x="1734.13" y="-780.97" font-family="Georgia" font-size="9.00" fill="#7f1d1d">perdre utilisabilité</text>
+</g>
+<!-- Aufdringlich&#45;&gt;Paradoxe -->
+<!-- Aufsassig -->
+<g id="node4" class="node">
+<title>Aufsassig</title>
+<polygon fill="#991b1b" stroke="black" points="991.55,-1042.48 954.34,-1101.92 879.92,-1101.92 842.71,-1042.48 879.92,-983.04 954.34,-983.04 991.55,-1042.48"/>
+<text text-anchor="middle" x="917.13" y="-1066.78" font-family="Georgia" font-size="9.00" fill="white">RÉCALCITRANT</text>
+<text text-anchor="middle" x="917.13" y="-1055.98" font-family="Georgia" font-size="9.00" fill="white">(Aufsässig)</text>
+<text text-anchor="middle" x="917.13" y="-1045.18" font-family="Georgia" font-size="9.00" fill="white">se met 'en travers</text>
+<text text-anchor="middle" x="917.13" y="-1034.38" font-family="Georgia" font-size="9.00" fill="white">de la route'</text>
+<text text-anchor="middle" x="917.13" y="-1023.58" font-family="Georgia" font-size="9.00" fill="white">pas à sa place</text>
+<text text-anchor="middle" x="917.13" y="-1012.78" font-family="Georgia" font-size="9.00" fill="white">reste en souffrance</text>
+</g>
+<!-- Aufsassig&#45;&gt;Vorhanden -->
+<g id="edge3" class="edge">
+<title>Aufsassig-&gt;Vorhanden</title>
+<path fill="none" stroke="#991b1b" d="M904.64,-982.71C903.21,-973.96 901.98,-965.02 901.19,-956.5 898.89,-931.75 901.27,-904.73 905.08,-880.81"/>
+<polygon fill="#991b1b" stroke="#991b1b" points="907.49,-881.29 906.23,-873.98 902.65,-880.48 907.49,-881.29"/>
+<text text-anchor="middle" x="922.66" y="-949.3" font-family="Georgia" font-size="8.00">fait émerger</text>
+</g>
+<!-- Aufsassig&#45;&gt;Unzuhandenheit -->
+<g id="edge6" class="edge">
+<title>Aufsassig-&gt;Unzuhandenheit</title>
+<path fill="none" stroke="#5b21b6" d="M948.56,-982.65C957.46,-969.68 968.03,-956.86 980,-946.9 995.65,-933.88 1005.76,-941 1022.13,-928.9 1047.47,-910.16 1070.54,-883.7 1088.02,-860.66"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="1089.9,-862.24 1092.12,-855.16 1085.97,-859.31 1089.9,-862.24"/>
+<text text-anchor="middle" x="990.57" y="-949.3" font-family="Georgia" font-size="8.00">révèle</text>
+</g>
+<!-- Fatras -->
+<g id="node7" class="node">
+<title>Fatras</title>
+<polygon fill="#4c1d95" stroke="black" points="1336.13,-872.67 1255.65,-810.67 1336.13,-748.67 1416.6,-810.67 1336.13,-872.67"/>
+<text text-anchor="middle" x="1336.13" y="-829.57" font-family="Georgia" font-size="9.00" fill="white">'FATRAS'</text>
+<text text-anchor="middle" x="1336.13" y="-818.77" font-family="Georgia" font-size="9.00" fill="white">(Gerümpel)</text>
+<text text-anchor="middle" x="1336.13" y="-807.97" font-family="Georgia" font-size="9.00" fill="white">on aimerait</text>
+<text text-anchor="middle" x="1336.13" y="-797.17" font-family="Georgia" font-size="9.00" fill="white">s'en débarrasser</text>
+<text text-anchor="middle" x="1336.13" y="-786.37" font-family="Georgia" font-size="9.00" fill="white">mais persiste</text>
+</g>
+<!-- Unzuhandenheit&#45;&gt;Fatras -->
+<g id="edge7" class="edge">
+<title>Unzuhandenheit-&gt;Fatras</title>
+<path fill="none" stroke="#4c1d95" d="M1212.31,-810.67C1223.73,-810.67 1235.4,-810.67 1246.79,-810.67"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="1246.51,-813.12 1253.51,-810.67 1246.51,-808.22 1246.51,-813.12"/>
+<text text-anchor="middle" x="1233.67" y="-816.07" font-family="Georgia" font-size="8.00">devient</text>
+</g>
+<!-- Storung -->
+<g id="node9" class="node">
+<title>Storung</title>
+<ellipse fill="#1e40af" stroke="black" cx="236.13" cy="-810.67" rx="57.03" ry="57.03"/>
+<text text-anchor="middle" x="236.13" y="-829.57" font-family="Georgia" font-size="9.00" fill="white">DÉRANGEMENT</text>
+<text text-anchor="middle" x="236.13" y="-818.77" font-family="Georgia" font-size="9.00" fill="white">(Störung)</text>
+<text text-anchor="middle" x="236.13" y="-807.97" font-family="Georgia" font-size="9.00" fill="white">renvoi constitutif</text>
+<text text-anchor="middle" x="236.13" y="-797.17" font-family="Georgia" font-size="9.00" fill="white">du fait-pour</text>
+<text text-anchor="middle" x="236.13" y="-786.37" font-family="Georgia" font-size="9.00" fill="white">est dérangé</text>
+</g>
+<!-- Verweisung&#45;&gt;Storung -->
+<g id="edge8" class="edge">
+<title>Verweisung-&gt;Storung</title>
+<path fill="none" stroke="#1e40af" d="M240.37,-974.08C239.56,-943.21 238.61,-906.79 237.81,-876.27"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="240.27,-876.27 237.63,-869.34 235.37,-876.4 240.27,-876.27"/>
+<text text-anchor="middle" x="255.59" y="-949.3" font-family="Georgia" font-size="8.00">peut être</text>
+</g>
+<!-- ExplizitWerden -->
+<g id="node10" class="node">
+<title>ExplizitWerden</title>
+<ellipse fill="#1d4ed8" stroke="black" cx="403.13" cy="-1042.48" rx="67.27" ry="67.27"/>
+<text text-anchor="middle" x="403.13" y="-1061.38" font-family="Georgia" font-size="9.00" fill="white">DEVIENT EXPLICITE</text>
+<text text-anchor="middle" x="403.13" y="-1050.58" font-family="Georgia" font-size="9.00" fill="white">(explizit werden)</text>
+<text text-anchor="middle" x="403.13" y="-1039.78" font-family="Georgia" font-size="9.00" fill="white">renvoi révélé</text>
+<text text-anchor="middle" x="403.13" y="-1028.98" font-family="Georgia" font-size="9.00" fill="white">par dérangement</text>
+<text text-anchor="middle" x="403.13" y="-1018.18" font-family="Georgia" font-size="9.00" fill="white">ontiquement</text>
+</g>
+<!-- Storung&#45;&gt;ExplizitWerden -->
+<g id="edge9" class="edge">
+<title>Storung-&gt;ExplizitWerden</title>
+<path fill="none" stroke="#1d4ed8" d="M261.44,-862.19C272.87,-883.44 287.16,-908.02 302.13,-928.9 316.63,-949.13 334.24,-969.81 350.67,-987.84"/>
+<polygon fill="#1d4ed8" stroke="#1d4ed8" points="348.62,-989.23 355.16,-992.73 352.23,-985.92 348.62,-989.23"/>
+<text text-anchor="middle" x="333.57" y="-949.3" font-family="Georgia" font-size="8.00">renvoi</text>
+</g>
+<!-- Umsicht -->
+<g id="node11" class="node">
+<title>Umsicht</title>
+<polygon fill="#059669" stroke="black" points="684.13,-928.9 556.53,-751.56 811.73,-751.56 684.13,-928.9"/>
+<text text-anchor="middle" x="684.13" y="-840.37" font-family="Georgia" font-size="9.00" fill="white">DISCERNATION</text>
+<text text-anchor="middle" x="684.13" y="-829.57" font-family="Georgia" font-size="9.00" fill="white">(Umsicht)</text>
+<text text-anchor="middle" x="684.13" y="-818.77" font-family="Georgia" font-size="9.00" fill="white">se heurte à</text>
+<text text-anchor="middle" x="684.13" y="-807.97" font-family="Georgia" font-size="9.00" fill="white">l'endommagement</text>
+<text text-anchor="middle" x="684.13" y="-797.17" font-family="Georgia" font-size="9.00" fill="white">voit pour quoi</text>
+<text text-anchor="middle" x="684.13" y="-786.37" font-family="Georgia" font-size="9.00" fill="white">quelque chose</text>
+<text text-anchor="middle" x="684.13" y="-775.57" font-family="Georgia" font-size="9.00" fill="white">était utilisable</text>
+</g>
+<!-- Storung&#45;&gt;Umsicht -->
+<g id="edge10" class="edge">
+<title>Storung-&gt;Umsicht</title>
+<path fill="none" stroke="#059669" d="M252.8,-865.44C263.03,-889.23 278.77,-914.82 302.13,-928.9 383.23,-977.79 420.65,-938.84 515.17,-933 529.9,-932.08 534.65,-934.91 548.13,-928.9 578.95,-915.15 607.94,-892 631.17,-869.81"/>
+<polygon fill="#059669" stroke="#059669" points="632.86,-871.58 636.17,-864.95 629.45,-868.07 632.86,-871.58"/>
+<text text-anchor="middle" x="496.13" y="-949.3" font-family="Georgia" font-size="8.00">se heurte à</text>
+</g>
+<!-- Ganze -->
+<g id="node13" class="node">
+<title>Ganze</title>
+<polygon fill="#34d399" stroke="black" points="425.13,-898.35 311.34,-766.83 538.92,-766.83 425.13,-898.35"/>
+<text text-anchor="middle" x="425.13" y="-829.57" font-family="Georgia" font-size="9.00" fill="#1f2937">TOUT</text>
+<text text-anchor="middle" x="425.13" y="-818.77" font-family="Georgia" font-size="9.00" fill="#1f2937">(Ganze)</text>
+<text text-anchor="middle" x="425.13" y="-807.97" font-family="Georgia" font-size="9.00" fill="#1f2937">ensemble d'utils</text>
+<text text-anchor="middle" x="425.13" y="-797.17" font-family="Georgia" font-size="9.00" fill="#1f2937">s'éclaire</text>
+<text text-anchor="middle" x="425.13" y="-786.37" font-family="Georgia" font-size="9.00" fill="#1f2937">dans son tout</text>
+</g>
+<!-- ExplizitWerden&#45;&gt;Ganze -->
+<g id="edge12" class="edge">
+<title>ExplizitWerden-&gt;Ganze</title>
+<path fill="none" stroke="#34d399" d="M409.49,-975.01C411.78,-951.09 414.4,-923.74 416.83,-898.34"/>
+<polygon fill="#34d399" stroke="#34d399" points="419.24,-898.88 417.47,-891.68 414.36,-898.42 419.24,-898.88"/>
+<text text-anchor="middle" x="423.81" y="-949.3" font-family="Georgia" font-size="8.00">éclaire</text>
+</g>
+<!-- Ganze&#45;&gt;Aufleuchten -->
+<g id="edge13" class="edge">
+<title>Ganze-&gt;Aufleuchten</title>
+<path fill="none" stroke="#f97316" d="M390.12,-766.39C353.77,-721.47 297.2,-651.53 260.4,-606.04"/>
+<polygon fill="#f97316" stroke="#f97316" points="262.37,-604.59 256.07,-600.68 258.56,-607.67 262.37,-604.59"/>
+<text text-anchor="middle" x="324.87" y="-667.24" font-family="Georgia" font-size="8.00">monde</text>
+</g>
+<!-- VorEntdeckt -->
+<g id="node15" class="node">
+<title>VorEntdeckt</title>
+<ellipse fill="#ea580c" stroke="black" cx="227.13" cy="-426.92" rx="63.38" ry="43.84"/>
+<text text-anchor="middle" x="227.13" y="-445.82" font-family="Georgia" font-size="9.00" fill="white">PRÉ-DÉCOUVERT</text>
+<text text-anchor="middle" x="227.13" y="-435.02" font-family="Georgia" font-size="9.00" fill="white">(vor-entdeckt)</text>
+<text text-anchor="middle" x="227.13" y="-424.22" font-family="Georgia" font-size="9.00" fill="white">monde toujours</text>
+<text text-anchor="middle" x="227.13" y="-413.42" font-family="Georgia" font-size="9.00" fill="white">déjà découvert</text>
+<text text-anchor="middle" x="227.13" y="-402.62" font-family="Georgia" font-size="9.00" fill="white">pour discernation</text>
+</g>
+<!-- Aufleuchten&#45;&gt;VorEntdeckt -->
+<g id="edge14" class="edge">
+<title>Aufleuchten-&gt;VorEntdeckt</title>
+<path fill="none" stroke="#ea580c" d="M225.11,-516.22C225.38,-504.43 225.67,-491.53 225.95,-479.32"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="228.4,-479.57 226.11,-472.52 223.5,-479.46 228.4,-479.57"/>
+<text text-anchor="middle" x="248.84" y="-491.16" font-family="Georgia" font-size="8.00">toujours déjà</text>
+</g>
+<!-- Entweltlichung -->
+<g id="node22" class="node">
+<title>Entweltlichung</title>
+<polygon fill="#9ca3af" stroke="black" points="410.53,-457.92 309.73,-457.92 309.73,-395.92 410.53,-395.92 410.53,-457.92"/>
+<text text-anchor="middle" x="360.13" y="-445.82" font-family="Georgia" font-size="9.00" fill="white">IMMONDATION</text>
+<text text-anchor="middle" x="360.13" y="-435.02" font-family="Georgia" font-size="9.00" fill="white">(Entweltlichung)</text>
+<text text-anchor="middle" x="360.13" y="-424.22" font-family="Georgia" font-size="9.00" fill="white">quand monde filtre</text>
+<text text-anchor="middle" x="360.13" y="-413.42" font-family="Georgia" font-size="9.00" fill="white">être-là-devant</text>
+<text text-anchor="middle" x="360.13" y="-402.62" font-family="Georgia" font-size="9.00" fill="white">affleure</text>
+</g>
+<!-- Aufleuchten&#45;&gt;Entweltlichung -->
+<g id="edge20" class="edge">
+<title>Aufleuchten-&gt;Entweltlichung</title>
+<path fill="none" stroke="#9ca3af" d="M261.65,-522.98C280.75,-504.55 303.88,-482.21 322.93,-463.83"/>
+<polygon fill="#9ca3af" stroke="#9ca3af" points="324.28,-465.93 327.62,-459.31 320.88,-462.4 324.28,-465.93"/>
+<text text-anchor="middle" x="311.76" y="-491.16" font-family="Georgia" font-size="8.00">entraîne</text>
+</g>
+<!-- Erschlossen -->
+<g id="node16" class="node">
+<title>Erschlossen</title>
+<ellipse fill="#c2410c" stroke="black" cx="227.13" cy="-293.64" rx="49.59" ry="43.84"/>
+<text text-anchor="middle" x="227.13" y="-312.54" font-family="Georgia" font-size="9.00" fill="white">DÉCOUVERT</text>
+<text text-anchor="middle" x="227.13" y="-301.74" font-family="Georgia" font-size="9.00" fill="white">(erschlossen)</text>
+<text text-anchor="middle" x="227.13" y="-290.94" font-family="Georgia" font-size="9.00" fill="white">≠ inférer</text>
+<text text-anchor="middle" x="227.13" y="-280.14" font-family="Georgia" font-size="9.00" fill="white">= déclore</text>
+<text text-anchor="middle" x="227.13" y="-269.34" font-family="Georgia" font-size="9.00" fill="white">ouvertude</text>
+</g>
+<!-- VorEntdeckt&#45;&gt;Erschlossen -->
+<g id="edge15" class="edge">
+<title>VorEntdeckt-&gt;Erschlossen</title>
+<path fill="none" stroke="#c2410c" d="M227.13,-382.94C227.13,-371.15 227.13,-358.25 227.13,-346.04"/>
+<polygon fill="#c2410c" stroke="#c2410c" points="229.58,-346.24 227.13,-339.24 224.68,-346.24 229.58,-346.24"/>
+<text text-anchor="middle" x="244.57" y="-357.88" font-family="Georgia" font-size="8.00">découvert</text>
+</g>
+<!-- Vertrautheit -->
+<g id="node20" class="node">
+<title>Vertrautheit</title>
+<polygon fill="#fef3c7" stroke="black" points="397.93,-324.64 310.33,-324.64 310.33,-262.64 403.93,-262.64 403.93,-318.64 397.93,-324.64"/>
+<polyline fill="none" stroke="black" points="397.93,-324.64 397.93,-318.64"/>
+<polyline fill="none" stroke="black" points="403.93,-318.64 397.93,-318.64"/>
+<text text-anchor="middle" x="357.13" y="-312.54" font-family="Georgia" font-size="9.00" fill="#92400e">FAMILIARITÉ</text>
+<text text-anchor="middle" x="357.13" y="-301.74" font-family="Georgia" font-size="9.00" fill="#92400e">(Vertrautheit)</text>
+<text text-anchor="middle" x="357.13" y="-290.94" font-family="Georgia" font-size="9.00" fill="#92400e">avec le monde</text>
+<text text-anchor="middle" x="357.13" y="-280.14" font-family="Georgia" font-size="9.00" fill="#92400e">base de la</text>
+<text text-anchor="middle" x="357.13" y="-269.34" font-family="Georgia" font-size="9.00" fill="#92400e">préoccupation</text>
+</g>
+<!-- VorEntdeckt&#45;&gt;Vertrautheit -->
+<g id="edge18" class="edge">
+<title>VorEntdeckt-&gt;Vertrautheit</title>
+<path fill="none" stroke="#fef3c7" d="M262.31,-390.4C280.71,-371.81 303.18,-349.12 321.62,-330.5"/>
+<polygon fill="#fef3c7" stroke="#fef3c7" points="322.96,-332.63 326.15,-325.93 319.48,-329.18 322.96,-332.63"/>
+<text text-anchor="middle" x="314.49" y="-357.88" font-family="Georgia" font-size="8.00">familiarité</text>
+</g>
+<!-- AnSichSein -->
+<g id="node17" class="node">
+<title>AnSichSein</title>
+<polygon fill="#ec4899" stroke="black" points="1931.53,-1073.48 1830.73,-1073.48 1830.73,-1011.48 1931.53,-1011.48 1931.53,-1073.48"/>
+<text text-anchor="middle" x="1881.13" y="-1061.38" font-family="Georgia" font-size="9.00" fill="white">ÊTRE-EN-SOI</text>
+<text text-anchor="middle" x="1881.13" y="-1050.58" font-family="Georgia" font-size="9.00" fill="white">(An-sich-sein)</text>
+<text text-anchor="middle" x="1881.13" y="-1039.78" font-family="Georgia" font-size="9.00" fill="white">se tenir à sa place</text>
+<text text-anchor="middle" x="1881.13" y="-1028.98" font-family="Georgia" font-size="9.00" fill="white">neutralité</text>
+<text text-anchor="middle" x="1881.13" y="-1018.18" font-family="Georgia" font-size="9.00" fill="white">ne pas surprendre</text>
+</g>
+<!-- Platz -->
+<g id="node19" class="node">
+<title>Platz</title>
+<polygon fill="#be185d" stroke="black" points="1935.32,-836.27 1826.94,-836.27 1826.94,-785.07 1935.32,-785.07 1935.32,-836.27"/>
+<text text-anchor="middle" x="1881.13" y="-824.17" font-family="Georgia" font-size="9.00" fill="white">À SA PLACE</text>
+<text text-anchor="middle" x="1881.13" y="-813.37" font-family="Georgia" font-size="9.00" fill="white">(an seinem Platz)</text>
+<text text-anchor="middle" x="1881.13" y="-802.57" font-family="Georgia" font-size="9.00" fill="white">structure phénoménale</text>
+<text text-anchor="middle" x="1881.13" y="-791.77" font-family="Georgia" font-size="9.00" fill="white">de l'être-en-soi</text>
+</g>
+<!-- AnSichSein&#45;&gt;Platz -->
+<g id="edge17" class="edge">
+<title>AnSichSein-&gt;Platz</title>
+<path fill="none" stroke="#be185d" d="M1881.13,-1011.44C1881.13,-968.44 1881.13,-889.61 1881.13,-844.91"/>
+<polygon fill="#be185d" stroke="#be185d" points="1883.58,-844.96 1881.13,-837.96 1878.68,-844.96 1883.58,-844.96"/>
+<text text-anchor="middle" x="1901.46" y="-949.3" font-family="Georgia" font-size="8.00">= à sa place</text>
+</g>
+<!-- Unauffallig -->
+<g id="node18" class="node">
+<title>Unauffallig</title>
+<polygon fill="#db2777" stroke="black" points="1936.83,-1341.25 1825.43,-1341.25 1825.43,-1279.25 1936.83,-1279.25 1936.83,-1341.25"/>
+<text text-anchor="middle" x="1881.13" y="-1329.15" font-family="Georgia" font-size="9.00" fill="white">NE PAS SURPRENDRE</text>
+<text text-anchor="middle" x="1881.13" y="-1318.35" font-family="Georgia" font-size="9.00" fill="white">(Unauffällig)</text>
+<text text-anchor="middle" x="1881.13" y="-1307.55" font-family="Georgia" font-size="9.00" fill="white">caractère phénoménal</text>
+<text text-anchor="middle" x="1881.13" y="-1296.75" font-family="Georgia" font-size="9.00" fill="white">POSITIF</text>
+<text text-anchor="middle" x="1881.13" y="-1285.95" font-family="Georgia" font-size="9.00" fill="white">de l'utilisable</text>
+</g>
+<!-- Unauffallig&#45;&gt;AnSichSein -->
+<g id="edge16" class="edge">
+<title>Unauffallig-&gt;AnSichSein</title>
+<path fill="none" stroke="#ec4899" d="M1881.13,-1278.77C1881.13,-1230.2 1881.13,-1135.34 1881.13,-1082.1"/>
+<polygon fill="#ec4899" stroke="#ec4899" points="1883.58,-1082.13 1881.13,-1075.13 1878.68,-1082.13 1883.58,-1082.13"/>
+<text text-anchor="middle" x="1897.36" y="-1130.86" font-family="Georgia" font-size="8.00">constitue</text>
+</g>
+<!-- Bedingung -->
+<g id="node23" class="node">
+<title>Bedingung</title>
+<polygon fill="#6b7280" stroke="black" points="2046.93,-1073.48 1953.33,-1073.48 1953.33,-1011.48 2046.93,-1011.48 2046.93,-1073.48"/>
+<text text-anchor="middle" x="2000.13" y="-1061.38" font-family="Georgia" font-size="9.00" fill="white">CONDITION</text>
+<text text-anchor="middle" x="2000.13" y="-1050.58" font-family="Georgia" font-size="9.00" fill="white">(Bedingung)</text>
+<text text-anchor="middle" x="2000.13" y="-1039.78" font-family="Georgia" font-size="9.00" fill="white">que monde ne se</text>
+<text text-anchor="middle" x="2000.13" y="-1028.98" font-family="Georgia" font-size="9.00" fill="white">signale pas à</text>
+<text text-anchor="middle" x="2000.13" y="-1018.18" font-family="Georgia" font-size="9.00" fill="white">l'attention</text>
+</g>
+<!-- Unauffallig&#45;&gt;Bedingung -->
+<g id="edge21" class="edge">
+<title>Unauffallig-&gt;Bedingung</title>
+<path fill="none" stroke="#6b7280" d="M1894.78,-1278.77C1916.66,-1229.9 1959.52,-1134.17 1983.28,-1081.12"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="1985.39,-1082.38 1986.02,-1074.99 1980.92,-1080.38 1985.39,-1082.38"/>
+<text text-anchor="middle" x="1978.51" y="-1130.86" font-family="Georgia" font-size="8.00">condition</text>
+</g>
+<!-- Privatif -->
+<g id="node25" class="node">
+<title>Privatif</title>
+<polygon fill="#ecfdf5" stroke="black" points="2192.99,-1073.48 2065.26,-1073.48 2065.26,-1011.48 2198.99,-1011.48 2198.99,-1067.48 2192.99,-1073.48"/>
+<polyline fill="none" stroke="black" points="2192.99,-1073.48 2192.99,-1067.48"/>
+<polyline fill="none" stroke="black" points="2198.99,-1067.48 2192.99,-1067.48"/>
+<text text-anchor="middle" x="2132.13" y="-1061.38" font-family="Georgia" font-size="9.00" fill="#065f46">EXPRESSIONS PRIVATIVES</text>
+<text text-anchor="middle" x="2132.13" y="-1050.58" font-family="Georgia" font-size="9.00" fill="#065f46">'ne pas surprendre'</text>
+<text text-anchor="middle" x="2132.13" y="-1039.78" font-family="Georgia" font-size="9.00" fill="#065f46">'ne pas importuner'</text>
+<text text-anchor="middle" x="2132.13" y="-1028.98" font-family="Georgia" font-size="9.00" fill="#065f46">désignent caractère</text>
+<text text-anchor="middle" x="2132.13" y="-1018.18" font-family="Georgia" font-size="9.00" fill="#065f46">phénoménal POSITIF</text>
+</g>
+<!-- Unauffallig&#45;&gt;Privatif -->
+<!-- Aufgehen -->
+<g id="node21" class="node">
+<title>Aufgehen</title>
+<polygon fill="#fbbf24" stroke="black" points="314.93,-188 227.33,-188 227.33,-126 320.93,-126 320.93,-182 314.93,-188"/>
+<polyline fill="none" stroke="black" points="314.93,-188 314.93,-182"/>
+<polyline fill="none" stroke="black" points="320.93,-182 314.93,-182"/>
+<text text-anchor="middle" x="274.13" y="-175.9" font-family="Georgia" font-size="9.00" fill="#92400e">S'ABSORBER</text>
+<text text-anchor="middle" x="274.13" y="-165.1" font-family="Georgia" font-size="9.00" fill="#92400e">(Aufgehen)</text>
+<text text-anchor="middle" x="274.13" y="-154.3" font-family="Georgia" font-size="9.00" fill="#92400e">dans discernation</text>
+<text text-anchor="middle" x="274.13" y="-143.5" font-family="Georgia" font-size="9.00" fill="#92400e">des renvois</text>
+<text text-anchor="middle" x="274.13" y="-132.7" font-family="Georgia" font-size="9.00" fill="#92400e">non thématiques</text>
+</g>
+<!-- Vertrautheit&#45;&gt;Aufgehen -->
+<g id="edge19" class="edge">
+<title>Vertrautheit-&gt;Aufgehen</title>
+<path fill="none" stroke="#fbbf24" d="M338.5,-262.42C326.22,-242.5 310.05,-216.28 296.99,-195.09"/>
+<polygon fill="#fbbf24" stroke="#fbbf24" points="299.25,-194.08 293.49,-189.4 295.07,-196.65 299.25,-194.08"/>
+<text text-anchor="middle" x="336.3" y="-224.6" font-family="Georgia" font-size="8.00">s'absorber</text>
+</g>
+<!-- Questions -->
+<g id="node26" class="node">
+<title>Questions</title>
+<polygon fill="#dbeafe" stroke="black" points="456.88,-204.2 339.37,-204.2 339.37,-109.8 462.88,-109.8 462.88,-198.2 456.88,-204.2"/>
+<polyline fill="none" stroke="black" points="456.88,-204.2 456.88,-198.2"/>
+<polyline fill="none" stroke="black" points="462.88,-198.2 456.88,-198.2"/>
+<text text-anchor="middle" x="401.13" y="-192.1" font-family="Georgia" font-size="9.00" fill="#1e40af">QUESTIONS OUVERTES :</text>
+<text text-anchor="middle" x="401.13" y="-181.3" font-family="Georgia" font-size="9.00" fill="#1e40af">- Qu'est-ce avec quoi</text>
+<text text-anchor="middle" x="401.13" y="-170.5" font-family="Georgia" font-size="9.00" fill="#1e40af">Dasein est familiarisé?</text>
+<text text-anchor="middle" x="401.13" y="-159.7" font-family="Georgia" font-size="9.00" fill="#1e40af">- Pourquoi modalité</text>
+<text text-anchor="middle" x="401.13" y="-148.9" font-family="Georgia" font-size="9.00" fill="#1e40af">d'appartenance peut</text>
+<text text-anchor="middle" x="401.13" y="-138.1" font-family="Georgia" font-size="9.00" fill="#1e40af">se faire jour?</text>
+<text text-anchor="middle" x="401.13" y="-127.3" font-family="Georgia" font-size="9.00" fill="#1e40af">- Comment entendre</text>
+<text text-anchor="middle" x="401.13" y="-116.5" font-family="Georgia" font-size="9.00" fill="#1e40af">réseau de renvois?</text>
+</g>
+<!-- Vertrautheit&#45;&gt;Questions -->
+<!-- InDerWelt -->
+<g id="node27" class="node">
+<title>InDerWelt</title>
+<polygon fill="#f0fdf4" stroke="black" points="324.4,-72.8 217.86,-72.8 217.86,0 330.4,0 330.4,-66.8 324.4,-72.8"/>
+<polyline fill="none" stroke="black" points="324.4,-72.8 324.4,-66.8"/>
+<polyline fill="none" stroke="black" points="330.4,-66.8 324.4,-66.8"/>
+<text text-anchor="middle" x="274.13" y="-60.7" font-family="Georgia" font-size="9.00" fill="#15803d">ÊTRE-AU-MONDE =</text>
+<text text-anchor="middle" x="274.13" y="-49.9" font-family="Georgia" font-size="9.00" fill="#15803d">être plongé de façon</text>
+<text text-anchor="middle" x="274.13" y="-39.1" font-family="Georgia" font-size="9.00" fill="#15803d">non thématique dans</text>
+<text text-anchor="middle" x="274.13" y="-28.3" font-family="Georgia" font-size="9.00" fill="#15803d">discernation des renvois</text>
+<text text-anchor="middle" x="274.13" y="-17.5" font-family="Georgia" font-size="9.00" fill="#15803d">constitutifs de</text>
+<text text-anchor="middle" x="274.13" y="-6.7" font-family="Georgia" font-size="9.00" fill="#15803d">l'utilisabilité</text>
+</g>
+<!-- Aufgehen&#45;&gt;InDerWelt -->
+</g>
+</svg>

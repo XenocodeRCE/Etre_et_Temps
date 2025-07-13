@@ -1,0 +1,344 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1032pt" height="1041pt" viewBox="0.00 0.00 1031.98 1041.39">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1037.39)">
+<title>AnalytiqueDasein</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-1037.39 1027.98,-1037.39 1027.98,4 -4,4"/>
+<text text-anchor="middle" x="511.99" y="-1017.69" font-family="Georgia" font-size="13.00">§5 - L'analytique ontologique du Dasein (Partie 1)</text>
+<text text-anchor="middle" x="511.99" y="-1002.09" font-family="Georgia" font-size="13.00">(Difficultés et méthode d'accès)</text>
+<g id="clust3" class="cluster">
+<title>cluster_probleme</title>
+<polygon fill="#f8f9fa" stroke="#dc2626" stroke-dasharray="5,2" points="93.18,-100.05 93.18,-584.99 275.18,-584.99 275.18,-100.05 93.18,-100.05"/>
+<text text-anchor="middle" x="184.18" y="-569.29" font-family="Georgia" font-size="13.00" fill="#dc2626">DIFFICULTÉS D'ACCÈS</text>
+</g>
+<g id="clust6" class="cluster">
+<title>cluster_quotidien</title>
+<polygon fill="#f8f9fa" stroke="#7c3aed" stroke-dasharray="5,2" points="563.18,-8 563.18,-394.84 783.18,-394.84 783.18,-8 563.18,-8"/>
+<text text-anchor="middle" x="673.18" y="-379.14" font-family="Georgia" font-size="13.00" fill="#7c3aed">QUOTIDIENNETÉ COMME ACCÈS</text>
+</g>
+<!-- Zugang -->
+<g id="node1" class="node">
+<title>Zugang</title>
+<polygon fill="#dc2626" stroke="black" points="254.82,-493.87 226,-529.79 168.36,-529.79 139.54,-493.87 168.36,-457.94 226,-457.94 254.82,-493.87"/>
+<text text-anchor="middle" x="197.18" y="-502.87" font-family="Georgia" font-size="10.00" fill="white">PROBLÈME</text>
+<text text-anchor="middle" x="197.18" y="-490.87" font-family="Georgia" font-size="10.00" fill="white">D'ACCÈS</text>
+<text text-anchor="middle" x="197.18" y="-478.87" font-family="Georgia" font-size="10.00" fill="white">AU DASEIN</text>
+</g>
+<!-- Paradox -->
+<g id="node2" class="node">
+<title>Paradox</title>
+<polygon fill="#b91c1c" stroke="black" points="266.85,-308.53 225.51,-364.05 142.84,-364.05 101.51,-308.53 142.84,-253.01 225.51,-253.01 266.85,-308.53"/>
+<text text-anchor="middle" x="184.18" y="-329.53" font-family="Georgia" font-size="10.00" fill="white">PARADOXE</text>
+<text text-anchor="middle" x="184.18" y="-317.53" font-family="Georgia" font-size="10.00" fill="white">ONTIQUE :</text>
+<text text-anchor="middle" x="184.18" y="-305.53" font-family="Georgia" font-size="10.00" fill="white">plus proche</text>
+<text text-anchor="middle" x="184.18" y="-293.53" font-family="Georgia" font-size="10.00" fill="white">≠ ontologiquement</text>
+<text text-anchor="middle" x="184.18" y="-281.53" font-family="Georgia" font-size="10.00" fill="white">plus éloigné</text>
+</g>
+<!-- Zugang&#45;&gt;Paradox -->
+<g id="edge2" class="edge">
+<title>Zugang-&gt;Paradox</title>
+<path fill="none" stroke="#dc2626" d="M194.67,-457.52C192.99,-433.77 190.72,-401.79 188.72,-373.64"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="191.52,-373.55 188.17,-365.77 185.94,-373.94 191.52,-373.55"/>
+<text text-anchor="middle" x="203.34" y="-405.54" font-family="Georgia" font-size="9.00">révèle</text>
+</g>
+<!-- Ruckstrahlung -->
+<g id="node3" class="node">
+<title>Ruckstrahlung</title>
+<polygon fill="#991b1b" stroke="black" points="264.47,-153.78 224.32,-199.5 144.03,-199.5 103.88,-153.78 144.03,-108.05 224.32,-108.05 264.47,-153.78"/>
+<text text-anchor="middle" x="184.18" y="-168.78" font-family="Georgia" font-size="10.00" fill="white">RÉVERBÉRATION</text>
+<text text-anchor="middle" x="184.18" y="-156.78" font-family="Georgia" font-size="10.00" fill="white">ONTOLOGIQUE</text>
+<text text-anchor="middle" x="184.18" y="-144.78" font-family="Georgia" font-size="10.00" fill="white">(Rückstrahlung)</text>
+<text text-anchor="middle" x="184.18" y="-132.78" font-family="Georgia" font-size="10.00" fill="white">monde → Dasein</text>
+</g>
+<!-- Paradox&#45;&gt;Ruckstrahlung -->
+<g id="edge3" class="edge">
+<title>Paradox-&gt;Ruckstrahlung</title>
+<path fill="none" stroke="#b91c1c" d="M184.18,-252.81C184.18,-238.49 184.18,-223.05 184.18,-208.77"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="186.98,-209.08 184.18,-201.08 181.38,-209.08 186.98,-209.08"/>
+<text text-anchor="middle" x="192.19" y="-220.2" font-family="Georgia" font-size="9.00">dû à</text>
+</g>
+<!-- Dasein -->
+<g id="node4" class="node">
+<title>Dasein</title>
+<ellipse fill="#f59e0b" stroke="black" cx="420.18" cy="-693.79" rx="72" ry="72"/>
+<text text-anchor="middle" x="420.18" y="-696.79" font-family="Georgia" font-size="10.00" fill="white">DASEIN</text>
+<text text-anchor="middle" x="420.18" y="-684.79" font-family="Georgia" font-size="10.00" fill="white">à analyser</text>
+</g>
+<!-- Dasein&#45;&gt;Zugang -->
+<g id="edge1" class="edge">
+<title>Dasein-&gt;Zugang</title>
+<path fill="none" stroke="#f59e0b" d="M363.07,-649.72C338.52,-630.57 309.86,-607.33 285.18,-584.99 267.73,-569.2 249.4,-550.76 234.01,-534.68"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="236.19,-532.91 228.65,-529.05 232.14,-536.77 236.19,-532.91"/>
+<text text-anchor="middle" x="320.08" y="-595.69" font-family="Georgia" font-size="9.00">pose le</text>
+</g>
+<!-- Zugangsart -->
+<g id="node16" class="node">
+<title>Zugangsart</title>
+<polygon fill="#f59e0b" stroke="black" points="420.18,-539.12 294.63,-471.24 545.73,-471.24 420.18,-539.12"/>
+<text text-anchor="middle" x="420.18" y="-496.87" font-family="Georgia" font-size="10.00" fill="white">MODE D'ACCÈS</text>
+<text text-anchor="middle" x="420.18" y="-484.87" font-family="Georgia" font-size="10.00" fill="white">APPROPRIÉ</text>
+</g>
+<!-- Dasein&#45;&gt;Zugangsart -->
+<g id="edge15" class="edge">
+<title>Dasein-&gt;Zugangsart</title>
+<path fill="none" stroke="#f59e0b" d="M420.18,-621.34C420.18,-597.4 420.18,-571.14 420.18,-548.78"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="422.98,-548.97 420.18,-540.97 417.38,-548.97 422.98,-548.97"/>
+<text text-anchor="middle" x="436.19" y="-595.69" font-family="Georgia" font-size="9.00">requiert</text>
+</g>
+<!-- Vorbereitend -->
+<g id="node19" class="node">
+<title>Vorbereitend</title>
+<polygon fill="#fef3c7" stroke="black" points="931.58,-515.87 836.78,-515.87 836.78,-471.87 937.58,-471.87 937.58,-509.87 931.58,-515.87"/>
+<polyline fill="none" stroke="black" points="931.58,-515.87 931.58,-509.87"/>
+<polyline fill="none" stroke="black" points="937.58,-509.87 931.58,-509.87"/>
+<text text-anchor="middle" x="887.18" y="-502.87" font-family="Georgia" font-size="10.00" fill="#92400e">ANALYTIQUE</text>
+<text text-anchor="middle" x="887.18" y="-490.87" font-family="Georgia" font-size="10.00" fill="#92400e">PRÉPARATOIRE</text>
+<text text-anchor="middle" x="887.18" y="-478.87" font-family="Georgia" font-size="10.00" fill="#92400e">(provisoire)</text>
+</g>
+<!-- Dasein&#45;&gt;Vorbereitend -->
+<g id="edge21" class="edge">
+<title>Dasein-&gt;Vorbereitend</title>
+<path fill="none" stroke="#f59e0b" stroke-dasharray="5,2" d="M492.52,-688.99C579.38,-681.19 725.98,-657.42 827.18,-584.99 848.48,-569.74 864.37,-544.39 874.43,-524.44"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="876.89,-525.78 877.85,-517.36 871.85,-523.35 876.89,-525.78"/>
+<text text-anchor="middle" x="829.3" y="-595.69" font-family="Georgia" font-size="9.00">analytique</text>
+</g>
+<!-- Psychologie -->
+<g id="node5" class="node">
+<title>Psychologie</title>
+<polygon fill="#34d399" stroke="black" points="100.36,-994.19 0,-994.19 0,-958.19 100.36,-958.19 100.36,-994.19"/>
+<text text-anchor="middle" x="50.18" y="-979.19" font-family="Georgia" font-size="10.00" fill="#1f2937">PSYCHOLOGIE</text>
+<text text-anchor="middle" x="50.18" y="-967.19" font-family="Georgia" font-size="10.00" fill="#1f2937">PHILOSOPHIQUE</text>
+</g>
+<!-- Psychologie&#45;&gt;Dasein -->
+<g id="edge4" class="edge">
+<title>Psychologie-&gt;Dasein</title>
+<path fill="none" stroke="#34d399" d="M37.82,-957.93C17.87,-927.76 -16.28,-864.7 13.97,-823.39 52.78,-770.4 233.19,-729.05 340.09,-708.69"/>
+<polygon fill="#34d399" stroke="#34d399" points="340.42,-711.47 347.76,-707.24 339.38,-705.97 340.42,-711.47"/>
+<text text-anchor="middle" x="30.58" y="-864.69" font-family="Georgia" font-size="9.00">étudient</text>
+</g>
+<!-- ExistentiellOriginal -->
+<g id="node11" class="node">
+<title>ExistentiellOriginal</title>
+<polygon fill="#3b82f6" stroke="black" points="151.18,-911.39 56.42,-867.39 151.18,-823.39 245.93,-867.39 151.18,-911.39"/>
+<text text-anchor="middle" x="151.18" y="-876.39" font-family="Georgia" font-size="10.00" fill="white">ORIGINALITÉ</text>
+<text text-anchor="middle" x="151.18" y="-864.39" font-family="Georgia" font-size="10.00" fill="white">EXISTENTIELLE</text>
+<text text-anchor="middle" x="151.18" y="-852.39" font-family="Georgia" font-size="10.00" fill="white">(concrète)</text>
+</g>
+<!-- Psychologie&#45;&gt;ExistentiellOriginal -->
+<g id="edge10" class="edge">
+<title>Psychologie-&gt;ExistentiellOriginal</title>
+<path fill="none" stroke="#3b82f6" d="M66.41,-958.03C79.91,-943.75 99.62,-922.91 116.63,-904.92"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="118.26,-907.28 121.72,-899.54 114.19,-903.43 118.26,-907.28"/>
+<text text-anchor="middle" x="111.66" y="-932.09" font-family="Georgia" font-size="9.00">possèdent</text>
+</g>
+<!-- Anthropologie -->
+<g id="node6" class="node">
+<title>Anthropologie</title>
+<polygon fill="#6ee7b7" stroke="black" points="235.11,-994.19 131.24,-994.19 131.24,-958.19 235.11,-958.19 235.11,-994.19"/>
+<text text-anchor="middle" x="183.18" y="-973.19" font-family="Georgia" font-size="10.00" fill="#1f2937">ANTHROPOLOGIE</text>
+</g>
+<!-- Anthropologie&#45;&gt;Dasein -->
+<g id="edge5" class="edge">
+<title>Anthropologie-&gt;Dasein</title>
+<path fill="none" stroke="#34d399" d="M207.78,-957.94C223.04,-946.22 242.16,-929.59 255.18,-911.39 279.84,-876.91 268.39,-858.62 291.97,-823.39 310.49,-795.73 335.54,-769.02 358.58,-747.17"/>
+<polygon fill="#34d399" stroke="#34d399" points="360.31,-749.39 364.24,-741.88 356.48,-745.3 360.31,-749.39"/>
+<text text-anchor="middle" x="308.58" y="-864.69" font-family="Georgia" font-size="9.00">étudient</text>
+</g>
+<!-- Anthropologie&#45;&gt;ExistentiellOriginal -->
+<g id="edge11" class="edge">
+<title>Anthropologie-&gt;ExistentiellOriginal</title>
+<path fill="none" stroke="#3b82f6" d="M178.04,-958.03C174.55,-946.4 169.76,-930.42 165.2,-915.18"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="167.96,-914.63 162.98,-907.77 162.59,-916.24 167.96,-914.63"/>
+<text text-anchor="middle" x="191.94" y="-932.09" font-family="Georgia" font-size="9.00">possèdent</text>
+</g>
+<!-- Ethik -->
+<g id="node7" class="node">
+<title>Ethik</title>
+<polygon fill="#a7f3d0" stroke="black" points="338.18,-994.19 266.18,-994.19 266.18,-958.19 338.18,-958.19 338.18,-994.19"/>
+<text text-anchor="middle" x="302.18" y="-973.19" font-family="Georgia" font-size="10.00" fill="#1f2937">ÉTHIQUE</text>
+</g>
+<!-- Ethik&#45;&gt;Dasein -->
+<g id="edge6" class="edge">
+<title>Ethik-&gt;Dasein</title>
+<path fill="none" stroke="#34d399" d="M309.38,-958.07C324.83,-921.37 361.91,-833.25 388.94,-769.03"/>
+<polygon fill="#34d399" stroke="#34d399" points="391.4,-770.39 391.92,-761.93 386.24,-768.22 391.4,-770.39"/>
+<text text-anchor="middle" x="381.71" y="-864.69" font-family="Georgia" font-size="9.00">étudient</text>
+</g>
+<!-- Ethik&#45;&gt;ExistentiellOriginal -->
+<g id="edge12" class="edge">
+<title>Ethik-&gt;ExistentiellOriginal</title>
+<path fill="none" stroke="#3b82f6" d="M277.58,-957.79C255.52,-942.19 222.61,-918.92 195.91,-900.03"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="197.58,-897.78 189.43,-895.45 194.34,-902.35 197.58,-897.78"/>
+<text text-anchor="middle" x="269.05" y="-932.09" font-family="Georgia" font-size="9.00">possèdent</text>
+</g>
+<!-- Politik -->
+<g id="node8" class="node">
+<title>Politik</title>
+<polygon fill="#34d399" stroke="black" points="435.18,-994.19 363.18,-994.19 363.18,-958.19 435.18,-958.19 435.18,-994.19"/>
+<text text-anchor="middle" x="399.18" y="-973.19" font-family="Georgia" font-size="10.00" fill="#1f2937">POLITIQUE</text>
+</g>
+<!-- Politik&#45;&gt;Dasein -->
+<g id="edge7" class="edge">
+<title>Politik-&gt;Dasein</title>
+<path fill="none" stroke="#34d399" d="M400.46,-958.07C403.12,-922.54 409.39,-838.81 414.15,-775.24"/>
+<polygon fill="#34d399" stroke="#34d399" points="416.92,-775.71 414.73,-767.53 411.34,-775.3 416.92,-775.71"/>
+<text text-anchor="middle" x="426.98" y="-864.69" font-family="Georgia" font-size="9.00">étudient</text>
+</g>
+<!-- Poesie -->
+<g id="node9" class="node">
+<title>Poesie</title>
+<polygon fill="#6ee7b7" stroke="black" points="525.18,-994.19 453.18,-994.19 453.18,-958.19 525.18,-958.19 525.18,-994.19"/>
+<text text-anchor="middle" x="489.18" y="-973.19" font-family="Georgia" font-size="10.00" fill="#1f2937">POÉSIE</text>
+</g>
+<!-- Poesie&#45;&gt;Dasein -->
+<g id="edge8" class="edge">
+<title>Poesie-&gt;Dasein</title>
+<path fill="none" stroke="#34d399" d="M484.97,-958.07C476.12,-922.13 455.14,-836.86 439.43,-773.03"/>
+<polygon fill="#34d399" stroke="#34d399" points="442.24,-772.74 437.61,-765.64 436.81,-774.08 442.24,-772.74"/>
+<text text-anchor="middle" x="489.9" y="-864.69" font-family="Georgia" font-size="9.00">étudient</text>
+</g>
+<!-- Biographie -->
+<g id="node10" class="node">
+<title>Biographie</title>
+<polygon fill="#a7f3d0" stroke="black" points="622.94,-994.19 543.41,-994.19 543.41,-958.19 622.94,-958.19 622.94,-994.19"/>
+<text text-anchor="middle" x="583.18" y="-973.19" font-family="Georgia" font-size="10.00" fill="#1f2937">BIOGRAPHIE</text>
+</g>
+<!-- Biographie&#45;&gt;Dasein -->
+<g id="edge9" class="edge">
+<title>Biographie-&gt;Dasein</title>
+<path fill="none" stroke="#34d399" d="M575.95,-957.88C563.74,-929.2 537.65,-870.34 510.18,-823.39 497.67,-802.01 482.7,-779.61 468.59,-759.59"/>
+<polygon fill="#34d399" stroke="#34d399" points="471.02,-758.19 464.11,-753.28 466.46,-761.43 471.02,-758.19"/>
+<text text-anchor="middle" x="571.81" y="-864.69" font-family="Georgia" font-size="9.00">étudient</text>
+</g>
+<!-- ExistentialOriginal -->
+<g id="node12" class="node">
+<title>ExistentialOriginal</title>
+<polygon fill="#1e40af" stroke="black" points="698.18,-911.39 609.28,-867.39 698.18,-823.39 787.07,-867.39 698.18,-911.39"/>
+<text text-anchor="middle" x="698.18" y="-876.39" font-family="Georgia" font-size="10.00" fill="white">ORIGINALITÉ</text>
+<text text-anchor="middle" x="698.18" y="-864.39" font-family="Georgia" font-size="10.00" fill="white">EXISTENTIALE</text>
+<text text-anchor="middle" x="698.18" y="-852.39" font-family="Georgia" font-size="10.00" fill="white">(ontologique)</text>
+</g>
+<!-- ExistentiellOriginal&#45;&gt;ExistentialOriginal -->
+<g id="edge13" class="edge">
+<title>ExistentiellOriginal-&gt;ExistentialOriginal</title>
+<path fill="none" stroke="#1e40af" d="M198.2,-889.88C217.06,-897.96 239.25,-906.33 260.18,-911.39 404.89,-946.42 451.52,-950.49 595.18,-911.39 611.8,-906.87 629.25,-900.21 644.97,-893.43"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="645.93,-896.06 652.12,-890.27 643.67,-890.94 645.93,-896.06"/>
+<text text-anchor="middle" x="455.18" y="-932.09" font-family="Georgia" font-size="9.00">≠</text>
+</g>
+<!-- ExistentialOriginal&#45;&gt;Dasein -->
+<g id="edge14" class="edge">
+<title>ExistentialOriginal-&gt;Dasein</title>
+<path fill="none" stroke="#1e40af" d="M661.01,-841.31C636.08,-824.68 602.41,-802.54 572.18,-783.79 545.68,-767.36 516.18,-749.9 490.27,-734.84"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="491.99,-732.6 483.66,-731.01 489.18,-737.44 491.99,-732.6"/>
+<text text-anchor="middle" x="637.51" y="-797.29" font-family="Georgia" font-size="9.00">nécessite analyse</text>
+<text text-anchor="middle" x="637.51" y="-786.49" font-family="Georgia" font-size="9.00">du</text>
+</g>
+<!-- Alltäglichkeit -->
+<g id="node13" class="node">
+<title>Alltäglichkeit</title>
+<ellipse fill="#7c3aed" stroke="black" cx="641.18" cy="-153.78" rx="70.24" ry="39.6"/>
+<text text-anchor="middle" x="641.18" y="-168.78" font-family="Georgia" font-size="10.00" fill="white">QUOTIDIENNETÉ</text>
+<text text-anchor="middle" x="641.18" y="-156.78" font-family="Georgia" font-size="10.00" fill="white">MOYENNE</text>
+<text text-anchor="middle" x="641.18" y="-144.78" font-family="Georgia" font-size="10.00" fill="white">(durchschnittliche</text>
+<text text-anchor="middle" x="641.18" y="-132.78" font-family="Georgia" font-size="10.00" fill="white">Alltaglichkeit)</text>
+</g>
+<!-- Wesenstrukturen -->
+<g id="node15" class="node">
+<title>Wesenstrukturen</title>
+<ellipse fill="#4c1d95" stroke="black" cx="641.18" cy="-38.63" rx="62.78" ry="22.63"/>
+<text text-anchor="middle" x="641.18" y="-41.63" font-family="Georgia" font-size="10.00" fill="white">STRUCTURES</text>
+<text text-anchor="middle" x="641.18" y="-29.63" font-family="Georgia" font-size="10.00" fill="white">ESSENTIELLES</text>
+</g>
+<!-- Alltäglichkeit&#45;&gt;Wesenstrukturen -->
+<g id="edge20" class="edge">
+<title>Alltäglichkeit-&gt;Wesenstrukturen</title>
+<path fill="none" stroke="#7c3aed" d="M641.18,-113.84C641.18,-99.74 641.18,-84.03 641.18,-70.7"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="643.98,-70.98 641.18,-62.98 638.38,-70.98 643.98,-70.98"/>
+<text text-anchor="middle" x="653.06" y="-81.95" font-family="Georgia" font-size="9.00">révèle</text>
+</g>
+<!-- SichZeigen -->
+<g id="node14" class="node">
+<title>SichZeigen</title>
+<ellipse fill="#5b21b6" stroke="black" cx="636.18" cy="-308.53" rx="58.71" ry="31.11"/>
+<text text-anchor="middle" x="636.18" y="-317.53" font-family="Georgia" font-size="10.00" fill="white">SE MONTRER</text>
+<text text-anchor="middle" x="636.18" y="-305.53" font-family="Georgia" font-size="10.00" fill="white">À PARTIR</text>
+<text text-anchor="middle" x="636.18" y="-293.53" font-family="Georgia" font-size="10.00" fill="white">DE SOI-MÊME</text>
+</g>
+<!-- SichZeigen&#45;&gt;Alltäglichkeit -->
+<g id="edge19" class="edge">
+<title>SichZeigen-&gt;Alltäglichkeit</title>
+<path fill="none" stroke="#5b21b6" d="M637.18,-276.98C637.87,-255.85 638.8,-227.28 639.6,-203.08"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="642.39,-203.3 639.85,-195.21 636.79,-203.12 642.39,-203.3"/>
+<text text-anchor="middle" x="653.07" y="-220.2" font-family="Georgia" font-size="9.00">dans la</text>
+</g>
+<!-- Zugangsart&#45;&gt;SichZeigen -->
+<g id="edge18" class="edge">
+<title>Zugangsart-&gt;SichZeigen</title>
+<path fill="none" stroke="#f59e0b" d="M458.31,-470.88C488.58,-452.51 531.16,-424.61 564.18,-394.84 580.78,-379.87 597.04,-361.07 609.89,-344.94"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="611.87,-346.94 614.61,-338.92 607.47,-343.49 611.87,-346.94"/>
+<text text-anchor="middle" x="560.22" y="-405.54" font-family="Georgia" font-size="9.00">par</text>
+</g>
+<!-- KeineDogmatik -->
+<g id="node17" class="node">
+<title>KeineDogmatik</title>
+<polygon fill="#d97706" stroke="black" points="420.18,-370.75 285.08,-277.42 555.27,-277.42 420.18,-370.75"/>
+<text text-anchor="middle" x="420.18" y="-317.53" font-family="Georgia" font-size="10.00" fill="white">PAS DE</text>
+<text text-anchor="middle" x="420.18" y="-305.53" font-family="Georgia" font-size="10.00" fill="white">CONSTRUCTION</text>
+<text text-anchor="middle" x="420.18" y="-293.53" font-family="Georgia" font-size="10.00" fill="white">DOGMATIQUE</text>
+</g>
+<!-- Zugangsart&#45;&gt;KeineDogmatik -->
+<g id="edge16" class="edge">
+<title>Zugangsart-&gt;KeineDogmatik</title>
+<path fill="none" stroke="#f59e0b" d="M420.18,-470.75C420.18,-448.39 420.18,-412.62 420.18,-380.46"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="422.98,-380.57 420.18,-372.57 417.38,-380.57 422.98,-380.57"/>
+<text text-anchor="middle" x="437.92" y="-405.54" font-family="Georgia" font-size="9.00">implique</text>
+</g>
+<!-- KeineKategorien -->
+<g id="node18" class="node">
+<title>KeineKategorien</title>
+<polygon fill="#b45309" stroke="black" points="708.18,-556.09 598.03,-462.75 818.33,-462.75 708.18,-556.09"/>
+<text text-anchor="middle" x="708.18" y="-502.87" font-family="Georgia" font-size="10.00" fill="white">PAS DE</text>
+<text text-anchor="middle" x="708.18" y="-490.87" font-family="Georgia" font-size="10.00" fill="white">CATÉGORIES</text>
+<text text-anchor="middle" x="708.18" y="-478.87" font-family="Georgia" font-size="10.00" fill="white">IMPOSÉES</text>
+</g>
+<!-- Zugangsart&#45;&gt;KeineKategorien -->
+<g id="edge17" class="edge">
+<title>Zugangsart-&gt;KeineKategorien</title>
+<path fill="none" stroke="#d97706" d="M504.64,-493.87C542.43,-493.87 586.87,-493.87 624.56,-493.87"/>
+<polygon fill="#d97706" stroke="#d97706" points="624.48,-496.67 632.48,-493.87 624.48,-491.07 624.48,-496.67"/>
+<text text-anchor="middle" x="571.88" y="-499.57" font-family="Georgia" font-size="9.00">implique</text>
+</g>
+<!-- Unvollständig -->
+<g id="node20" class="node">
+<title>Unvollständig</title>
+<polygon fill="#fde68a" stroke="black" points="1017.98,-330.53 930.38,-330.53 930.38,-286.53 1023.98,-286.53 1023.98,-324.53 1017.98,-330.53"/>
+<polyline fill="none" stroke="black" points="1017.98,-330.53 1017.98,-324.53"/>
+<polyline fill="none" stroke="black" points="1023.98,-324.53 1017.98,-324.53"/>
+<text text-anchor="middle" x="977.18" y="-317.53" font-family="Georgia" font-size="10.00" fill="#92400e">INCOMPLÈTE</text>
+<text text-anchor="middle" x="977.18" y="-305.53" font-family="Georgia" font-size="10.00" fill="#92400e">(quelques</text>
+<text text-anchor="middle" x="977.18" y="-293.53" font-family="Georgia" font-size="10.00" fill="#92400e">'morceaux')</text>
+</g>
+<!-- Vorbereitend&#45;&gt;Unvollständig -->
+<g id="edge22" class="edge">
+<title>Vorbereitend-&gt;Unvollständig</title>
+<path fill="none" stroke="#92400e" d="M897.68,-471.48C913.73,-438.77 944.43,-376.24 962.62,-339.18"/>
+<polygon fill="#92400e" stroke="#92400e" points="965.07,-340.56 966.08,-332.14 960.04,-338.09 965.07,-340.56"/>
+<text text-anchor="middle" x="939.19" y="-405.54" font-family="Georgia" font-size="9.00">donc</text>
+</g>
+<!-- Wiederholung -->
+<g id="node21" class="node">
+<title>Wiederholung</title>
+<polygon fill="#fcd34d" stroke="black" points="906.01,-330.53 814.35,-330.53 814.35,-286.53 912.01,-286.53 912.01,-324.53 906.01,-330.53"/>
+<polyline fill="none" stroke="black" points="906.01,-330.53 906.01,-324.53"/>
+<polyline fill="none" stroke="black" points="912.01,-324.53 906.01,-324.53"/>
+<text text-anchor="middle" x="863.18" y="-317.53" font-family="Georgia" font-size="10.00" fill="#92400e">RÉPÉTITION</text>
+<text text-anchor="middle" x="863.18" y="-305.53" font-family="Georgia" font-size="10.00" fill="#92400e">NÉCESSAIRE</text>
+<text text-anchor="middle" x="863.18" y="-293.53" font-family="Georgia" font-size="10.00" fill="#92400e">(niveau supérieur)</text>
+</g>
+<!-- Vorbereitend&#45;&gt;Wiederholung -->
+<g id="edge23" class="edge">
+<title>Vorbereitend-&gt;Wiederholung</title>
+<path fill="none" stroke="#92400e" d="M884.38,-471.48C880.13,-439.05 872.05,-377.29 867.18,-340.12"/>
+<polygon fill="#92400e" stroke="#92400e" points="869.97,-339.85 866.16,-332.28 864.42,-340.58 869.97,-339.85"/>
+<text text-anchor="middle" x="894.6" y="-405.54" font-family="Georgia" font-size="9.00">nécessite</text>
+</g>
+</g>
+</svg>

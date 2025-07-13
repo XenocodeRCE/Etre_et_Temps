@@ -1,0 +1,485 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1463pt" height="1284pt" viewBox="0.00 0.00 1462.79 1283.82">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1279.82)">
+<title>MondeiteGeneral</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-1279.82 1458.79,-1279.82 1458.79,4 -4,4"/>
+<text text-anchor="middle" x="727.4" y="-1261.02" font-family="Georgia" font-size="12.00">§14 - L'idée de la mondéité du monde en général</text>
+<text text-anchor="middle" x="727.4" y="-1246.62" font-family="Georgia" font-size="12.00">(Concept ontologique et méthode d'approche)</text>
+<g id="clust4" class="cluster">
+<title>cluster_ambiant</title>
+<polygon fill="#f8f9fa" stroke="#059669" stroke-dasharray="5,2" points="797.01,-433.92 797.01,-772.71 1081.01,-772.71 1081.01,-433.92 797.01,-433.92"/>
+<text text-anchor="middle" x="939.01" y="-757.91" font-family="Georgia" font-size="12.00" fill="#059669">MONDE AMBIANT (POINT DE DÉPART)</text>
+</g>
+<g id="clust6" class="cluster">
+<title>cluster_problemes</title>
+<polygon fill="#f8f9fa" stroke="#6b7280" stroke-dasharray="5,2" points="38.01,-256.8 38.01,-583.54 328.01,-583.54 328.01,-256.8 38.01,-256.8"/>
+<text text-anchor="middle" x="183.01" y="-568.74" font-family="Georgia" font-size="12.00" fill="#6b7280">PROBLÈMES ONTOLOGIE TRADITIONNELLE</text>
+</g>
+<!-- Weltlichkeit -->
+<g id="node1" class="node">
+<title>Weltlichkeit</title>
+<polygon fill="#f59e0b" stroke="black" points="680.52,-1123.86 559.43,-1123.86 522.01,-1239.02 484.59,-1123.86 363.5,-1123.86 461.46,-1052.68 424.04,-937.52 522.01,-1008.69 619.97,-937.52 582.55,-1052.68 680.52,-1123.86"/>
+<text text-anchor="middle" x="522.01" y="-1107.17" font-family="Georgia" font-size="9.00" fill="white">MONDÉITÉ</text>
+<text text-anchor="middle" x="522.01" y="-1096.37" font-family="Georgia" font-size="9.00" fill="white">(Weltlichkeit)</text>
+<text text-anchor="middle" x="522.01" y="-1085.57" font-family="Georgia" font-size="9.00" fill="white">concept ontologique</text>
+<text text-anchor="middle" x="522.01" y="-1074.77" font-family="Georgia" font-size="9.00" fill="white">existential</text>
+<text text-anchor="middle" x="522.01" y="-1063.97" font-family="Georgia" font-size="9.00" fill="white">structure d'être-au-monde</text>
+</g>
+<!-- Weltlichkeit&#45;&gt;Weltlichkeit -->
+<g id="edge26" class="edge">
+<title>Weltlichkeit-&gt;Weltlichkeit</title>
+<path fill="none" stroke="#f59e0b" stroke-dasharray="5,2" d="M670.41,-1115.94C687.45,-1110.8 698.52,-1101.57 698.52,-1088.27 698.52,-1060.65 650.85,-1050.61 601.03,-1058.15"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="600.67,-1055.72 594.18,-1059.32 601.5,-1060.55 600.67,-1055.72"/>
+<text text-anchor="middle" x="739.27" y="-1095.47" font-family="Georgia" font-size="8.00">structure d'un moment</text>
+<text text-anchor="middle" x="739.27" y="-1085.87" font-family="Georgia" font-size="8.00">constitutif de</text>
+<text text-anchor="middle" x="739.27" y="-1076.27" font-family="Georgia" font-size="8.00">l'être-au-monde</text>
+</g>
+<!-- Welt1 -->
+<g id="node2" class="node">
+<title>Welt1</title>
+<polygon fill="#3b82f6" stroke="black" points="398.32,-850.11 356.16,-891.92 271.85,-891.92 229.69,-850.11 271.85,-808.31 356.16,-808.31 398.32,-850.11"/>
+<text text-anchor="middle" x="314.01" y="-863.61" font-family="Georgia" font-size="9.00" fill="white">1. MONDE ONTIQUE</text>
+<text text-anchor="middle" x="314.01" y="-852.81" font-family="Georgia" font-size="9.00" fill="white">tout de l'étant</text>
+<text text-anchor="middle" x="314.01" y="-842.01" font-family="Georgia" font-size="9.00" fill="white">là-devant</text>
+<text text-anchor="middle" x="314.01" y="-831.21" font-family="Georgia" font-size="9.00" fill="white">'dans' le monde</text>
+</g>
+<!-- Weltlichkeit&#45;&gt;Welt1 -->
+<g id="edge1" class="edge">
+<title>Weltlichkeit-&gt;Welt1</title>
+<path fill="none" stroke="#3b82f6" d="M443.07,-997.65C413.37,-963.93 380.77,-926.91 355.76,-898.52"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="357.69,-897 351.22,-893.36 354.01,-900.24 357.69,-897"/>
+<text text-anchor="middle" x="380.23" y="-912.32" font-family="Georgia" font-size="8.00">sens 1</text>
+</g>
+<!-- Welt2 -->
+<g id="node3" class="node">
+<title>Welt2</title>
+<polygon fill="#1e40af" stroke="black" points="627.97,-850.11 574.99,-891.92 469.03,-891.92 416.05,-850.11 469.03,-808.31 574.99,-808.31 627.97,-850.11"/>
+<text text-anchor="middle" x="522.01" y="-863.61" font-family="Georgia" font-size="9.00" fill="white">2. MONDE ONTOLOGIQUE</text>
+<text text-anchor="middle" x="522.01" y="-852.81" font-family="Georgia" font-size="9.00" fill="white">être de l'étant</text>
+<text text-anchor="middle" x="522.01" y="-842.01" font-family="Georgia" font-size="9.00" fill="white">région d'objets</text>
+<text text-anchor="middle" x="522.01" y="-831.21" font-family="Georgia" font-size="9.00" fill="white">(ex: mathématiques)</text>
+</g>
+<!-- Weltlichkeit&#45;&gt;Welt2 -->
+<g id="edge2" class="edge">
+<title>Weltlichkeit-&gt;Welt2</title>
+<path fill="none" stroke="#1e40af" d="M522.01,-1008.3C522.01,-972.61 522.01,-931.54 522.01,-900.33"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="524.46,-900.72 522.01,-893.72 519.56,-900.72 524.46,-900.72"/>
+<text text-anchor="middle" x="532.96" y="-912.32" font-family="Georgia" font-size="8.00">sens 2</text>
+</g>
+<!-- Welt3 -->
+<g id="node4" class="node">
+<title>Welt3</title>
+<polygon fill="#1d4ed8" stroke="black" points="1021.51,-850.11 971.76,-891.92 872.25,-891.92 822.5,-850.11 872.25,-808.31 971.76,-808.31 1021.51,-850.11"/>
+<text text-anchor="middle" x="922.01" y="-863.61" font-family="Georgia" font-size="9.00" fill="white">3. MONDE EXISTENTIEL</text>
+<text text-anchor="middle" x="922.01" y="-852.81" font-family="Georgia" font-size="9.00" fill="white">'dans quoi' vit</text>
+<text text-anchor="middle" x="922.01" y="-842.01" font-family="Georgia" font-size="9.00" fill="white">le Dasein factif</text>
+<text text-anchor="middle" x="922.01" y="-831.21" font-family="Georgia" font-size="9.00" fill="white">(public/ambiant)</text>
+</g>
+<!-- Weltlichkeit&#45;&gt;Welt3 -->
+<g id="edge3" class="edge">
+<title>Weltlichkeit-&gt;Welt3</title>
+<path fill="none" stroke="#1d4ed8" d="M583.63,-1050.89C657.62,-1007.2 781.16,-934.27 856.73,-889.65"/>
+<polygon fill="#1d4ed8" stroke="#1d4ed8" points="857.81,-891.86 862.59,-886.19 855.31,-887.64 857.81,-891.86"/>
+<text text-anchor="middle" x="825.66" y="-912.32" font-family="Georgia" font-size="8.00">sens 3</text>
+</g>
+<!-- Welt4 -->
+<g id="node5" class="node">
+<title>Welt4</title>
+<polygon fill="#0f172a" stroke="black" points="212.01,-850.11 159.01,-891.92 53,-891.92 0,-850.11 53,-808.31 159.01,-808.31 212.01,-850.11"/>
+<text text-anchor="middle" x="106.01" y="-863.61" font-family="Georgia" font-size="9.00" fill="white">4. MONDE ONTOLOGIQUE</text>
+<text text-anchor="middle" x="106.01" y="-852.81" font-family="Georgia" font-size="9.00" fill="white">EXISTENTIAL</text>
+<text text-anchor="middle" x="106.01" y="-842.01" font-family="Georgia" font-size="9.00" fill="white">mondéité comme</text>
+<text text-anchor="middle" x="106.01" y="-831.21" font-family="Georgia" font-size="9.00" fill="white">structure a priori</text>
+</g>
+<!-- Weltlichkeit&#45;&gt;Welt4 -->
+<g id="edge4" class="edge">
+<title>Weltlichkeit-&gt;Welt4</title>
+<path fill="none" stroke="#0f172a" d="M461.07,-1052.68C384.62,-1009.27 253.89,-935.06 174.18,-889.81"/>
+<polygon fill="#0f172a" stroke="#0f172a" points="175.72,-887.87 168.42,-886.54 173.3,-892.13 175.72,-887.87"/>
+<text text-anchor="middle" x="228.55" y="-912.32" font-family="Georgia" font-size="8.00">sens 4</text>
+</g>
+<!-- Existenzial -->
+<g id="node22" class="node">
+<title>Existenzial</title>
+<polygon fill="#fbbf24" stroke="black" points="1210.6,-881.11 1111.41,-881.11 1111.41,-819.11 1216.6,-819.11 1216.6,-875.11 1210.6,-881.11"/>
+<polyline fill="none" stroke="black" points="1210.6,-881.11 1210.6,-875.11"/>
+<polyline fill="none" stroke="black" points="1216.6,-875.11 1210.6,-875.11"/>
+<text text-anchor="middle" x="1164.01" y="-869.01" font-family="Georgia" font-size="9.00" fill="#92400e">MONDÉITÉ =</text>
+<text text-anchor="middle" x="1164.01" y="-858.21" font-family="Georgia" font-size="9.00" fill="#92400e">EXISTENTIAL</text>
+<text text-anchor="middle" x="1164.01" y="-847.41" font-family="Georgia" font-size="9.00" fill="#92400e">ne quitte pas le champ</text>
+<text text-anchor="middle" x="1164.01" y="-836.61" font-family="Georgia" font-size="9.00" fill="#92400e">de l'analytique</text>
+<text text-anchor="middle" x="1164.01" y="-825.81" font-family="Georgia" font-size="9.00" fill="#92400e">du Dasein</text>
+</g>
+<!-- Weltlichkeit&#45;&gt;Existenzial -->
+<g id="edge22" class="edge">
+<title>Weltlichkeit-&gt;Existenzial</title>
+<path fill="none" stroke="#fbbf24" d="M594.09,-1060.75C721.54,-1013.87 984.38,-917.19 1103.25,-873.46"/>
+<polygon fill="#fbbf24" stroke="#fbbf24" points="1104.07,-875.77 1109.8,-871.05 1102.38,-871.17 1104.07,-875.77"/>
+<text text-anchor="middle" x="1002.02" y="-912.32" font-family="Georgia" font-size="8.00">statut</text>
+</g>
+<!-- OntoOntisch -->
+<g id="node6" class="node">
+<title>OntoOntisch</title>
+<polygon fill="#dc2626" stroke="black" points="262.01,-746.28 183.17,-684.28 262.01,-622.28 340.84,-684.28 262.01,-746.28"/>
+<text text-anchor="middle" x="262.01" y="-703.18" font-family="Georgia" font-size="9.00" fill="white">DESCRIPTION</text>
+<text text-anchor="middle" x="262.01" y="-692.38" font-family="Georgia" font-size="9.00" fill="white">ONTIQUE</text>
+<text text-anchor="middle" x="262.01" y="-681.58" font-family="Georgia" font-size="9.00" fill="white">énumération</text>
+<text text-anchor="middle" x="262.01" y="-670.78" font-family="Georgia" font-size="9.00" fill="white">maisons, arbres</text>
+<text text-anchor="middle" x="262.01" y="-659.98" font-family="Georgia" font-size="9.00" fill="white">hommes...</text>
+</g>
+<!-- Welt1&#45;&gt;OntoOntisch -->
+<g id="edge5" class="edge">
+<title>Welt1-&gt;OntoOntisch</title>
+<path fill="none" stroke="#dc2626" d="M301.02,-808.19C294.7,-788.27 286.99,-763.99 280.1,-742.29"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="282.52,-741.8 278.06,-735.87 277.85,-743.28 282.52,-741.8"/>
+<text text-anchor="middle" x="310.57" y="-783.11" font-family="Georgia" font-size="8.00">conduit à</text>
+</g>
+<!-- OntoOntologisch -->
+<g id="node7" class="node">
+<title>OntoOntologisch</title>
+<polygon fill="#b91c1c" stroke="black" points="453.01,-746.28 358.41,-684.28 453.01,-622.28 547.61,-684.28 453.01,-746.28"/>
+<text text-anchor="middle" x="453.01" y="-703.18" font-family="Georgia" font-size="9.00" fill="white">INTERPRÉTATION</text>
+<text text-anchor="middle" x="453.01" y="-692.38" font-family="Georgia" font-size="9.00" fill="white">ONTOLOGIQUE</text>
+<text text-anchor="middle" x="453.01" y="-681.58" font-family="Georgia" font-size="9.00" fill="white">être des choses</text>
+<text text-anchor="middle" x="453.01" y="-670.78" font-family="Georgia" font-size="9.00" fill="white">substantialité</text>
+<text text-anchor="middle" x="453.01" y="-659.98" font-family="Georgia" font-size="9.00" fill="white">nature</text>
+</g>
+<!-- Welt2&#45;&gt;OntoOntologisch -->
+<g id="edge6" class="edge">
+<title>Welt2-&gt;OntoOntologisch</title>
+<path fill="none" stroke="#b91c1c" d="M504.77,-808.19C496.24,-787.93 485.81,-763.16 476.55,-741.18"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="478.89,-740.42 473.92,-734.92 474.37,-742.33 478.89,-740.42"/>
+<text text-anchor="middle" x="512.1" y="-783.11" font-family="Georgia" font-size="8.00">conduit à</text>
+</g>
+<!-- Umwelt -->
+<g id="node12" class="node">
+<title>Umwelt</title>
+<ellipse fill="#059669" stroke="black" cx="922.01" cy="-684.28" rx="58.03" ry="58.03"/>
+<text text-anchor="middle" x="922.01" y="-703.18" font-family="Georgia" font-size="9.00" fill="white">MONDE AMBIANT</text>
+<text text-anchor="middle" x="922.01" y="-692.38" font-family="Georgia" font-size="9.00" fill="white">(Umwelt)</text>
+<text text-anchor="middle" x="922.01" y="-681.58" font-family="Georgia" font-size="9.00" fill="white">monde le plus</text>
+<text text-anchor="middle" x="922.01" y="-670.78" font-family="Georgia" font-size="9.00" fill="white">immédiat du</text>
+<text text-anchor="middle" x="922.01" y="-659.98" font-family="Georgia" font-size="9.00" fill="white">Dasein quotidien</text>
+</g>
+<!-- Welt3&#45;&gt;Umwelt -->
+<g id="edge11" class="edge">
+<title>Welt3-&gt;Umwelt</title>
+<path fill="none" stroke="#059669" d="M922.01,-808.19C922.01,-790.94 922.01,-770.41 922.01,-751.13"/>
+<polygon fill="#059669" stroke="#059669" points="924.46,-751.17 922.01,-744.17 919.56,-751.17 924.46,-751.17"/>
+<text text-anchor="middle" x="951.49" y="-783.11" font-family="Georgia" font-size="8.00">le plus immédiat</text>
+</g>
+<!-- WeltTermino -->
+<g id="node23" class="node">
+<title>WeltTermino</title>
+<polygon fill="#ec4899" stroke="black" points="1189.41,-709.88 1088.61,-709.88 1088.61,-658.68 1189.41,-658.68 1189.41,-709.88"/>
+<text text-anchor="middle" x="1139.01" y="-697.78" font-family="Georgia" font-size="9.00" fill="white">TERMINOLOGIE</text>
+<text text-anchor="middle" x="1139.01" y="-686.98" font-family="Georgia" font-size="9.00" fill="white">'monde' = sens 3</text>
+<text text-anchor="middle" x="1139.01" y="-676.18" font-family="Georgia" font-size="9.00" fill="white">'Monde' = sens 1</text>
+<text text-anchor="middle" x="1139.01" y="-665.38" font-family="Georgia" font-size="9.00" fill="white">(avec guillemets)</text>
+</g>
+<!-- Welt3&#45;&gt;WeltTermino -->
+<g id="edge23" class="edge">
+<title>Welt3-&gt;WeltTermino</title>
+<path fill="none" stroke="#ec4899" d="M993.49,-826.05C1024.1,-813.69 1058.76,-796.1 1085.01,-772.71 1102.02,-757.54 1115.5,-735.74 1124.74,-717.71"/>
+<polygon fill="#ec4899" stroke="#ec4899" points="1126.86,-718.95 1127.76,-711.59 1122.46,-716.78 1126.86,-718.95"/>
+<text text-anchor="middle" x="1089.5" y="-783.11" font-family="Georgia" font-size="8.00">réservé à</text>
+</g>
+<!-- Subjektiv -->
+<g id="node20" class="node">
+<title>Subjektiv</title>
+<ellipse fill="#374151" stroke="black" cx="116.01" cy="-509.3" rx="69.9" ry="43.84"/>
+<text text-anchor="middle" x="116.01" y="-528.2" font-family="Georgia" font-size="9.00" fill="white">PROBLÈME</text>
+<text text-anchor="middle" x="116.01" y="-517.4" font-family="Georgia" font-size="9.00" fill="white">'SUBJECTIVITÉ'</text>
+<text text-anchor="middle" x="116.01" y="-506.6" font-family="Georgia" font-size="9.00" fill="white">si monde = caractère</text>
+<text text-anchor="middle" x="116.01" y="-495.8" font-family="Georgia" font-size="9.00" fill="white">du Dasein</text>
+<text text-anchor="middle" x="116.01" y="-485" font-family="Georgia" font-size="9.00" fill="white">(faux problème)</text>
+</g>
+<!-- Welt4&#45;&gt;Subjektiv -->
+<g id="edge20" class="edge">
+<title>Welt4-&gt;Subjektiv</title>
+<path fill="none" stroke="#374151" d="M107.22,-807.91C109.05,-746.09 112.49,-629.44 114.48,-562"/>
+<polygon fill="#374151" stroke="#374151" points="116.93,-562.21 114.68,-555.14 112.03,-562.06 116.93,-562.21"/>
+<text text-anchor="middle" x="142.06" y="-681.88" font-family="Georgia" font-size="8.00">soulève question</text>
+</g>
+<!-- Vorausgesetzt -->
+<g id="node19" class="node">
+<title>Vorausgesetzt</title>
+<ellipse fill="#4b5563" stroke="black" cx="262.01" cy="-509.3" rx="57.95" ry="43.84"/>
+<text text-anchor="middle" x="262.01" y="-528.2" font-family="Georgia" font-size="9.00" fill="white">MONDE</text>
+<text text-anchor="middle" x="262.01" y="-517.4" font-family="Georgia" font-size="9.00" fill="white">'PRÉSUPPOSÉ'</text>
+<text text-anchor="middle" x="262.01" y="-506.6" font-family="Georgia" font-size="9.00" fill="white">dans description</text>
+<text text-anchor="middle" x="262.01" y="-495.8" font-family="Georgia" font-size="9.00" fill="white">et interprétation</text>
+<text text-anchor="middle" x="262.01" y="-485" font-family="Georgia" font-size="9.00" fill="white">de l'étant</text>
+</g>
+<!-- OntoOntisch&#45;&gt;Vorausgesetzt -->
+<g id="edge17" class="edge">
+<title>OntoOntisch-&gt;Vorausgesetzt</title>
+<path fill="none" stroke="#4b5563" d="M262.01,-621.81C262.01,-602.19 262.01,-580.69 262.01,-561.85"/>
+<polygon fill="#4b5563" stroke="#4b5563" points="264.46,-561.91 262.01,-554.91 259.56,-561.91 264.46,-561.91"/>
+<text text-anchor="middle" x="282.28" y="-597.08" font-family="Georgia" font-size="8.00">présuppose</text>
+</g>
+<!-- Wertding -->
+<g id="node8" class="node">
+<title>Wertding</title>
+<polygon fill="#991b1b" stroke="black" points="686.01,-746.28 583,-684.28 686.01,-622.28 789.01,-684.28 686.01,-746.28"/>
+<text text-anchor="middle" x="686.01" y="-703.18" font-family="Georgia" font-size="9.00" fill="white">CHOSES POURVUES</text>
+<text text-anchor="middle" x="686.01" y="-692.38" font-family="Georgia" font-size="9.00" fill="white">DE VALEUR</text>
+<text text-anchor="middle" x="686.01" y="-681.58" font-family="Georgia" font-size="9.00" fill="white">≠ choses naturelles</text>
+<text text-anchor="middle" x="686.01" y="-670.78" font-family="Georgia" font-size="9.00" fill="white">mais toujours</text>
+<text text-anchor="middle" x="686.01" y="-659.98" font-family="Georgia" font-size="9.00" fill="white">'dans' le monde</text>
+</g>
+<!-- OntoOntologisch&#45;&gt;Wertding -->
+<g id="edge7" class="edge">
+<title>OntoOntologisch-&gt;Wertding</title>
+<path fill="none" stroke="#991b1b" d="M548.45,-684.28C556.84,-684.28 565.38,-684.28 573.89,-684.28"/>
+<polygon fill="#991b1b" stroke="#991b1b" points="573.86,-686.73 580.86,-684.28 573.86,-681.83 573.86,-686.73"/>
+<text text-anchor="middle" x="565.31" y="-689.68" font-family="Georgia" font-size="8.00">ou</text>
+</g>
+<!-- Natur -->
+<g id="node9" class="node">
+<title>Natur</title>
+<polygon fill="#7c3aed" stroke="black" points="507.92,-534.9 398.1,-534.9 398.1,-483.7 507.92,-483.7 507.92,-534.9"/>
+<text text-anchor="middle" x="453.01" y="-522.8" font-family="Georgia" font-size="9.00" fill="white">NATURE</text>
+<text text-anchor="middle" x="453.01" y="-512" font-family="Georgia" font-size="9.00" fill="white">(Natur)</text>
+<text text-anchor="middle" x="453.01" y="-501.2" font-family="Georgia" font-size="9.00" fill="white">cas-limite de l'être</text>
+<text text-anchor="middle" x="453.01" y="-490.4" font-family="Georgia" font-size="9.00" fill="white">de l'étant intramondain</text>
+</g>
+<!-- OntoOntologisch&#45;&gt;Natur -->
+<g id="edge8" class="edge">
+<title>OntoOntologisch-&gt;Natur</title>
+<path fill="none" stroke="#7c3aed" d="M453.01,-621.81C453.01,-595.4 453.01,-565.6 453.01,-543.45"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="455.46,-543.57 453.01,-536.57 450.56,-543.57 455.46,-543.57"/>
+<text text-anchor="middle" x="481.67" y="-597.08" font-family="Georgia" font-size="8.00">se concentre sur</text>
+</g>
+<!-- OntoOntologisch&#45;&gt;Vorausgesetzt -->
+<g id="edge18" class="edge">
+<title>OntoOntologisch-&gt;Vorausgesetzt</title>
+<path fill="none" stroke="#4b5563" d="M413.89,-647.86C382.15,-619.11 337.44,-578.62 304.76,-549.02"/>
+<polygon fill="#4b5563" stroke="#4b5563" points="306.75,-547.52 299.92,-544.64 303.46,-551.15 306.75,-547.52"/>
+<text text-anchor="middle" x="383.51" y="-597.08" font-family="Georgia" font-size="8.00">présuppose</text>
+</g>
+<!-- Entweltlichung -->
+<g id="node10" class="node">
+<title>Entweltlichung</title>
+<polygon fill="#5b21b6" stroke="black" points="507.01,-339.64 399.01,-339.64 399.01,-277.64 507.01,-277.64 507.01,-339.64"/>
+<text text-anchor="middle" x="453.01" y="-327.54" font-family="Georgia" font-size="9.00" fill="white">IMMONDATION</text>
+<text text-anchor="middle" x="453.01" y="-316.74" font-family="Georgia" font-size="9.00" fill="white">(Entweltlichung)</text>
+<text text-anchor="middle" x="453.01" y="-305.94" font-family="Georgia" font-size="9.00" fill="white">connaissance comme</text>
+<text text-anchor="middle" x="453.01" y="-295.14" font-family="Georgia" font-size="9.00" fill="white">mode déterminé</text>
+<text text-anchor="middle" x="453.01" y="-284.34" font-family="Georgia" font-size="9.00" fill="white">d'être-au-monde</text>
+</g>
+<!-- Natur&#45;&gt;Entweltlichung -->
+<g id="edge9" class="edge">
+<title>Natur-&gt;Entweltlichung</title>
+<path fill="none" stroke="#5b21b6" d="M453.01,-483.54C453.01,-449.63 453.01,-388.38 453.01,-348.37"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="455.46,-348.44 453.01,-341.44 450.56,-348.44 455.46,-348.44"/>
+<text text-anchor="middle" x="467.24" y="-416.72" font-family="Georgia" font-size="8.00">requiert</text>
+</g>
+<!-- ResExtensa -->
+<g id="node11" class="node">
+<title>ResExtensa</title>
+<polygon fill="#4c1d95" stroke="black" points="659.41,-540.3 558.61,-540.3 558.61,-478.3 659.41,-478.3 659.41,-540.3"/>
+<text text-anchor="middle" x="609.01" y="-528.2" font-family="Georgia" font-size="9.00" fill="white">RES EXTENSA</text>
+<text text-anchor="middle" x="609.01" y="-517.4" font-family="Georgia" font-size="9.00" fill="white">(Descartes)</text>
+<text text-anchor="middle" x="609.01" y="-506.6" font-family="Georgia" font-size="9.00" fill="white">spatialité comme</text>
+<text text-anchor="middle" x="609.01" y="-495.8" font-family="Georgia" font-size="9.00" fill="white">être du monde</text>
+<text text-anchor="middle" x="609.01" y="-485" font-family="Georgia" font-size="9.00" fill="white">(inadéquat)</text>
+</g>
+<!-- Natur&#45;&gt;ResExtensa -->
+<g id="edge10" class="edge">
+<title>Natur-&gt;ResExtensa</title>
+<path fill="none" stroke="#4c1d95" d="M508.01,-509.3C521.52,-509.3 536.04,-509.3 549.74,-509.3"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="549.64,-511.75 556.64,-509.3 549.64,-506.85 549.64,-511.75"/>
+<text text-anchor="middle" x="533.26" y="-514.7" font-family="Georgia" font-size="8.00">conduit à</text>
+</g>
+<!-- Umhafte -->
+<g id="node13" class="node">
+<title>Umhafte</title>
+<ellipse fill="#10b981" stroke="black" cx="872.01" cy="-509.3" rx="67.38" ry="67.38"/>
+<text text-anchor="middle" x="872.01" y="-528.2" font-family="Georgia" font-size="9.00" fill="white">'AMBIANT'</text>
+<text text-anchor="middle" x="872.01" y="-517.4" font-family="Georgia" font-size="9.00" fill="white">(umhafte)</text>
+<text text-anchor="middle" x="872.01" y="-506.6" font-family="Georgia" font-size="9.00" fill="white">référence spatiale</text>
+<text text-anchor="middle" x="872.01" y="-495.8" font-family="Georgia" font-size="9.00" fill="white">mais sens non</text>
+<text text-anchor="middle" x="872.01" y="-485" font-family="Georgia" font-size="9.00" fill="white">prioritairement spatial</text>
+</g>
+<!-- Umwelt&#45;&gt;Umhafte -->
+<g id="edge12" class="edge">
+<title>Umwelt-&gt;Umhafte</title>
+<path fill="none" stroke="#10b981" d="M906.05,-628.07C901.84,-613.51 897.23,-597.57 892.81,-582.26"/>
+<polygon fill="#10b981" stroke="#10b981" points="895.23,-581.83 890.93,-575.78 890.52,-583.19 895.23,-581.83"/>
+<text text-anchor="middle" x="914.94" y="-597.08" font-family="Georgia" font-size="8.00">'ambiant'</text>
+</g>
+<!-- Alltäglichkeit -->
+<g id="node14" class="node">
+<title>Alltäglichkeit</title>
+<ellipse fill="#34d399" stroke="black" cx="1015.01" cy="-509.3" rx="57.69" ry="57.69"/>
+<text text-anchor="middle" x="1015.01" y="-522.8" font-family="Georgia" font-size="9.00" fill="#1f2937">QUOTIDIENNETÉ</text>
+<text text-anchor="middle" x="1015.01" y="-512" font-family="Georgia" font-size="9.00" fill="#1f2937">(Alltäglichkeit)</text>
+<text text-anchor="middle" x="1015.01" y="-501.2" font-family="Georgia" font-size="9.00" fill="#1f2937">horizon méthodique</text>
+<text text-anchor="middle" x="1015.01" y="-490.4" font-family="Georgia" font-size="9.00" fill="#1f2937">approprié</text>
+</g>
+<!-- Umwelt&#45;&gt;Alltäglichkeit -->
+<g id="edge13" class="edge">
+<title>Umwelt-&gt;Alltäglichkeit</title>
+<path fill="none" stroke="#34d399" d="M949.16,-632.78C960.09,-612.45 972.76,-588.88 984.05,-567.88"/>
+<polygon fill="#34d399" stroke="#34d399" points="986.11,-569.22 987.27,-561.9 981.8,-566.9 986.11,-569.22"/>
+<text text-anchor="middle" x="991.47" y="-597.08" font-family="Georgia" font-size="8.00">dans horizon</text>
+</g>
+<!-- Raumlichkeit -->
+<g id="node28" class="node">
+<title>Raumlichkeit</title>
+<polygon fill="#dbeafe" stroke="black" points="898.14,-334.24 817.87,-334.24 817.87,-283.04 904.14,-283.04 904.14,-328.24 898.14,-334.24"/>
+<polyline fill="none" stroke="black" points="898.14,-334.24 898.14,-328.24"/>
+<polyline fill="none" stroke="black" points="904.14,-328.24 898.14,-328.24"/>
+<text text-anchor="middle" x="861.01" y="-322.14" font-family="Georgia" font-size="9.00" fill="#1e40af">SPATIALITÉ</text>
+<text text-anchor="middle" x="861.01" y="-311.34" font-family="Georgia" font-size="9.00" fill="#1e40af">à éclaircir à partir</text>
+<text text-anchor="middle" x="861.01" y="-300.54" font-family="Georgia" font-size="9.00" fill="#1e40af">de la mondéité</text>
+<text text-anchor="middle" x="861.01" y="-289.74" font-family="Georgia" font-size="9.00" fill="#1e40af">(non l'inverse)</text>
+</g>
+<!-- Umhafte&#45;&gt;Raumlichkeit -->
+<!-- MethodeVorgabe -->
+<g id="node15" class="node">
+<title>MethodeVorgabe</title>
+<polygon fill="#f97316" stroke="black" points="1046.01,-396.32 922.36,-264.8 1169.65,-264.8 1046.01,-396.32"/>
+<text text-anchor="middle" x="1046.01" y="-327.54" font-family="Georgia" font-size="9.00" fill="white">CONSIGNE</text>
+<text text-anchor="middle" x="1046.01" y="-316.74" font-family="Georgia" font-size="9.00" fill="white">MÉTHODIQUE</text>
+<text text-anchor="middle" x="1046.01" y="-305.94" font-family="Georgia" font-size="9.00" fill="white">prendre appui sur</text>
+<text text-anchor="middle" x="1046.01" y="-295.14" font-family="Georgia" font-size="9.00" fill="white">être-au-monde</text>
+<text text-anchor="middle" x="1046.01" y="-284.34" font-family="Georgia" font-size="9.00" fill="white">quotidien</text>
+</g>
+<!-- Alltäglichkeit&#45;&gt;MethodeVorgabe -->
+<g id="edge14" class="edge">
+<title>Alltäglichkeit-&gt;MethodeVorgabe</title>
+<path fill="none" stroke="#f97316" d="M1023.81,-451.91C1026.69,-433.46 1029.95,-412.56 1033.07,-392.57"/>
+<polygon fill="#f97316" stroke="#f97316" points="1035.45,-393.16 1034.11,-385.87 1030.61,-392.41 1035.45,-393.16"/>
+<text text-anchor="middle" x="1045.15" y="-416.72" font-family="Georgia" font-size="8.00">consigne</text>
+</g>
+<!-- Zugang -->
+<g id="node16" class="node">
+<title>Zugang</title>
+<polygon fill="#ea580c" stroke="black" points="1106.01,-175.36 983.3,-43.84 1228.71,-43.84 1106.01,-175.36"/>
+<text text-anchor="middle" x="1106.01" y="-106.58" font-family="Georgia" font-size="9.00" fill="white">JUSTE POINT</text>
+<text text-anchor="middle" x="1106.01" y="-95.78" font-family="Georgia" font-size="9.00" fill="white">DE DÉPART</text>
+<text text-anchor="middle" x="1106.01" y="-84.98" font-family="Georgia" font-size="9.00" fill="white">empêcher de</text>
+<text text-anchor="middle" x="1106.01" y="-74.18" font-family="Georgia" font-size="9.00" fill="white">franchir d'un saut</text>
+<text text-anchor="middle" x="1106.01" y="-63.38" font-family="Georgia" font-size="9.00" fill="white">le phénomène</text>
+</g>
+<!-- MethodeVorgabe&#45;&gt;Zugang -->
+<g id="edge15" class="edge">
+<title>MethodeVorgabe-&gt;Zugang</title>
+<path fill="none" stroke="#ea580c" d="M1057.86,-264.38C1065.7,-235.77 1076.19,-197.49 1085.38,-163.96"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="1087.67,-164.85 1087.16,-157.46 1082.95,-163.56 1087.67,-164.85"/>
+<text text-anchor="middle" x="1094.84" y="-195.76" font-family="Georgia" font-size="8.00">juste point</text>
+</g>
+<!-- Interpretation -->
+<g id="node17" class="node">
+<title>Interpretation</title>
+<polygon fill="#c2410c" stroke="black" points="1321.01,-396.32 1187.22,-264.8 1454.79,-264.8 1321.01,-396.32"/>
+<text text-anchor="middle" x="1321.01" y="-327.54" font-family="Georgia" font-size="9.00" fill="white">INTERPRÉTATION</text>
+<text text-anchor="middle" x="1321.01" y="-316.74" font-family="Georgia" font-size="9.00" fill="white">ONTOLOGIQUE</text>
+<text text-anchor="middle" x="1321.01" y="-305.94" font-family="Georgia" font-size="9.00" fill="white">de l'étant se</text>
+<text text-anchor="middle" x="1321.01" y="-295.14" font-family="Georgia" font-size="9.00" fill="white">rencontrant dans</text>
+<text text-anchor="middle" x="1321.01" y="-284.34" font-family="Georgia" font-size="9.00" fill="white">monde ambiant</text>
+</g>
+<!-- Zugang&#45;&gt;Interpretation -->
+<g id="edge16" class="edge">
+<title>Zugang-&gt;Interpretation</title>
+<path fill="none" stroke="#c2410c" d="M1147.66,-131.11C1183.44,-167.54 1235.03,-220.08 1272.62,-258.37"/>
+<polygon fill="#c2410c" stroke="#c2410c" points="1270.82,-260.03 1277.47,-263.3 1274.31,-256.59 1270.82,-260.03"/>
+<text text-anchor="middle" x="1218.68" y="-195.76" font-family="Georgia" font-size="8.00">via</text>
+</g>
+<!-- DreiSchritte -->
+<g id="node21" class="node">
+<title>DreiSchritte</title>
+<polygon fill="#fef3c7" stroke="black" points="1369.01,-113.28 1267.01,-113.28 1267.01,-62.08 1375.01,-62.08 1375.01,-107.28 1369.01,-113.28"/>
+<polyline fill="none" stroke="black" points="1369.01,-113.28 1369.01,-107.28"/>
+<polyline fill="none" stroke="black" points="1375.01,-107.28 1369.01,-107.28"/>
+<text text-anchor="middle" x="1321.01" y="-101.18" font-family="Georgia" font-size="9.00" fill="#92400e">TROIS ÉTAPES</text>
+<text text-anchor="middle" x="1321.01" y="-90.38" font-family="Georgia" font-size="9.00" fill="#92400e">A. Analyse mondéité</text>
+<text text-anchor="middle" x="1321.01" y="-79.58" font-family="Georgia" font-size="9.00" fill="#92400e">B. Contraste Descartes</text>
+<text text-anchor="middle" x="1321.01" y="-68.78" font-family="Georgia" font-size="9.00" fill="#92400e">C. Spatialité Dasein</text>
+</g>
+<!-- Interpretation&#45;&gt;DreiSchritte -->
+<g id="edge21" class="edge">
+<title>Interpretation-&gt;DreiSchritte</title>
+<path fill="none" stroke="#fef3c7" d="M1321.01,-264.38C1321.01,-222.55 1321.01,-160.07 1321.01,-121.98"/>
+<polygon fill="#fef3c7" stroke="#fef3c7" points="1323.46,-122.29 1321.01,-115.29 1318.56,-122.29 1323.46,-122.29"/>
+<text text-anchor="middle" x="1341.76" y="-195.76" font-family="Georgia" font-size="8.00">programme</text>
+</g>
+<!-- Sackgasse -->
+<g id="node18" class="node">
+<title>Sackgasse</title>
+<ellipse fill="#6b7280" stroke="black" cx="252.01" cy="-308.64" rx="68.14" ry="43.84"/>
+<text text-anchor="middle" x="252.01" y="-327.54" font-family="Georgia" font-size="9.00" fill="white">IMPASSE</text>
+<text text-anchor="middle" x="252.01" y="-316.74" font-family="Georgia" font-size="9.00" fill="white">ONTOLOGIE</text>
+<text text-anchor="middle" x="252.01" y="-305.94" font-family="Georgia" font-size="9.00" fill="white">TRADITIONNELLE</text>
+<text text-anchor="middle" x="252.01" y="-295.14" font-family="Georgia" font-size="9.00" fill="white">franchit d'un saut</text>
+<text text-anchor="middle" x="252.01" y="-284.34" font-family="Georgia" font-size="9.00" fill="white">la mondéité</text>
+</g>
+<!-- Sprung -->
+<g id="node27" class="node">
+<title>Sprung</title>
+<polygon fill="#fecaca" stroke="black" points="295.98,-118.68 202.03,-118.68 202.03,-56.68 301.98,-56.68 301.98,-112.68 295.98,-118.68"/>
+<polyline fill="none" stroke="black" points="295.98,-118.68 295.98,-112.68"/>
+<polyline fill="none" stroke="black" points="301.98,-112.68 295.98,-112.68"/>
+<text text-anchor="middle" x="252.01" y="-106.58" font-family="Georgia" font-size="9.00" fill="#7f1d1d">FRANCHISSEMENT</text>
+<text text-anchor="middle" x="252.01" y="-95.78" font-family="Georgia" font-size="9.00" fill="#7f1d1d">D'UN SAUT</text>
+<text text-anchor="middle" x="252.01" y="-84.98" font-family="Georgia" font-size="9.00" fill="#7f1d1d">(Übersprung)</text>
+<text text-anchor="middle" x="252.01" y="-74.18" font-family="Georgia" font-size="9.00" fill="#7f1d1d">fait ontique et</text>
+<text text-anchor="middle" x="252.01" y="-63.38" font-family="Georgia" font-size="9.00" fill="#7f1d1d">ontologique à éviter</text>
+</g>
+<!-- Sackgasse&#45;&gt;Sprung -->
+<!-- Vorausgesetzt&#45;&gt;Sackgasse -->
+<g id="edge19" class="edge">
+<title>Vorausgesetzt-&gt;Sackgasse</title>
+<path fill="none" stroke="#6b7280" d="M259.84,-465.2C258.3,-434.61 256.22,-393.41 254.6,-361.1"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="257.05,-361.05 254.25,-354.18 252.15,-361.29 257.05,-361.05"/>
+<text text-anchor="middle" x="271.99" y="-416.72" font-family="Georgia" font-size="8.00">impasse</text>
+</g>
+<!-- Dasein -->
+<g id="node26" class="node">
+<title>Dasein</title>
+<polygon fill="#ecfdf5" stroke="black" stroke-dasharray="5,2" points="1302.51,-715.28 1207.5,-715.28 1207.5,-653.28 1308.51,-653.28 1308.51,-709.28 1302.51,-715.28"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1302.51,-715.28 1302.51,-709.28"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1308.51,-709.28 1302.51,-709.28"/>
+<text text-anchor="middle" x="1258.01" y="-703.18" font-family="Georgia" font-size="9.00" fill="#065f46">MONDÉITÉ =</text>
+<text text-anchor="middle" x="1258.01" y="-692.38" font-family="Georgia" font-size="9.00" fill="#065f46">CARACTÈRE D'ÊTRE</text>
+<text text-anchor="middle" x="1258.01" y="-681.58" font-family="Georgia" font-size="9.00" fill="#065f46">DU DASEIN</text>
+<text text-anchor="middle" x="1258.01" y="-670.78" font-family="Georgia" font-size="9.00" fill="#065f46">(non de l'étant</text>
+<text text-anchor="middle" x="1258.01" y="-659.98" font-family="Georgia" font-size="9.00" fill="#065f46">que Dasein n'est pas)</text>
+</g>
+<!-- Existenzial&#45;&gt;Dasein -->
+<!-- VonDerWelt -->
+<g id="node24" class="node">
+<title>VonDerWelt</title>
+<polygon fill="#db2777" stroke="black" points="1184.81,-540.3 1091.21,-540.3 1091.21,-478.3 1184.81,-478.3 1184.81,-540.3"/>
+<text text-anchor="middle" x="1138.01" y="-528.2" font-family="Georgia" font-size="9.00" fill="white">'DU MONDE'</text>
+<text text-anchor="middle" x="1138.01" y="-517.4" font-family="Georgia" font-size="9.00" fill="white">(von der Welt)</text>
+<text text-anchor="middle" x="1138.01" y="-506.6" font-family="Georgia" font-size="9.00" fill="white">genre d'être</text>
+<text text-anchor="middle" x="1138.01" y="-495.8" font-family="Georgia" font-size="9.00" fill="white">du Dasein</text>
+<text text-anchor="middle" x="1138.01" y="-485" font-family="Georgia" font-size="9.00" fill="white">≠ étant là-devant</text>
+</g>
+<!-- WeltTermino&#45;&gt;VonDerWelt -->
+<g id="edge24" class="edge">
+<title>WeltTermino-&gt;VonDerWelt</title>
+<path fill="none" stroke="#db2777" d="M1138.86,-658.5C1138.7,-629.82 1138.42,-582.26 1138.23,-548.76"/>
+<polygon fill="#db2777" stroke="#db2777" points="1140.68,-549.07 1138.19,-542.08 1135.78,-549.1 1140.68,-549.07"/>
+<text text-anchor="middle" x="1158.1" y="-597.08" font-family="Georgia" font-size="8.00">'du monde'</text>
+</g>
+<!-- Welthaft -->
+<g id="node25" class="node">
+<title>Welthaft</title>
+<polygon fill="#be185d" stroke="black" points="1319.45,-534.9 1202.57,-534.9 1202.57,-483.7 1319.45,-483.7 1319.45,-534.9"/>
+<text text-anchor="middle" x="1261.01" y="-522.8" font-family="Georgia" font-size="9.00" fill="white">ADHÉRENT AU MONDE</text>
+<text text-anchor="middle" x="1261.01" y="-512" font-family="Georgia" font-size="9.00" fill="white">(welthaft)</text>
+<text text-anchor="middle" x="1261.01" y="-501.2" font-family="Georgia" font-size="9.00" fill="white">étant là-devant</text>
+<text text-anchor="middle" x="1261.01" y="-490.4" font-family="Georgia" font-size="9.00" fill="white">'dans' le monde</text>
+</g>
+<!-- WeltTermino&#45;&gt;Welthaft -->
+<g id="edge25" class="edge">
+<title>WeltTermino-&gt;Welthaft</title>
+<path fill="none" stroke="#be185d" d="M1156.49,-658.5C1178.08,-627.89 1214.85,-575.75 1238.52,-542.19"/>
+<polygon fill="#be185d" stroke="#be185d" points="1240.46,-543.69 1242.49,-536.56 1236.45,-540.87 1240.46,-543.69"/>
+<text text-anchor="middle" x="1219.75" y="-597.08" font-family="Georgia" font-size="8.00">≠ adhérent</text>
+</g>
+</g>
+</svg>

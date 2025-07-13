@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2033pt" height="1179pt" viewBox="0.00 0.00 2032.97 1178.76">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1174.7559)">
+<title>MethodePheno</title>
+<polygon fill="#f8f9fa" stroke="transparent" points="-4,4 -4,-1174.7559 2028.9713,-1174.7559 2028.9713,4 -4,4"/>
+<text text-anchor="middle" x="1012.4856" y="-1155.9559" font-family="Georgia" font-size="12.00" fill="#000000">§7 - La méthode phénoménologique de la recherche</text>
+<text text-anchor="middle" x="1012.4856" y="-1141.5559" font-family="Georgia" font-size="12.00" fill="#000000">(Phänomenologie als Methode der Ontologie)</text>
+<g id="clust1" class="cluster">
+<title>cluster_phenomenon</title>
+<polygon fill="#f8f9fa" stroke="#3b82f6" stroke-dasharray="5,2" points="311.0199,-397.2232 311.0199,-937.8973 484.0199,-937.8973 484.0199,-397.2232 311.0199,-397.2232"/>
+<text text-anchor="middle" x="397.5199" y="-923.0973" font-family="Georgia" font-size="12.00" fill="#3b82f6">PHÉNOMÈNE (ΦΑΙΝΟΜΕΝΟΝ)</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_logos</title>
+<polygon fill="#f8f9fa" stroke="#059669" stroke-dasharray="5,2" points="1109.0199,-407.2367 1109.0199,-941.5201 1261.0199,-941.5201 1261.0199,-407.2367 1109.0199,-407.2367"/>
+<text text-anchor="middle" x="1185.0199" y="-926.7201" font-family="Georgia" font-size="12.00" fill="#059669">LOGOS (ΛΟΓΟΣ)</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_verite</title>
+<polygon fill="#f8f9fa" stroke="#f97316" stroke-dasharray="5,2" points="1269.0199,-206.8077 1269.0199,-712.0387 1683.0199,-712.0387 1683.0199,-206.8077 1269.0199,-206.8077"/>
+<text text-anchor="middle" x="1476.0199" y="-697.2387" font-family="Georgia" font-size="12.00" fill="#f97316">VÉRITÉ (ΑΛΗΘΕΙΑ)</text>
+</g>
+<!-- ZuSachen -->
+<g id="node1" class="node">
+<title>ZuSachen</title>
+<polygon fill="#f59e0b" stroke="#000000" points="1057.8533,-887.1063 967.0727,-887.1063 939.0199,-973.2147 910.9671,-887.1063 820.1865,-887.1063 893.6296,-833.8883 865.5768,-747.7799 939.0199,-800.9978 1012.463,-747.7799 984.4102,-833.8883 1057.8533,-887.1063"/>
+<text text-anchor="middle" x="939.0199" y="-873.9973" font-family="Georgia" font-size="9.00" fill="#ffffff">"ZU DEN SACHEN</text>
+<text text-anchor="middle" x="939.0199" y="-863.1973" font-family="Georgia" font-size="9.00" fill="#ffffff">SELBST!"</text>
+<text text-anchor="middle" x="939.0199" y="-852.3973" font-family="Georgia" font-size="9.00" fill="#ffffff">(droit aux</text>
+<text text-anchor="middle" x="939.0199" y="-841.5973" font-family="Georgia" font-size="9.00" fill="#ffffff">choses mêmes)</text>
+</g>
+<!-- Phainomena legein -->
+<!-- ZuSachen&#45;&gt;Phainomena legein -->
+<g id="edge3" class="edge">
+<title>ZuSachen-&gt;Phainomena legein</title>
+<path fill="none" stroke="#f59e0b" stroke-dasharray="5,2" d="M910.4575,-780.0206C905.7408,-763.553 901.5646,-746.1924 899.0207,-729.6387 892.6876,-688.4271 895.6154,-638.3428 897.2178,-618.2277"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="899.6603,-618.4192 897.8228,-611.2341 894.7786,-617.9968 899.6603,-618.4192"/>
+<text text-anchor="middle" x="968.0195" y="-722.4387" font-family="Georgia" font-size="8.00" fill="#000000">= λέγειν τὰ φαινόμενα</text>
+</g>
+<!-- Methode -->
+<g id="node27" class="node">
+<title>Methode</title>
+<polygon fill="#dbeafe" stroke="#000000" points="1095.2337,-645.5312 1000.8061,-645.5312 1000.8061,-572.9307 1101.2337,-572.9307 1101.2337,-639.5312 1095.2337,-645.5312"/>
+<polyline fill="none" stroke="#000000" points="1095.2337,-645.5312 1095.2337,-639.5312 "/>
+<polyline fill="none" stroke="#000000" points="1101.2337,-639.5312 1095.2337,-639.5312 "/>
+<text text-anchor="middle" x="1051.0199" y="-633.5309" font-family="Georgia" font-size="9.00" fill="#1e40af">CONCEPTION</text>
+<text text-anchor="middle" x="1051.0199" y="-622.7309" font-family="Georgia" font-size="9.00" fill="#1e40af">MÉTHODOLOGIQUE</text>
+<text text-anchor="middle" x="1051.0199" y="-611.9309" font-family="Georgia" font-size="9.00" fill="#1e40af">Pas un 'point de vue'</text>
+<text text-anchor="middle" x="1051.0199" y="-601.1309" font-family="Georgia" font-size="9.00" fill="#1e40af">Pas une 'tendance'</text>
+<text text-anchor="middle" x="1051.0199" y="-590.3309" font-family="Georgia" font-size="9.00" fill="#1e40af">Mais la méthode</text>
+<text text-anchor="middle" x="1051.0199" y="-579.5309" font-family="Georgia" font-size="9.00" fill="#1e40af">de l'ontologie</text>
+</g>
+<!-- ZuSachen&#45;&gt;Methode -->
+<!-- Phainomenon -->
+<g id="node2" class="node">
+<title>Phainomenon</title>
+<ellipse fill="#3b82f6" stroke="#000000" cx="839.0199" cy="-1076.4559" rx="57.5" ry="57.5"/>
+<text text-anchor="middle" x="839.0199" y="-1089.9559" font-family="Georgia" font-size="9.00" fill="#ffffff">ΦΑΙΝΟΜΕΝΟΝ</text>
+<text text-anchor="middle" x="839.0199" y="-1079.1559" font-family="Georgia" font-size="9.00" fill="#ffffff">(phainomenon)</text>
+<text text-anchor="middle" x="839.0199" y="-1068.3559" font-family="Georgia" font-size="9.00" fill="#ffffff">le se-montrant-</text>
+<text text-anchor="middle" x="839.0199" y="-1057.5559" font-family="Georgia" font-size="9.00" fill="#ffffff">de-soi-même</text>
+</g>
+<!-- Phainomenon&#45;&gt;ZuSachen -->
+<g id="edge1" class="edge">
+<title>Phainomenon-&gt;ZuSachen</title>
+<path fill="none" stroke="#3b82f6" d="M863.2271,-1024.1784C878.7256,-990.708 898.7772,-947.405 914.3627,-913.7466"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="916.6994,-914.5309 917.4176,-907.1493 912.253,-912.4719 916.6994,-914.5309"/>
+<text text-anchor="middle" x="890.1259" y="-993.7559" font-family="Georgia" font-size="8.00" fill="#000000">exprime</text>
+</g>
+<!-- SichZeigen -->
+<g id="node3" class="node">
+<title>SichZeigen</title>
+<ellipse fill="#1e40af" stroke="#000000" cx="429.0199" cy="-860.4973" rx="47" ry="47"/>
+<text text-anchor="middle" x="429.0199" y="-868.5973" font-family="Georgia" font-size="9.00" fill="#ffffff">SICH ZEIGEN</text>
+<text text-anchor="middle" x="429.0199" y="-857.7973" font-family="Georgia" font-size="9.00" fill="#ffffff">(se montrer)</text>
+<text text-anchor="middle" x="429.0199" y="-846.9973" font-family="Georgia" font-size="9.00" fill="#ffffff">le manifeste</text>
+</g>
+<!-- Phainomenon&#45;&gt;SichZeigen -->
+<g id="edge4" class="edge">
+<title>Phainomenon-&gt;SichZeigen</title>
+<path fill="none" stroke="#3b82f6" d="M787.9221,-1049.5413C708.1629,-1007.5298 555.1564,-926.937 477.2162,-885.8837"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="478.1594,-883.6114 470.8242,-882.5168 475.8758,-887.9468 478.1594,-883.6114"/>
+<text text-anchor="middle" x="714.2687" y="-993.7559" font-family="Georgia" font-size="8.00" fill="#000000">= se montrer</text>
+</g>
+<!-- Offenbar -->
+<g id="node4" class="node">
+<title>Offenbar</title>
+<ellipse fill="#1d4ed8" stroke="#000000" cx="429.0199" cy="-448.2232" rx="43" ry="43"/>
+<text text-anchor="middle" x="429.0199" y="-456.3232" font-family="Georgia" font-size="9.00" fill="#ffffff">OFFENBAR</text>
+<text text-anchor="middle" x="429.0199" y="-445.5232" font-family="Georgia" font-size="9.00" fill="#ffffff">(manifeste)</text>
+<text text-anchor="middle" x="429.0199" y="-434.7232" font-family="Georgia" font-size="9.00" fill="#ffffff">tà onta</text>
+</g>
+<!-- SichZeigen&#45;&gt;Offenbar -->
+<g id="edge5" class="edge">
+<title>SichZeigen-&gt;Offenbar</title>
+<path fill="none" stroke="#1e40af" d="M429.0199,-813.2042C429.0199,-734.776 429.0199,-578.51 429.0199,-498.2889"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="431.47,-498.2375 429.0199,-491.2375 426.57,-498.2375 431.47,-498.2375"/>
+<text text-anchor="middle" x="448.4559" y="-606.8309" font-family="Georgia" font-size="8.00" fill="#000000">le manifeste</text>
+</g>
+<!-- Erscheinung -->
+<g id="node8" class="node">
+<title>Erscheinung</title>
+<polygon fill="#ec4899" stroke="#000000" points="582.0199,-671.2309 492.1048,-609.2309 582.0199,-547.2309 671.935,-609.2309 582.0199,-671.2309"/>
+<text text-anchor="middle" x="582.0199" y="-628.1309" font-family="Georgia" font-size="9.00" fill="#ffffff">ERSCHEINUNG</text>
+<text text-anchor="middle" x="582.0199" y="-617.3309" font-family="Georgia" font-size="9.00" fill="#ffffff">(apparition)</text>
+<text text-anchor="middle" x="582.0199" y="-606.5309" font-family="Georgia" font-size="9.00" fill="#ffffff">s'annoncer à travers</text>
+<text text-anchor="middle" x="582.0199" y="-595.7309" font-family="Georgia" font-size="9.00" fill="#ffffff">quelque chose qui</text>
+<text text-anchor="middle" x="582.0199" y="-584.9309" font-family="Georgia" font-size="9.00" fill="#ffffff">se montre</text>
+</g>
+<!-- SichZeigen&#45;&gt;Erscheinung -->
+<g id="edge9" class="edge">
+<title>SichZeigen-&gt;Erscheinung</title>
+<path fill="none" stroke="#db2777" d="M453.602,-820.127C480.1991,-776.4476 522.6492,-706.7333 551.3955,-659.5242"/>
+<polygon fill="#db2777" stroke="#db2777" points="553.6339,-660.559 555.1819,-653.306 549.4487,-658.0106 553.6339,-660.559"/>
+<text text-anchor="middle" x="530.2375" y="-722.4387" font-family="Georgia" font-size="8.00" fill="#000000">≠ apparition</text>
+</g>
+<!-- Schein -->
+<g id="node9" class="node">
+<title>Schein</title>
+<polygon fill="#db2777" stroke="#000000" points="220.0199,-660.6317 137.0657,-609.2309 220.0199,-557.8302 302.9741,-609.2309 220.0199,-660.6317"/>
+<text text-anchor="middle" x="220.0199" y="-622.7309" font-family="Georgia" font-size="9.00" fill="#ffffff">SCHEIN</text>
+<text text-anchor="middle" x="220.0199" y="-611.9309" font-family="Georgia" font-size="9.00" fill="#ffffff">(semblant)</text>
+<text text-anchor="middle" x="220.0199" y="-601.1309" font-family="Georgia" font-size="9.00" fill="#ffffff">se montrer comme</text>
+<text text-anchor="middle" x="220.0199" y="-590.3309" font-family="Georgia" font-size="9.00" fill="#ffffff">ce qu'on n'est pas</text>
+</g>
+<!-- SichZeigen&#45;&gt;Schein -->
+<g id="edge8" class="edge">
+<title>SichZeigen-&gt;Schein</title>
+<path fill="none" stroke="#ec4899" d="M398.8527,-824.2294C360.1025,-777.6426 293.0789,-697.0648 253.0101,-648.8928"/>
+<polygon fill="#ec4899" stroke="#ec4899" points="254.8607,-647.2864 248.5007,-643.4715 251.0935,-650.4199 254.8607,-647.2864"/>
+<text text-anchor="middle" x="338.9015" y="-722.4387" font-family="Georgia" font-size="8.00" fill="#000000">peut devenir</text>
+</g>
+<!-- PhaenomenBegriff -->
+<g id="node14" class="node">
+<title>PhaenomenBegriff</title>
+<polygon fill="#7c3aed" stroke="#000000" points="486.5199,-312.9159 371.5199,-312.9159 371.5199,-261.5151 486.5199,-261.5151 486.5199,-312.9159"/>
+<text text-anchor="middle" x="429.0199" y="-300.7155" font-family="Georgia" font-size="9.00" fill="#ffffff">CONCEPT</text>
+<text text-anchor="middle" x="429.0199" y="-289.9155" font-family="Georgia" font-size="9.00" fill="#ffffff">PHÉNOMÉNOLOGIQUE</text>
+<text text-anchor="middle" x="429.0199" y="-279.1155" font-family="Georgia" font-size="9.00" fill="#ffffff">DE PHÉNOMÈNE</text>
+<text text-anchor="middle" x="429.0199" y="-268.3155" font-family="Georgia" font-size="9.00" fill="#ffffff">= l'être de l'étant</text>
+</g>
+<!-- Offenbar&#45;&gt;PhaenomenBegriff -->
+<g id="edge14" class="edge">
+<title>Offenbar-&gt;PhaenomenBegriff</title>
+<path fill="none" stroke="#7c3aed" d="M429.0199,-405.0761C429.0199,-378.4005 429.0199,-344.6934 429.0199,-320.166"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="431.47,-319.8666 429.0199,-312.8667 426.57,-319.8667 431.47,-319.8666"/>
+<text text-anchor="middle" x="469.5627" y="-380.0232" font-family="Georgia" font-size="8.00" fill="#000000">mais en phénoménologie</text>
+</g>
+<!-- Logos -->
+<g id="node5" class="node">
+<title>Logos</title>
+<polygon fill="#059669" stroke="#000000" points="1036.9314,-1076.4559 1007.9757,-1109.4288 950.0641,-1109.4288 921.1084,-1076.4559 950.0641,-1043.483 1007.9757,-1043.483 1036.9314,-1076.4559"/>
+<text text-anchor="middle" x="979.0199" y="-1084.5559" font-family="Georgia" font-size="9.00" fill="#ffffff">ΛΟΓΟΣ</text>
+<text text-anchor="middle" x="979.0199" y="-1073.7559" font-family="Georgia" font-size="9.00" fill="#ffffff">(logos)</text>
+<text text-anchor="middle" x="979.0199" y="-1062.9559" font-family="Georgia" font-size="9.00" fill="#ffffff">parole/discours</text>
+</g>
+<!-- Logos&#45;&gt;ZuSachen -->
+<g id="edge2" class="edge">
+<title>Logos-&gt;ZuSachen</title>
+<path fill="none" stroke="#059669" d="M972.8576,-1043.1857C967.7624,-1015.677 960.3171,-975.48 953.7067,-939.7907"/>
+<polygon fill="#059669" stroke="#059669" points="956.0806,-939.1547 952.3967,-932.718 951.2626,-940.0472 956.0806,-939.1547"/>
+<text text-anchor="middle" x="977.1259" y="-993.7559" font-family="Georgia" font-size="8.00" fill="#000000">exprime</text>
+</g>
+<!-- Apophainesthai -->
+<g id="node6" class="node">
+<title>Apophainesthai</title>
+<polygon fill="#10b981" stroke="#000000" points="1253.2987,-860.4973 1219.1593,-911.2432 1150.8805,-911.2432 1116.7411,-860.4973 1150.8805,-809.7514 1219.1593,-809.7514 1253.2987,-860.4973"/>
+<text text-anchor="middle" x="1185.0199" y="-879.3973" font-family="Georgia" font-size="9.00" fill="#ffffff">ΑΠΟΦΑΙΝΕΣΘΑΙ</text>
+<text text-anchor="middle" x="1185.0199" y="-868.5973" font-family="Georgia" font-size="9.00" fill="#ffffff">(apophainesthai)</text>
+<text text-anchor="middle" x="1185.0199" y="-857.7973" font-family="Georgia" font-size="9.00" fill="#ffffff">faire voir quelque</text>
+<text text-anchor="middle" x="1185.0199" y="-846.9973" font-family="Georgia" font-size="9.00" fill="#ffffff">chose à partir de</text>
+<text text-anchor="middle" x="1185.0199" y="-836.1973" font-family="Georgia" font-size="9.00" fill="#ffffff">lui-même</text>
+</g>
+<!-- Logos&#45;&gt;Apophainesthai -->
+<g id="edge6" class="edge">
+<title>Logos-&gt;Apophainesthai</title>
+<path fill="none" stroke="#059669" d="M1009.4159,-1044.5905C1043.8683,-1008.4726 1100.3711,-949.2382 1139.9552,-907.7406"/>
+<polygon fill="#059669" stroke="#059669" points="1141.8795,-909.2728 1144.9383,-902.5166 1138.3338,-905.8907 1141.8795,-909.2728"/>
+<text text-anchor="middle" x="1072.4619" y="-993.7559" font-family="Georgia" font-size="8.00" fill="#000000">fonction :</text>
+</g>
+<!-- Deloun -->
+<g id="node7" class="node">
+<title>Deloun</title>
+<polygon fill="#34d399" stroke="#000000" points="1247.4829,-448.2232 1216.2514,-481.1961 1153.7884,-481.1961 1122.5569,-448.2232 1153.7884,-415.2503 1216.2514,-415.2503 1247.4829,-448.2232"/>
+<text text-anchor="middle" x="1185.0199" y="-456.3232" font-family="Georgia" font-size="9.00" fill="#1f2937">ΔΗΛΟΥΝ</text>
+<text text-anchor="middle" x="1185.0199" y="-445.5232" font-family="Georgia" font-size="9.00" fill="#1f2937">(dêloun)</text>
+<text text-anchor="middle" x="1185.0199" y="-434.7232" font-family="Georgia" font-size="9.00" fill="#1f2937">rendre manifeste</text>
+</g>
+<!-- Apophainesthai&#45;&gt;Deloun -->
+<g id="edge7" class="edge">
+<title>Apophainesthai-&gt;Deloun</title>
+<path fill="none" stroke="#10b981" d="M1185.0199,-809.5309C1185.0199,-726.4661 1185.0199,-563.6126 1185.0199,-488.2454"/>
+<polygon fill="#10b981" stroke="#10b981" points="1187.47,-488.2305 1185.0199,-481.2305 1182.57,-488.2306 1187.47,-488.2305"/>
+<text text-anchor="middle" x="1215.0387" y="-606.8309" font-family="Georgia" font-size="8.00" fill="#000000">= rendre manifeste</text>
+</g>
+<!-- Aletheia -->
+<g id="node11" class="node">
+<title>Aletheia</title>
+<polygon fill="#f97316" stroke="#000000" points="1368.0199,-681.5465 1277.2008,-573.0731 1458.839,-573.0731 1368.0199,-681.5465"/>
+<text text-anchor="middle" x="1368.0199" y="-622.7309" font-family="Georgia" font-size="9.00" fill="#ffffff">ΑΛΗΘΕΙΑ</text>
+<text text-anchor="middle" x="1368.0199" y="-611.9309" font-family="Georgia" font-size="9.00" fill="#ffffff">(alêtheia)</text>
+<text text-anchor="middle" x="1368.0199" y="-601.1309" font-family="Georgia" font-size="9.00" fill="#ffffff">dé-voilement</text>
+<text text-anchor="middle" x="1368.0199" y="-590.3309" font-family="Georgia" font-size="9.00" fill="#ffffff">sans-retrait</text>
+</g>
+<!-- Apophainesthai&#45;&gt;Aletheia -->
+<g id="edge11" class="edge">
+<title>Apophainesthai-&gt;Aletheia</title>
+<path fill="none" stroke="#f97316" d="M1220.5211,-811.7527C1253.8449,-765.9977 1303.2701,-698.135 1335.5655,-653.7922"/>
+<polygon fill="#f97316" stroke="#f97316" points="1337.6682,-655.0666 1339.8088,-647.9659 1333.7073,-652.1819 1337.6682,-655.0666"/>
+<text text-anchor="middle" x="1301.0687" y="-722.4387" font-family="Georgia" font-size="8.00" fill="#000000">dévoilement</text>
+</g>
+<!-- Pseudesthai -->
+<g id="node12" class="node">
+<title>Pseudesthai</title>
+<polygon fill="#ea580c" stroke="#000000" points="1576.0199,-666.4997 1477.1292,-580.5966 1674.9105,-580.5966 1576.0199,-666.4997"/>
+<text text-anchor="middle" x="1576.0199" y="-617.3309" font-family="Georgia" font-size="9.00" fill="#ffffff">ΨΕΥΔΕΣΘΑΙ</text>
+<text text-anchor="middle" x="1576.0199" y="-606.5309" font-family="Georgia" font-size="9.00" fill="#ffffff">(pseudesthai)</text>
+<text text-anchor="middle" x="1576.0199" y="-595.7309" font-family="Georgia" font-size="9.00" fill="#ffffff">voiler/tromper</text>
+</g>
+<!-- Apophainesthai&#45;&gt;Pseudesthai -->
+<g id="edge12" class="edge">
+<title>Apophainesthai-&gt;Pseudesthai</title>
+<path fill="none" stroke="#ea580c" d="M1238.4036,-837.894C1297.2689,-811.7702 1393.5042,-765.4556 1468.0199,-712.0387 1494.7861,-692.8512 1521.6208,-667.345 1541.8459,-646.5386"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="1543.7469,-648.0968 1546.8414,-641.3568 1540.2192,-644.6959 1543.7469,-648.0968"/>
+<text text-anchor="middle" x="1474.0175" y="-722.4387" font-family="Georgia" font-size="8.00" fill="#000000">ou voilement</text>
+</g>
+<!-- Auslegung -->
+<g id="node21" class="node">
+<title>Auslegung</title>
+<polygon fill="#fbbf24" stroke="#000000" points="1787.5199,-634.9313 1692.5199,-634.9313 1692.5199,-583.5305 1793.5199,-583.5305 1793.5199,-628.9313 1787.5199,-634.9313"/>
+<polyline fill="none" stroke="#000000" points="1787.5199,-634.9313 1787.5199,-628.9313 "/>
+<polyline fill="none" stroke="#000000" points="1793.5199,-628.9313 1787.5199,-628.9313 "/>
+<text text-anchor="middle" x="1743.0199" y="-622.7309" font-family="Georgia" font-size="9.00" fill="#92400e">AUSLEGUNG</text>
+<text text-anchor="middle" x="1743.0199" y="-611.9309" font-family="Georgia" font-size="9.00" fill="#92400e">(explicitation)</text>
+<text text-anchor="middle" x="1743.0199" y="-601.1309" font-family="Georgia" font-size="9.00" fill="#92400e">caractère du logos</text>
+<text text-anchor="middle" x="1743.0199" y="-590.3309" font-family="Georgia" font-size="9.00" fill="#92400e">phénoménologique</text>
+</g>
+<!-- Apophainesthai&#45;&gt;Auslegung -->
+<g id="edge20" class="edge">
+<title>Apophainesthai-&gt;Auslegung</title>
+<path fill="none" stroke="#fbbf24" d="M1250.9482,-856.8191C1354.5307,-847.8641 1556.9662,-817.1614 1687.0199,-712.0387 1709.3666,-693.9758 1724.1102,-664.5093 1732.833,-641.7432"/>
+<polygon fill="#fbbf24" stroke="#fbbf24" points="1735.2283,-642.3285 1735.3486,-634.913 1730.6303,-640.635 1735.2283,-642.3285"/>
+<text text-anchor="middle" x="1693.1159" y="-722.4387" font-family="Georgia" font-size="8.00" fill="#000000">caractère :</text>
+</g>
+<!-- Formule -->
+<g id="node26" class="node">
+<title>Formule</title>
+<polygon fill="#ecfdf5" stroke="#000000" stroke-dasharray="5,2" points="2018.9227,-640.2309 1811.1171,-640.2309 1811.1171,-578.2309 2024.9227,-578.2309 2024.9227,-634.2309 2018.9227,-640.2309"/>
+<polyline fill="none" stroke="#000000" stroke-dasharray="5,2" points="2018.9227,-640.2309 2018.9227,-634.2309 "/>
+<polyline fill="none" stroke="#000000" stroke-dasharray="5,2" points="2024.9227,-634.2309 2018.9227,-634.2309 "/>
+<text text-anchor="middle" x="1918.0199" y="-628.1309" font-family="Georgia" font-size="9.00" fill="#065f46">PHÉNOMÉNOLOGIE =</text>
+<text text-anchor="middle" x="1918.0199" y="-617.3309" font-family="Georgia" font-size="9.00" fill="#065f46">ἀποφαίνεσθαι τὰ φαινόμενα</text>
+<text text-anchor="middle" x="1918.0199" y="-606.5309" font-family="Georgia" font-size="9.00" fill="#065f46">faire voir ce qui se montre</text>
+<text text-anchor="middle" x="1918.0199" y="-595.7309" font-family="Georgia" font-size="9.00" fill="#065f46">tel qu'il se montre</text>
+<text text-anchor="middle" x="1918.0199" y="-584.9309" font-family="Georgia" font-size="9.00" fill="#065f46">de lui-même</text>
+</g>
+<!-- Apophainesthai&#45;&gt;Formule -->
+<!-- BlosseErscheinung -->
+<g id="node10" class="node">
+<title>BlosseErscheinung</title>
+<polygon fill="#be185d" stroke="#000000" points="799.0199,-671.2309 719.5497,-609.2309 799.0199,-547.2309 878.4901,-609.2309 799.0199,-671.2309"/>
+<text text-anchor="middle" x="799.0199" y="-628.1309" font-family="Georgia" font-size="9.00" fill="#ffffff">BLOSSE</text>
+<text text-anchor="middle" x="799.0199" y="-617.3309" font-family="Georgia" font-size="9.00" fill="#ffffff">ERSCHEINUNG</text>
+<text text-anchor="middle" x="799.0199" y="-606.5309" font-family="Georgia" font-size="9.00" fill="#ffffff">(pure apparition)</text>
+<text text-anchor="middle" x="799.0199" y="-595.7309" font-family="Georgia" font-size="9.00" fill="#ffffff">voiler en</text>
+<text text-anchor="middle" x="799.0199" y="-584.9309" font-family="Georgia" font-size="9.00" fill="#ffffff">se montrant</text>
+</g>
+<!-- Erscheinung&#45;&gt;BlosseErscheinung -->
+<g id="edge10" class="edge">
+<title>Erscheinung-&gt;BlosseErscheinung</title>
+<path fill="none" stroke="#be185d" d="M671.8485,-609.2309C685.1297,-609.2309 698.7958,-609.2309 712.0181,-609.2309"/>
+<polygon fill="#be185d" stroke="#be185d" points="712.3129,-611.681 719.3129,-609.2309 712.3129,-606.781 712.3129,-611.681"/>
+<text text-anchor="middle" x="695.631" y="-614.6309" font-family="Georgia" font-size="8.00" fill="#000000">peut être</text>
+</g>
+<!-- Aisthesis -->
+<g id="node13" class="node">
+<title>Aisthesis</title>
+<polygon fill="#c2410c" stroke="#000000" points="1379.0199,-359.5311 1276.7371,-251.0577 1481.3027,-251.0577 1379.0199,-359.5311"/>
+<text text-anchor="middle" x="1379.0199" y="-300.7155" font-family="Georgia" font-size="9.00" fill="#ffffff">ΑΙΣΘΗΣΙΣ</text>
+<text text-anchor="middle" x="1379.0199" y="-289.9155" font-family="Georgia" font-size="9.00" fill="#ffffff">(aisthêsis)</text>
+<text text-anchor="middle" x="1379.0199" y="-279.1155" font-family="Georgia" font-size="9.00" fill="#ffffff">perception pure</text>
+<text text-anchor="middle" x="1379.0199" y="-268.3155" font-family="Georgia" font-size="9.00" fill="#ffffff">toujours vraie</text>
+</g>
+<!-- Aletheia&#45;&gt;Aisthesis -->
+<g id="edge13" class="edge">
+<title>Aletheia-&gt;Aisthesis</title>
+<path fill="none" stroke="#c2410c" d="M1369.2604,-572.9176C1370.9789,-522.6096 1374.1269,-430.4526 1376.3833,-364.3982"/>
+<polygon fill="#c2410c" stroke="#c2410c" points="1378.8358,-364.3646 1376.6263,-357.285 1373.9387,-364.1972 1378.8358,-364.3646"/>
+<text text-anchor="middle" x="1398.9003" y="-445.8232" font-family="Georgia" font-size="8.00" fill="#000000">originaire dans</text>
+</g>
+<!-- Verborgenheit -->
+<g id="node15" class="node">
+<title>Verborgenheit</title>
+<polygon fill="#5b21b6" stroke="#000000" points="346.5199,-169.3081 245.5199,-169.3081 245.5199,-117.9073 346.5199,-117.9073 346.5199,-169.3081"/>
+<text text-anchor="middle" x="296.0199" y="-157.1077" font-family="Georgia" font-size="9.00" fill="#ffffff">ÊTRE-OCCULTÉ</text>
+<text text-anchor="middle" x="296.0199" y="-146.3077" font-family="Georgia" font-size="9.00" fill="#ffffff">(Verborgenheit)</text>
+<text text-anchor="middle" x="296.0199" y="-135.5077" font-family="Georgia" font-size="9.00" fill="#ffffff">contrepartie du</text>
+<text text-anchor="middle" x="296.0199" y="-124.7077" font-family="Georgia" font-size="9.00" fill="#ffffff">phénomène</text>
+</g>
+<!-- PhaenomenBegriff&#45;&gt;Verborgenheit -->
+<g id="edge15" class="edge">
+<title>PhaenomenBegriff-&gt;Verborgenheit</title>
+<path fill="none" stroke="#5b21b6" d="M405.2422,-261.5413C382.7807,-237.2884 349.0425,-200.8593 325.0129,-174.9132"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="326.5942,-173.0149 320.0402,-169.5438 322.9991,-176.3444 326.5942,-173.0149"/>
+<text text-anchor="middle" x="362.1203" y="-189.6077" font-family="Georgia" font-size="8.00" fill="#000000">contrepartie</text>
+</g>
+<!-- OntoPheno -->
+<g id="node22" class="node">
+<title>OntoPheno</title>
+<polygon fill="#f59e0b" stroke="#000000" points="680.5199,-164.0097 565.5199,-164.0097 565.5199,-123.2057 680.5199,-123.2057 680.5199,-164.0097"/>
+<text text-anchor="middle" x="623.0199" y="-151.7077" font-family="Georgia" font-size="9.00" fill="#ffffff">ONTOLOGIE</text>
+<text text-anchor="middle" x="623.0199" y="-140.9077" font-family="Georgia" font-size="9.00" fill="#ffffff">PHÉNOMÉNOLOGIQUE</text>
+<text text-anchor="middle" x="623.0199" y="-130.1077" font-family="Georgia" font-size="9.00" fill="#ffffff">UNIVERSELLE</text>
+</g>
+<!-- PhaenomenBegriff&#45;&gt;OntoPheno -->
+<g id="edge22" class="edge">
+<title>PhaenomenBegriff-&gt;OntoPheno</title>
+<path fill="none" stroke="#f59e0b" d="M463.7032,-261.5413C499.3504,-235.1536 554.4696,-194.3518 589.6349,-168.3208"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="591.3615,-170.091 595.53,-163.957 588.4461,-166.1526 591.3615,-170.091"/>
+<text text-anchor="middle" x="569.1271" y="-189.6077" font-family="Georgia" font-size="8.00" fill="#000000">fonde</text>
+</g>
+<!-- Destruktion -->
+<g id="node16" class="node">
+<title>Destruktion</title>
+<polygon fill="#4c1d95" stroke="#000000" points="224.0199,-56.6059 130.0199,-56.6059 130.0199,-15.8019 224.0199,-15.8019 224.0199,-56.6059"/>
+<text text-anchor="middle" x="177.0199" y="-44.3039" font-family="Georgia" font-size="9.00" fill="#ffffff">DÉVOILEMENT</text>
+<text text-anchor="middle" x="177.0199" y="-33.5039" font-family="Georgia" font-size="9.00" fill="#ffffff">(Destruktion)</text>
+<text text-anchor="middle" x="177.0199" y="-22.7039" font-family="Georgia" font-size="9.00" fill="#ffffff">contre l'occultation</text>
+</g>
+<!-- Verborgenheit&#45;&gt;Destruktion -->
+<g id="edge16" class="edge">
+<title>Verborgenheit-&gt;Destruktion</title>
+<path fill="none" stroke="#4c1d95" d="M267.5164,-117.8818C248.6977,-100.8969 224.1395,-78.7318 205.3551,-61.7779"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="206.5616,-59.5665 199.7236,-56.6951 203.2785,-63.204 206.5616,-59.5665"/>
+<text text-anchor="middle" x="256.6827" y="-92.8077" font-family="Georgia" font-size="8.00" fill="#000000">exige</text>
+</g>
+<!-- Unentdeckt -->
+<g id="node17" class="node">
+<title>Unentdeckt</title>
+<ellipse fill="#6b7280" stroke="#000000" cx="296.0199" cy="-36.2039" rx="54.3452" ry="36.4089"/>
+<text text-anchor="middle" x="296.0199" y="-49.7039" font-family="Georgia" font-size="9.00" fill="#ffffff">NON-DÉVOILÉ</text>
+<text text-anchor="middle" x="296.0199" y="-38.9039" font-family="Georgia" font-size="9.00" fill="#ffffff">(unentdeckt)</text>
+<text text-anchor="middle" x="296.0199" y="-28.1039" font-family="Georgia" font-size="9.00" fill="#ffffff">jamais mis</text>
+<text text-anchor="middle" x="296.0199" y="-17.3039" font-family="Georgia" font-size="9.00" fill="#ffffff">au jour</text>
+</g>
+<!-- Verborgenheit&#45;&gt;Unentdeckt -->
+<g id="edge17" class="edge">
+<title>Verborgenheit-&gt;Unentdeckt</title>
+<path fill="none" stroke="#6b7280" d="M296.0199,-117.8818C296.0199,-106.4668 296.0199,-92.7119 296.0199,-79.7717"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="298.47,-79.6865 296.0199,-72.6865 293.57,-79.6865 298.47,-79.6865"/>
+<text text-anchor="middle" x="311.2331" y="-92.8077" font-family="Georgia" font-size="8.00" fill="#000000">peut être</text>
+</g>
+<!-- Verschuttet -->
+<g id="node18" class="node">
+<title>Verschuttet</title>
+<ellipse fill="#4b5563" stroke="#000000" cx="429.0199" cy="-36.2039" rx="60.3591" ry="36.4089"/>
+<text text-anchor="middle" x="429.0199" y="-49.7039" font-family="Georgia" font-size="9.00" fill="#ffffff">ENFOUI</text>
+<text text-anchor="middle" x="429.0199" y="-38.9039" font-family="Georgia" font-size="9.00" fill="#ffffff">(verschüttet)</text>
+<text text-anchor="middle" x="429.0199" y="-28.1039" font-family="Georgia" font-size="9.00" fill="#ffffff">auparavant dévoilé</text>
+<text text-anchor="middle" x="429.0199" y="-17.3039" font-family="Georgia" font-size="9.00" fill="#ffffff">puis occulté</text>
+</g>
+<!-- Verborgenheit&#45;&gt;Verschuttet -->
+<g id="edge18" class="edge">
+<title>Verborgenheit-&gt;Verschuttet</title>
+<path fill="none" stroke="#4b5563" d="M327.8767,-117.8818C345.5665,-103.5965 367.7939,-85.6468 386.9032,-70.2151"/>
+<polygon fill="#4b5563" stroke="#4b5563" points="388.8184,-71.8177 392.7251,-65.5136 385.7399,-68.0055 388.8184,-71.8177"/>
+<text text-anchor="middle" x="374.2331" y="-92.8077" font-family="Georgia" font-size="8.00" fill="#000000">peut être</text>
+</g>
+<!-- Verstellt -->
+<g id="node19" class="node">
+<title>Verstellt</title>
+<ellipse fill="#374151" stroke="#000000" cx="56.0199" cy="-36.2039" rx="56.0398" ry="36.4089"/>
+<text text-anchor="middle" x="56.0199" y="-49.7039" font-family="Georgia" font-size="9.00" fill="#ffffff">MASQUÉ</text>
+<text text-anchor="middle" x="56.0199" y="-38.9039" font-family="Georgia" font-size="9.00" fill="#ffffff">(verstellt)</text>
+<text text-anchor="middle" x="56.0199" y="-28.1039" font-family="Georgia" font-size="9.00" fill="#ffffff">apparaît comme</text>
+<text text-anchor="middle" x="56.0199" y="-17.3039" font-family="Georgia" font-size="9.00" fill="#ffffff">semblant</text>
+</g>
+<!-- Verborgenheit&#45;&gt;Verstellt -->
+<g id="edge19" class="edge">
+<title>Verborgenheit-&gt;Verstellt</title>
+<path fill="none" stroke="#374151" d="M245.1485,-124.7966C209.8413,-111.2851 161.9791,-92.0568 121.0199,-72.4077 115.5789,-69.7976 109.959,-66.9343 104.4067,-63.9973"/>
+<polygon fill="#374151" stroke="#374151" points="105.2615,-61.6757 97.9347,-60.5264 102.9456,-65.9939 105.2615,-61.6757"/>
+<text text-anchor="middle" x="198.2331" y="-92.8077" font-family="Georgia" font-size="8.00" fill="#000000">peut être</text>
+</g>
+<!-- Hermeneutik -->
+<g id="node20" class="node">
+<title>Hermeneutik</title>
+<polygon fill="#fef3c7" stroke="#000000" points="1815.0199,-479.2232 1691.0199,-479.2232 1691.0199,-417.2232 1821.0199,-417.2232 1821.0199,-473.2232 1815.0199,-479.2232"/>
+<polyline fill="none" stroke="#000000" points="1815.0199,-479.2232 1815.0199,-473.2232 "/>
+<polyline fill="none" stroke="#000000" points="1821.0199,-473.2232 1815.0199,-473.2232 "/>
+<text text-anchor="middle" x="1756.0199" y="-467.1232" font-family="Georgia" font-size="9.00" fill="#92400e">HERMÉNEUTIQUE</text>
+<text text-anchor="middle" x="1756.0199" y="-456.3232" font-family="Georgia" font-size="9.00" fill="#92400e">(Hermeneutik)</text>
+<text text-anchor="middle" x="1756.0199" y="-445.5232" font-family="Georgia" font-size="9.00" fill="#92400e">1. Explicitation du Dasein</text>
+<text text-anchor="middle" x="1756.0199" y="-434.7232" font-family="Georgia" font-size="9.00" fill="#92400e">2. Conditions ontologie</text>
+<text text-anchor="middle" x="1756.0199" y="-423.9232" font-family="Georgia" font-size="9.00" fill="#92400e">3. Analytique existentialité</text>
+</g>
+<!-- TripleHerm -->
+<g id="node28" class="node">
+<title>TripleHerm</title>
+<polygon fill="#fef3c7" stroke="#000000" points="1815.2391,-312.9159 1690.8007,-312.9159 1690.8007,-261.5151 1821.2391,-261.5151 1821.2391,-306.9159 1815.2391,-312.9159"/>
+<polyline fill="none" stroke="#000000" points="1815.2391,-312.9159 1815.2391,-306.9159 "/>
+<polyline fill="none" stroke="#000000" points="1821.2391,-306.9159 1815.2391,-306.9159 "/>
+<text text-anchor="middle" x="1756.0199" y="-300.7155" font-family="Georgia" font-size="9.00" fill="#92400e">TRIPLE HERMÉNEUTIQUE :</text>
+<text text-anchor="middle" x="1756.0199" y="-289.9155" font-family="Georgia" font-size="9.00" fill="#92400e">1. Explicitation être Dasein</text>
+<text text-anchor="middle" x="1756.0199" y="-279.1155" font-family="Georgia" font-size="9.00" fill="#92400e">2. Conditions ontologie</text>
+<text text-anchor="middle" x="1756.0199" y="-268.3155" font-family="Georgia" font-size="9.00" fill="#92400e">3. Analytique existentialité</text>
+</g>
+<!-- Hermeneutik&#45;&gt;TripleHerm -->
+<!-- Auslegung&#45;&gt;Hermeneutik -->
+<g id="edge21" class="edge">
+<title>Auslegung-&gt;Hermeneutik</title>
+<path fill="none" stroke="#fef3c7" d="M1745.1086,-583.3623C1747.2193,-557.2208 1750.505,-516.5265 1752.9196,-486.6209"/>
+<polygon fill="#fef3c7" stroke="#fef3c7" points="1755.3921,-486.4401 1753.5135,-479.2656 1750.508,-486.0457 1755.3921,-486.4401"/>
+<text text-anchor="middle" x="1762.7943" y="-511.6232" font-family="Georgia" font-size="8.00" fill="#000000">devient</text>
+</g>
+<!-- Transcendens -->
+<g id="node23" class="node">
+<title>Transcendens</title>
+<polygon fill="#d97706" stroke="#000000" points="844.0199,-56.6059 750.0199,-56.6059 750.0199,-15.8019 844.0199,-15.8019 844.0199,-56.6059"/>
+<text text-anchor="middle" x="797.0199" y="-44.3039" font-family="Georgia" font-size="9.00" fill="#ffffff">ÊTRE =</text>
+<text text-anchor="middle" x="797.0199" y="-33.5039" font-family="Georgia" font-size="9.00" fill="#ffffff">TRANSCENDENS</text>
+<text text-anchor="middle" x="797.0199" y="-22.7039" font-family="Georgia" font-size="9.00" fill="#ffffff">pur et simple</text>
+</g>
+<!-- OntoPheno&#45;&gt;Transcendens -->
+<g id="edge23" class="edge">
+<title>OntoPheno-&gt;Transcendens</title>
+<path fill="none" stroke="#d97706" d="M670.3037,-123.2435C684.6746,-116.4512 700.2891,-108.4468 714.0199,-100.0077 732.7755,-88.4804 752.3638,-73.5778 767.798,-61.0744"/>
+<polygon fill="#d97706" stroke="#d97706" points="769.4182,-62.9144 773.2871,-56.5872 766.3169,-59.1207 769.4182,-62.9144"/>
+<text text-anchor="middle" x="753.0435" y="-92.8077" font-family="Georgia" font-size="8.00" fill="#000000">thème : être =</text>
+</g>
+<!-- VeritasTransc -->
+<g id="node24" class="node">
+<title>VeritasTransc</title>
+<polygon fill="#b45309" stroke="#000000" points="618.2276,-56.6059 507.8122,-56.6059 507.8122,-15.8019 618.2276,-15.8019 618.2276,-56.6059"/>
+<text text-anchor="middle" x="563.0199" y="-44.3039" font-family="Georgia" font-size="9.00" fill="#ffffff">VERITAS</text>
+<text text-anchor="middle" x="563.0199" y="-33.5039" font-family="Georgia" font-size="9.00" fill="#ffffff">TRANSCENDENTALIS</text>
+<text text-anchor="middle" x="563.0199" y="-22.7039" font-family="Georgia" font-size="9.00" fill="#ffffff">vérité phénoménologique</text>
+</g>
+<!-- OntoPheno&#45;&gt;VeritasTransc -->
+<g id="edge24" class="edge">
+<title>OntoPheno-&gt;VeritasTransc</title>
+<path fill="none" stroke="#b45309" d="M611.7344,-123.4059C602.241,-106.4122 588.5849,-81.9669 578.1457,-63.2799"/>
+<polygon fill="#b45309" stroke="#b45309" points="580.0117,-61.5965 574.4588,-56.6803 575.7339,-63.9863 580.0117,-61.5965"/>
+<text text-anchor="middle" x="610.9327" y="-92.8077" font-family="Georgia" font-size="8.00" fill="#000000">vérité =</text>
+</g>
+<!-- Husserl -->
+<g id="node29" class="node">
+<title>Husserl</title>
+<polygon fill="#f3e8ff" stroke="#000000" points="726.2404,-61.9043 635.7994,-61.9043 635.7994,-10.5035 732.2404,-10.5035 732.2404,-55.9043 726.2404,-61.9043"/>
+<polyline fill="none" stroke="#000000" points="726.2404,-61.9043 726.2404,-55.9043 "/>
+<polyline fill="none" stroke="#000000" points="732.2404,-55.9043 726.2404,-55.9043 "/>
+<text text-anchor="middle" x="684.0199" y="-49.7039" font-family="Georgia" font-size="9.00" fill="#581c87">HUSSERL</text>
+<text text-anchor="middle" x="684.0199" y="-38.9039" font-family="Georgia" font-size="9.00" fill="#581c87">Recherches Logiques</text>
+<text text-anchor="middle" x="684.0199" y="-28.1039" font-family="Georgia" font-size="9.00" fill="#581c87">'œuvre de percée'</text>
+<text text-anchor="middle" x="684.0199" y="-17.3039" font-family="Georgia" font-size="9.00" fill="#581c87">de la phénoménologie</text>
+</g>
+<!-- OntoPheno&#45;&gt;Husserl -->
+<g id="edge28" class="edge">
+<title>OntoPheno-&gt;Husserl</title>
+<path fill="none" stroke="#7c3aed" stroke-dasharray="1,5" d="M634.4935,-123.4059C643.2844,-107.9276 655.5864,-86.2673 665.7301,-68.407"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="668.0325,-69.3141 669.3592,-62.0173 663.7717,-66.8942 668.0325,-69.3141"/>
+<text text-anchor="middle" x="680.3443" y="-92.8077" font-family="Georgia" font-size="8.00" fill="#000000">rendu possible par</text>
+</g>
+</g>
+</svg>

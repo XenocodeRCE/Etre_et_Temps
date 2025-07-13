@@ -1,0 +1,351 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1045pt" height="1775pt" viewBox="0.00 0.00 1044.50 1774.90">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1770.9)">
+<title>PrimauteOntologique</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-1770.9 1040.5,-1770.9 1040.5,4 -4,4"/>
+<text text-anchor="middle" x="518.25" y="-1751.2" font-family="Georgia" font-size="13.00">§3 - La primauté ontologique de la question de l'être</text>
+<text text-anchor="middle" x="518.25" y="-1735.6" font-family="Georgia" font-size="13.00">(Rapport aux sciences et à l'ontologie)</text>
+<g id="clust3" class="cluster">
+<title>cluster_crise</title>
+<polygon fill="#f8f9fa" stroke="#f59e0b" stroke-dasharray="5,2" points="552.99,-515.16 552.99,-936.06 764.99,-936.06 764.99,-515.16 552.99,-515.16"/>
+<text text-anchor="middle" x="658.99" y="-920.36" font-family="Georgia" font-size="13.00" fill="#f59e0b">CRISE DES FONDEMENTS</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_ontologie</title>
+<polygon fill="#f8f9fa" stroke="#7c3aed" stroke-dasharray="5,2" points="583.99,-117.6 583.99,-487.56 810.99,-487.56 810.99,-117.6 583.99,-117.6"/>
+<text text-anchor="middle" x="697.49" y="-471.86" font-family="Georgia" font-size="13.00" fill="#7c3aed">INVESTIGATION ONTOLOGIQUE</text>
+</g>
+<!-- Seinsfrage -->
+<g id="node1" class="node">
+<title>Seinsfrage</title>
+<ellipse fill="#1e40af" stroke="black" cx="277.99" cy="-1383.77" rx="72" ry="72"/>
+<text text-anchor="middle" x="277.99" y="-1392.77" font-family="Georgia" font-size="10.00" fill="white">QUESTION</text>
+<text text-anchor="middle" x="277.99" y="-1380.77" font-family="Georgia" font-size="10.00" fill="white">DE L'ÊTRE</text>
+<text text-anchor="middle" x="277.99" y="-1368.77" font-family="Georgia" font-size="10.00" fill="white">(Seinsfrage)</text>
+</g>
+<!-- Bedingung -->
+<g id="node16" class="node">
+<title>Bedingung</title>
+<polygon fill="#3b82f6" stroke="black" points="277.99,-1266.17 147.22,-1172.83 408.76,-1172.83 277.99,-1266.17"/>
+<text text-anchor="middle" x="277.99" y="-1212.94" font-family="Georgia" font-size="10.00" fill="white">CONDITION</text>
+<text text-anchor="middle" x="277.99" y="-1200.94" font-family="Georgia" font-size="10.00" fill="white">A PRIORI</text>
+<text text-anchor="middle" x="277.99" y="-1188.94" font-family="Georgia" font-size="10.00" fill="white">DE POSSIBILITÉ</text>
+</g>
+<!-- Seinsfrage&#45;&gt;Bedingung -->
+<g id="edge18" class="edge">
+<title>Seinsfrage-&gt;Bedingung</title>
+<path fill="none" stroke="#1e40af" d="M277.99,-1311.46C277.99,-1299.72 277.99,-1287.55 277.99,-1275.82"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="280.79,-1276.04 277.99,-1268.04 275.19,-1276.04 280.79,-1276.04"/>
+<text text-anchor="middle" x="284.81" y="-1286.57" font-family="Georgia" font-size="8.00">vise</text>
+</g>
+<!-- Primat -->
+<g id="node19" class="node">
+<title>Primat</title>
+<polygon fill="#f59e0b" stroke="black" points="237.99,-1641.25 147.08,-1641.25 118.99,-1727.7 90.9,-1641.25 0,-1641.25 73.54,-1587.82 45.45,-1501.37 118.99,-1554.8 192.53,-1501.37 164.44,-1587.82 237.99,-1641.25"/>
+<text text-anchor="middle" x="118.99" y="-1617.54" font-family="Georgia" font-size="10.00" fill="white">PRIMAUTÉ</text>
+<text text-anchor="middle" x="118.99" y="-1605.54" font-family="Georgia" font-size="10.00" fill="white">ONTOLOGIQUE</text>
+</g>
+<!-- Seinsfrage&#45;&gt;Primat -->
+<g id="edge24" class="edge">
+<title>Seinsfrage-&gt;Primat</title>
+<path fill="none" stroke="#1e40af" d="M237.25,-1443.38C224.27,-1462.06 209.46,-1483.38 194.81,-1504.45"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="192.56,-1502.78 190.29,-1510.95 197.16,-1505.98 192.56,-1502.78"/>
+<text text-anchor="middle" x="230.92" y="-1476.17" font-family="Georgia" font-size="8.00">possède la</text>
+</g>
+<!-- Mathematik -->
+<g id="node2" class="node">
+<title>Mathematik</title>
+<polygon fill="#059669" stroke="black" points="471.19,-1051.89 354.79,-1051.89 354.79,-1015.89 471.19,-1015.89 471.19,-1051.89"/>
+<text text-anchor="middle" x="412.99" y="-1036.89" font-family="Georgia" font-size="10.00" fill="white">MATHÉMATIQUES</text>
+<text text-anchor="middle" x="412.99" y="-1024.89" font-family="Georgia" font-size="10.00" fill="white">(crise des fondements)</text>
+</g>
+<!-- Krise -->
+<g id="node8" class="node">
+<title>Krise</title>
+<polygon fill="#d97706" stroke="black" points="658.99,-880.86 561.47,-836.86 658.99,-792.86 756.52,-836.86 658.99,-880.86"/>
+<text text-anchor="middle" x="658.99" y="-845.86" font-family="Georgia" font-size="10.00" fill="white">CRISE DES</text>
+<text text-anchor="middle" x="658.99" y="-833.86" font-family="Georgia" font-size="10.00" fill="white">FONDEMENTS</text>
+<text text-anchor="middle" x="658.99" y="-821.86" font-family="Georgia" font-size="10.00" fill="white">(Grundlagenkrise)</text>
+</g>
+<!-- Mathematik&#45;&gt;Krise -->
+<g id="edge1" class="edge">
+<title>Mathematik-&gt;Krise</title>
+<path fill="none" stroke="#059669" d="M429.8,-1015.39C442.94,-1002.32 462.1,-984.56 480.99,-971.66 510.15,-951.76 522.93,-956.1 551.99,-936.06 577.92,-918.19 604.01,-894.39 623.94,-874.69"/>
+<polygon fill="#059669" stroke="#059669" points="625.7,-876.89 629.38,-869.25 621.74,-872.93 625.7,-876.89"/>
+<text text-anchor="middle" x="551.95" y="-946.46" font-family="Georgia" font-size="8.00">traverse</text>
+</g>
+<!-- Ontisch -->
+<g id="node13" class="node">
+<title>Ontisch</title>
+<ellipse fill="#dc2626" stroke="black" cx="471.99" cy="-836.86" rx="71.42" ry="31.11"/>
+<text text-anchor="middle" x="471.99" y="-845.86" font-family="Georgia" font-size="10.00" fill="white">NIVEAU</text>
+<text text-anchor="middle" x="471.99" y="-833.86" font-family="Georgia" font-size="10.00" fill="white">ONTIQUE</text>
+<text text-anchor="middle" x="471.99" y="-821.86" font-family="Georgia" font-size="10.00" fill="white">(sciences positives)</text>
+</g>
+<!-- Mathematik&#45;&gt;Ontisch -->
+<!-- Physik -->
+<g id="node3" class="node">
+<title>Physik</title>
+<polygon fill="#10b981" stroke="black" points="586.31,-1051.89 489.67,-1051.89 489.67,-1015.89 586.31,-1015.89 586.31,-1051.89"/>
+<text text-anchor="middle" x="537.99" y="-1036.89" font-family="Georgia" font-size="10.00" fill="white">PHYSIQUE</text>
+<text text-anchor="middle" x="537.99" y="-1024.89" font-family="Georgia" font-size="10.00" fill="white">(théorie relativité)</text>
+</g>
+<!-- Physik&#45;&gt;Krise -->
+<g id="edge2" class="edge">
+<title>Physik-&gt;Krise</title>
+<path fill="none" stroke="#10b981" d="M548.73,-1015.58C567.53,-985.28 606.9,-921.82 633.15,-879.52"/>
+<polygon fill="#10b981" stroke="#10b981" points="635.41,-881.18 637.25,-872.91 630.65,-878.23 635.41,-881.18"/>
+<text text-anchor="middle" x="605.5" y="-946.46" font-family="Georgia" font-size="8.00">traverse</text>
+</g>
+<!-- Physik&#45;&gt;Ontisch -->
+<!-- Biologie -->
+<g id="node4" class="node">
+<title>Biologie</title>
+<polygon fill="#34d399" stroke="black" points="837.82,-1055.89 728.16,-1055.89 728.16,-1011.89 837.82,-1011.89 837.82,-1055.89"/>
+<text text-anchor="middle" x="782.99" y="-1042.89" font-family="Georgia" font-size="10.00" fill="#1f2937">BIOLOGIE</text>
+<text text-anchor="middle" x="782.99" y="-1030.89" font-family="Georgia" font-size="10.00" fill="#1f2937">(au-delà mécanisme/</text>
+<text text-anchor="middle" x="782.99" y="-1018.89" font-family="Georgia" font-size="10.00" fill="#1f2937">vitalisme)</text>
+</g>
+<!-- Biologie&#45;&gt;Krise -->
+<g id="edge3" class="edge">
+<title>Biologie-&gt;Krise</title>
+<path fill="none" stroke="#34d399" d="M769.49,-1011.65C749.36,-979.99 711.11,-919.84 685.33,-879.29"/>
+<polygon fill="#34d399" stroke="#34d399" points="687.81,-877.98 681.16,-872.73 683.09,-880.98 687.81,-877.98"/>
+<text text-anchor="middle" x="746.36" y="-946.46" font-family="Georgia" font-size="8.00">traverse</text>
+</g>
+<!-- Biologie&#45;&gt;Ontisch -->
+<!-- Geschichte -->
+<g id="node5" class="node">
+<title>Geschichte</title>
+<polygon fill="#6ee7b7" stroke="black" points="956.39,-1055.89 855.59,-1055.89 855.59,-1011.89 956.39,-1011.89 956.39,-1055.89"/>
+<text text-anchor="middle" x="905.99" y="-1042.89" font-family="Georgia" font-size="10.00" fill="#1f2937">SCIENCES</text>
+<text text-anchor="middle" x="905.99" y="-1030.89" font-family="Georgia" font-size="10.00" fill="#1f2937">HISTORIQUES</text>
+<text text-anchor="middle" x="905.99" y="-1018.89" font-family="Georgia" font-size="10.00" fill="#1f2937">(réalité historiale)</text>
+</g>
+<!-- Geschichte&#45;&gt;Krise -->
+<g id="edge4" class="edge">
+<title>Geschichte-&gt;Krise</title>
+<path fill="none" stroke="#6ee7b7" d="M887.23,-1011.53C876.06,-999.3 861.31,-984 846.99,-971.66 801.9,-932.81 745.81,-893.98 706.69,-868.24"/>
+<polygon fill="#6ee7b7" stroke="#6ee7b7" points="708.59,-866.14 700.36,-864.1 705.52,-870.82 708.59,-866.14"/>
+<text text-anchor="middle" x="837.11" y="-946.46" font-family="Georgia" font-size="8.00">traverse</text>
+</g>
+<!-- Geschichte&#45;&gt;Ontisch -->
+<!-- Theologie -->
+<g id="node6" class="node">
+<title>Theologie</title>
+<polygon fill="#a7f3d0" stroke="black" points="709.9,-1055.89 604.08,-1055.89 604.08,-1011.89 709.9,-1011.89 709.9,-1055.89"/>
+<text text-anchor="middle" x="656.99" y="-1042.89" font-family="Georgia" font-size="10.00" fill="#1f2937">THÉOLOGIE</text>
+<text text-anchor="middle" x="656.99" y="-1030.89" font-family="Georgia" font-size="10.00" fill="#1f2937">(Luther : fondement</text>
+<text text-anchor="middle" x="656.99" y="-1018.89" font-family="Georgia" font-size="10.00" fill="#1f2937">de la foi)</text>
+</g>
+<!-- Theologie&#45;&gt;Krise -->
+<g id="edge5" class="edge">
+<title>Theologie-&gt;Krise</title>
+<path fill="none" stroke="#a7f3d0" d="M657.21,-1011.65C657.51,-982.77 658.05,-930.15 658.45,-890.36"/>
+<polygon fill="#a7f3d0" stroke="#a7f3d0" points="661.25,-890.59 658.53,-882.57 655.65,-890.54 661.25,-890.59"/>
+<text text-anchor="middle" x="672.13" y="-946.46" font-family="Georgia" font-size="8.00">traverse</text>
+</g>
+<!-- Theologie&#45;&gt;Ontisch -->
+<!-- Grundbegriffe -->
+<g id="node7" class="node">
+<title>Grundbegriffe</title>
+<polygon fill="#f59e0b" stroke="black" points="658.99,-611.16 572.85,-567.16 658.99,-523.16 745.13,-567.16 658.99,-611.16"/>
+<text text-anchor="middle" x="658.99" y="-576.16" font-family="Georgia" font-size="10.00" fill="white">CONCEPTS</text>
+<text text-anchor="middle" x="658.99" y="-564.16" font-family="Georgia" font-size="10.00" fill="white">DE BASE</text>
+<text text-anchor="middle" x="658.99" y="-552.16" font-family="Georgia" font-size="10.00" fill="white">(Grundbegriffe)</text>
+</g>
+<!-- RegOnto -->
+<g id="node10" class="node">
+<title>RegOnto</title>
+<polygon fill="#7c3aed" stroke="black" points="725.54,-406.23 692.27,-432.36 625.72,-432.36 592.44,-406.23 625.72,-380.1 692.27,-380.1 725.54,-406.23"/>
+<text text-anchor="middle" x="658.99" y="-409.23" font-family="Georgia" font-size="10.00" fill="white">ONTOLOGIES</text>
+<text text-anchor="middle" x="658.99" y="-397.23" font-family="Georgia" font-size="10.00" fill="white">RÉGIONALES</text>
+</g>
+<!-- Grundbegriffe&#45;&gt;RegOnto -->
+<g id="edge15" class="edge">
+<title>Grundbegriffe-&gt;RegOnto</title>
+<path fill="none" stroke="#f59e0b" d="M658.99,-522.73C658.99,-497.36 658.99,-465.79 658.99,-442.06"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="661.79,-442.25 658.99,-434.25 656.19,-442.25 661.79,-442.25"/>
+<text text-anchor="middle" x="673.23" y="-497.96" font-family="Georgia" font-size="8.00">requiert</text>
+</g>
+<!-- Revision -->
+<g id="node9" class="node">
+<title>Revision</title>
+<polygon fill="#b45309" stroke="black" points="658.99,-734.01 592.18,-702.01 658.99,-670.01 725.8,-702.01 658.99,-734.01"/>
+<text text-anchor="middle" x="658.99" y="-705.01" font-family="Georgia" font-size="10.00" fill="white">RÉVISION</text>
+<text text-anchor="middle" x="658.99" y="-693.01" font-family="Georgia" font-size="10.00" fill="white">RADICALE</text>
+</g>
+<!-- Krise&#45;&gt;Revision -->
+<g id="edge6" class="edge">
+<title>Krise-&gt;Revision</title>
+<path fill="none" stroke="#d97706" d="M658.99,-792.36C658.99,-776.7 658.99,-759.09 658.99,-743.67"/>
+<polygon fill="#d97706" stroke="#d97706" points="661.79,-743.91 658.99,-735.91 656.19,-743.91 661.79,-743.91"/>
+<text text-anchor="middle" x="668.09" y="-767.66" font-family="Georgia" font-size="8.00">exige</text>
+</g>
+<!-- Revision&#45;&gt;Grundbegriffe -->
+<g id="edge7" class="edge">
+<title>Revision-&gt;Grundbegriffe</title>
+<path fill="none" stroke="#b45309" d="M658.99,-669.53C658.99,-655.03 658.99,-637.43 658.99,-620.99"/>
+<polygon fill="#b45309" stroke="#b45309" points="661.79,-620.99 658.99,-612.99 656.19,-620.99 661.79,-620.99"/>
+<text text-anchor="middle" x="664.95" y="-631.56" font-family="Georgia" font-size="8.00">des</text>
+</g>
+<!-- RegOnto&#45;&gt;RegOnto -->
+<g id="edge26" class="edge">
+<title>RegOnto-&gt;RegOnto</title>
+<path fill="none" stroke="#7c3aed" stroke-dasharray="5,2" d="M714.69,-415.37C730.95,-415.06 743.54,-412.01 743.54,-406.23 743.54,-401.62 735.55,-398.75 724.07,-397.61"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="724.35,-394.82 716.2,-397.17 724.03,-400.41 724.35,-394.82"/>
+<text text-anchor="middle" x="773.51" y="-413.43" font-family="Georgia" font-size="8.00">reste aveugle</text>
+<text text-anchor="middle" x="773.51" y="-403.83" font-family="Georgia" font-size="8.00">sans clarification</text>
+<text text-anchor="middle" x="773.51" y="-394.23" font-family="Georgia" font-size="8.00">du sens d'être</text>
+</g>
+<!-- Fundierung -->
+<g id="node11" class="node">
+<title>Fundierung</title>
+<polygon fill="#5b21b6" stroke="black" points="755.93,-298.57 714.96,-334.5 633.02,-334.5 592.05,-298.57 633.02,-262.65 714.96,-262.65 755.93,-298.57"/>
+<text text-anchor="middle" x="673.99" y="-307.57" font-family="Georgia" font-size="10.00" fill="white">FONDATION</text>
+<text text-anchor="middle" x="673.99" y="-295.57" font-family="Georgia" font-size="10.00" fill="white">PHILOSOPHIQUE</text>
+<text text-anchor="middle" x="673.99" y="-283.57" font-family="Georgia" font-size="10.00" fill="white">(Platon, Aristote)</text>
+</g>
+<!-- RegOnto&#45;&gt;Fundierung -->
+<g id="edge16" class="edge">
+<title>RegOnto-&gt;Fundierung</title>
+<path fill="none" stroke="#7c3aed" d="M662.62,-379.65C664.14,-368.94 665.96,-356.18 667.68,-344.03"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="670.41,-344.71 668.77,-336.39 664.87,-343.92 670.41,-344.71"/>
+<text text-anchor="middle" x="671.22" y="-354.9" font-family="Georgia" font-size="8.00">via</text>
+</g>
+<!-- LogikProd -->
+<g id="node12" class="node">
+<title>LogikProd</title>
+<polygon fill="#4c1d95" stroke="black" points="740.38,-171.32 707.19,-217.05 640.8,-217.05 607.6,-171.32 640.8,-125.6 707.19,-125.6 740.38,-171.32"/>
+<text text-anchor="middle" x="673.99" y="-186.32" font-family="Georgia" font-size="10.00" fill="white">LOGIQUE</text>
+<text text-anchor="middle" x="673.99" y="-174.32" font-family="Georgia" font-size="10.00" fill="white">PRODUCTIVE</text>
+<text text-anchor="middle" x="673.99" y="-162.32" font-family="Georgia" font-size="10.00" fill="white">(vs logique</text>
+<text text-anchor="middle" x="673.99" y="-150.32" font-family="Georgia" font-size="10.00" fill="white">rétroactive)</text>
+</g>
+<!-- Fundierung&#45;&gt;LogikProd -->
+<g id="edge17" class="edge">
+<title>Fundierung-&gt;LogikProd</title>
+<path fill="none" stroke="#5b21b6" d="M673.99,-262.35C673.99,-251.17 673.99,-238.53 673.99,-226.33"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="676.79,-226.64 673.99,-218.64 671.19,-226.64 676.79,-226.64"/>
+<text text-anchor="middle" x="686.95" y="-237.45" font-family="Georgia" font-size="8.00">comme</text>
+</g>
+<!-- Kant -->
+<g id="node20" class="node">
+<title>Kant</title>
+<polygon fill="#fef3c7" stroke="black" points="662.92,-68 547.07,-68 547.07,-12 668.92,-12 668.92,-62 662.92,-68"/>
+<polyline fill="none" stroke="black" points="662.92,-68 662.92,-62"/>
+<polyline fill="none" stroke="black" points="668.92,-62 662.92,-62"/>
+<text text-anchor="middle" x="607.99" y="-55" font-family="Georgia" font-size="10.00" fill="#92400e">KANT</text>
+<text text-anchor="middle" x="607.99" y="-43" font-family="Georgia" font-size="10.00" fill="#92400e">(Critique R.P.)</text>
+<text text-anchor="middle" x="607.99" y="-31" font-family="Georgia" font-size="10.00" fill="#92400e">logique transcendantale</text>
+<text text-anchor="middle" x="607.99" y="-19" font-family="Georgia" font-size="10.00" fill="#92400e">= ontologie de la nature</text>
+</g>
+<!-- LogikProd&#45;&gt;Kant -->
+<g id="edge27" class="edge">
+<title>LogikProd-&gt;Kant</title>
+<path fill="none" stroke="#4c1d95" stroke-dasharray="1,5" d="M651.09,-125.46C642.93,-109.45 633.85,-91.66 626.13,-76.54"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="628.82,-75.65 622.69,-69.8 623.83,-78.2 628.82,-75.65"/>
+<text text-anchor="middle" x="655.77" y="-100.4" font-family="Georgia" font-size="8.00">exemple</text>
+</g>
+<!-- DistinctionNote -->
+<g id="node21" class="node">
+<title>DistinctionNote</title>
+<polygon fill="#ecfdf5" stroke="black" points="787.25,-80 686.74,-80 686.74,0 793.25,0 793.25,-74 787.25,-80"/>
+<polyline fill="none" stroke="black" points="787.25,-80 787.25,-74"/>
+<polyline fill="none" stroke="black" points="793.25,-74 787.25,-74"/>
+<text text-anchor="middle" x="739.99" y="-67" font-family="Georgia" font-size="10.00" fill="#065f46">DISTINCTION :</text>
+<text text-anchor="middle" x="739.99" y="-55" font-family="Georgia" font-size="10.00" fill="#065f46">Logique productive</text>
+<text text-anchor="middle" x="739.99" y="-43" font-family="Georgia" font-size="10.00" fill="#065f46">(ouvre domaines)</text>
+<text text-anchor="middle" x="739.99" y="-31" font-family="Georgia" font-size="10.00" fill="#065f46">vs</text>
+<text text-anchor="middle" x="739.99" y="-19" font-family="Georgia" font-size="10.00" fill="#065f46">Logique rétroactive</text>
+<text text-anchor="middle" x="739.99" y="-7" font-family="Georgia" font-size="10.00" fill="#065f46">(examine méthodes)</text>
+</g>
+<!-- LogikProd&#45;&gt;DistinctionNote -->
+<!-- Ontologisch -->
+<g id="node14" class="node">
+<title>Ontologisch</title>
+<ellipse fill="#b91c1c" stroke="black" cx="396.99" cy="-702.01" rx="83.63" ry="31.11"/>
+<text text-anchor="middle" x="396.99" y="-711.01" font-family="Georgia" font-size="10.00" fill="white">NIVEAU</text>
+<text text-anchor="middle" x="396.99" y="-699.01" font-family="Georgia" font-size="10.00" fill="white">ONTOLOGIQUE</text>
+<text text-anchor="middle" x="396.99" y="-687.01" font-family="Georgia" font-size="10.00" fill="white">(investigation de l'être)</text>
+</g>
+<!-- Ontisch&#45;&gt;Ontologisch -->
+<g id="edge13" class="edge">
+<title>Ontisch-&gt;Ontologisch</title>
+<path fill="none" stroke="#dc2626" d="M455.35,-806.38C444.45,-787.08 430.11,-761.68 418.37,-740.88"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="420.97,-739.78 414.59,-734.19 416.09,-742.53 420.97,-739.78"/>
+<text text-anchor="middle" x="457.01" y="-767.66" font-family="Georgia" font-size="8.00">présuppose</text>
+</g>
+<!-- Fundamental -->
+<g id="node15" class="node">
+<title>Fundamental</title>
+<ellipse fill="#991b1b" stroke="black" cx="122.99" cy="-836.86" rx="70.88" ry="31.11"/>
+<text text-anchor="middle" x="122.99" y="-845.86" font-family="Georgia" font-size="10.00" fill="white">ONTOLOGIE</text>
+<text text-anchor="middle" x="122.99" y="-833.86" font-family="Georgia" font-size="10.00" fill="white">FONDAMENTALE</text>
+<text text-anchor="middle" x="122.99" y="-821.86" font-family="Georgia" font-size="10.00" fill="white">(sens de l'être)</text>
+</g>
+<!-- Ontologisch&#45;&gt;Fundamental -->
+<g id="edge14" class="edge">
+<title>Ontologisch-&gt;Fundamental</title>
+<path fill="none" stroke="#b91c1c" d="M332.87,-722.35C300.35,-733.19 260.72,-747.99 227.02,-765.26 205.61,-776.24 183.34,-790.86 164.93,-803.94"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="163.38,-801.61 158.52,-808.56 166.65,-806.16 163.38,-801.61"/>
+<text text-anchor="middle" x="243.01" y="-767.66" font-family="Georgia" font-size="8.00">nécessite</text>
+</g>
+<!-- Leitfaden -->
+<g id="node18" class="node">
+<title>Leitfaden</title>
+<polygon fill="#1d4ed8" stroke="black" points="904.99,-747.26 773.48,-679.38 1036.5,-679.38 904.99,-747.26"/>
+<text text-anchor="middle" x="904.99" y="-705.01" font-family="Georgia" font-size="10.00" fill="white">FIL DIRECTEUR</text>
+<text text-anchor="middle" x="904.99" y="-693.01" font-family="Georgia" font-size="10.00" fill="white">NÉCESSAIRE</text>
+</g>
+<!-- Ontologisch&#45;&gt;Leitfaden -->
+<g id="edge22" class="edge">
+<title>Ontologisch-&gt;Leitfaden</title>
+<path fill="none" stroke="#b91c1c" d="M432.85,-730.34C451.37,-743.17 474.99,-756.93 498.63,-763.52 523.59,-770.49 659.58,-769.09 768.99,-747.26 794.85,-742.11 822.6,-733.46 846.25,-725.11"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="847.1,-727.78 853.68,-722.44 845.2,-722.51 847.1,-727.78"/>
+<text text-anchor="middle" x="521.99" y="-767.66" font-family="Georgia" font-size="8.00">a besoin d'un</text>
+</g>
+<!-- Verstehen -->
+<g id="node17" class="node">
+<title>Verstehen</title>
+<polygon fill="#2563eb" stroke="black" points="233.99,-1096.12 131.46,-1002.78 336.52,-1002.78 233.99,-1096.12"/>
+<text text-anchor="middle" x="233.99" y="-1042.89" font-family="Georgia" font-size="10.00" fill="white">ENTENTE</text>
+<text text-anchor="middle" x="233.99" y="-1030.89" font-family="Georgia" font-size="10.00" fill="white">PRÉALABLE</text>
+<text text-anchor="middle" x="233.99" y="-1018.89" font-family="Georgia" font-size="10.00" fill="white">DE L'ÊTRE</text>
+</g>
+<!-- Bedingung&#45;&gt;Verstehen -->
+<g id="edge19" class="edge">
+<title>Bedingung-&gt;Verstehen</title>
+<path fill="none" stroke="#3b82f6" d="M270.02,-1172.51C264.31,-1150.68 256.43,-1120.57 249.49,-1094.08"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="252.2,-1093.37 247.46,-1086.34 246.78,-1094.79 252.2,-1093.37"/>
+<text text-anchor="middle" x="263.19" y="-1116.52" font-family="Georgia" font-size="8.00">de l'</text>
+</g>
+<!-- Verstehen&#45;&gt;Ontisch -->
+<g id="edge20" class="edge">
+<title>Verstehen-&gt;Ontisch</title>
+<path fill="none" stroke="#2563eb" d="M271.18,-1002.42C314.9,-966.59 387.16,-907.38 432.04,-870.6"/>
+<polygon fill="#2563eb" stroke="#2563eb" points="433.69,-872.87 438.1,-865.63 430.14,-868.54 433.69,-872.87"/>
+<text text-anchor="middle" x="362.33" y="-946.46" font-family="Georgia" font-size="8.00">rend possible</text>
+</g>
+<!-- Verstehen&#45;&gt;Ontologisch -->
+<g id="edge21" class="edge">
+<title>Verstehen-&gt;Ontologisch</title>
+<path fill="none" stroke="#2563eb" d="M246.93,-1002.52C266.75,-956.54 306.4,-866.78 344.82,-792.86 353.89,-775.42 364.69,-756.54 374.11,-740.61"/>
+<polygon fill="#2563eb" stroke="#2563eb" points="376.43,-742.18 378.12,-733.87 371.62,-739.32 376.43,-742.18"/>
+<text text-anchor="middle" x="368.41" y="-834.46" font-family="Georgia" font-size="8.00">rend possible</text>
+</g>
+<!-- Leitfaden&#45;&gt;Seinsfrage -->
+<g id="edge23" class="edge">
+<title>Leitfaden-&gt;Seinsfrage</title>
+<path fill="none" stroke="#1d4ed8" d="M936.89,-730.72C961.72,-755.49 991.99,-794.23 991.99,-835.86 991.99,-1204.94 991.99,-1204.94 991.99,-1204.94 991.99,-1334.02 547.05,-1370.12 359.65,-1379.6"/>
+<polygon fill="#1d4ed8" stroke="#1d4ed8" points="359.75,-1376.79 351.9,-1379.99 360.02,-1382.39 359.75,-1376.79"/>
+<text text-anchor="middle" x="1007.84" y="-1031.49" font-family="Georgia" font-size="8.00">qui est la</text>
+</g>
+<!-- Primat&#45;&gt;Fundamental -->
+<g id="edge25" class="edge">
+<title>Primat-&gt;Fundamental</title>
+<path fill="none" stroke="#f59e0b" d="M112.11,-1549.52C107.78,-1503.7 102.99,-1440.51 102.99,-1384.77 102.99,-1384.77 102.99,-1384.77 102.99,-1032.89 102.99,-978.69 110.73,-916.46 116.58,-877.16"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="119.29,-877.99 117.72,-869.67 113.75,-877.15 119.29,-877.99"/>
+<text text-anchor="middle" x="116.01" y="-1201.54" font-family="Georgia" font-size="8.00">fonde l'</text>
+</g>
+</g>
+</svg>

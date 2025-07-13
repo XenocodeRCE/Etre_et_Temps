@@ -1,0 +1,559 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2042pt" height="1458pt" viewBox="0.00 0.00 2041.87 1458.21">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1454.21)">
+<title>SoubassementsCartesiens</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-1454.21 2037.87,-1454.21 2037.87,4 -4,4"/>
+<text text-anchor="middle" x="1016.94" y="-1435.41" font-family="Georgia" font-size="12.00">§20 - Les soubassements de la détermination ontologique du 'monde'</text>
+<text text-anchor="middle" x="1016.94" y="-1421.01" font-family="Georgia" font-size="12.00">(Critique des fondements de l'ontologie cartésienne)</text>
+<g id="clust6" class="cluster">
+<title>cluster_echappatoire</title>
+<polygon fill="#f8f9fa" stroke="#059669" stroke-dasharray="5,2" points="1530.47,-358.64 1530.47,-907.64 1758.47,-907.64 1758.47,-358.64 1530.47,-358.64"/>
+<text text-anchor="middle" x="1644.47" y="-892.84" font-family="Georgia" font-size="12.00" fill="#059669">ÉCHAPPATOIRE PAR LES ATTRIBUTS</text>
+</g>
+<g id="clust7" class="cluster">
+<title>cluster_confusion</title>
+<polygon fill="#f8f9fa" stroke="#9ca3af" stroke-dasharray="5,2" points="1042.47,-371.48 1042.47,-894.8 1273.47,-894.8 1273.47,-371.48 1042.47,-371.48"/>
+<text text-anchor="middle" x="1157.97" y="-880" font-family="Georgia" font-size="12.00" fill="#9ca3af">CONFUSION ONTICO-ONTOLOGIQUE</text>
+</g>
+<!-- Substantialitas -->
+<g id="node1" class="node">
+<title>Substantialitas</title>
+<polygon fill="#f59e0b" stroke="black" points="1060.21,-1304.61 945.82,-1304.61 910.47,-1413.41 875.12,-1304.61 760.73,-1304.61 853.27,-1237.37 817.92,-1128.58 910.47,-1195.82 1003.02,-1128.58 967.67,-1237.37 1060.21,-1304.61"/>
+<text text-anchor="middle" x="910.47" y="-1289.89" font-family="Georgia" font-size="9.00" fill="white">SUBSTANTIALITÉ</text>
+<text text-anchor="middle" x="910.47" y="-1279.09" font-family="Georgia" font-size="9.00" fill="white">(substantialitas)</text>
+<text text-anchor="middle" x="910.47" y="-1268.29" font-family="Georgia" font-size="9.00" fill="white">idée d'être fondamentale</text>
+<text text-anchor="middle" x="910.47" y="-1257.49" font-family="Georgia" font-size="9.00" fill="white">'absence de besoin'</text>
+<text text-anchor="middle" x="910.47" y="-1246.69" font-family="Georgia" font-size="9.00" fill="white">non-indigence</text>
+</g>
+<!-- Substantialitas&#45;&gt;Substantialitas -->
+<g id="edge27" class="edge">
+<title>Substantialitas-&gt;Substantialitas</title>
+<path fill="none" stroke="#f59e0b" stroke-dasharray="5,2" d="M1050.88,-1297.52C1067.43,-1292.66 1078.21,-1283.82 1078.21,-1270.99 1078.21,-1244.68 1032.84,-1235.13 985.44,-1242.34"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="985.18,-1239.9 978.7,-1243.5 986.01,-1244.73 985.18,-1239.9"/>
+<text text-anchor="middle" x="1113.96" y="-1282.99" font-family="Georgia" font-size="8.00">idée d'être</text>
+<text text-anchor="middle" x="1113.96" y="-1273.39" font-family="Georgia" font-size="8.00">à laquelle se ramène</text>
+<text text-anchor="middle" x="1113.96" y="-1263.79" font-family="Georgia" font-size="8.00">caractérisation</text>
+<text text-anchor="middle" x="1113.96" y="-1254.19" font-family="Georgia" font-size="8.00">res extensa</text>
+</g>
+<!-- Deus -->
+<g id="node2" class="node">
+<title>Deus</title>
+<polygon fill="#7c3aed" stroke="black" points="538.78,-1015.33 500.63,-1065.95 424.31,-1065.95 386.16,-1015.33 424.31,-964.71 500.63,-964.71 538.78,-1015.33"/>
+<text text-anchor="middle" x="462.47" y="-1034.23" font-family="Georgia" font-size="9.00" fill="white">DIEU</text>
+<text text-anchor="middle" x="462.47" y="-1023.43" font-family="Georgia" font-size="9.00" fill="white">(Deus)</text>
+<text text-anchor="middle" x="462.47" y="-1012.63" font-family="Georgia" font-size="9.00" fill="white">ens perfectissimum</text>
+<text text-anchor="middle" x="462.47" y="-1001.83" font-family="Georgia" font-size="9.00" fill="white">substantia infinita</text>
+<text text-anchor="middle" x="462.47" y="-991.03" font-family="Georgia" font-size="9.00" fill="white">nulla re indigeat</text>
+</g>
+<!-- Substantialitas&#45;&gt;Deus -->
+<g id="edge4" class="edge">
+<title>Substantialitas-&gt;Deus</title>
+<path fill="none" stroke="#7c3aed" d="M846.81,-1241.69C772.72,-1207.73 647.72,-1147.29 547.47,-1082.98 536.85,-1076.17 525.95,-1068.34 515.64,-1060.49"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="517.19,-1058.6 510.15,-1056.26 514.2,-1062.48 517.19,-1058.6"/>
+<text text-anchor="middle" x="617.33" y="-1103.38" font-family="Georgia" font-size="8.00">substantia infinita</text>
+</g>
+<!-- ResCogitans -->
+<g id="node3" class="node">
+<title>ResCogitans</title>
+<polygon fill="#3b82f6" stroke="black" points="720.38,-1015.33 679.43,-1057.13 597.51,-1057.13 556.56,-1015.33 597.51,-973.52 679.43,-973.52 720.38,-1015.33"/>
+<text text-anchor="middle" x="638.47" y="-1028.83" font-family="Georgia" font-size="9.00" fill="white">RES COGITANS</text>
+<text text-anchor="middle" x="638.47" y="-1018.03" font-family="Georgia" font-size="9.00" fill="white">(substance pensante)</text>
+<text text-anchor="middle" x="638.47" y="-1007.23" font-family="Georgia" font-size="9.00" fill="white">substantia finita</text>
+<text text-anchor="middle" x="638.47" y="-996.43" font-family="Georgia" font-size="9.00" fill="white">ens creatum</text>
+</g>
+<!-- Substantialitas&#45;&gt;ResCogitans -->
+<g id="edge5" class="edge">
+<title>Substantialitas-&gt;ResCogitans</title>
+<path fill="none" stroke="#3b82f6" d="M842.88,-1206.96C794.5,-1161.84 730.49,-1102.15 687.08,-1061.66"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="688.99,-1060.1 682.2,-1057.12 685.65,-1063.68 688.99,-1060.1"/>
+<text text-anchor="middle" x="762.91" y="-1103.38" font-family="Georgia" font-size="8.00">substantia finita</text>
+</g>
+<!-- ResExtensa -->
+<g id="node4" class="node">
+<title>ResExtensa</title>
+<polygon fill="#dc2626" stroke="black" points="894.96,-1015.33 855.71,-1057.13 777.23,-1057.13 737.98,-1015.33 777.23,-973.52 855.71,-973.52 894.96,-1015.33"/>
+<text text-anchor="middle" x="816.47" y="-1028.83" font-family="Georgia" font-size="9.00" fill="white">RES EXTENSA</text>
+<text text-anchor="middle" x="816.47" y="-1018.03" font-family="Georgia" font-size="9.00" fill="white">(substance étendue)</text>
+<text text-anchor="middle" x="816.47" y="-1007.23" font-family="Georgia" font-size="9.00" fill="white">substantia finita</text>
+<text text-anchor="middle" x="816.47" y="-996.43" font-family="Georgia" font-size="9.00" fill="white">ens creatum</text>
+</g>
+<!-- Substantialitas&#45;&gt;ResExtensa -->
+<g id="edge6" class="edge">
+<title>Substantialitas-&gt;ResExtensa</title>
+<path fill="none" stroke="#dc2626" d="M872.64,-1167.92C859.54,-1132.55 845.45,-1094.52 834.65,-1065.4"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="836.96,-1064.56 832.23,-1058.85 832.36,-1066.27 836.96,-1064.56"/>
+<text text-anchor="middle" x="878.25" y="-1103.38" font-family="Georgia" font-size="8.00">substantia finita</text>
+</g>
+<!-- Definition -->
+<g id="node5" class="node">
+<title>Definition</title>
+<ellipse fill="#3b82f6" stroke="black" cx="1113.47" cy="-1015.33" rx="67.65" ry="67.65"/>
+<text text-anchor="middle" x="1113.47" y="-1034.23" font-family="Georgia" font-size="9.00" fill="white">DÉFINITION</text>
+<text text-anchor="middle" x="1113.47" y="-1023.43" font-family="Georgia" font-size="9.00" fill="white">'rem quae ita existit</text>
+<text text-anchor="middle" x="1113.47" y="-1012.63" font-family="Georgia" font-size="9.00" fill="white">ut nulla alia re</text>
+<text text-anchor="middle" x="1113.47" y="-1001.83" font-family="Georgia" font-size="9.00" fill="white">indigeat ad existendum'</text>
+<text text-anchor="middle" x="1113.47" y="-991.03" font-family="Georgia" font-size="9.00" fill="white">étant sans besoin</text>
+</g>
+<!-- Substantialitas&#45;&gt;Definition -->
+<g id="edge1" class="edge">
+<title>Substantialitas-&gt;Definition</title>
+<path fill="none" stroke="#3b82f6" d="M989.54,-1171.19C1015.51,-1138.73 1043.56,-1103.69 1066.38,-1075.17"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="1068.06,-1076.99 1070.53,-1069.99 1064.24,-1073.93 1068.06,-1076.99"/>
+<text text-anchor="middle" x="1059.32" y="-1103.38" font-family="Georgia" font-size="8.00">définition</text>
+</g>
+<!-- Inaccessible -->
+<g id="node14" class="node">
+<title>Inaccessible</title>
+<polygon fill="#7c3aed" stroke="black" points="1659.47,-1040.93 1551.47,-1040.93 1551.47,-989.73 1659.47,-989.73 1659.47,-1040.93"/>
+<text text-anchor="middle" x="1605.47" y="-1028.83" font-family="Georgia" font-size="9.00" fill="white">INACCESSIBILITÉ</text>
+<text text-anchor="middle" x="1605.47" y="-1018.03" font-family="Georgia" font-size="9.00" fill="white">'non potest substantia</text>
+<text text-anchor="middle" x="1605.47" y="-1007.23" font-family="Georgia" font-size="9.00" fill="white">animadverti ex hoc</text>
+<text text-anchor="middle" x="1605.47" y="-996.43" font-family="Georgia" font-size="9.00" fill="white">quod sit res existens'</text>
+</g>
+<!-- Substantialitas&#45;&gt;Inaccessible -->
+<g id="edge13" class="edge">
+<title>Substantialitas-&gt;Inaccessible</title>
+<path fill="none" stroke="#7c3aed" d="M994.96,-1256.72C1118.95,-1234.63 1354.63,-1182.56 1531.47,-1082.98 1548.32,-1073.49 1564.58,-1059.57 1577.54,-1046.9"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1578.96,-1048.94 1582.18,-1042.25 1575.5,-1045.47 1578.96,-1048.94"/>
+<text text-anchor="middle" x="1506.15" y="-1103.38" font-family="Georgia" font-size="8.00">inaccessible</text>
+</g>
+<!-- RationeTantum -->
+<g id="node20" class="node">
+<title>RationeTantum</title>
+<polygon fill="#fef3c7" stroke="black" points="1910.32,-1046.33 1800.62,-1046.33 1800.62,-984.33 1916.32,-984.33 1916.32,-1040.33 1910.32,-1046.33"/>
+<polyline fill="none" stroke="black" points="1910.32,-1046.33 1910.32,-1040.33"/>
+<polyline fill="none" stroke="black" points="1916.32,-1040.33 1910.32,-1040.33"/>
+<text text-anchor="middle" x="1858.47" y="-1034.23" font-family="Georgia" font-size="9.00" fill="#92400e">RATIONE TANTUM</text>
+<text text-anchor="middle" x="1858.47" y="-1023.43" font-family="Georgia" font-size="9.00" fill="#92400e">(par la raison seulement)</text>
+<text text-anchor="middle" x="1858.47" y="-1012.63" font-family="Georgia" font-size="9.00" fill="#92400e">substantialité</text>
+<text text-anchor="middle" x="1858.47" y="-1001.83" font-family="Georgia" font-size="9.00" fill="#92400e">non isolable realiter</text>
+<text text-anchor="middle" x="1858.47" y="-991.03" font-family="Georgia" font-size="9.00" fill="#92400e">ni trouvable</text>
+</g>
+<!-- Substantialitas&#45;&gt;RationeTantum -->
+<g id="edge19" class="edge">
+<title>Substantialitas-&gt;RationeTantum</title>
+<path fill="none" stroke="#fef3c7" d="M989.98,-1253C1128.77,-1222.77 1423.77,-1155.9 1668.47,-1082.98 1710.22,-1070.54 1756.36,-1054.41 1792.71,-1041.14"/>
+<polygon fill="#fef3c7" stroke="#fef3c7" points="1793.16,-1043.58 1798.89,-1038.87 1791.47,-1038.98 1793.16,-1043.58"/>
+<text text-anchor="middle" x="1613.73" y="-1103.38" font-family="Georgia" font-size="8.00">ratione tantum</text>
+</g>
+<!-- Analogie -->
+<g id="node8" class="node">
+<title>Analogie</title>
+<polygon fill="#ec4899" stroke="black" points="124.47,-895.4 31.01,-833.4 124.47,-771.4 217.93,-833.4 124.47,-895.4"/>
+<text text-anchor="middle" x="124.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="white">PROBLÈME</text>
+<text text-anchor="middle" x="124.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="white">ANALOGIE</text>
+<text text-anchor="middle" x="124.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="white">'nomen substantiae</text>
+<text text-anchor="middle" x="124.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="white">non convenit Deo</text>
+<text text-anchor="middle" x="124.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="white">et illis univoce'</text>
+</g>
+<!-- Deus&#45;&gt;Analogie -->
+<g id="edge7" class="edge">
+<title>Deus-&gt;Analogie</title>
+<path fill="none" stroke="#ec4899" d="M408.16,-985.42C346.53,-952.61 246.37,-899.29 183.03,-865.57"/>
+<polygon fill="#ec4899" stroke="#ec4899" points="184.54,-863.6 177.21,-862.48 182.23,-867.93 184.54,-863.6"/>
+<text text-anchor="middle" x="306.65" y="-922.48" font-family="Georgia" font-size="8.00">soulève</text>
+</g>
+<!-- CitationDieu -->
+<g id="node29" class="node">
+<title>CitationDieu</title>
+<polygon fill="#ddd6fe" stroke="black" points="574.45,-869.8 476.49,-869.8 476.49,-797 580.45,-797 580.45,-863.8 574.45,-869.8"/>
+<polyline fill="none" stroke="black" points="574.45,-869.8 574.45,-863.8"/>
+<polyline fill="none" stroke="black" points="580.45,-863.8 574.45,-863.8"/>
+<text text-anchor="middle" x="528.47" y="-857.7" font-family="Georgia" font-size="9.00" fill="#5b21b6">CITATION DIEU :</text>
+<text text-anchor="middle" x="528.47" y="-846.9" font-family="Georgia" font-size="9.00" fill="#5b21b6">'Substantia quae nulla</text>
+<text text-anchor="middle" x="528.47" y="-836.1" font-family="Georgia" font-size="9.00" fill="#5b21b6">plane re indigeat,</text>
+<text text-anchor="middle" x="528.47" y="-825.3" font-family="Georgia" font-size="9.00" fill="#5b21b6">unica tantum potest</text>
+<text text-anchor="middle" x="528.47" y="-814.5" font-family="Georgia" font-size="9.00" fill="#5b21b6">intelligi, nempe Deus'</text>
+<text text-anchor="middle" x="528.47" y="-803.7" font-family="Georgia" font-size="9.00" fill="#5b21b6">(Principia I, 51)</text>
+</g>
+<!-- Deus&#45;&gt;CitationDieu -->
+<!-- EnsCreatum -->
+<g id="node32" class="node">
+<title>EnsCreatum</title>
+<polygon fill="#f0fdf4" stroke="black" points="711.75,-864.4 625.19,-864.4 625.19,-802.4 717.75,-802.4 717.75,-858.4 711.75,-864.4"/>
+<polyline fill="none" stroke="black" points="711.75,-864.4 711.75,-858.4"/>
+<polyline fill="none" stroke="black" points="717.75,-858.4 711.75,-858.4"/>
+<text text-anchor="middle" x="671.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="#15803d">ENS CREATUM</text>
+<text text-anchor="middle" x="671.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="#15803d">tout étant qui</text>
+<text text-anchor="middle" x="671.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="#15803d">n'est pas Dieu</text>
+<text text-anchor="middle" x="671.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="#15803d">a besoin d'être</text>
+<text text-anchor="middle" x="671.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="#15803d">produit et conservé</text>
+</g>
+<!-- ResCogitans&#45;&gt;EnsCreatum -->
+<!-- ResExtensa&#45;&gt;EnsCreatum -->
+<!-- AbsenceBesoin -->
+<g id="node6" class="node">
+<title>AbsenceBesoin</title>
+<ellipse fill="#1e40af" stroke="black" cx="965.47" cy="-833.4" rx="68.68" ry="68.68"/>
+<text text-anchor="middle" x="965.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="white">ABSENCE DE BESOIN</text>
+<text text-anchor="middle" x="965.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="white">(non-indigence)</text>
+<text text-anchor="middle" x="965.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="white">moment constitutif</text>
+<text text-anchor="middle" x="965.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="white">de la substantialité</text>
+<text text-anchor="middle" x="965.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="white">horizon d'entente</text>
+</g>
+<!-- Definition&#45;&gt;AbsenceBesoin -->
+<g id="edge2" class="edge">
+<title>Definition-&gt;AbsenceBesoin</title>
+<path fill="none" stroke="#1e40af" d="M1069.81,-963.52C1060.4,-952.42 1050.55,-940.7 1041.47,-929.68 1032.17,-918.38 1022.34,-906.23 1012.95,-894.51"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="1015.02,-893.17 1008.73,-889.24 1011.19,-896.23 1015.02,-893.17"/>
+<text text-anchor="middle" x="1075.47" y="-922.48" font-family="Georgia" font-size="8.00">moment constitutif</text>
+</g>
+<!-- DoubleUsage -->
+<g id="node22" class="node">
+<title>DoubleUsage</title>
+<polygon fill="#9ca3af" stroke="black" points="1163.87,-864.4 1063.07,-864.4 1063.07,-802.4 1163.87,-802.4 1163.87,-864.4"/>
+<text text-anchor="middle" x="1113.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="white">DOUBLE USAGE</text>
+<text text-anchor="middle" x="1113.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="white">(double sens)</text>
+<text text-anchor="middle" x="1113.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="white">substantia =</text>
+<text text-anchor="middle" x="1113.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="white">substantialité OU</text>
+<text text-anchor="middle" x="1113.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="white">étant substantiel</text>
+</g>
+<!-- Definition&#45;&gt;DoubleUsage -->
+<g id="edge21" class="edge">
+<title>Definition-&gt;DoubleUsage</title>
+<path fill="none" stroke="#9ca3af" d="M1113.47,-947.33C1113.47,-922.28 1113.47,-894.68 1113.47,-873.04"/>
+<polygon fill="#9ca3af" stroke="#9ca3af" points="1115.92,-873.27 1113.47,-866.27 1111.02,-873.27 1115.92,-873.27"/>
+<text text-anchor="middle" x="1129.03" y="-922.48" font-family="Georgia" font-size="8.00">entraîne</text>
+</g>
+<!-- CitationDef -->
+<g id="node28" class="node">
+<title>CitationDef</title>
+<polygon fill="#ecfdf5" stroke="black" stroke-dasharray="5,2" points="1397.96,-875.2 1280.98,-875.2 1280.98,-791.6 1403.96,-791.6 1403.96,-869.2 1397.96,-875.2"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1397.96,-875.2 1397.96,-869.2"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="1403.96,-869.2 1397.96,-869.2"/>
+<text text-anchor="middle" x="1342.47" y="-863.1" font-family="Georgia" font-size="9.00" fill="#065f46">CITATION DÉFINITION :</text>
+<text text-anchor="middle" x="1342.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="#065f46">'Per substantiam nihil</text>
+<text text-anchor="middle" x="1342.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="#065f46">aliud intelligere possumus,</text>
+<text text-anchor="middle" x="1342.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="#065f46">quam rem quae ita existit,</text>
+<text text-anchor="middle" x="1342.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="#065f46">ut nulla alia re indigeat</text>
+<text text-anchor="middle" x="1342.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="#065f46">ad existendum'</text>
+<text text-anchor="middle" x="1342.47" y="-798.3" font-family="Georgia" font-size="9.00" fill="#065f46">(Principia I, 51)</text>
+</g>
+<!-- Definition&#45;&gt;CitationDef -->
+<!-- Production -->
+<g id="node7" class="node">
+<title>Production</title>
+<ellipse fill="#1d4ed8" stroke="black" cx="970.47" cy="-1015.33" rx="57.23" ry="57.23"/>
+<text text-anchor="middle" x="970.47" y="-1034.23" font-family="Georgia" font-size="9.00" fill="white">PRODUCTION</text>
+<text text-anchor="middle" x="970.47" y="-1023.43" font-family="Georgia" font-size="9.00" fill="white">(productio)</text>
+<text text-anchor="middle" x="970.47" y="-1012.63" font-family="Georgia" font-size="9.00" fill="white">et conservation</text>
+<text text-anchor="middle" x="970.47" y="-1001.83" font-family="Georgia" font-size="9.00" fill="white">horizon d'entente</text>
+<text text-anchor="middle" x="970.47" y="-991.03" font-family="Georgia" font-size="9.00" fill="white">de 'être'</text>
+</g>
+<!-- AbsenceBesoin&#45;&gt;Production -->
+<g id="edge3" class="edge">
+<title>AbsenceBesoin-&gt;Production</title>
+<path fill="none" stroke="#1d4ed8" d="M967.36,-902.32C967.79,-917.78 968.24,-934.17 968.67,-949.5"/>
+<polygon fill="#1d4ed8" stroke="#1d4ed8" points="966.22,-949.45 968.86,-956.38 971.11,-949.31 966.22,-949.45"/>
+<text text-anchor="middle" x="981.56" y="-922.48" font-family="Georgia" font-size="8.00">horizon</text>
+</g>
+<!-- HorizonProductio -->
+<g id="node31" class="node">
+<title>HorizonProductio</title>
+<polygon fill="#dbeafe" stroke="black" points="873.19,-869.8 745.75,-869.8 745.75,-797 879.19,-797 879.19,-863.8 873.19,-869.8"/>
+<polyline fill="none" stroke="black" points="873.19,-869.8 873.19,-863.8"/>
+<polyline fill="none" stroke="black" points="879.19,-863.8 873.19,-863.8"/>
+<text text-anchor="middle" x="812.47" y="-857.7" font-family="Georgia" font-size="9.00" fill="#1e40af">HORIZON ONTOLOGIQUE :</text>
+<text text-anchor="middle" x="812.47" y="-846.9" font-family="Georgia" font-size="9.00" fill="#1e40af">Production visant</text>
+<text text-anchor="middle" x="812.47" y="-836.1" font-family="Georgia" font-size="9.00" fill="#1e40af">étant là-devant</text>
+<text text-anchor="middle" x="812.47" y="-825.3" font-family="Georgia" font-size="9.00" fill="#1e40af">VS</text>
+<text text-anchor="middle" x="812.47" y="-814.5" font-family="Georgia" font-size="9.00" fill="#1e40af">Absence besoin</text>
+<text text-anchor="middle" x="812.47" y="-803.7" font-family="Georgia" font-size="9.00" fill="#1e40af">d'avoir été produit</text>
+</g>
+<!-- Production&#45;&gt;HorizonProductio -->
+<!-- Univoque -->
+<g id="node9" class="node">
+<title>Univoque</title>
+<polygon fill="#db2777" stroke="black" points="92.47,-693.44 0,-631.44 92.47,-569.44 184.94,-631.44 92.47,-693.44"/>
+<text text-anchor="middle" x="92.47" y="-650.34" font-family="Georgia" font-size="9.00" fill="white">UNIVOQUE</text>
+<text text-anchor="middle" x="92.47" y="-639.54" font-family="Georgia" font-size="9.00" fill="white">(univoce)</text>
+<text text-anchor="middle" x="92.47" y="-628.74" font-family="Georgia" font-size="9.00" fill="white">signification</text>
+<text text-anchor="middle" x="92.47" y="-617.94" font-family="Georgia" font-size="9.00" fill="white">identique</text>
+<text text-anchor="middle" x="92.47" y="-607.14" font-family="Georgia" font-size="9.00" fill="white">≠ différence infinie</text>
+</g>
+<!-- Analogie&#45;&gt;Univoque -->
+<g id="edge8" class="edge">
+<title>Analogie-&gt;Univoque</title>
+<path fill="none" stroke="#db2777" d="M115.6,-776.97C111.59,-751.94 106.84,-722.23 102.68,-696.27"/>
+<polygon fill="#db2777" stroke="#db2777" points="105.12,-696 101.6,-689.48 100.28,-696.78 105.12,-696"/>
+<text text-anchor="middle" x="130.7" y="-739.52" font-family="Georgia" font-size="8.00">≠ univoque</text>
+</g>
+<!-- Analogique -->
+<g id="node10" class="node">
+<title>Analogique</title>
+<polygon fill="#be185d" stroke="black" points="381.47,-895.4 304.94,-833.4 381.47,-771.4 458,-833.4 381.47,-895.4"/>
+<text text-anchor="middle" x="381.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="white">ANALOGIQUE</text>
+<text text-anchor="middle" x="381.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="white">(analogice)</text>
+<text text-anchor="middle" x="381.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="white">signification</text>
+<text text-anchor="middle" x="381.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="white">par analogie</text>
+<text text-anchor="middle" x="381.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="white">Scolastique</text>
+</g>
+<!-- Analogie&#45;&gt;Analogique -->
+<g id="edge9" class="edge">
+<title>Analogie-&gt;Analogique</title>
+<path fill="none" stroke="#be185d" d="M218.71,-833.4C244.06,-833.4 271.34,-833.4 296.18,-833.4"/>
+<polygon fill="#be185d" stroke="#be185d" points="295.99,-835.85 302.99,-833.4 295.99,-830.95 295.99,-835.85"/>
+<text text-anchor="middle" x="261.44" y="-838.8" font-family="Georgia" font-size="8.00">solution scolastique</text>
+</g>
+<!-- Esquive -->
+<g id="node11" class="node">
+<title>Esquive</title>
+<polygon fill="#ef4444" stroke="black" points="333.47,-719.12 202.88,-587.6 464.06,-587.6 333.47,-719.12"/>
+<text text-anchor="middle" x="333.47" y="-650.34" font-family="Georgia" font-size="9.00" fill="white">ESQUIVE</text>
+<text text-anchor="middle" x="333.47" y="-639.54" font-family="Georgia" font-size="9.00" fill="white">(Esquive)</text>
+<text text-anchor="middle" x="333.47" y="-628.74" font-family="Georgia" font-size="9.00" fill="white">'nulla significatio</text>
+<text text-anchor="middle" x="333.47" y="-617.94" font-family="Georgia" font-size="9.00" fill="white">potest distincte</text>
+<text text-anchor="middle" x="333.47" y="-607.14" font-family="Georgia" font-size="9.00" fill="white">intelligi communis'</text>
+</g>
+<!-- Analogie&#45;&gt;Esquive -->
+<g id="edge10" class="edge">
+<title>Analogie-&gt;Esquive</title>
+<path fill="none" stroke="#ef4444" d="M162.32,-796.19C196.15,-763.82 245.98,-716.15 283.16,-680.58"/>
+<polygon fill="#ef4444" stroke="#ef4444" points="284.55,-682.63 287.92,-676.02 281.17,-679.09 284.55,-682.63"/>
+<text text-anchor="middle" x="254.13" y="-739.52" font-family="Georgia" font-size="8.00">Descartes esquive</text>
+</g>
+<!-- Inexplique -->
+<g id="node12" class="node">
+<title>Inexplique</title>
+<polygon fill="#dc2626" stroke="black" points="469.47,-498.16 340.81,-366.64 598.13,-366.64 469.47,-498.16"/>
+<text text-anchor="middle" x="469.47" y="-429.38" font-family="Georgia" font-size="9.00" fill="white">INEXPLIQUÉ</text>
+<text text-anchor="middle" x="469.47" y="-418.58" font-family="Georgia" font-size="9.00" fill="white">(inexpliqué)</text>
+<text text-anchor="middle" x="469.47" y="-407.78" font-family="Georgia" font-size="9.00" fill="white">sens d'être inclus</text>
+<text text-anchor="middle" x="469.47" y="-396.98" font-family="Georgia" font-size="9.00" fill="white">dans substantialité</text>
+<text text-anchor="middle" x="469.47" y="-386.18" font-family="Georgia" font-size="9.00" fill="white">reste obscur</text>
+</g>
+<!-- Esquive&#45;&gt;Inexplique -->
+<g id="edge11" class="edge">
+<title>Esquive-&gt;Inexplique</title>
+<path fill="none" stroke="#dc2626" d="M360.34,-587.18C380.8,-554.23 409.23,-508.47 431.94,-471.9"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="433.99,-473.24 435.61,-466 429.83,-470.66 433.99,-473.24"/>
+<text text-anchor="middle" x="411.19" y="-518.56" font-family="Georgia" font-size="8.00">laisse</text>
+</g>
+<!-- AllantDeSoi -->
+<g id="node13" class="node">
+<title>AllantDeSoi</title>
+<polygon fill="#b91c1c" stroke="black" points="605.47,-719.12 481.72,-587.6 729.22,-587.6 605.47,-719.12"/>
+<text text-anchor="middle" x="605.47" y="-650.34" font-family="Georgia" font-size="9.00" fill="white">'ALLANT DE SOI'</text>
+<text text-anchor="middle" x="605.47" y="-639.54" font-family="Georgia" font-size="9.00" fill="white">(evident)</text>
+<text text-anchor="middle" x="605.47" y="-628.74" font-family="Georgia" font-size="9.00" fill="white">sens tenu pour</text>
+<text text-anchor="middle" x="605.47" y="-617.94" font-family="Georgia" font-size="9.00" fill="white">évident</text>
+<text text-anchor="middle" x="605.47" y="-607.14" font-family="Georgia" font-size="9.00" fill="white">sans explication</text>
+</g>
+<!-- Inexplique&#45;&gt;AllantDeSoi -->
+<g id="edge12" class="edge">
+<title>Inexplique-&gt;AllantDeSoi</title>
+<path fill="none" stroke="#b91c1c" d="M502.53,-464.72C524.33,-499.81 552.7,-545.49 574.14,-580"/>
+<polygon fill="#b91c1c" stroke="#b91c1c" points="572.03,-581.24 577.8,-585.9 576.19,-578.66 572.03,-581.24"/>
+<text text-anchor="middle" x="554.79" y="-518.56" font-family="Georgia" font-size="8.00">tenu pour</text>
+</g>
+<!-- NonAfficit -->
+<g id="node15" class="node">
+<title>NonAfficit</title>
+<polygon fill="#5b21b6" stroke="black" points="1522.87,-864.4 1422.07,-864.4 1422.07,-802.4 1522.87,-802.4 1522.87,-864.4"/>
+<text text-anchor="middle" x="1472.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="white">'NON AFFICIT'</text>
+<text text-anchor="middle" x="1472.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="white">(n'affecte pas)</text>
+<text text-anchor="middle" x="1472.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="white">'être' même ne nous</text>
+<text text-anchor="middle" x="1472.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="white">affecte pas</text>
+<text text-anchor="middle" x="1472.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="white">donc imperceptible</text>
+</g>
+<!-- Inaccessible&#45;&gt;NonAfficit -->
+<g id="edge14" class="edge">
+<title>Inaccessible-&gt;NonAfficit</title>
+<path fill="none" stroke="#5b21b6" d="M1586.94,-989.33C1570.92,-967.72 1547.15,-935.63 1526.47,-907.64 1517.76,-895.85 1508.27,-882.99 1499.71,-871.38"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="1501.81,-870.1 1495.69,-865.92 1497.87,-873.01 1501.81,-870.1"/>
+<text text-anchor="middle" x="1563.47" y="-922.48" font-family="Georgia" font-size="8.00">n'affecte pas</text>
+</g>
+<!-- Echappatoire -->
+<g id="node17" class="node">
+<title>Echappatoire</title>
+<ellipse fill="#059669" stroke="black" cx="1612.47" cy="-833.4" rx="62.12" ry="43.84"/>
+<text text-anchor="middle" x="1612.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="white">ÉCHAPPATOIRE</text>
+<text text-anchor="middle" x="1612.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="white">(échappatoire)</text>
+<text text-anchor="middle" x="1612.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="white">recours aux</text>
+<text text-anchor="middle" x="1612.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="white">déterminations</text>
+<text text-anchor="middle" x="1612.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="white">étantes (attributs)</text>
+</g>
+<!-- Inaccessible&#45;&gt;Echappatoire -->
+<g id="edge16" class="edge">
+<title>Inaccessible-&gt;Echappatoire</title>
+<path fill="none" stroke="#059669" d="M1606.44,-989.31C1607.48,-962.69 1609.15,-919.84 1610.46,-885.94"/>
+<polygon fill="#059669" stroke="#059669" points="1612.91,-886.14 1610.73,-879.05 1608.01,-885.95 1612.91,-886.14"/>
+<text text-anchor="middle" x="1617.6" y="-922.48" font-family="Georgia" font-size="8.00">donc</text>
+</g>
+<!-- CitationInaccess -->
+<g id="node30" class="node">
+<title>CitationInaccess</title>
+<polygon fill="#fecaca" stroke="black" points="1902.7,-875.2 1766.24,-875.2 1766.24,-791.6 1908.7,-791.6 1908.7,-869.2 1902.7,-875.2"/>
+<polyline fill="none" stroke="black" points="1902.7,-875.2 1902.7,-869.2"/>
+<polyline fill="none" stroke="black" points="1908.7,-869.2 1902.7,-869.2"/>
+<text text-anchor="middle" x="1837.47" y="-863.1" font-family="Georgia" font-size="9.00" fill="#7f1d1d">CITATION INACCESSIBILITÉ :</text>
+<text text-anchor="middle" x="1837.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="#7f1d1d">'Non potest substantia</text>
+<text text-anchor="middle" x="1837.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="#7f1d1d">primum animadverti</text>
+<text text-anchor="middle" x="1837.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="#7f1d1d">ex hoc solo, quod sit</text>
+<text text-anchor="middle" x="1837.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="#7f1d1d">res existens, quia hoc</text>
+<text text-anchor="middle" x="1837.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="#7f1d1d">solum per se nos non afficit'</text>
+<text text-anchor="middle" x="1837.47" y="-798.3" font-family="Georgia" font-size="9.00" fill="#7f1d1d">(Principia I, 65)</text>
+</g>
+<!-- Inaccessible&#45;&gt;CitationInaccess -->
+<!-- NonPredicat -->
+<g id="node16" class="node">
+<title>NonPredicat</title>
+<polygon fill="#4c1d95" stroke="black" points="1522.87,-1046.33 1422.07,-1046.33 1422.07,-984.33 1522.87,-984.33 1522.87,-1046.33"/>
+<text text-anchor="middle" x="1472.47" y="-1034.23" font-family="Georgia" font-size="9.00" fill="white">≠ PRÉDICAT RÉEL</text>
+<text text-anchor="middle" x="1472.47" y="-1023.43" font-family="Georgia" font-size="9.00" fill="white">(Kant reprend)</text>
+<text text-anchor="middle" x="1472.47" y="-1012.63" font-family="Georgia" font-size="9.00" fill="white">'être n'est pas</text>
+<text text-anchor="middle" x="1472.47" y="-1001.83" font-family="Georgia" font-size="9.00" fill="white">prédicat réel'</text>
+<text text-anchor="middle" x="1472.47" y="-991.03" font-family="Georgia" font-size="9.00" fill="white">formule cartésienne</text>
+</g>
+<!-- NonAfficit&#45;&gt;NonPredicat -->
+<g id="edge15" class="edge">
+<title>NonAfficit-&gt;NonPredicat</title>
+<path fill="none" stroke="#4c1d95" d="M1472.47,-864.62C1472.47,-895.27 1472.47,-942.82 1472.47,-976.08"/>
+<polygon fill="#4c1d95" stroke="#4c1d95" points="1470.02,-975.7 1472.47,-982.7 1474.92,-975.7 1470.02,-975.7"/>
+<text text-anchor="middle" x="1496.06" y="-922.48" font-family="Georgia" font-size="8.00">Kant reprend</text>
+</g>
+<!-- Attributs -->
+<g id="node18" class="node">
+<title>Attributs</title>
+<ellipse fill="#10b981" stroke="black" cx="1614.47" cy="-631.44" rx="76.15" ry="43.84"/>
+<text text-anchor="middle" x="1614.47" y="-650.34" font-family="Georgia" font-size="9.00" fill="white">ATTRIBUTS</text>
+<text text-anchor="middle" x="1614.47" y="-639.54" font-family="Georgia" font-size="9.00" fill="white">(attributa)</text>
+<text text-anchor="middle" x="1614.47" y="-628.74" font-family="Georgia" font-size="9.00" fill="white">déterminations étantes</text>
+<text text-anchor="middle" x="1614.47" y="-617.94" font-family="Georgia" font-size="9.00" fill="white">qui satisfont</text>
+<text text-anchor="middle" x="1614.47" y="-607.14" font-family="Georgia" font-size="9.00" fill="white">au sens d'être</text>
+</g>
+<!-- Echappatoire&#45;&gt;Attributs -->
+<g id="edge17" class="edge">
+<title>Echappatoire-&gt;Attributs</title>
+<path fill="none" stroke="#10b981" d="M1612.9,-789.51C1613.21,-758.51 1613.63,-716.5 1613.96,-683.73"/>
+<polygon fill="#10b981" stroke="#10b981" points="1616.4,-684.15 1614.02,-677.13 1611.5,-684.1 1616.4,-684.15"/>
+<text text-anchor="middle" x="1626.62" y="-739.52" font-family="Georgia" font-size="8.00">recours</text>
+</g>
+<!-- ExtensioAttribut -->
+<g id="node19" class="node">
+<title>ExtensioAttribut</title>
+<ellipse fill="#34d399" stroke="black" cx="1614.47" cy="-410.48" rx="71.68" ry="43.84"/>
+<text text-anchor="middle" x="1614.47" y="-429.38" font-family="Georgia" font-size="9.00" fill="#1f2937">EXTENSIO</text>
+<text text-anchor="middle" x="1614.47" y="-418.58" font-family="Georgia" font-size="9.00" fill="#1f2937">COMME ATTRIBUT</text>
+<text text-anchor="middle" x="1614.47" y="-407.78" font-family="Georgia" font-size="9.00" fill="#1f2937">'attribution' première</text>
+<text text-anchor="middle" x="1614.47" y="-396.98" font-family="Georgia" font-size="9.00" fill="#1f2937">de res corporea</text>
+<text text-anchor="middle" x="1614.47" y="-386.18" font-family="Georgia" font-size="9.00" fill="#1f2937">substantia extensa</text>
+</g>
+<!-- Attributs&#45;&gt;ExtensioAttribut -->
+<g id="edge18" class="edge">
+<title>Attributs-&gt;ExtensioAttribut</title>
+<path fill="none" stroke="#34d399" d="M1614.47,-587.18C1614.47,-551.5 1614.47,-500.77 1614.47,-462.99"/>
+<polygon fill="#34d399" stroke="#34d399" points="1616.92,-463.16 1614.47,-456.16 1612.02,-463.16 1616.92,-463.16"/>
+<text text-anchor="middle" x="1645.72" y="-518.56" font-family="Georgia" font-size="8.00">pour res corporea</text>
+</g>
+<!-- FacilusIntelligimus -->
+<g id="node21" class="node">
+<title>FacilusIntelligimus</title>
+<polygon fill="#fbbf24" stroke="black" points="2027.87,-864.4 1927.07,-864.4 1927.07,-802.4 2033.87,-802.4 2033.87,-858.4 2027.87,-864.4"/>
+<polyline fill="none" stroke="black" points="2027.87,-864.4 2027.87,-858.4"/>
+<polyline fill="none" stroke="black" points="2033.87,-858.4 2027.87,-858.4"/>
+<text text-anchor="middle" x="1980.47" y="-852.3" font-family="Georgia" font-size="9.00" fill="#92400e">'FACILIUS</text>
+<text text-anchor="middle" x="1980.47" y="-841.5" font-family="Georgia" font-size="9.00" fill="#92400e">INTELLIGIMUS'</text>
+<text text-anchor="middle" x="1980.47" y="-830.7" font-family="Georgia" font-size="9.00" fill="#92400e">plus facile comprendre</text>
+<text text-anchor="middle" x="1980.47" y="-819.9" font-family="Georgia" font-size="9.00" fill="#92400e">substantia extensa</text>
+<text text-anchor="middle" x="1980.47" y="-809.1" font-family="Georgia" font-size="9.00" fill="#92400e">que substantia sola</text>
+</g>
+<!-- RationeTantum&#45;&gt;FacilusIntelligimus -->
+<g id="edge20" class="edge">
+<title>RationeTantum-&gt;FacilusIntelligimus</title>
+<path fill="none" stroke="#fbbf24" d="M1878.89,-984.21C1899.91,-953.21 1932.71,-904.84 1955.32,-871.49"/>
+<polygon fill="#fbbf24" stroke="#fbbf24" points="1957.23,-873.04 1959.13,-865.87 1953.18,-870.29 1957.23,-873.04"/>
+<text text-anchor="middle" x="1928.1" y="-922.48" font-family="Georgia" font-size="8.00">donc</text>
+</g>
+<!-- OntiqueSousOntologique -->
+<g id="node23" class="node">
+<title>OntiqueSousOntologique</title>
+<polygon fill="#6b7280" stroke="black" points="1167.47,-662.44 1059.47,-662.44 1059.47,-600.44 1167.47,-600.44 1167.47,-662.44"/>
+<text text-anchor="middle" x="1113.47" y="-650.34" font-family="Georgia" font-size="9.00" fill="white">ONTIQUE SOUS</text>
+<text text-anchor="middle" x="1113.47" y="-639.54" font-family="Georgia" font-size="9.00" fill="white">ONTOLOGIQUE</text>
+<text text-anchor="middle" x="1113.47" y="-628.74" font-family="Georgia" font-size="9.00" fill="white">substantialité</text>
+<text text-anchor="middle" x="1113.47" y="-617.94" font-family="Georgia" font-size="9.00" fill="white">entendre à partir</text>
+<text text-anchor="middle" x="1113.47" y="-607.14" font-family="Georgia" font-size="9.00" fill="white">constitution étante</text>
+</g>
+<!-- DoubleUsage&#45;&gt;OntiqueSousOntologique -->
+<g id="edge22" class="edge">
+<title>DoubleUsage-&gt;OntiqueSousOntologique</title>
+<path fill="none" stroke="#6b7280" d="M1113.47,-802.03C1113.47,-766.99 1113.47,-709.3 1113.47,-671.09"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="1115.92,-671.28 1113.47,-664.28 1111.02,-671.28 1115.92,-671.28"/>
+<text text-anchor="middle" x="1135.89" y="-739.52" font-family="Georgia" font-size="8.00">ontique sous</text>
+</g>
+<!-- FlouOnticoOntologique -->
+<g id="node24" class="node">
+<title>FlouOnticoOntologique</title>
+<polygon fill="#4b5563" stroke="black" points="1174.43,-441.48 1052.5,-441.48 1052.5,-379.48 1174.43,-379.48 1174.43,-441.48"/>
+<text text-anchor="middle" x="1113.47" y="-429.38" font-family="Georgia" font-size="9.00" fill="white">FLOU</text>
+<text text-anchor="middle" x="1113.47" y="-418.58" font-family="Georgia" font-size="9.00" fill="white">ONTICO-ONTOLOGIQUE</text>
+<text text-anchor="middle" x="1113.47" y="-407.78" font-family="Georgia" font-size="9.00" fill="white">le plus souvent</text>
+<text text-anchor="middle" x="1113.47" y="-396.98" font-family="Georgia" font-size="9.00" fill="white">signification</text>
+<text text-anchor="middle" x="1113.47" y="-386.18" font-family="Georgia" font-size="9.00" fill="white">confuse</text>
+</g>
+<!-- OntiqueSousOntologique&#45;&gt;FlouOnticoOntologique -->
+<g id="edge23" class="edge">
+<title>OntiqueSousOntologique-&gt;FlouOnticoOntologique</title>
+<path fill="none" stroke="#4b5563" d="M1113.47,-600C1113.47,-560.86 1113.47,-492.87 1113.47,-450.13"/>
+<polygon fill="#4b5563" stroke="#4b5563" points="1115.92,-450.18 1113.47,-443.18 1111.02,-450.18 1115.92,-450.18"/>
+<text text-anchor="middle" x="1120.37" y="-518.56" font-family="Georgia" font-size="8.00">flou</text>
+</g>
+<!-- IncapaciteMaitriser -->
+<g id="node25" class="node">
+<title>IncapaciteMaitriser</title>
+<polygon fill="#fce7f3" stroke="black" points="1160.12,-277.2 1060.82,-277.2 1060.82,-215.2 1166.12,-215.2 1166.12,-271.2 1160.12,-277.2"/>
+<polyline fill="none" stroke="black" points="1160.12,-277.2 1160.12,-271.2"/>
+<polyline fill="none" stroke="black" points="1166.12,-271.2 1160.12,-271.2"/>
+<text text-anchor="middle" x="1113.47" y="-265.1" font-family="Georgia" font-size="9.00" fill="#be185d">INCAPACITÉ</text>
+<text text-anchor="middle" x="1113.47" y="-254.3" font-family="Georgia" font-size="9.00" fill="#be185d">MAÎTRISER</text>
+<text text-anchor="middle" x="1113.47" y="-243.5" font-family="Georgia" font-size="9.00" fill="#be185d">problème principal</text>
+<text text-anchor="middle" x="1113.47" y="-232.7" font-family="Georgia" font-size="9.00" fill="#be185d">de l'être</text>
+<text text-anchor="middle" x="1113.47" y="-221.9" font-family="Georgia" font-size="9.00" fill="#be185d">différence ontologique</text>
+</g>
+<!-- FlouOnticoOntologique&#45;&gt;IncapaciteMaitriser -->
+<g id="edge24" class="edge">
+<title>FlouOnticoOntologique-&gt;IncapaciteMaitriser</title>
+<path fill="none" stroke="#fce7f3" d="M1113.47,-379.34C1113.47,-352.89 1113.47,-314.29 1113.47,-285.63"/>
+<polygon fill="#fce7f3" stroke="#fce7f3" points="1115.92,-285.97 1113.47,-278.97 1111.02,-285.97 1115.92,-285.97"/>
+<text text-anchor="middle" x="1124.03" y="-297.6" font-family="Georgia" font-size="8.00">révèle</text>
+</g>
+<!-- ProblemeOriginaire -->
+<g id="node26" class="node">
+<title>ProblemeOriginaire</title>
+<polygon fill="#fdf2f8" stroke="black" points="1157.87,-169.6 1063.07,-169.6 1063.07,-107.6 1163.87,-107.6 1163.87,-163.6 1157.87,-169.6"/>
+<polyline fill="none" stroke="black" points="1157.87,-169.6 1157.87,-163.6"/>
+<polyline fill="none" stroke="black" points="1163.87,-163.6 1157.87,-163.6"/>
+<text text-anchor="middle" x="1113.47" y="-157.5" font-family="Georgia" font-size="9.00" fill="#be185d">PROBLÉMATIQUE</text>
+<text text-anchor="middle" x="1113.47" y="-146.7" font-family="Georgia" font-size="9.00" fill="#be185d">ORIGINAIRE</text>
+<text text-anchor="middle" x="1113.47" y="-135.9" font-family="Georgia" font-size="9.00" fill="#be185d">'choses mêmes'</text>
+<text text-anchor="middle" x="1113.47" y="-125.1" font-family="Georgia" font-size="9.00" fill="#be185d">amener 'nuances'</text>
+<text text-anchor="middle" x="1113.47" y="-114.3" font-family="Georgia" font-size="9.00" fill="#be185d">au comble clarté</text>
+</g>
+<!-- IncapaciteMaitriser&#45;&gt;ProblemeOriginaire -->
+<g id="edge25" class="edge">
+<title>IncapaciteMaitriser-&gt;ProblemeOriginaire</title>
+<path fill="none" stroke="#fdf2f8" d="M1113.47,-214.94C1113.47,-203.45 1113.47,-190.21 1113.47,-178.06"/>
+<polygon fill="#fdf2f8" stroke="#fdf2f8" points="1115.92,-178.38 1113.47,-171.38 1111.02,-178.38 1115.92,-178.38"/>
+<text text-anchor="middle" x="1127.71" y="-190" font-family="Georgia" font-size="8.00">requiert</text>
+</g>
+<!-- EquivoquesDepister -->
+<g id="node27" class="node">
+<title>EquivoquesDepister</title>
+<polygon fill="#fce7f3" stroke="black" points="1157.87,-62 1063.07,-62 1063.07,0 1163.87,0 1163.87,-56 1157.87,-62"/>
+<polyline fill="none" stroke="black" points="1157.87,-62 1157.87,-56"/>
+<polyline fill="none" stroke="black" points="1163.87,-56 1157.87,-56"/>
+<text text-anchor="middle" x="1113.47" y="-49.9" font-family="Georgia" font-size="9.00" fill="#be185d">DÉPISTER</text>
+<text text-anchor="middle" x="1113.47" y="-39.1" font-family="Georgia" font-size="9.00" fill="#be185d">ÉQUIVOQUES</text>
+<text text-anchor="middle" x="1113.47" y="-28.3" font-family="Georgia" font-size="9.00" fill="#be185d">ne pas se 'plonger'</text>
+<text text-anchor="middle" x="1113.47" y="-17.5" font-family="Georgia" font-size="9.00" fill="#be185d">dans 'jeux de mots'</text>
+<text text-anchor="middle" x="1113.47" y="-6.7" font-family="Georgia" font-size="9.00" fill="#be185d">mais problématique</text>
+</g>
+<!-- ProblemeOriginaire&#45;&gt;EquivoquesDepister -->
+<g id="edge26" class="edge">
+<title>ProblemeOriginaire-&gt;EquivoquesDepister</title>
+<path fill="none" stroke="#fce7f3" d="M1113.47,-107.34C1113.47,-95.85 1113.47,-82.61 1113.47,-70.46"/>
+<polygon fill="#fce7f3" stroke="#fce7f3" points="1115.92,-70.78 1113.47,-63.78 1111.02,-70.78 1115.92,-70.78"/>
+<text text-anchor="middle" x="1127.83" y="-82.4" font-family="Georgia" font-size="8.00">dépister</text>
+</g>
+</g>
+</svg>
