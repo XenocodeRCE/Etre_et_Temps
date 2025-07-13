@@ -1,0 +1,625 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1710pt" height="1434pt" viewBox="0.00 0.00 1709.84 1433.73">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1429.73)">
+<title>SpatialiteUtilisable</title>
+<polygon fill="#f8f9fa" stroke="none" points="-4,4 -4,-1429.73 1705.84,-1429.73 1705.84,4 -4,4"/>
+<text text-anchor="middle" x="850.92" y="-1410.93" font-family="Georgia" font-size="12.00">§22 - La spatialité de l'utilisable au sein du monde</text>
+<text text-anchor="middle" x="850.92" y="-1396.53" font-family="Georgia" font-size="12.00">(Structure spatiale de l'entourance et des places)</text>
+<g id="clust7" class="cluster">
+<title>cluster_devoilement</title>
+<polygon fill="#f8f9fa" stroke="#fef3c7" stroke-dasharray="5,2" points="822.12,-135.8 822.12,-427.81 1057.12,-427.81 1057.12,-135.8 822.12,-135.8"/>
+<text text-anchor="middle" x="939.62" y="-413.01" font-family="Georgia" font-size="12.00" fill="#fef3c7">DÉVOILEMENT DES COINS</text>
+</g>
+<g id="clust8" class="cluster">
+<title>cluster_familiarite</title>
+<polygon fill="#f8f9fa" stroke="#9ca3af" stroke-dasharray="5,2" points="1065.12,-8 1065.12,-427.81 1264.12,-427.81 1264.12,-8 1065.12,-8"/>
+<text text-anchor="middle" x="1164.62" y="-413.01" font-family="Georgia" font-size="12.00" fill="#9ca3af">FAMILIARITÉ INSURPRENANTE</text>
+</g>
+<!-- SpatialiteUtilisable -->
+<g id="node1" class="node">
+<title>SpatialiteUtilisable</title>
+<polygon fill="#f59e0b" stroke="black" points="763.2,-1288.61 657.72,-1288.61 625.12,-1388.93 592.53,-1288.61 487.05,-1288.61 572.38,-1226.61 539.79,-1126.3 625.12,-1188.3 710.46,-1126.3 677.86,-1226.61 763.2,-1288.61"/>
+<text text-anchor="middle" x="625.12" y="-1276.51" font-family="Georgia" font-size="9.00" fill="white">SPATIALITÉ</text>
+<text text-anchor="middle" x="625.12" y="-1265.71" font-family="Georgia" font-size="9.00" fill="white">UTILISABLE</text>
+<text text-anchor="middle" x="625.12" y="-1254.91" font-family="Georgia" font-size="9.00" fill="white">space morcelé</text>
+<text text-anchor="middle" x="625.12" y="-1244.11" font-family="Georgia" font-size="9.00" fill="white">en places</text>
+<text text-anchor="middle" x="625.12" y="-1233.31" font-family="Georgia" font-size="9.00" fill="white">unité par conjointure</text>
+</g>
+<!-- SpatialiteUtilisable&#45;&gt;SpatialiteUtilisable -->
+<g id="edge30" class="edge">
+<title>SpatialiteUtilisable-&gt;SpatialiteUtilisable</title>
+<path fill="none" stroke="#f59e0b" stroke-dasharray="5,2" d="M755.48,-1282.45C771.04,-1277.93 781.2,-1269.65 781.2,-1257.61 781.2,-1233.03 738.84,-1224.13 694.67,-1230.92"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="694.37,-1228.48 687.9,-1232.11 695.21,-1233.31 694.37,-1228.48"/>
+<text text-anchor="middle" x="816.86" y="-1264.81" font-family="Georgia" font-size="8.00">spatialité appartient</text>
+<text text-anchor="middle" x="816.86" y="-1255.21" font-family="Georgia" font-size="8.00">à l'étant lui-même</text>
+<text text-anchor="middle" x="816.86" y="-1245.61" font-family="Georgia" font-size="8.00">dont elle est place</text>
+</g>
+<!-- Proximite -->
+<g id="node2" class="node">
+<title>Proximite</title>
+<polygon fill="#3b82f6" stroke="black" points="225.91,-993.01 186.02,-1043.64 106.23,-1043.64 66.33,-993.01 106.23,-942.39 186.02,-942.39 225.91,-993.01"/>
+<text text-anchor="middle" x="146.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">PROXIMITÉ</text>
+<text text-anchor="middle" x="146.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">(Nähe)</text>
+<text text-anchor="middle" x="146.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">caractère utilisable</text>
+<text text-anchor="middle" x="146.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">commerce quotidien</text>
+<text text-anchor="middle" x="146.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">≠ mesures distance</text>
+</g>
+<!-- SpatialiteUtilisable&#45;&gt;Proximite -->
+<g id="edge1" class="edge">
+<title>SpatialiteUtilisable-&gt;Proximite</title>
+<path fill="none" stroke="#3b82f6" d="M560.11,-1235.21C479.65,-1206.99 340.4,-1152.41 235.12,-1080.7 220.87,-1070.99 206.85,-1058.9 194.29,-1046.85"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="196.06,-1045.15 189.34,-1042.01 192.63,-1048.65 196.06,-1045.15"/>
+<text text-anchor="middle" x="290.32" y="-1101.1" font-family="Georgia" font-size="8.00">caractère</text>
+</g>
+<!-- EspacePur -->
+<g id="node26" class="node">
+<title>EspacePur</title>
+<polygon fill="#22c55e" stroke="black" points="625.12,-1080.7 517.15,-949.17 733.09,-949.17 625.12,-1080.7"/>
+<text text-anchor="middle" x="625.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">ESPACE PUR</text>
+<text text-anchor="middle" x="625.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">(reiner Raum)</text>
+<text text-anchor="middle" x="625.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">encore voilé</text>
+<text text-anchor="middle" x="625.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">espace morcelé</text>
+<text text-anchor="middle" x="625.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">en places</text>
+</g>
+<!-- SpatialiteUtilisable&#45;&gt;EspacePur -->
+<g id="edge24" class="edge">
+<title>SpatialiteUtilisable-&gt;EspacePur</title>
+<path fill="none" stroke="#22c55e" d="M625.12,-1187.96C625.12,-1157.84 625.12,-1121.98 625.12,-1089.33"/>
+<polygon fill="#22c55e" stroke="#22c55e" points="627.57,-1089.62 625.12,-1082.62 622.67,-1089.62 627.57,-1089.62"/>
+<text text-anchor="middle" x="633.51" y="-1101.1" font-family="Georgia" font-size="8.00">voilé</text>
+</g>
+<!-- UnitePropreSpatiale -->
+<g id="node27" class="node">
+<title>UnitePropreSpatiale</title>
+<polygon fill="#16a34a" stroke="black" points="909.12,-1080.7 792.56,-949.17 1025.68,-949.17 909.12,-1080.7"/>
+<text text-anchor="middle" x="909.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">UNITÉ PROPRE</text>
+<text text-anchor="middle" x="909.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">SPATIALE</text>
+<text text-anchor="middle" x="909.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">raison entièreté</text>
+<text text-anchor="middle" x="909.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">conjointure</text>
+<text text-anchor="middle" x="909.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">intégrant monde</text>
+</g>
+<!-- SpatialiteUtilisable&#45;&gt;UnitePropreSpatiale -->
+<g id="edge25" class="edge">
+<title>SpatialiteUtilisable-&gt;UnitePropreSpatiale</title>
+<path fill="none" stroke="#16a34a" d="M687.1,-1199.31C739.22,-1151.12 812.69,-1083.18 860.61,-1038.87"/>
+<polygon fill="#16a34a" stroke="#16a34a" points="862.03,-1040.9 865.5,-1034.35 858.7,-1037.3 862.03,-1040.9"/>
+<text text-anchor="middle" x="801.71" y="-1101.1" font-family="Georgia" font-size="8.00">unité</text>
+</g>
+<!-- Zuhandenheit -->
+<g id="node3" class="node">
+<title>Zuhandenheit</title>
+<polygon fill="#1e40af" stroke="black" points="225.26,-772.05 185.69,-822.67 106.55,-822.67 66.99,-772.05 106.55,-721.43 185.69,-721.43 225.26,-772.05"/>
+<text text-anchor="middle" x="146.12" y="-790.95" font-family="Georgia" font-size="9.00" fill="white">ZUHANDENHEIT</text>
+<text text-anchor="middle" x="146.12" y="-780.15" font-family="Georgia" font-size="9.00" fill="white">(être à main)</text>
+<text text-anchor="middle" x="146.12" y="-769.35" font-family="Georgia" font-size="9.00" fill="white">proximilité indiquée</text>
+<text text-anchor="middle" x="146.12" y="-758.55" font-family="Georgia" font-size="9.00" fill="white">dans terme même</text>
+<text text-anchor="middle" x="146.12" y="-747.75" font-family="Georgia" font-size="9.00" fill="white">'à portée de main'</text>
+</g>
+<!-- Proximite&#45;&gt;Zuhandenheit -->
+<g id="edge2" class="edge">
+<title>Proximite-&gt;Zuhandenheit</title>
+<path fill="none" stroke="#1e40af" d="M146.12,-942.05C146.12,-908.98 146.12,-865.51 146.12,-830.93"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="148.57,-831.31 146.12,-824.31 143.67,-831.31 148.57,-831.31"/>
+<text text-anchor="middle" x="170.9" y="-880.13" font-family="Georgia" font-size="8.00">indiquée dans</text>
+</g>
+<!-- ManiementPossible -->
+<g id="node4" class="node">
+<title>ManiementPossible</title>
+<polygon fill="#1d4ed8" stroke="black" points="416.03,-993.01 373.07,-1043.64 287.17,-1043.64 244.22,-993.01 287.17,-942.39 373.07,-942.39 416.03,-993.01"/>
+<text text-anchor="middle" x="330.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">MANIEMENT</text>
+<text text-anchor="middle" x="330.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">POSSIBLE</text>
+<text text-anchor="middle" x="330.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">proximité réglée</text>
+<text text-anchor="middle" x="330.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">sur usage discernation</text>
+<text text-anchor="middle" x="330.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">'compte dessus'</text>
+</g>
+<!-- Zuhandenheit&#45;&gt;ManiementPossible -->
+<g id="edge3" class="edge">
+<title>Zuhandenheit-&gt;ManiementPossible</title>
+<path fill="none" stroke="#1d4ed8" d="M186.97,-821.67C215.28,-855.36 253.06,-900.31 282.7,-935.59"/>
+<polygon fill="#1d4ed8" stroke="#1d4ed8" points="280.79,-937.11 287.17,-940.9 284.54,-933.96 280.79,-937.11"/>
+<text text-anchor="middle" x="255.37" y="-880.13" font-family="Georgia" font-size="8.00">réglée sur</text>
+</g>
+<!-- Platz -->
+<g id="node5" class="node">
+<title>Platz</title>
+<ellipse fill="#059669" stroke="black" cx="293.12" cy="-772.05" rx="50.08" ry="50.08"/>
+<text text-anchor="middle" x="293.12" y="-790.95" font-family="Georgia" font-size="9.00" fill="white">PLACE</text>
+<text text-anchor="middle" x="293.12" y="-780.15" font-family="Georgia" font-size="9.00" fill="white">(Platz)</text>
+<text text-anchor="middle" x="293.12" y="-769.35" font-family="Georgia" font-size="9.00" fill="white">'côté' et 'là'</text>
+<text text-anchor="middle" x="293.12" y="-758.55" font-family="Georgia" font-size="9.00" fill="white">déterminé</text>
+<text text-anchor="middle" x="293.12" y="-747.75" font-family="Georgia" font-size="9.00" fill="white">être-à-sa-place</text>
+</g>
+<!-- ManiementPossible&#45;&gt;Platz -->
+<g id="edge4" class="edge">
+<title>ManiementPossible-&gt;Platz</title>
+<path fill="none" stroke="#059669" d="M321.68,-942.05C316.03,-908.63 308.59,-864.58 302.72,-829.83"/>
+<polygon fill="#059669" stroke="#059669" points="305.17,-829.65 301.59,-823.16 300.34,-830.47 305.17,-829.65"/>
+<text text-anchor="middle" x="318.05" y="-880.13" font-family="Georgia" font-size="8.00">fixe</text>
+</g>
+<!-- DirectionDiscern -->
+<g id="node32" class="node">
+<title>DirectionDiscern</title>
+<polygon fill="#ecfdf5" stroke="black" stroke-dasharray="5,2" points="598.57,-808.45 519.68,-808.45 519.68,-735.65 604.57,-735.65 604.57,-802.45 598.57,-808.45"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="598.57,-808.45 598.57,-802.45"/>
+<polyline fill="none" stroke="black" stroke-dasharray="5,2" points="604.57,-802.45 598.57,-802.45"/>
+<text text-anchor="middle" x="562.12" y="-796.35" font-family="Georgia" font-size="9.00" fill="#065f46">DIRECTION ET</text>
+<text text-anchor="middle" x="562.12" y="-785.55" font-family="Georgia" font-size="9.00" fill="#065f46">DISCERNATION</text>
+<text text-anchor="middle" x="562.12" y="-774.75" font-family="Georgia" font-size="9.00" fill="#065f46">discernation fixe</text>
+<text text-anchor="middle" x="562.12" y="-763.95" font-family="Georgia" font-size="9.00" fill="#065f46">proche en tenant</text>
+<text text-anchor="middle" x="562.12" y="-753.15" font-family="Georgia" font-size="9.00" fill="#065f46">compte direction</text>
+<text text-anchor="middle" x="562.12" y="-742.35" font-family="Georgia" font-size="9.00" fill="#065f46">accessibilité</text>
+</g>
+<!-- ManiementPossible&#45;&gt;DirectionDiscern -->
+<!-- Arrangiert -->
+<g id="node6" class="node">
+<title>Arrangiert</title>
+<ellipse fill="#10b981" stroke="black" cx="52.12" cy="-551.09" rx="52.12" ry="52.12"/>
+<text text-anchor="middle" x="52.12" y="-569.99" font-family="Georgia" font-size="9.00" fill="white">ARRANGÉ</text>
+<text text-anchor="middle" x="52.12" y="-559.19" font-family="Georgia" font-size="9.00" fill="white">(arrangiert)</text>
+<text text-anchor="middle" x="52.12" y="-548.39" font-family="Georgia" font-size="9.00" fill="white">essentiellement</text>
+<text text-anchor="middle" x="52.12" y="-537.59" font-family="Georgia" font-size="9.00" fill="white">casé et rangé</text>
+<text text-anchor="middle" x="52.12" y="-526.79" font-family="Georgia" font-size="9.00" fill="white">prêt à servir</text>
+</g>
+<!-- Platz&#45;&gt;Arrangiert -->
+<g id="edge5" class="edge">
+<title>Platz-&gt;Arrangiert</title>
+<path fill="none" stroke="#10b981" d="M269.96,-727.15C260.41,-712.12 248.24,-696.14 234.12,-684.37 195.67,-652.31 171.74,-668.03 131.12,-638.77 115.79,-627.73 101.2,-613.3 88.82,-599.4"/>
+<polygon fill="#10b981" stroke="#10b981" points="90.73,-597.87 84.28,-594.2 87.04,-601.09 90.73,-597.87"/>
+<text text-anchor="middle" x="230.19" y="-659.17" font-family="Georgia" font-size="8.00">essentiellement</text>
+</g>
+<!-- PlatzmannigfaltigkeitA -->
+<g id="node7" class="node">
+<title>PlatzmannigfaltigkeitA</title>
+<ellipse fill="#34d399" stroke="black" cx="446.12" cy="-772.05" rx="55.28" ry="55.28"/>
+<text text-anchor="middle" x="446.12" y="-790.95" font-family="Georgia" font-size="9.00" fill="#1f2937">DIVERSITÉ</text>
+<text text-anchor="middle" x="446.12" y="-780.15" font-family="Georgia" font-size="9.00" fill="#1f2937">PLACES</text>
+<text text-anchor="middle" x="446.12" y="-769.35" font-family="Georgia" font-size="9.00" fill="#1f2937">ne s'explicite pas</text>
+<text text-anchor="middle" x="446.12" y="-758.55" font-family="Georgia" font-size="9.00" fill="#1f2937">comme lieu</text>
+<text text-anchor="middle" x="446.12" y="-747.75" font-family="Georgia" font-size="9.00" fill="#1f2937">être-là-devant</text>
+</g>
+<!-- Platz&#45;&gt;PlatzmannigfaltigkeitA -->
+<g id="edge6" class="edge">
+<title>Platz-&gt;PlatzmannigfaltigkeitA</title>
+<path fill="none" stroke="#34d399" d="M343.64,-772.05C355.92,-772.05 369.22,-772.05 382.04,-772.05"/>
+<polygon fill="#34d399" stroke="#34d399" points="381.86,-774.5 388.86,-772.05 381.86,-769.6 381.86,-774.5"/>
+<text text-anchor="middle" x="367.02" y="-777.45" font-family="Georgia" font-size="8.00">diversité</text>
+</g>
+<!-- AssignationPlaces -->
+<g id="node34" class="node">
+<title>AssignationPlaces</title>
+<polygon fill="#dbeafe" stroke="black" points="324.21,-587.49 250.03,-587.49 250.03,-514.69 330.21,-514.69 330.21,-581.49 324.21,-587.49"/>
+<polyline fill="none" stroke="black" points="324.21,-587.49 324.21,-581.49"/>
+<polyline fill="none" stroke="black" points="330.21,-581.49 324.21,-581.49"/>
+<text text-anchor="middle" x="290.12" y="-575.39" font-family="Georgia" font-size="9.00" fill="#1e40af">ASSIGNATION</text>
+<text text-anchor="middle" x="290.12" y="-564.59" font-family="Georgia" font-size="9.00" fill="#1e40af">PLACES</text>
+<text text-anchor="middle" x="290.12" y="-553.79" font-family="Georgia" font-size="9.00" fill="#1e40af">places assignées</text>
+<text text-anchor="middle" x="290.12" y="-542.99" font-family="Georgia" font-size="9.00" fill="#1e40af">utilisable par</text>
+<text text-anchor="middle" x="290.12" y="-532.19" font-family="Georgia" font-size="9.00" fill="#1e40af">discernation</text>
+<text text-anchor="middle" x="290.12" y="-521.39" font-family="Georgia" font-size="9.00" fill="#1e40af">ou trouvées</text>
+</g>
+<!-- Platz&#45;&gt;AssignationPlaces -->
+<!-- DifferenceTrainer -->
+<g id="node33" class="node">
+<title>DifferenceTrainer</title>
+<polygon fill="#fecaca" stroke="black" points="226.03,-587.49 140.21,-587.49 140.21,-514.69 232.03,-514.69 232.03,-581.49 226.03,-587.49"/>
+<polyline fill="none" stroke="black" points="226.03,-587.49 226.03,-581.49"/>
+<polyline fill="none" stroke="black" points="232.03,-581.49 226.03,-581.49"/>
+<text text-anchor="middle" x="186.12" y="-575.39" font-family="Georgia" font-size="9.00" fill="#7f1d1d">DIFFÉRENCE</text>
+<text text-anchor="middle" x="186.12" y="-564.59" font-family="Georgia" font-size="9.00" fill="#7f1d1d">FONDAMENTALE</text>
+<text text-anchor="middle" x="186.12" y="-553.79" font-family="Georgia" font-size="9.00" fill="#7f1d1d">util a sa place</text>
+<text text-anchor="middle" x="186.12" y="-542.99" font-family="Georgia" font-size="9.00" fill="#7f1d1d">ou 'traîne'</text>
+<text text-anchor="middle" x="186.12" y="-532.19" font-family="Georgia" font-size="9.00" fill="#7f1d1d">≠ pure apparition</text>
+<text text-anchor="middle" x="186.12" y="-521.39" font-family="Georgia" font-size="9.00" fill="#7f1d1d">position espace</text>
+</g>
+<!-- Arrangiert&#45;&gt;DifferenceTrainer -->
+<!-- Gegend -->
+<g id="node8" class="node">
+<title>Gegend</title>
+<polygon fill="#f97316" stroke="black" points="705.12,-638.77 612.42,-507.25 797.83,-507.25 705.12,-638.77"/>
+<text text-anchor="middle" x="705.12" y="-569.99" font-family="Georgia" font-size="9.00" fill="white">COIN</text>
+<text text-anchor="middle" x="705.12" y="-559.19" font-family="Georgia" font-size="9.00" fill="white">(Gegend)</text>
+<text text-anchor="middle" x="705.12" y="-548.39" font-family="Georgia" font-size="9.00" fill="white">vers quoi</text>
+<text text-anchor="middle" x="705.12" y="-537.59" font-family="Georgia" font-size="9.00" fill="white">series places</text>
+<text text-anchor="middle" x="705.12" y="-526.79" font-family="Georgia" font-size="9.00" fill="white">assignées</text>
+</g>
+<!-- PlatzmannigfaltigkeitA&#45;&gt;Gegend -->
+<g id="edge7" class="edge">
+<title>PlatzmannigfaltigkeitA-&gt;Gegend</title>
+<path fill="none" stroke="#f97316" d="M475.67,-725.26C485.92,-711.24 498.14,-696.37 511.12,-684.37 538.94,-658.66 551.67,-659.88 583.12,-638.77 608.05,-622.04 635.33,-602.75 657.76,-586.63"/>
+<polygon fill="#f97316" stroke="#f97316" points="659.08,-588.69 663.33,-582.61 656.22,-584.72 659.08,-588.69"/>
+<text text-anchor="middle" x="567.02" y="-659.17" font-family="Georgia" font-size="8.00">vers quoi</text>
+</g>
+<!-- AusCoinDu -->
+<g id="node9" class="node">
+<title>AusCoinDu</title>
+<polygon fill="#ea580c" stroke="black" points="437.12,-416.42 290.41,-307.8 583.83,-307.8 437.12,-416.42"/>
+<text text-anchor="middle" x="437.12" y="-357.51" font-family="Georgia" font-size="9.00" fill="white">'AU COIN DU'</text>
+<text text-anchor="middle" x="437.12" y="-346.71" font-family="Georgia" font-size="9.00" fill="white">≠ seulement direction</text>
+<text text-anchor="middle" x="437.12" y="-335.91" font-family="Georgia" font-size="9.00" fill="white">mais parages</text>
+<text text-anchor="middle" x="437.12" y="-325.11" font-family="Georgia" font-size="9.00" fill="white">de quelque chose</text>
+</g>
+<!-- Gegend&#45;&gt;AusCoinDu -->
+<g id="edge8" class="edge">
+<title>Gegend-&gt;AusCoinDu</title>
+<path fill="none" stroke="#ea580c" d="M650.15,-506.99C622.6,-485.49 588.69,-459.16 558.12,-435.81 536.65,-419.41 512.9,-401.53 492.16,-386"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="493.83,-384.19 486.76,-381.96 490.89,-388.11 493.83,-384.19"/>
+<text text-anchor="middle" x="588.46" y="-438.21" font-family="Georgia" font-size="8.00">au coin du</text>
+</g>
+<!-- DevoilementCoins -->
+<g id="node20" class="node">
+<title>DevoilementCoins</title>
+<polygon fill="#fef3c7" stroke="black" points="920.92,-375.01 833.32,-375.01 833.32,-313.01 926.92,-313.01 926.92,-369.01 920.92,-375.01"/>
+<polyline fill="none" stroke="black" points="920.92,-375.01 920.92,-369.01"/>
+<polyline fill="none" stroke="black" points="926.92,-369.01 920.92,-369.01"/>
+<text text-anchor="middle" x="880.12" y="-362.91" font-family="Georgia" font-size="9.00" fill="#92400e">DÉVOILEMENT</text>
+<text text-anchor="middle" x="880.12" y="-352.11" font-family="Georgia" font-size="9.00" fill="#92400e">COINS</text>
+<text text-anchor="middle" x="880.12" y="-341.31" font-family="Georgia" font-size="9.00" fill="#92400e">par avance</text>
+<text text-anchor="middle" x="880.12" y="-330.51" font-family="Georgia" font-size="9.00" fill="#92400e">par préoccupation</text>
+<text text-anchor="middle" x="880.12" y="-319.71" font-family="Georgia" font-size="9.00" fill="#92400e">Dasein</text>
+</g>
+<!-- Gegend&#45;&gt;DevoilementCoins -->
+<g id="edge18" class="edge">
+<title>Gegend-&gt;DevoilementCoins</title>
+<path fill="none" stroke="#fef3c7" d="M750.11,-507C772.93,-484.28 800.53,-455.45 823.12,-427.81 834.8,-413.52 846.55,-396.92 856.32,-382.35"/>
+<polygon fill="#fef3c7" stroke="#fef3c7" points="858.28,-383.82 860.12,-376.64 854.2,-381.11 858.28,-383.82"/>
+<text text-anchor="middle" x="826.91" y="-438.21" font-family="Georgia" font-size="8.00">dévoilé</text>
+</g>
+<!-- FamiliariteInsurpr -->
+<g id="node23" class="node">
+<title>FamiliariteInsurpr</title>
+<polygon fill="#9ca3af" stroke="black" points="1173.52,-375.01 1072.72,-375.01 1072.72,-313.01 1173.52,-313.01 1173.52,-375.01"/>
+<text text-anchor="middle" x="1123.12" y="-362.91" font-family="Georgia" font-size="9.00" fill="white">FAMILIARITÉ</text>
+<text text-anchor="middle" x="1123.12" y="-352.11" font-family="Georgia" font-size="9.00" fill="white">INSURPRENANTE</text>
+<text text-anchor="middle" x="1123.12" y="-341.31" font-family="Georgia" font-size="9.00" fill="white">caractère coins</text>
+<text text-anchor="middle" x="1123.12" y="-330.51" font-family="Georgia" font-size="9.00" fill="white">utilisabilité</text>
+<text text-anchor="middle" x="1123.12" y="-319.71" font-family="Georgia" font-size="9.00" fill="white">par avance</text>
+</g>
+<!-- Gegend&#45;&gt;FamiliariteInsurpr -->
+<g id="edge21" class="edge">
+<title>Gegend-&gt;FamiliariteInsurpr</title>
+<path fill="none" stroke="#9ca3af" d="M778.44,-506.97C807.71,-491.3 842.22,-474.69 875.12,-463.41 954.74,-436.11 989.75,-472.42 1061.12,-427.81 1078.84,-416.73 1093.27,-398.61 1103.73,-382.15"/>
+<polygon fill="#9ca3af" stroke="#9ca3af" points="1105.61,-383.76 1107.17,-376.51 1101.43,-381.2 1105.61,-383.76"/>
+<text text-anchor="middle" x="1060.83" y="-438.21" font-family="Georgia" font-size="8.00">caractère</text>
+</g>
+<!-- OrientationCoins -->
+<g id="node10" class="node">
+<title>OrientationCoins</title>
+<polygon fill="#c2410c" stroke="black" points="461.12,-638.77 348.37,-507.25 573.87,-507.25 461.12,-638.77"/>
+<text text-anchor="middle" x="461.12" y="-569.99" font-family="Georgia" font-size="9.00" fill="white">ORIENTATION</text>
+<text text-anchor="middle" x="461.12" y="-559.19" font-family="Georgia" font-size="9.00" fill="white">COINS</text>
+<text text-anchor="middle" x="461.12" y="-548.39" font-family="Georgia" font-size="9.00" fill="white">place constituée</text>
+<text text-anchor="middle" x="461.12" y="-537.59" font-family="Georgia" font-size="9.00" fill="white">par direction</text>
+<text text-anchor="middle" x="461.12" y="-526.79" font-family="Georgia" font-size="9.00" fill="white">et être-éloigné</text>
+</g>
+<!-- AusCoinDu&#45;&gt;OrientationCoins -->
+<g id="edge9" class="edge">
+<title>AusCoinDu-&gt;OrientationCoins</title>
+<path fill="none" stroke="#c2410c" d="M444.84,-410.97C448.17,-439.39 452,-472.12 455.11,-498.7"/>
+<polygon fill="#c2410c" stroke="#c2410c" points="452.67,-498.93 455.91,-505.59 457.53,-498.36 452.67,-498.93"/>
+<text text-anchor="middle" x="468.13" y="-438.21" font-family="Georgia" font-size="8.00">orientation</text>
+</g>
+<!-- Umgebung -->
+<g id="node11" class="node">
+<title>Umgebung</title>
+<polygon fill="#ec4899" stroke="black" points="189.12,-406.01 105.77,-344.01 189.12,-282.01 272.47,-344.01 189.12,-406.01"/>
+<text text-anchor="middle" x="189.12" y="-362.91" font-family="Georgia" font-size="9.00" fill="white">ENTOURANCE</text>
+<text text-anchor="middle" x="189.12" y="-352.11" font-family="Georgia" font-size="9.00" fill="white">(Umgebung)</text>
+<text text-anchor="middle" x="189.12" y="-341.31" font-family="Georgia" font-size="9.00" fill="white">orientation coins</text>
+<text text-anchor="middle" x="189.12" y="-330.51" font-family="Georgia" font-size="9.00" fill="white">diversité places</text>
+<text text-anchor="middle" x="189.12" y="-319.71" font-family="Georgia" font-size="9.00" fill="white">mise à l'entour</text>
+</g>
+<!-- OrientationCoins&#45;&gt;Umgebung -->
+<g id="edge10" class="edge">
+<title>OrientationCoins-&gt;Umgebung</title>
+<path fill="none" stroke="#ec4899" d="M402.11,-506.95C382.29,-492.79 359.93,-477.16 339.12,-463.41 313.89,-446.73 305.35,-445.91 281.12,-427.81 263.8,-414.86 245.88,-399.3 230.5,-385.18"/>
+<polygon fill="#ec4899" stroke="#ec4899" points="232.44,-383.63 225.63,-380.67 229.11,-387.22 232.44,-383.63"/>
+<text text-anchor="middle" x="323.98" y="-438.21" font-family="Georgia" font-size="8.00">constitue</text>
+</g>
+<!-- NichtDimensional -->
+<g id="node12" class="node">
+<title>NichtDimensional</title>
+<polygon fill="#db2777" stroke="black" points="189.12,-226 73.93,-174.8 189.12,-123.6 304.31,-174.8 189.12,-226"/>
+<text text-anchor="middle" x="189.12" y="-188.3" font-family="Georgia" font-size="9.00" fill="white">≠ TRI-DIMENSIONNEL</text>
+<text text-anchor="middle" x="189.12" y="-177.5" font-family="Georgia" font-size="9.00" fill="white">jamais d'emblée</text>
+<text text-anchor="middle" x="189.12" y="-166.7" font-family="Georgia" font-size="9.00" fill="white">multiplicité</text>
+<text text-anchor="middle" x="189.12" y="-155.9" font-family="Georgia" font-size="9.00" fill="white">positions données</text>
+</g>
+<!-- Umgebung&#45;&gt;NichtDimensional -->
+<g id="edge11" class="edge">
+<title>Umgebung-&gt;NichtDimensional</title>
+<path fill="none" stroke="#db2777" d="M189.12,-281.7C189.12,-266.36 189.12,-249.95 189.12,-234.73"/>
+<polygon fill="#db2777" stroke="#db2777" points="191.57,-234.93 189.12,-227.93 186.67,-234.93 191.57,-234.93"/>
+<text text-anchor="middle" x="217.13" y="-246.4" font-family="Georgia" font-size="8.00">≠ dimensionnel</text>
+</g>
+<!-- HautBasArriere -->
+<g id="node13" class="node">
+<title>HautBasArriere</title>
+<polygon fill="#be185d" stroke="black" points="708.12,-395.21 602.25,-344.01 708.12,-292.81 813.99,-344.01 708.12,-395.21"/>
+<text text-anchor="middle" x="708.12" y="-357.51" font-family="Georgia" font-size="9.00" fill="white">HAUT/BAS/ARRIÈRE</text>
+<text text-anchor="middle" x="708.12" y="-346.71" font-family="Georgia" font-size="9.00" fill="white">'au plafond'</text>
+<text text-anchor="middle" x="708.12" y="-335.91" font-family="Georgia" font-size="9.00" fill="white">'par terre'</text>
+<text text-anchor="middle" x="708.12" y="-325.11" font-family="Georgia" font-size="9.00" fill="white">'contre porte'</text>
+</g>
+<!-- Umgebung&#45;&gt;HautBasArriere -->
+<g id="edge12" class="edge">
+<title>Umgebung-&gt;HautBasArriere</title>
+<path fill="none" stroke="#be185d" d="M220.22,-383.04C236.35,-400.13 257.59,-418.33 281.12,-427.41 345.81,-452.37 527.17,-448.81 593.12,-427.41 620.11,-418.65 646.07,-400.92 666.47,-384.05"/>
+<polygon fill="#be185d" stroke="#be185d" points="667.98,-385.99 671.74,-379.6 664.81,-382.25 667.98,-385.99"/>
+<text text-anchor="middle" x="533.12" y="-438.21" font-family="Georgia" font-size="8.00">dévoilés par</text>
+</g>
+<!-- MensurationDevoir -->
+<g id="node35" class="node">
+<title>MensurationDevoir</title>
+<polygon fill="#f0fdf4" stroke="black" points="748.03,-211.2 662.21,-211.2 662.21,-138.4 754.03,-138.4 754.03,-205.2 748.03,-211.2"/>
+<polyline fill="none" stroke="black" points="748.03,-211.2 748.03,-205.2"/>
+<polyline fill="none" stroke="black" points="754.03,-205.2 748.03,-205.2"/>
+<text text-anchor="middle" x="708.12" y="-199.1" font-family="Georgia" font-size="9.00" fill="#15803d">MENSURATION</text>
+<text text-anchor="middle" x="708.12" y="-188.3" font-family="Georgia" font-size="9.00" fill="#15803d">vs DÉVOILEMENT</text>
+<text text-anchor="middle" x="708.12" y="-177.5" font-family="Georgia" font-size="9.00" fill="#15803d">lieux dévoilés</text>
+<text text-anchor="middle" x="708.12" y="-166.7" font-family="Georgia" font-size="9.00" fill="#15803d">allées venues</text>
+<text text-anchor="middle" x="708.12" y="-155.9" font-family="Georgia" font-size="9.00" fill="#15803d">≠ constatés</text>
+<text text-anchor="middle" x="708.12" y="-145.1" font-family="Georgia" font-size="9.00" fill="#15803d">répertoriés</text>
+</g>
+<!-- HautBasArriere&#45;&gt;MensurationDevoir -->
+<!-- Sonne -->
+<g id="node14" class="node">
+<title>Sonne</title>
+<polygon fill="#7c3aed" stroke="black" points="1144.68,-1288.61 1035.57,-1288.61 1035.57,-1226.61 1144.68,-1226.61 1144.68,-1288.61"/>
+<text text-anchor="middle" x="1090.12" y="-1276.51" font-family="Georgia" font-size="9.00" fill="white">SOLEIL</text>
+<text text-anchor="middle" x="1090.12" y="-1265.71" font-family="Georgia" font-size="9.00" fill="white">(Sonne)</text>
+<text text-anchor="middle" x="1090.12" y="-1254.91" font-family="Georgia" font-size="9.00" fill="white">constamment utilisable</text>
+<text text-anchor="middle" x="1090.12" y="-1244.11" font-family="Georgia" font-size="9.00" fill="white">lumière et chaleur</text>
+<text text-anchor="middle" x="1090.12" y="-1233.31" font-family="Georgia" font-size="9.00" fill="white">quotidiennement</text>
+</g>
+<!-- PlacesSoleil -->
+<g id="node15" class="node">
+<title>PlacesSoleil</title>
+<polygon fill="#5b21b6" stroke="black" points="1136.92,-1024.01 1043.32,-1024.01 1043.32,-962.01 1136.92,-962.01 1136.92,-1024.01"/>
+<text text-anchor="middle" x="1090.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">PLACES SOLEIL</text>
+<text text-anchor="middle" x="1090.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">levant, midi</text>
+<text text-anchor="middle" x="1090.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">couchant, minuit</text>
+<text text-anchor="middle" x="1090.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">visage changeant</text>
+<text text-anchor="middle" x="1090.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">utilisable</text>
+</g>
+<!-- Sonne&#45;&gt;PlacesSoleil -->
+<g id="edge13" class="edge">
+<title>Sonne-&gt;PlacesSoleil</title>
+<path fill="none" stroke="#7c3aed" d="M1090.12,-1226.23C1090.12,-1178.27 1090.12,-1085.08 1090.12,-1032.51"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1092.57,-1032.63 1090.12,-1025.63 1087.67,-1032.63 1092.57,-1032.63"/>
+<text text-anchor="middle" x="1119.32" y="-1101.1" font-family="Georgia" font-size="8.00">places marquées</text>
+</g>
+<!-- CoinsCardinaux -->
+<g id="node16" class="node">
+<title>CoinsCardinaux</title>
+<polygon fill="#4c1d95" stroke="black" points="1414.89,-1283.21 1309.35,-1283.21 1309.35,-1232.01 1414.89,-1232.01 1414.89,-1283.21"/>
+<text text-anchor="middle" x="1362.12" y="-1271.11" font-family="Georgia" font-size="9.00" fill="white">COINS CARDINAUX</text>
+<text text-anchor="middle" x="1362.12" y="-1260.31" font-family="Georgia" font-size="9.00" fill="white">points cardinaux</text>
+<text text-anchor="middle" x="1362.12" y="-1249.51" font-family="Georgia" font-size="9.00" fill="white">≠ sens géographique</text>
+<text text-anchor="middle" x="1362.12" y="-1238.71" font-family="Georgia" font-size="9.00" fill="white">prédisposent direction</text>
+</g>
+<!-- PlacesSoleil&#45;&gt;CoinsCardinaux -->
+<g id="edge14" class="edge">
+<title>PlacesSoleil-&gt;CoinsCardinaux</title>
+<path fill="none" stroke="#5b21b6" d="M1114.15,-1024.19C1128.18,-1041.28 1146.53,-1062.75 1164.12,-1080.7 1217.29,-1134.93 1284.27,-1192.41 1325.11,-1226.37"/>
+<polygon fill="#5b21b6" stroke="#5b21b6" points="1323.32,-1228.06 1330.27,-1230.65 1326.44,-1224.29 1323.32,-1228.06"/>
+<text text-anchor="middle" x="1209.42" y="-1101.1" font-family="Georgia" font-size="8.00">deviennent</text>
+</g>
+<!-- Indications -->
+<g id="node36" class="node">
+<title>Indications</title>
+<polygon fill="#fbbf24" stroke="black" points="1273.49,-1024.01 1172.75,-1024.01 1172.75,-962.01 1279.49,-962.01 1279.49,-1018.01 1273.49,-1024.01"/>
+<polyline fill="none" stroke="black" points="1273.49,-1024.01 1273.49,-1018.01"/>
+<polyline fill="none" stroke="black" points="1279.49,-1018.01 1273.49,-1018.01"/>
+<text text-anchor="middle" x="1226.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="#92400e">'INDICATIONS'</text>
+<text text-anchor="middle" x="1226.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="#92400e">places soleil</text>
+<text text-anchor="middle" x="1226.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="#92400e">deviennent indications</text>
+<text text-anchor="middle" x="1226.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="#92400e">attirant attention</text>
+<text text-anchor="middle" x="1226.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="#92400e">sur coins arrière-plan</text>
+</g>
+<!-- PlacesSoleil&#45;&gt;Indications -->
+<!-- Maison -->
+<g id="node17" class="node">
+<title>Maison</title>
+<ellipse fill="#22c55e" stroke="black" cx="1362.12" cy="-993.01" rx="64.64" ry="43.84"/>
+<text text-anchor="middle" x="1362.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">MAISON</text>
+<text text-anchor="middle" x="1362.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">(Haus)</text>
+<text text-anchor="middle" x="1362.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">façade au soleil</text>
+<text text-anchor="middle" x="1362.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">façade intempéries</text>
+<text text-anchor="middle" x="1362.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">partage oriente</text>
+</g>
+<!-- CoinsCardinaux&#45;&gt;Maison -->
+<g id="edge15" class="edge">
+<title>CoinsCardinaux-&gt;Maison</title>
+<path fill="none" stroke="#22c55e" d="M1362.12,-1231.91C1362.12,-1189.4 1362.12,-1101.6 1362.12,-1045.37"/>
+<polygon fill="#22c55e" stroke="#22c55e" points="1364.57,-1045.48 1362.12,-1038.48 1359.67,-1045.48 1364.57,-1045.48"/>
+<text text-anchor="middle" x="1374.7" y="-1101.1" font-family="Georgia" font-size="8.00">oriente</text>
+</g>
+<!-- EglisesTombes -->
+<g id="node19" class="node">
+<title>EglisesTombes</title>
+<ellipse fill="#15803d" stroke="black" cx="1652.12" cy="-993.01" rx="49.72" ry="43.84"/>
+<text text-anchor="middle" x="1652.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">ÉGLISES</text>
+<text text-anchor="middle" x="1652.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">TOMBES</text>
+<text text-anchor="middle" x="1652.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">axées levant</text>
+<text text-anchor="middle" x="1652.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">couchant</text>
+<text text-anchor="middle" x="1652.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">coin vie/mort</text>
+</g>
+<!-- CoinsCardinaux&#45;&gt;EglisesTombes -->
+<g id="edge17" class="edge">
+<title>CoinsCardinaux-&gt;EglisesTombes</title>
+<path fill="none" stroke="#15803d" d="M1402.42,-1231.72C1451.15,-1200.39 1533.99,-1143.07 1593.12,-1080.7 1604.96,-1068.21 1616.1,-1053.12 1625.45,-1039.06"/>
+<polygon fill="#15803d" stroke="#15803d" points="1627.29,-1040.73 1629.06,-1033.53 1623.18,-1038.05 1627.29,-1040.73"/>
+<text text-anchor="middle" x="1580.51" y="-1101.1" font-family="Georgia" font-size="8.00">axées</text>
+</g>
+<!-- Pieces -->
+<g id="node18" class="node">
+<title>Pieces</title>
+<ellipse fill="#16a34a" stroke="black" cx="1533.12" cy="-993.01" rx="51.12" ry="43.84"/>
+<text text-anchor="middle" x="1533.12" y="-1011.91" font-family="Georgia" font-size="9.00" fill="white">PIÈCES</text>
+<text text-anchor="middle" x="1533.12" y="-1001.11" font-family="Georgia" font-size="9.00" fill="white">(Räume)</text>
+<text text-anchor="middle" x="1533.12" y="-990.31" font-family="Georgia" font-size="9.00" fill="white">répartition</text>
+<text text-anchor="middle" x="1533.12" y="-979.51" font-family="Georgia" font-size="9.00" fill="white">aménagement</text>
+<text text-anchor="middle" x="1533.12" y="-968.71" font-family="Georgia" font-size="9.00" fill="white">fonction util</text>
+</g>
+<!-- Maison&#45;&gt;Pieces -->
+<g id="edge16" class="edge">
+<title>Maison-&gt;Pieces</title>
+<path fill="none" stroke="#16a34a" d="M1427.26,-993.01C1442.47,-993.01 1458.59,-993.01 1473.55,-993.01"/>
+<polygon fill="#16a34a" stroke="#16a34a" points="1473.21,-995.46 1480.21,-993.01 1473.21,-990.56 1473.21,-995.46"/>
+<text text-anchor="middle" x="1454.38" y="-998.41" font-family="Georgia" font-size="8.00">répartition</text>
+</g>
+<!-- PossibilitesEtre -->
+<g id="node37" class="node">
+<title>PossibilitesEtre</title>
+<polygon fill="#ddd6fe" stroke="black" points="1689.38,-808.45 1608.86,-808.45 1608.86,-735.65 1695.38,-735.65 1695.38,-802.45 1689.38,-808.45"/>
+<polyline fill="none" stroke="black" points="1689.38,-808.45 1689.38,-802.45"/>
+<polyline fill="none" stroke="black" points="1695.38,-802.45 1689.38,-802.45"/>
+<text text-anchor="middle" x="1652.12" y="-796.35" font-family="Georgia" font-size="9.00" fill="#5b21b6">POSSIBILITÉS</text>
+<text text-anchor="middle" x="1652.12" y="-785.55" font-family="Georgia" font-size="9.00" fill="#5b21b6">ÊTRE PROPRES</text>
+<text text-anchor="middle" x="1652.12" y="-774.75" font-family="Georgia" font-size="9.00" fill="#5b21b6">Dasein déterminé</text>
+<text text-anchor="middle" x="1652.12" y="-763.95" font-family="Georgia" font-size="9.00" fill="#5b21b6">monde fonction</text>
+<text text-anchor="middle" x="1652.12" y="-753.15" font-family="Georgia" font-size="9.00" fill="#5b21b6">possibilités</text>
+<text text-anchor="middle" x="1652.12" y="-742.35" font-family="Georgia" font-size="9.00" fill="#5b21b6">être propres</text>
+</g>
+<!-- EglisesTombes&#45;&gt;PossibilitesEtre -->
+<!-- RattachementDecisif -->
+<g id="node21" class="node">
+<title>RattachementDecisif</title>
+<polygon fill="#fbbf24" stroke="black" points="924.52,-205.8 829.72,-205.8 829.72,-143.8 930.52,-143.8 930.52,-199.8 924.52,-205.8"/>
+<polyline fill="none" stroke="black" points="924.52,-205.8 924.52,-199.8"/>
+<polyline fill="none" stroke="black" points="930.52,-199.8 924.52,-199.8"/>
+<text text-anchor="middle" x="880.12" y="-193.7" font-family="Georgia" font-size="9.00" fill="#92400e">RATTACHEMENT</text>
+<text text-anchor="middle" x="880.12" y="-182.9" font-family="Georgia" font-size="9.00" fill="#92400e">DÉCISIF</text>
+<text text-anchor="middle" x="880.12" y="-172.1" font-family="Georgia" font-size="9.00" fill="#92400e">Dasein déterminé</text>
+<text text-anchor="middle" x="880.12" y="-161.3" font-family="Georgia" font-size="9.00" fill="#92400e">fonction possibilités</text>
+<text text-anchor="middle" x="880.12" y="-150.5" font-family="Georgia" font-size="9.00" fill="#92400e">être propres</text>
+</g>
+<!-- DevoilementCoins&#45;&gt;RattachementDecisif -->
+<g id="edge19" class="edge">
+<title>DevoilementCoins-&gt;RattachementDecisif</title>
+<path fill="none" stroke="#fbbf24" d="M880.12,-312.73C880.12,-285.23 880.12,-244.53 880.12,-214.65"/>
+<polygon fill="#fbbf24" stroke="#fbbf24" points="882.57,-214.65 880.12,-207.65 877.67,-214.65 882.57,-214.65"/>
+<text text-anchor="middle" x="903.83" y="-246.4" font-family="Georgia" font-size="8.00">rattachement</text>
+</g>
+<!-- EntiereteConjointure -->
+<g id="node22" class="node">
+<title>EntiereteConjointure</title>
+<polygon fill="#f59e0b" stroke="black" points="1043.52,-205.8 948.72,-205.8 948.72,-143.8 1049.52,-143.8 1049.52,-199.8 1043.52,-205.8"/>
+<polyline fill="none" stroke="black" points="1043.52,-205.8 1043.52,-199.8"/>
+<polyline fill="none" stroke="black" points="1049.52,-199.8 1043.52,-199.8"/>
+<text text-anchor="middle" x="999.12" y="-193.7" font-family="Georgia" font-size="9.00" fill="white">ENTIÈRETÉ</text>
+<text text-anchor="middle" x="999.12" y="-182.9" font-family="Georgia" font-size="9.00" fill="white">CONJOINTURE</text>
+<text text-anchor="middle" x="999.12" y="-172.1" font-family="Georgia" font-size="9.00" fill="white">dévoilement coins</text>
+<text text-anchor="middle" x="999.12" y="-161.3" font-family="Georgia" font-size="9.00" fill="white">déterminé par</text>
+<text text-anchor="middle" x="999.12" y="-150.5" font-family="Georgia" font-size="9.00" fill="white">conjointure</text>
+</g>
+<!-- DevoilementCoins&#45;&gt;EntiereteConjointure -->
+<g id="edge20" class="edge">
+<title>DevoilementCoins-&gt;EntiereteConjointure</title>
+<path fill="none" stroke="#f59e0b" d="M901.67,-312.73C921.66,-284.64 951.45,-242.78 972.83,-212.74"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="974.59,-214.49 976.65,-207.37 970.6,-211.65 974.59,-214.49"/>
+<text text-anchor="middle" x="975.35" y="-246.4" font-family="Georgia" font-size="8.00">déterminé par</text>
+</g>
+<!-- ModesDeficients -->
+<g id="node24" class="node">
+<title>ModesDeficients</title>
+<polygon fill="#6b7280" stroke="black" points="1169.92,-205.8 1076.32,-205.8 1076.32,-143.8 1169.92,-143.8 1169.92,-205.8"/>
+<text text-anchor="middle" x="1123.12" y="-193.7" font-family="Georgia" font-size="9.00" fill="white">MODES</text>
+<text text-anchor="middle" x="1123.12" y="-182.9" font-family="Georgia" font-size="9.00" fill="white">DÉFICIENTS</text>
+<text text-anchor="middle" x="1123.12" y="-172.1" font-family="Georgia" font-size="9.00" fill="white">devient visible</text>
+<text text-anchor="middle" x="1123.12" y="-161.3" font-family="Georgia" font-size="9.00" fill="white">quand utilisable</text>
+<text text-anchor="middle" x="1123.12" y="-150.5" font-family="Georgia" font-size="9.00" fill="white">surprenant</text>
+</g>
+<!-- FamiliariteInsurpr&#45;&gt;ModesDeficients -->
+<g id="edge22" class="edge">
+<title>FamiliariteInsurpr-&gt;ModesDeficients</title>
+<path fill="none" stroke="#6b7280" d="M1123.12,-312.73C1123.12,-285.23 1123.12,-244.53 1123.12,-214.65"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="1125.57,-214.65 1123.12,-207.65 1120.67,-214.65 1125.57,-214.65"/>
+<text text-anchor="middle" x="1138.36" y="-246.4" font-family="Georgia" font-size="8.00">visible si</text>
+</g>
+<!-- PasAPlace -->
+<g id="node25" class="node">
+<title>PasAPlace</title>
+<polygon fill="#4b5563" stroke="black" points="1172.97,-78 1073.27,-78 1073.27,-16 1172.97,-16 1172.97,-78"/>
+<text text-anchor="middle" x="1123.12" y="-65.9" font-family="Georgia" font-size="9.00" fill="white">PAS À PLACE</text>
+<text text-anchor="middle" x="1123.12" y="-55.1" font-family="Georgia" font-size="9.00" fill="white">quand quelque chose</text>
+<text text-anchor="middle" x="1123.12" y="-44.3" font-family="Georgia" font-size="9.00" fill="white">pas sa place</text>
+<text text-anchor="middle" x="1123.12" y="-33.5" font-family="Georgia" font-size="9.00" fill="white">coin accessible</text>
+<text text-anchor="middle" x="1123.12" y="-22.7" font-family="Georgia" font-size="9.00" fill="white">expressément</text>
+</g>
+<!-- ModesDeficients&#45;&gt;PasAPlace -->
+<g id="edge23" class="edge">
+<title>ModesDeficients-&gt;PasAPlace</title>
+<path fill="none" stroke="#4b5563" d="M1123.12,-143.35C1123.12,-126.2 1123.12,-104.61 1123.12,-86.32"/>
+<polygon fill="#4b5563" stroke="#4b5563" points="1125.57,-86.69 1123.12,-79.69 1120.67,-86.69 1125.57,-86.69"/>
+<text text-anchor="middle" x="1137.9" y="-98.4" font-family="Georgia" font-size="8.00">exemple</text>
+</g>
+<!-- MondeAmbiantSpatial -->
+<g id="node28" class="node">
+<title>MondeAmbiantSpatial</title>
+<polygon fill="#15803d" stroke="black" points="940.12,-859.73 805.74,-728.21 1074.5,-728.21 940.12,-859.73"/>
+<text text-anchor="middle" x="940.12" y="-790.95" font-family="Georgia" font-size="9.00" fill="white">MONDE AMBIANT</text>
+<text text-anchor="middle" x="940.12" y="-780.15" font-family="Georgia" font-size="9.00" fill="white">SPATIAL</text>
+<text text-anchor="middle" x="940.12" y="-769.35" font-family="Georgia" font-size="9.00" fill="white">ne s'insère pas</text>
+<text text-anchor="middle" x="940.12" y="-758.55" font-family="Georgia" font-size="9.00" fill="white">espace donné</text>
+<text text-anchor="middle" x="940.12" y="-747.75" font-family="Georgia" font-size="9.00" fill="white">mais articule</text>
+</g>
+<!-- UnitePropreSpatiale&#45;&gt;MondeAmbiantSpatial -->
+<g id="edge26" class="edge">
+<title>UnitePropreSpatiale-&gt;MondeAmbiantSpatial</title>
+<path fill="none" stroke="#15803d" d="M915.25,-948.75C918.92,-922.78 923.73,-888.85 928.13,-857.73"/>
+<polygon fill="#15803d" stroke="#15803d" points="930.54,-858.24 929.09,-850.97 925.68,-857.55 930.54,-858.24"/>
+<text text-anchor="middle" x="952.57" y="-880.13" font-family="Georgia" font-size="8.00">monde ambiant</text>
+</g>
+<!-- SignificativiteSpatiale -->
+<g id="node29" class="node">
+<title>SignificativiteSpatiale</title>
+<ellipse fill="#06b6d4" stroke="black" cx="948.12" cy="-551.09" rx="64.13" ry="43.84"/>
+<text text-anchor="middle" x="948.12" y="-569.99" font-family="Georgia" font-size="9.00" fill="white">SIGNIFICATIVITÉ</text>
+<text text-anchor="middle" x="948.12" y="-559.19" font-family="Georgia" font-size="9.00" fill="white">SPATIALE</text>
+<text text-anchor="middle" x="948.12" y="-548.39" font-family="Georgia" font-size="9.00" fill="white">mondéité articule</text>
+<text text-anchor="middle" x="948.12" y="-537.59" font-family="Georgia" font-size="9.00" fill="white">significativité</text>
+<text text-anchor="middle" x="948.12" y="-526.79" font-family="Georgia" font-size="9.00" fill="white">ensemble places</text>
+</g>
+<!-- MondeAmbiantSpatial&#45;&gt;SignificativiteSpatiale -->
+<g id="edge27" class="edge">
+<title>MondeAmbiantSpatial-&gt;SignificativiteSpatiale</title>
+<path fill="none" stroke="#06b6d4" d="M941.7,-727.79C943.01,-692.1 944.86,-641.38 946.24,-603.6"/>
+<polygon fill="#06b6d4" stroke="#06b6d4" points="948.68,-603.86 946.49,-596.77 943.79,-603.68 948.68,-603.86"/>
+<text text-anchor="middle" x="957.52" y="-659.17" font-family="Georgia" font-size="8.00">articule</text>
+</g>
+<!-- MondeDevoile -->
+<g id="node30" class="node">
+<title>MondeDevoile</title>
+<ellipse fill="#0891b2" stroke="black" cx="1337.12" cy="-344.01" rx="64.58" ry="43.84"/>
+<text text-anchor="middle" x="1337.12" y="-362.91" font-family="Georgia" font-size="9.00" fill="white">MONDE DÉVOILE</text>
+<text text-anchor="middle" x="1337.12" y="-352.11" font-family="Georgia" font-size="9.00" fill="white">ESPACE</text>
+<text text-anchor="middle" x="1337.12" y="-341.31" font-family="Georgia" font-size="9.00" fill="white">revient au monde</text>
+<text text-anchor="middle" x="1337.12" y="-330.51" font-family="Georgia" font-size="9.00" fill="white">dévoiler espace</text>
+<text text-anchor="middle" x="1337.12" y="-319.71" font-family="Georgia" font-size="9.00" fill="white">spécifique</text>
+</g>
+<!-- SignificativiteSpatiale&#45;&gt;MondeDevoile -->
+<g id="edge28" class="edge">
+<title>SignificativiteSpatiale-&gt;MondeDevoile</title>
+<path fill="none" stroke="#0891b2" d="M1009.18,-536.66C1077.1,-519.59 1187.8,-485.21 1268.12,-427.81 1282.25,-417.71 1295.2,-404.05 1305.98,-390.74"/>
+<polygon fill="#0891b2" stroke="#0891b2" points="1307.75,-392.45 1310.15,-385.44 1303.9,-389.42 1307.75,-392.45"/>
+<text text-anchor="middle" x="1278.79" y="-438.21" font-family="Georgia" font-size="8.00">monde dévoile</text>
+</g>
+<!-- DaseinSpatial -->
+<g id="node31" class="node">
+<title>DaseinSpatial</title>
+<ellipse fill="#0e7490" stroke="black" cx="1337.12" cy="-174.8" rx="64.83" ry="43.84"/>
+<text text-anchor="middle" x="1337.12" y="-193.7" font-family="Georgia" font-size="9.00" fill="white">DASEIN</text>
+<text text-anchor="middle" x="1337.12" y="-182.9" font-family="Georgia" font-size="9.00" fill="white">SPATIAL</text>
+<text text-anchor="middle" x="1337.12" y="-172.1" font-family="Georgia" font-size="9.00" fill="white">menager rencontre</text>
+<text text-anchor="middle" x="1337.12" y="-161.3" font-family="Georgia" font-size="9.00" fill="white">car Dasein</text>
+<text text-anchor="middle" x="1337.12" y="-150.5" font-family="Georgia" font-size="9.00" fill="white">luimême spatial</text>
+</g>
+<!-- MondeDevoile&#45;&gt;DaseinSpatial -->
+<g id="edge29" class="edge">
+<title>MondeDevoile-&gt;DaseinSpatial</title>
+<path fill="none" stroke="#0e7490" d="M1337.12,-299.95C1337.12,-277.8 1337.12,-250.64 1337.12,-227.38"/>
+<polygon fill="#0e7490" stroke="#0e7490" points="1339.57,-227.52 1337.12,-220.52 1334.67,-227.52 1339.57,-227.52"/>
+<text text-anchor="middle" x="1355.77" y="-246.4" font-family="Georgia" font-size="8.00">car Dasein</text>
+</g>
+</g>
+</svg>
