@@ -1,0 +1,703 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2389pt" height="841pt" viewBox="0.00 0.00 2389.44 840.86">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 836.86)">
+<title>Entendre_et_explicitation</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-836.86 2385.44,-836.86 2385.44,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_prealables</title>
+<polygon fill="mistyrose" stroke="red" points="1296,-126.8 1296,-453.2 1531,-453.2 1531,-126.8 1296,-126.8"/>
+<text text-anchor="middle" x="1413.5" y="-436.6" font-family="Times,serif" font-size="14.00">Structure à préalables de l'explicitation</text>
+</g>
+<!-- Dasein -->
+<g id="node1" class="node">
+<title>Dasein</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="364" cy="-783.8" rx="28.34" ry="28.34"/>
+<text text-anchor="middle" x="364" y="-780.8" font-family="Arial" font-size="10.00">Dasein</text>
+</g>
+<!-- Sens -->
+<g id="node8" class="node">
+<title>Sens</title>
+<polygon fill="#7ed321" stroke="blue" points="493,-679.81 439,-679.81 439,-643.81 493,-643.81 493,-679.81"/>
+<text text-anchor="middle" x="466" y="-664.81" font-family="Arial" font-size="10.00">Sens</text>
+<text text-anchor="middle" x="466" y="-652.81" font-family="Arial" font-size="10.00">(Sinn)</text>
+</g>
+<!-- Dasein&#45;&gt;Sens -->
+<g id="edge27" class="edge">
+<title>Dasein-&gt;Sens</title>
+<path fill="none" stroke="black" d="M364.63,-755.11C366.28,-739.28 370.63,-719.87 381.47,-705.94 384.82,-701.63 407.38,-690.21 428.35,-680.21"/>
+<polygon fill="black" stroke="black" points="429.83,-683.38 437.37,-675.95 426.84,-677.05 429.83,-683.38"/>
+<text text-anchor="middle" x="410.74" y="-708.64" font-family="Arial" font-size="9.00">seul peut avoir</text>
+</g>
+<!-- QuestionSensEtre -->
+<g id="node36" class="node">
+<title>QuestionSensEtre</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="676.58,-679.81 607.42,-679.81 607.42,-643.81 682.58,-643.81 682.58,-673.81 676.58,-679.81"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="676.58,-679.81 676.58,-673.81"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="682.58,-673.81 676.58,-673.81"/>
+<text text-anchor="middle" x="645" y="-664.81" font-family="Arial" font-size="10.00">Question du</text>
+<text text-anchor="middle" x="645" y="-652.81" font-family="Arial" font-size="10.00">sens de l'être</text>
+</g>
+<!-- Dasein&#45;&gt;QuestionSensEtre -->
+<g id="edge31" class="edge">
+<title>Dasein-&gt;QuestionSensEtre</title>
+<path fill="none" stroke="black" d="M389.66,-771.24C423.63,-755.99 485.46,-728.46 538.72,-705.94 557.49,-698 578.24,-689.52 596.39,-682.2"/>
+<polygon fill="black" stroke="black" points="597.65,-685.46 605.61,-678.48 595.03,-678.97 597.65,-685.46"/>
+<text text-anchor="middle" x="589.86" y="-708.64" font-family="Arial" font-size="9.00">qui est d'intelligence avec</text>
+</g>
+<!-- StructureOntologiqueCercle -->
+<g id="node43" class="node">
+<title>StructureOntologiqueCercle</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="170.01,-651.67 170.01,-671.96 120.21,-686.3 49.79,-686.3 0,-671.96 0,-651.67 49.79,-637.32 120.21,-637.32 170.01,-651.67"/>
+<text text-anchor="middle" x="85" y="-664.81" font-family="Arial" font-size="10.00">Structure ontologique</text>
+<text text-anchor="middle" x="85" y="-652.81" font-family="Arial" font-size="10.00">de cercle</text>
+</g>
+<!-- Dasein&#45;&gt;StructureOntologiqueCercle -->
+<g id="edge41" class="edge">
+<title>Dasein-&gt;StructureOntologiqueCercle</title>
+<path fill="none" stroke="black" d="M338.01,-771.62C293.79,-752.6 202.91,-713.52 142.97,-687.74"/>
+<polygon fill="black" stroke="black" points="144.49,-684.58 133.92,-683.85 141.72,-691.01 144.49,-684.58"/>
+<text text-anchor="middle" x="219.06" y="-708.64" font-family="Arial" font-size="9.00">a une</text>
+</g>
+<!-- Appropriation -->
+<g id="node44" class="node">
+<title>Appropriation</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="307.67,-651.67 307.67,-671.96 272.72,-686.3 223.29,-686.3 188.34,-671.96 188.34,-651.67 223.29,-637.32 272.72,-637.32 307.67,-651.67"/>
+<text text-anchor="middle" x="248" y="-664.81" font-family="Arial" font-size="10.00">Appropriation</text>
+<text text-anchor="middle" x="248" y="-652.81" font-family="Arial" font-size="10.00">dans l'entente</text>
+</g>
+<!-- Dasein&#45;&gt;Appropriation -->
+<g id="edge43" class="edge">
+<title>Dasein-&gt;Appropriation</title>
+<path fill="none" stroke="black" d="M344.59,-762.72C326.71,-744.22 299.88,-716.47 279.03,-694.9"/>
+<polygon fill="black" stroke="black" points="281.6,-692.52 272.13,-687.77 276.57,-697.39 281.6,-692.52"/>
+<text text-anchor="middle" x="307.82" y="-708.64" font-family="Arial" font-size="9.00">peut</text>
+</g>
+<!-- Inentente -->
+<g id="node45" class="node">
+<title>Inentente</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="400.56,-654.36 400.56,-669.27 378.56,-679.81 347.45,-679.81 325.45,-669.27 325.45,-654.36 347.45,-643.81 378.56,-643.81 400.56,-654.36"/>
+<text text-anchor="middle" x="363" y="-658.81" font-family="Arial" font-size="10.00">Inentente</text>
+</g>
+<!-- Dasein&#45;&gt;Inentente -->
+<g id="edge44" class="edge">
+<title>Dasein-&gt;Inentente</title>
+<path fill="none" stroke="black" d="M351.86,-758.01C345.97,-743.02 340.88,-723.47 344.49,-705.94 345.55,-700.77 347.26,-695.46 349.22,-690.4"/>
+<polygon fill="black" stroke="black" points="352.4,-691.87 353.16,-681.3 345.98,-689.09 352.4,-691.87"/>
+<text text-anchor="middle" x="353.25" y="-708.64" font-family="Arial" font-size="9.00">peut</text>
+</g>
+<!-- EtreAuMonde -->
+<g id="node2" class="node">
+<title>EtreAuMonde</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="893" cy="-783.8" rx="49.06" ry="49.06"/>
+<text text-anchor="middle" x="893" y="-780.8" font-family="Arial" font-size="10.00">Être-au-monde</text>
+</g>
+<!-- Entendre -->
+<g id="node3" class="node">
+<title>Entendre</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="1190" cy="-783.8" rx="48.26" ry="48.26"/>
+<text text-anchor="middle" x="1190" y="-786.8" font-family="Arial" font-size="10.00">Entendre</text>
+<text text-anchor="middle" x="1190" y="-774.8" font-family="Arial" font-size="10.00">(Verstehen)</text>
+</g>
+<!-- Explicitation -->
+<g id="node4" class="node">
+<title>Explicitation</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="1190" cy="-539.44" rx="49.44" ry="49.44"/>
+<text text-anchor="middle" x="1190" y="-542.44" font-family="Arial" font-size="10.00">Explicitation</text>
+<text text-anchor="middle" x="1190" y="-530.44" font-family="Arial" font-size="10.00">(Auslegung)</text>
+</g>
+<!-- Entendre&#45;&gt;Explicitation -->
+<g id="edge1" class="edge">
+<title>Entendre-&gt;Explicitation</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1190,-735.21C1190,-696.65 1190,-642.09 1190,-600.53"/>
+<polygon fill="red" stroke="red" stroke-width="2" points="1193.5,-602.2 1190,-592.2 1186.5,-602.2 1193.5,-602.2"/>
+<text text-anchor="middle" x="1227.03" y="-659.11" font-family="Arial" font-size="9.00">développement de</text>
+</g>
+<!-- Possibilites -->
+<g id="node30" class="node">
+<title>Possibilites</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1398.21,-679.81 1305.62,-679.81 1281.8,-643.81 1374.39,-643.81 1398.21,-679.81"/>
+<text text-anchor="middle" x="1340" y="-658.81" font-family="Arial" font-size="10.00">Possibilités</text>
+</g>
+<!-- Entendre&#45;&gt;Possibilites -->
+<g id="edge5" class="edge">
+<title>Entendre-&gt;Possibilites</title>
+<path fill="none" stroke="black" d="M1226.69,-752.13C1233.74,-746.32 1241.08,-740.31 1248,-734.74 1268.04,-718.61 1290.82,-700.8 1308.69,-686.94"/>
+<polygon fill="black" stroke="black" points="1310.59,-689.89 1316.36,-681 1306.31,-684.36 1310.59,-689.89"/>
+<text text-anchor="middle" x="1305.72" y="-708.64" font-family="Arial" font-size="9.00">projette sur</text>
+</g>
+<!-- Explicitation&#45;&gt;Entendre -->
+<g id="edge2" class="edge">
+<title>Explicitation-&gt;Entendre</title>
+<path fill="none" stroke="black" d="M1145.04,-560.37C1115.49,-576.15 1079.22,-601.27 1061.92,-635.68 1051.5,-656.43 1051.48,-667.2 1061.92,-687.94 1077.5,-718.86 1108.45,-742.22 1136.03,-758.02"/>
+<polygon fill="black" stroke="black" points="1134.22,-761.02 1144.67,-762.77 1137.59,-754.89 1134.22,-761.02"/>
+<text text-anchor="middle" x="1123.96" y="-659.11" font-family="Arial" font-size="9.00">se fonde existentialement dans</text>
+</g>
+<!-- StructureEnTantQue -->
+<g id="node6" class="node">
+<title>StructureEnTantQue</title>
+<polygon fill="#7ed321" stroke="blue" points="903.36,-184.8 820.65,-184.8 820.65,-148.8 903.36,-148.8 903.36,-184.8"/>
+<text text-anchor="middle" x="862" y="-169.8" font-family="Arial" font-size="10.00">Structure</text>
+<text text-anchor="middle" x="862" y="-157.8" font-family="Arial" font-size="10.00">« en tant que »</text>
+</g>
+<!-- Explicitation&#45;&gt;StructureEnTantQue -->
+<g id="edge3" class="edge">
+<title>Explicitation-&gt;StructureEnTantQue</title>
+<path fill="none" stroke="black" d="M1155.02,-504.15C1140.06,-488.97 1122.69,-470.63 1108,-453.2 1067.17,-404.75 1057.91,-391.59 1023.47,-338.4 997.72,-298.63 1002.7,-280.82 971,-245.6 951.58,-224.02 925.17,-204.98 903.21,-191.14"/>
+<polygon fill="black" stroke="black" points="905.12,-188.2 894.77,-185.95 901.46,-194.16 905.12,-188.2"/>
+<text text-anchor="middle" x="1064.74" y="-330.3" font-family="Arial" font-size="9.00">structure constitutive</text>
+</g>
+<!-- AcquisPrealable -->
+<g id="node11" class="node">
+<title>AcquisPrealable</title>
+<polygon fill="#f5a623" stroke="blue" points="1394,-420.4 1304.07,-388.4 1394,-356.4 1483.93,-388.4 1394,-420.4"/>
+<text text-anchor="middle" x="1394" y="-391.4" font-family="Arial" font-size="10.00">Acquis préalable</text>
+<text text-anchor="middle" x="1394" y="-379.4" font-family="Arial" font-size="10.00">(Vorhabe)</text>
+</g>
+<!-- Explicitation&#45;&gt;AcquisPrealable -->
+<g id="edge10" class="edge">
+<title>Explicitation-&gt;AcquisPrealable</title>
+<path fill="none" stroke="black" d="M1229.82,-509.35C1266.33,-482.68 1320.03,-443.45 1355.97,-417.19"/>
+<polygon fill="black" stroke="black" points="1357.92,-420.1 1363.93,-411.37 1353.79,-414.45 1357.92,-420.1"/>
+<text text-anchor="middle" x="1316.77" y="-463.9" font-family="Arial" font-size="9.00">se fonde sur</text>
+</g>
+<!-- ViseePrealable -->
+<g id="node12" class="node">
+<title>ViseePrealable</title>
+<polygon fill="#f5a623" stroke="blue" points="1425,-309.6 1340.08,-277.6 1425,-245.6 1509.93,-277.6 1425,-309.6"/>
+<text text-anchor="middle" x="1425" y="-280.6" font-family="Arial" font-size="10.00">Visée préalable</text>
+<text text-anchor="middle" x="1425" y="-268.6" font-family="Arial" font-size="10.00">(Vorsicht)</text>
+</g>
+<!-- Explicitation&#45;&gt;ViseePrealable -->
+<g id="edge11" class="edge">
+<title>Explicitation-&gt;ViseePrealable</title>
+<path fill="none" stroke="black" d="M1239.32,-531.8C1317.06,-520.21 1462.4,-493.6 1493,-453.2 1518.98,-418.91 1508.13,-396.68 1493,-356.4 1486.11,-338.04 1472.71,-321.18 1459.61,-307.88"/>
+<polygon fill="black" stroke="black" points="1462.26,-305.57 1452.64,-301.13 1457.39,-310.6 1462.26,-305.57"/>
+<text text-anchor="middle" x="1533.44" y="-385.7" font-family="Arial" font-size="9.00">se fonde sur</text>
+</g>
+<!-- SaisiePrealable -->
+<g id="node13" class="node">
+<title>SaisiePrealable</title>
+<polygon fill="#f5a623" stroke="blue" points="1412,-198.8 1324.85,-166.8 1412,-134.8 1499.16,-166.8 1412,-198.8"/>
+<text text-anchor="middle" x="1412" y="-169.8" font-family="Arial" font-size="10.00">Saisie préalable</text>
+<text text-anchor="middle" x="1412" y="-157.8" font-family="Arial" font-size="10.00">(Vorgriff)</text>
+</g>
+<!-- Explicitation&#45;&gt;SaisiePrealable -->
+<g id="edge12" class="edge">
+<title>Explicitation-&gt;SaisiePrealable</title>
+<path fill="none" stroke="black" d="M1164.05,-496.98C1129.36,-435.71 1078.45,-320.22 1135,-245.6 1159.61,-213.13 1265.33,-190.45 1338.8,-178.27"/>
+<polygon fill="black" stroke="black" points="1339.04,-181.78 1348.35,-176.72 1337.92,-174.87 1339.04,-181.78"/>
+<text text-anchor="middle" x="1134.69" y="-330.3" font-family="Arial" font-size="9.00">se fonde sur</text>
+</g>
+<!-- Utilisable -->
+<g id="node21" class="node">
+<title>Utilisable</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="825.29,-406.4 768.72,-406.4 768.72,-370.4 825.29,-370.4 825.29,-406.4"/>
+<text text-anchor="middle" x="797" y="-385.4" font-family="Arial" font-size="10.00">Utilisable</text>
+</g>
+<!-- Explicitation&#45;&gt;Utilisable -->
+<g id="edge7" class="edge">
+<title>Explicitation-&gt;Utilisable</title>
+<path fill="none" stroke="black" d="M1142.05,-526.22C1096.54,-514.14 1026.53,-494.26 967.49,-472 956.74,-467.95 955.13,-464.07 944,-461.2 920.48,-455.14 855.67,-465.97 835,-453.2 821.81,-445.05 812.62,-430.47 806.59,-417.3"/>
+<polygon fill="black" stroke="black" points="809.87,-416.06 802.83,-408.14 803.39,-418.72 809.87,-416.06"/>
+<text text-anchor="middle" x="981.75" y="-463.9" font-family="Arial" font-size="9.00">dévoile</text>
+</g>
+<!-- CercleHermeneutique -->
+<g id="node25" class="node">
+<title>CercleHermeneutique</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1928.36,-406.4 1851.65,-406.4 1851.65,-370.4 1934.36,-370.4 1934.36,-400.4 1928.36,-406.4"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1928.36,-406.4 1928.36,-400.4"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1934.36,-400.4 1928.36,-400.4"/>
+<text text-anchor="middle" x="1893" y="-391.4" font-family="Arial" font-size="10.00">Cercle</text>
+<text text-anchor="middle" x="1893" y="-379.4" font-family="Arial" font-size="10.00">herméneutique</text>
+</g>
+<!-- Explicitation&#45;&gt;CercleHermeneutique -->
+<g id="edge32" class="edge">
+<title>Explicitation-&gt;CercleHermeneutique</title>
+<path fill="none" stroke="black" d="M1238.86,-529.15C1327.76,-512.62 1522.08,-478.25 1687.48,-461.2 1704.7,-459.43 1827.65,-461.17 1843,-453.2 1858.43,-445.19 1870.61,-430.06 1879.09,-416.54"/>
+<polygon fill="black" stroke="black" points="1882.07,-418.38 1884.08,-407.97 1876.02,-414.85 1882.07,-418.38"/>
+<text text-anchor="middle" x="1724.24" y="-463.9" font-family="Arial" font-size="9.00">structure circulaire</text>
+</g>
+<!-- Etre -->
+<g id="node5" class="node">
+<title>Etre</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="737" cy="-783.8" rx="19.98" ry="19.98"/>
+<text text-anchor="middle" x="737" y="-780.8" font-family="Arial" font-size="10.00">Être</text>
+</g>
+<!-- Etre&#45;&gt;QuestionSensEtre -->
+<g id="edge30" class="edge">
+<title>Etre-&gt;QuestionSensEtre</title>
+<path fill="none" stroke="black" d="M735.42,-763.7C733.19,-747.01 727.83,-722.86 715,-705.94 708.93,-697.92 700.89,-691.05 692.43,-685.3"/>
+<polygon fill="black" stroke="black" points="694.41,-682.41 684.07,-680.09 690.71,-688.35 694.41,-682.41"/>
+<text text-anchor="middle" x="753.86" y="-708.64" font-family="Arial" font-size="9.00">questionné dans</text>
+</g>
+<!-- QuelqueChoseEnTantQue -->
+<g id="node29" class="node">
+<title>QuelqueChoseEnTantQue</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="913.34,-88 776,-88 740.67,0 878.01,0 913.34,-88"/>
+<text text-anchor="middle" x="827" y="-53" font-family="Arial" font-size="10.00">Quelque chose</text>
+<text text-anchor="middle" x="827" y="-41" font-family="Arial" font-size="10.00">en tant que</text>
+<text text-anchor="middle" x="827" y="-29" font-family="Arial" font-size="10.00">quelque chose</text>
+</g>
+<!-- StructureEnTantQue&#45;&gt;QuelqueChoseEnTantQue -->
+<g id="edge4" class="edge">
+<title>StructureEnTantQue-&gt;QuelqueChoseEnTantQue</title>
+<path fill="none" stroke="black" d="M856.99,-148.49C853.23,-135.53 847.87,-117.03 842.72,-99.25"/>
+<polygon fill="black" stroke="black" points="846.13,-98.42 839.98,-89.79 839.4,-100.37 846.13,-98.42"/>
+<text text-anchor="middle" x="869.4" y="-108.7" font-family="Arial" font-size="9.00">articulation</text>
+</g>
+<!-- PhenomeneUnitaire -->
+<g id="node46" class="node">
+<title>PhenomeneUnitaire</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1048.51,-62 931.5,-62 931.5,-26 1054.51,-26 1054.51,-56 1048.51,-62"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1048.51,-62 1048.51,-56"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1054.51,-56 1048.51,-56"/>
+<text text-anchor="middle" x="993" y="-47" font-family="Arial" font-size="10.00">Phénomène unitaire</text>
+<text text-anchor="middle" x="993" y="-35" font-family="Arial" font-size="10.00">(structure + en tant que)</text>
+</g>
+<!-- StructureEnTantQue&#45;&gt;PhenomeneUnitaire -->
+<g id="edge46" class="edge">
+<title>StructureEnTantQue-&gt;PhenomeneUnitaire</title>
+<path fill="none" stroke="black" d="M880.77,-148.49C903.05,-127.95 940.37,-93.53 965.81,-70.07"/>
+<polygon fill="black" stroke="black" points="968.18,-72.65 973.16,-63.3 963.43,-67.51 968.18,-72.65"/>
+<text text-anchor="middle" x="933.08" y="-108.7" font-family="Arial" font-size="9.00">avec</text>
+</g>
+<!-- StructurePrealables -->
+<g id="node7" class="node">
+<title>StructurePrealables</title>
+<polygon fill="#7ed321" stroke="blue" points="1028.24,-184.8 957.77,-184.8 957.77,-148.8 1028.24,-148.8 1028.24,-184.8"/>
+<text text-anchor="middle" x="993" y="-169.8" font-family="Arial" font-size="10.00">Structure</text>
+<text text-anchor="middle" x="993" y="-157.8" font-family="Arial" font-size="10.00">à préalables</text>
+</g>
+<!-- StructurePrealables&#45;&gt;PhenomeneUnitaire -->
+<g id="edge45" class="edge">
+<title>StructurePrealables-&gt;PhenomeneUnitaire</title>
+<path fill="none" stroke="black" d="M993,-148.49C993,-128.94 993,-96.81 993,-73.53"/>
+<polygon fill="black" stroke="black" points="996.5,-73.79 993,-63.79 989.5,-73.79 996.5,-73.79"/>
+<text text-anchor="middle" x="1002.51" y="-108.7" font-family="Arial" font-size="9.00">avec</text>
+</g>
+<!-- Sens&#45;&gt;Dasein -->
+<g id="edge26" class="edge">
+<title>Sens-&gt;Dasein</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M461.4,-679.95C457.85,-691.13 452.15,-705.66 444,-716.74 431.16,-734.21 412.71,-749.85 396.76,-761.53"/>
+<polygon fill="blue" stroke="blue" stroke-width="2" points="396.33,-757.55 390.19,-766.18 400.38,-763.26 396.33,-757.55"/>
+<text text-anchor="middle" x="476.97" y="-708.64" font-family="Arial" font-size="9.00">existential du</text>
+</g>
+<!-- ArmatureFormelle -->
+<g id="node34" class="node">
+<title>ArmatureFormelle</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="564.98,-571.44 407.53,-571.44 367.03,-507.44 524.48,-507.44 564.98,-571.44"/>
+<text text-anchor="middle" x="466" y="-542.44" font-family="Arial" font-size="10.00">Armature formelle</text>
+<text text-anchor="middle" x="466" y="-530.44" font-family="Arial" font-size="10.00">de l'ouvertude</text>
+</g>
+<!-- Sens&#45;&gt;ArmatureFormelle -->
+<g id="edge25" class="edge">
+<title>Sens-&gt;ArmatureFormelle</title>
+<path fill="none" stroke="black" d="M466,-643.56C466,-627.84 466,-603.96 466,-583.14"/>
+<polygon fill="black" stroke="black" points="469.5,-583.15 466,-573.15 462.5,-583.15 469.5,-583.15"/>
+<text text-anchor="middle" x="501.27" y="-609.58" font-family="Arial" font-size="9.00">armature formelle</text>
+</g>
+<!-- Projection -->
+<g id="node9" class="node">
+<title>Projection</title>
+<polygon fill="#7ed321" stroke="blue" points="697.24,-801.8 636.77,-801.8 636.77,-765.8 697.24,-765.8 697.24,-801.8"/>
+<text text-anchor="middle" x="667" y="-786.8" font-family="Arial" font-size="10.00">Projection</text>
+<text text-anchor="middle" x="667" y="-774.8" font-family="Arial" font-size="10.00">(Entwurf)</text>
+</g>
+<!-- Projection&#45;&gt;Sens -->
+<g id="edge24" class="edge">
+<title>Projection-&gt;Sens</title>
+<path fill="none" stroke="black" d="M666.85,-765.61C665.73,-748.14 661.24,-721.5 645,-705.94 634.86,-696.21 554.15,-679.49 504.63,-669.98"/>
+<polygon fill="black" stroke="black" points="505.34,-666.55 494.86,-668.12 504.03,-673.43 505.34,-666.55"/>
+<text text-anchor="middle" x="676.54" y="-708.64" font-family="Arial" font-size="9.00">ouvre sur le</text>
+</g>
+<!-- Ouvertude -->
+<g id="node10" class="node">
+<title>Ouvertude</title>
+<polygon fill="#7ed321" stroke="blue" points="1319.35,-801.8 1256.66,-801.8 1256.66,-765.8 1319.35,-765.8 1319.35,-801.8"/>
+<text text-anchor="middle" x="1288" y="-780.8" font-family="Arial" font-size="10.00">Ouvertude</text>
+</g>
+<!-- AcquisPrealable&#45;&gt;ViseePrealable -->
+<g id="edge16" class="edge">
+<title>AcquisPrealable-&gt;ViseePrealable</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1402.15,-358.81C1405.71,-346.32 1409.94,-331.46 1413.79,-317.95"/>
+<polygon fill="black" stroke="black" points="1417.12,-319.03 1416.5,-308.45 1410.39,-317.11 1417.12,-319.03"/>
+</g>
+<!-- EntiereteConjointure -->
+<g id="node31" class="node">
+<title>EntiereteConjointure</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1288.49,-309.6 1173.18,-309.6 1143.52,-245.6 1258.83,-245.6 1288.49,-309.6"/>
+<text text-anchor="middle" x="1216" y="-280.6" font-family="Arial" font-size="10.00">Entièreté de</text>
+<text text-anchor="middle" x="1216" y="-268.6" font-family="Arial" font-size="10.00">conjointure</text>
+</g>
+<!-- AcquisPrealable&#45;&gt;EntiereteConjointure -->
+<g id="edge13" class="edge">
+<title>AcquisPrealable-&gt;EntiereteConjointure</title>
+<path fill="none" stroke="black" d="M1360.73,-368.07C1345.5,-359.14 1327.24,-348.34 1310.95,-338.4 1299.14,-331.2 1286.57,-323.39 1274.58,-315.87"/>
+<polygon fill="black" stroke="black" points="1276.72,-313.08 1266.39,-310.72 1272.99,-319 1276.72,-313.08"/>
+<text text-anchor="middle" x="1357.98" y="-330.3" font-family="Arial" font-size="9.00">entièreté de conjointure</text>
+</g>
+<!-- ViseePrealable&#45;&gt;SaisiePrealable -->
+<g id="edge17" class="edge">
+<title>ViseePrealable-&gt;SaisiePrealable</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1421.42,-246.58C1420.03,-234.93 1418.41,-221.39 1416.91,-208.86"/>
+<polygon fill="black" stroke="black" points="1420.42,-208.74 1415.76,-199.22 1413.47,-209.57 1420.42,-208.74"/>
+</g>
+<!-- DirectionExplicitation -->
+<g id="node32" class="node">
+<title>DirectionExplicitation</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1696.51,-198.8 1571.63,-198.8 1539.5,-134.8 1664.38,-134.8 1696.51,-198.8"/>
+<text text-anchor="middle" x="1618" y="-169.8" font-family="Arial" font-size="10.00">Direction</text>
+<text text-anchor="middle" x="1618" y="-157.8" font-family="Arial" font-size="10.00">d'explicitation</text>
+</g>
+<!-- ViseePrealable&#45;&gt;DirectionExplicitation -->
+<g id="edge14" class="edge">
+<title>ViseePrealable-&gt;DirectionExplicitation</title>
+<path fill="none" stroke="black" d="M1458.18,-257.9C1486.04,-242.19 1526.51,-219.38 1559.75,-200.64"/>
+<polygon fill="black" stroke="black" points="1561.05,-203.92 1568.04,-195.97 1557.61,-197.83 1561.05,-203.92"/>
+<text text-anchor="middle" x="1550.56" y="-219.5" font-family="Arial" font-size="9.00">direction de</text>
+</g>
+<!-- AppareilConceptuel -->
+<g id="node33" class="node">
+<title>AppareilConceptuel</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1478.74,-76 1372.58,-76 1345.27,-12 1451.43,-12 1478.74,-76"/>
+<text text-anchor="middle" x="1412" y="-47" font-family="Arial" font-size="10.00">Appareil</text>
+<text text-anchor="middle" x="1412" y="-35" font-family="Arial" font-size="10.00">conceptuel</text>
+</g>
+<!-- SaisiePrealable&#45;&gt;AppareilConceptuel -->
+<g id="edge15" class="edge">
+<title>SaisiePrealable-&gt;AppareilConceptuel</title>
+<path fill="none" stroke="black" d="M1412,-134.38C1412,-120.12 1412,-103.03 1412,-87.63"/>
+<polygon fill="black" stroke="black" points="1415.5,-87.78 1412,-77.78 1408.5,-87.78 1415.5,-87.78"/>
+<text text-anchor="middle" x="1451.03" y="-108.7" font-family="Arial" font-size="9.00">appareil conceptuel</text>
+</g>
+<!-- VoirAntepredicatif -->
+<g id="node14" class="node">
+<title>VoirAntepredicatif</title>
+<polygon fill="#d0021b" stroke="blue" points="830.08,-661.81 799.04,-687.94 736.97,-687.94 705.93,-661.81 736.97,-635.68 799.04,-635.68 830.08,-661.81"/>
+<text text-anchor="middle" x="768" y="-664.81" font-family="Arial" font-size="10.00">Voir</text>
+<text text-anchor="middle" x="768" y="-652.81" font-family="Arial" font-size="10.00">antéprédicatif</text>
+</g>
+<!-- VoirAntepredicatif&#45;&gt;StructureEnTantQue -->
+<g id="edge18" class="edge">
+<title>VoirAntepredicatif-&gt;StructureEnTantQue</title>
+<path fill="none" stroke="black" d="M736.73,-635.65C712.84,-613.42 684,-578.67 684,-540.44 684,-540.44 684,-540.44 684,-276.6 684,-217.38 756.61,-189.43 809.08,-176.95"/>
+<polygon fill="black" stroke="black" points="809.8,-180.38 818.79,-174.78 808.27,-173.55 809.8,-180.38"/>
+<text text-anchor="middle" x="717.27" y="-385.7" font-family="Arial" font-size="9.00">porte déjà en soi</text>
+</g>
+<!-- CommerceMondain -->
+<g id="node15" class="node">
+<title>CommerceMondain</title>
+<polygon fill="#d0021b" stroke="blue" points="820.99,-539.44 794.5,-565.57 741.51,-565.57 715.02,-539.44 741.51,-513.31 794.5,-513.31 820.99,-539.44"/>
+<text text-anchor="middle" x="768" y="-542.44" font-family="Arial" font-size="10.00">Commerce</text>
+<text text-anchor="middle" x="768" y="-530.44" font-family="Arial" font-size="10.00">mondain</text>
+</g>
+<!-- VoirAntepredicatif&#45;&gt;CommerceMondain -->
+<g id="edge19" class="edge">
+<title>VoirAntepredicatif-&gt;CommerceMondain</title>
+<path fill="none" stroke="black" d="M768,-635.28C768,-618.45 768,-596.12 768,-577.36"/>
+<polygon fill="black" stroke="black" points="771.5,-577.45 768,-567.45 764.5,-577.45 771.5,-577.45"/>
+<text text-anchor="middle" x="808.52" y="-609.58" font-family="Arial" font-size="9.00">commerce quotidien</text>
+</g>
+<!-- PerceptionPure -->
+<g id="node18" class="node">
+<title>PerceptionPure</title>
+<ellipse fill="#f8e71c" stroke="blue" cx="900" cy="-539.44" rx="61.24" ry="22.63"/>
+<text text-anchor="middle" x="900" y="-542.44" font-family="Arial" font-size="10.00">Perception pure</text>
+<text text-anchor="middle" x="900" y="-530.44" font-family="Arial" font-size="10.00">(privation)</text>
+</g>
+<!-- VoirAntepredicatif&#45;&gt;PerceptionPure -->
+<g id="edge21" class="edge">
+<title>VoirAntepredicatif-&gt;PerceptionPure</title>
+<path fill="none" stroke="red" stroke-dasharray="5,2" d="M810.26,-645.01C824.92,-638.14 840.74,-629.04 853,-617.68 866.76,-604.95 877.91,-587.28 885.9,-572.06"/>
+<polygon fill="red" stroke="red" points="888.9,-573.87 890.23,-563.36 882.64,-570.74 888.9,-573.87"/>
+<text text-anchor="middle" x="886.36" y="-609.58" font-family="Arial" font-size="9.00">privation de</text>
+</g>
+<!-- CommerceMondain&#45;&gt;Utilisable -->
+<g id="edge20" class="edge">
+<title>CommerceMondain-&gt;Utilisable</title>
+<path fill="none" stroke="black" d="M772.99,-512.82C778.12,-486.43 786.11,-445.39 791.45,-417.97"/>
+<polygon fill="black" stroke="black" points="794.86,-418.75 793.33,-408.27 787.99,-417.41 794.86,-418.75"/>
+<text text-anchor="middle" x="792.01" y="-463.9" font-family="Arial" font-size="9.00">avec</text>
+</g>
+<!-- ExplicitationThematique -->
+<g id="node16" class="node">
+<title>ExplicitationThematique</title>
+<polygon fill="#d0021b" stroke="blue" points="1450.64,-783.8 1422.32,-809.93 1365.69,-809.93 1337.37,-783.8 1365.69,-757.67 1422.32,-757.67 1450.64,-783.8"/>
+<text text-anchor="middle" x="1394" y="-786.8" font-family="Arial" font-size="10.00">Explicitation</text>
+<text text-anchor="middle" x="1394" y="-774.8" font-family="Arial" font-size="10.00">thématique</text>
+</g>
+<!-- Discernation -->
+<g id="node17" class="node">
+<title>Discernation</title>
+<polygon fill="#d0021b" stroke="blue" points="1567.71,-783.8 1542.86,-801.8 1493.15,-801.8 1468.3,-783.8 1493.15,-765.8 1542.86,-765.8 1567.71,-783.8"/>
+<text text-anchor="middle" x="1518" y="-780.8" font-family="Arial" font-size="10.00">Discernation</text>
+</g>
+<!-- RegardFixe -->
+<g id="node20" class="node">
+<title>RegardFixe</title>
+<ellipse fill="#f8e71c" stroke="blue" cx="913" cy="-388.4" rx="69.48" ry="22.63"/>
+<text text-anchor="middle" x="913" y="-391.4" font-family="Arial" font-size="10.00">Regard fixe</text>
+<text text-anchor="middle" x="913" y="-379.4" font-family="Arial" font-size="10.00">(ne-plus-entendre)</text>
+</g>
+<!-- PerceptionPure&#45;&gt;RegardFixe -->
+<g id="edge22" class="edge">
+<title>PerceptionPure-&gt;RegardFixe</title>
+<path fill="none" stroke="black" d="M899.61,-516.42C899.53,-500.95 899.82,-479.77 901.48,-461.2 902.62,-448.43 904.67,-434.49 906.73,-422.33"/>
+<polygon fill="black" stroke="black" points="910.12,-423.24 908.41,-412.79 903.23,-422.03 910.12,-423.24"/>
+<text text-anchor="middle" x="922.74" y="-463.9" font-family="Arial" font-size="9.00">regard fixe</text>
+</g>
+<!-- EtantLaDevant -->
+<g id="node19" class="node">
+<title>EtantLaDevant</title>
+<ellipse fill="#f8e71c" stroke="blue" cx="85" cy="-539.44" rx="40.4" ry="22.63"/>
+<text text-anchor="middle" x="85" y="-542.44" font-family="Arial" font-size="10.00">Étant</text>
+<text text-anchor="middle" x="85" y="-530.44" font-family="Arial" font-size="10.00">là-devant</text>
+</g>
+<!-- SansAucunSens -->
+<g id="node28" class="node">
+<title>SansAucunSens</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="125.36,-406.4 38.64,-406.4 38.64,-370.4 131.36,-370.4 131.36,-400.4 125.36,-406.4"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="125.36,-406.4 125.36,-400.4"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="131.36,-400.4 125.36,-400.4"/>
+<text text-anchor="middle" x="85" y="-391.4" font-family="Arial" font-size="10.00">Sans aucun sens</text>
+<text text-anchor="middle" x="85" y="-379.4" font-family="Arial" font-size="10.00">(insensé)</text>
+</g>
+<!-- EtantLaDevant&#45;&gt;SansAucunSens -->
+<g id="edge28" class="edge">
+<title>EtantLaDevant-&gt;SansAucunSens</title>
+<path fill="none" stroke="black" d="M85,-516.45C85,-490.38 85,-446.85 85,-418.13"/>
+<polygon fill="black" stroke="black" points="88.5,-418.34 85,-408.34 81.5,-418.34 88.5,-418.34"/>
+<text text-anchor="middle" x="116.27" y="-463.9" font-family="Arial" font-size="9.00">essentiellement</text>
+</g>
+<!-- RegardFixe&#45;&gt;StructureEnTantQue -->
+<g id="edge23" class="edge">
+<title>RegardFixe-&gt;StructureEnTantQue</title>
+<path fill="none" stroke="red" d="M913.24,-365.46C912.95,-332.32 909.86,-267.94 892,-216.8 889.35,-209.21 885.4,-201.54 881.22,-194.59"/>
+<polygon fill="red" stroke="red" points="884.24,-192.82 875.89,-186.3 878.35,-196.6 884.24,-192.82"/>
+<text text-anchor="middle" x="938.54" y="-274.9" font-family="Arial" font-size="9.00">abstraction de</text>
+</g>
+<!-- FaitPour -->
+<g id="node22" class="node">
+<title>FaitPour</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="845.01,-295.6 789,-295.6 789,-259.6 845.01,-259.6 845.01,-295.6"/>
+<text text-anchor="middle" x="817" y="-280.6" font-family="Arial" font-size="10.00">Fait-pour</text>
+<text text-anchor="middle" x="817" y="-268.6" font-family="Arial" font-size="10.00">(Um-zu)</text>
+</g>
+<!-- Utilisable&#45;&gt;FaitPour -->
+<g id="edge8" class="edge">
+<title>Utilisable-&gt;FaitPour</title>
+<path fill="none" stroke="black" d="M800.22,-369.92C803.32,-353.03 808.08,-327.14 811.74,-307.24"/>
+<polygon fill="black" stroke="black" points="815.16,-307.99 813.53,-297.53 808.27,-306.73 815.16,-307.99"/>
+<text text-anchor="middle" x="832.12" y="-330.3" font-family="Arial" font-size="9.00">détache son</text>
+</g>
+<!-- FaitPour&#45;&gt;StructureEnTantQue -->
+<g id="edge9" class="edge">
+<title>FaitPour-&gt;StructureEnTantQue</title>
+<path fill="none" stroke="black" d="M824.23,-259.12C831.32,-241.99 842.23,-215.61 850.51,-195.6"/>
+<polygon fill="black" stroke="black" points="853.63,-197.21 854.21,-186.64 847.16,-194.54 853.63,-197.21"/>
+<text text-anchor="middle" x="864.61" y="-219.5" font-family="Arial" font-size="9.00">visé dans la</text>
+</g>
+<!-- Conjointure -->
+<g id="node23" class="node">
+<title>Conjointure</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1652.58,-801.8 1585.43,-801.8 1585.43,-765.8 1652.58,-765.8 1652.58,-801.8"/>
+<text text-anchor="middle" x="1619" y="-780.8" font-family="Arial" font-size="10.00">Conjointure</text>
+</g>
+<!-- Significativite -->
+<g id="node24" class="node">
+<title>Significativite</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1745.18,-801.8 1670.83,-801.8 1670.83,-765.8 1745.18,-765.8 1745.18,-801.8"/>
+<text text-anchor="middle" x="1708" y="-780.8" font-family="Arial" font-size="10.00">Significativité</text>
+</g>
+<!-- CirculusVitiosus -->
+<g id="node26" class="node">
+<title>CirculusVitiosus</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1931.12,-295.6 1848.88,-295.6 1848.88,-259.6 1937.12,-259.6 1937.12,-289.6 1931.12,-295.6"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1931.12,-295.6 1931.12,-289.6"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1937.12,-289.6 1931.12,-289.6"/>
+<text text-anchor="middle" x="1893" y="-280.6" font-family="Arial" font-size="10.00">Circulus vitiosus</text>
+<text text-anchor="middle" x="1893" y="-268.6" font-family="Arial" font-size="10.00">(méprise)</text>
+</g>
+<!-- CercleHermeneutique&#45;&gt;CirculusVitiosus -->
+<g id="edge33" class="edge">
+<title>CercleHermeneutique-&gt;CirculusVitiosus</title>
+<path fill="none" stroke="red" stroke-dasharray="5,2" d="M1893,-369.92C1893,-353.11 1893,-327.38 1893,-307.52"/>
+<polygon fill="red" stroke="red" points="1896.5,-307.55 1893,-297.55 1889.5,-307.55 1896.5,-307.55"/>
+<text text-anchor="middle" x="1925.01" y="-330.3" font-family="Arial" font-size="9.00">≠ cercle vicieux</text>
+</g>
+<!-- StructureExistentiale -->
+<g id="node37" class="node">
+<title>StructureExistentiale</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="2182.4,-309.6 2002.01,-309.6 1955.61,-245.6 2136,-245.6 2182.4,-309.6"/>
+<text text-anchor="middle" x="2069" y="-280.6" font-family="Arial" font-size="10.00">Structure existentiale</text>
+<text text-anchor="middle" x="2069" y="-268.6" font-family="Arial" font-size="10.00">à préalables</text>
+</g>
+<!-- CercleHermeneutique&#45;&gt;StructureExistentiale -->
+<g id="edge34" class="edge">
+<title>CercleHermeneutique-&gt;StructureExistentiale</title>
+<path fill="none" stroke="black" d="M1921.28,-369.92C1944.78,-355.39 1979.04,-334.22 2008.65,-315.91"/>
+<polygon fill="black" stroke="black" points="2010.12,-319.11 2016.79,-310.88 2006.44,-313.16 2010.12,-319.11"/>
+<text text-anchor="middle" x="2014.3" y="-330.3" font-family="Arial" font-size="9.00">expression de</text>
+</g>
+<!-- BonneManiere -->
+<g id="node41" class="node">
+<title>BonneManiere</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1825.36,-295.6 1748.65,-295.6 1748.65,-259.6 1831.36,-259.6 1831.36,-289.6 1825.36,-295.6"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1825.36,-295.6 1825.36,-289.6"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1831.36,-289.6 1825.36,-289.6"/>
+<text text-anchor="middle" x="1790" y="-280.6" font-family="Arial" font-size="10.00">Entrer de la</text>
+<text text-anchor="middle" x="1790" y="-268.6" font-family="Arial" font-size="10.00">bonne manière</text>
+</g>
+<!-- CercleHermeneutique&#45;&gt;BonneManiere -->
+<g id="edge39" class="edge">
+<title>CercleHermeneutique-&gt;BonneManiere</title>
+<path fill="none" stroke="black" d="M1876.46,-369.92C1859.64,-352.15 1833.4,-324.44 1814.24,-304.2"/>
+<polygon fill="black" stroke="black" points="1816.97,-301.99 1807.55,-297.14 1811.89,-306.8 1816.97,-301.99"/>
+<text text-anchor="middle" x="1857.35" y="-330.3" font-family="Arial" font-size="9.00">décisif</text>
+</g>
+<!-- ConnaissanceHistorienne -->
+<g id="node27" class="node">
+<title>ConnaissanceHistorienne</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1917.69,-557.44 1844.32,-557.44 1844.32,-521.44 1923.69,-521.44 1923.69,-551.44 1917.69,-557.44"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1917.69,-557.44 1917.69,-551.44"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1923.69,-551.44 1917.69,-551.44"/>
+<text text-anchor="middle" x="1884" y="-542.44" font-family="Arial" font-size="10.00">Connaissance</text>
+<text text-anchor="middle" x="1884" y="-530.44" font-family="Arial" font-size="10.00">historienne</text>
+</g>
+<!-- ConnaissanceHistorienne&#45;&gt;CercleHermeneutique -->
+<g id="edge35" class="edge">
+<title>ConnaissanceHistorienne-&gt;CercleHermeneutique</title>
+<path fill="none" stroke="black" d="M1883.73,-521.24C1883.6,-505.58 1883.69,-481.81 1884.97,-461.2 1885.85,-446.92 1887.55,-431.11 1889.15,-417.97"/>
+<polygon fill="black" stroke="black" points="1892.59,-418.63 1890.38,-408.27 1885.65,-417.75 1892.59,-418.63"/>
+<text text-anchor="middle" x="1912.49" y="-463.9" font-family="Arial" font-size="9.00">confrontée au</text>
+</g>
+<!-- IdealRigueur -->
+<g id="node38" class="node">
+<title>IdealRigueur</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="2381.44,-420.4 2218.49,-420.4 2176.57,-356.4 2339.52,-356.4 2381.44,-420.4"/>
+<text text-anchor="middle" x="2279" y="-391.4" font-family="Arial" font-size="10.00">Idéal de rigueur</text>
+<text text-anchor="middle" x="2279" y="-379.4" font-family="Arial" font-size="10.00">(sciences exactes)</text>
+</g>
+<!-- ConnaissanceHistorienne&#45;&gt;IdealRigueur -->
+<g id="edge36" class="edge">
+<title>ConnaissanceHistorienne-&gt;IdealRigueur</title>
+<path fill="none" stroke="black" d="M1915.64,-521.06C1939.87,-507.71 1974.11,-488.79 2004,-472 2012.46,-467.25 2013.66,-463.94 2022.97,-461.2 2084.47,-443.07 2105.5,-471.33 2167,-453.2 2187.11,-447.27 2207.49,-437.15 2225.26,-426.68"/>
+<polygon fill="black" stroke="black" points="2226.82,-429.83 2233.55,-421.64 2223.19,-423.85 2226.82,-429.83"/>
+<text text-anchor="middle" x="2053.99" y="-463.9" font-family="Arial" font-size="9.00">idéal de rigueur</text>
+</g>
+<!-- SoubassementsExistentiaux -->
+<g id="node40" class="node">
+<title>SoubassementsExistentiaux</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1833.94,-420.4 1689.28,-420.4 1652.07,-356.4 1796.73,-356.4 1833.94,-420.4"/>
+<text text-anchor="middle" x="1743" y="-391.4" font-family="Arial" font-size="10.00">Soubassements</text>
+<text text-anchor="middle" x="1743" y="-379.4" font-family="Arial" font-size="10.00">existentiaux</text>
+</g>
+<!-- ConnaissanceHistorienne&#45;&gt;SoubassementsExistentiaux -->
+<g id="edge38" class="edge">
+<title>ConnaissanceHistorienne-&gt;SoubassementsExistentiaux</title>
+<path fill="none" stroke="black" d="M1843.97,-523.23C1819.95,-512.27 1790.46,-495.29 1771.45,-472 1761.99,-460.41 1755.6,-445.49 1751.31,-431.53"/>
+<polygon fill="black" stroke="black" points="1754.74,-430.79 1748.71,-422.07 1747.99,-432.64 1754.74,-430.79"/>
+<text text-anchor="middle" x="1825.73" y="-463.9" font-family="Arial" font-size="9.00">soubassements plus riches</text>
+</g>
+<!-- DefiAuSens -->
+<g id="node35" class="node">
+<title>DefiAuSens</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="148.12,-295.6 47.72,-295.6 21.89,-259.6 122.29,-259.6 148.12,-295.6"/>
+<text text-anchor="middle" x="85" y="-274.6" font-family="Arial" font-size="10.00">Défi au sens</text>
+</g>
+<!-- SansAucunSens&#45;&gt;DefiAuSens -->
+<g id="edge29" class="edge">
+<title>SansAucunSens-&gt;DefiAuSens</title>
+<path fill="none" stroke="black" d="M85,-369.92C85,-353.11 85,-327.38 85,-307.52"/>
+<polygon fill="black" stroke="black" points="88.5,-307.55 85,-297.55 81.5,-307.55 88.5,-307.55"/>
+<text text-anchor="middle" x="102.76" y="-330.3" font-family="Arial" font-size="9.00">peut être</text>
+</g>
+<!-- Possibilites&#45;&gt;Explicitation -->
+<g id="edge6" class="edge">
+<title>Possibilites-&gt;Explicitation</title>
+<path fill="none" stroke="black" d="M1318.51,-643.56C1297.31,-626.55 1264.22,-599.99 1236.92,-578.09"/>
+<polygon fill="black" stroke="black" points="1239.45,-575.64 1229.46,-572.11 1235.07,-581.09 1239.45,-575.64"/>
+<text text-anchor="middle" x="1324.63" y="-609.58" font-family="Arial" font-size="9.00">développement dans</text>
+</g>
+<!-- Mathematique -->
+<g id="node39" class="node">
+<title>Mathematique</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="2312.69,-557.44 2239.32,-557.44 2239.32,-521.44 2318.69,-521.44 2318.69,-551.44 2312.69,-557.44"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="2312.69,-557.44 2312.69,-551.44"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="2318.69,-551.44 2312.69,-551.44"/>
+<text text-anchor="middle" x="2279" y="-536.44" font-family="Arial" font-size="10.00">Mathématique</text>
+</g>
+<!-- Mathematique&#45;&gt;IdealRigueur -->
+<g id="edge37" class="edge">
+<title>Mathematique-&gt;IdealRigueur</title>
+<path fill="none" stroke="black" d="M2279,-521.05C2279,-499.36 2279,-461.53 2279,-431.97"/>
+<polygon fill="black" stroke="black" points="2282.5,-432.2 2279,-422.2 2275.5,-432.2 2282.5,-432.2"/>
+<text text-anchor="middle" x="2300.51" y="-463.9" font-family="Arial" font-size="9.00">plus mince</text>
+</g>
+<!-- ElaborationTheme -->
+<g id="node42" class="node">
+<title>ElaborationTheme</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1997.04,-198.8 1772.68,-198.8 1714.97,-134.8 1939.33,-134.8 1997.04,-198.8"/>
+<text text-anchor="middle" x="1856" y="-169.8" font-family="Arial" font-size="10.00">Élaboration du thème</text>
+<text text-anchor="middle" x="1856" y="-157.8" font-family="Arial" font-size="10.00">à partir des choses mêmes</text>
+</g>
+<!-- BonneManiere&#45;&gt;ElaborationTheme -->
+<g id="edge40" class="edge">
+<title>BonneManiere-&gt;ElaborationTheme</title>
+<path fill="none" stroke="black" d="M1800.61,-259.12C1808.85,-245.54 1820.61,-226.14 1831.19,-208.71"/>
+<polygon fill="black" stroke="black" points="1833.93,-210.94 1836.12,-200.58 1827.94,-207.31 1833.93,-210.94"/>
+<text text-anchor="middle" x="1867.26" y="-219.5" font-family="Arial" font-size="9.00">élaboration du thème</text>
+</g>
+<!-- StructureOntologiqueCercle&#45;&gt;EtantLaDevant -->
+<g id="edge42" class="edge">
+<title>StructureOntologiqueCercle-&gt;EtantLaDevant</title>
+<path fill="none" stroke="red" stroke-dasharray="5,2" d="M85,-637.03C85,-619.02 85,-594.03 85,-573.99"/>
+<polygon fill="red" stroke="red" points="88.5,-574.06 85,-564.06 81.5,-574.06 88.5,-574.06"/>
+<text text-anchor="middle" x="108.26" y="-609.58" font-family="Arial" font-size="9.00">≠ cercle de</text>
+</g>
+<!-- InterpretationPhilologique -->
+<g id="node47" class="node">
+<title>InterpretationPhilologique</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="2076.46,-557.44 2007.54,-557.44 2007.54,-521.44 2082.46,-521.44 2082.46,-551.44 2076.46,-557.44"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="2076.46,-557.44 2076.46,-551.44"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="2082.46,-551.44 2076.46,-551.44"/>
+<text text-anchor="middle" x="2045" y="-542.44" font-family="Arial" font-size="10.00">Interprétation</text>
+<text text-anchor="middle" x="2045" y="-530.44" font-family="Arial" font-size="10.00">philologique</text>
+</g>
+<!-- InterpretationPhilologique&#45;&gt;CercleHermeneutique -->
+<g id="edge47" class="edge">
+<title>InterpretationPhilologique-&gt;CercleHermeneutique</title>
+<path fill="none" stroke="black" d="M2021.41,-521.2C2004.47,-508.39 1981.46,-490.07 1962.99,-472 1944.86,-454.26 1926.38,-432.26 1912.97,-415.42"/>
+<polygon fill="black" stroke="black" points="1915.95,-413.55 1907.02,-407.85 1910.45,-417.88 1915.95,-413.55"/>
+<text text-anchor="middle" x="1983.5" y="-463.9" font-family="Arial" font-size="9.00">cas dérivé</text>
+</g>
+<!-- NoirSurBlanc -->
+<g id="node48" class="node">
+<title>NoirSurBlanc</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="2152.18,-406.4 2063.82,-406.4 2063.82,-370.4 2158.18,-370.4 2158.18,-400.4 2152.18,-406.4"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="2152.18,-406.4 2152.18,-400.4"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="2158.18,-400.4 2152.18,-400.4"/>
+<text text-anchor="middle" x="2111" y="-385.4" font-family="Arial" font-size="10.00">« Noir sur blanc »</text>
+</g>
+<!-- InterpretationPhilologique&#45;&gt;NoirSurBlanc -->
+<g id="edge48" class="edge">
+<title>InterpretationPhilologique-&gt;NoirSurBlanc</title>
+<path fill="none" stroke="black" d="M2058.82,-521.03C2068.47,-508.14 2081,-489.79 2089,-472 2096.79,-454.68 2102.29,-434.04 2105.84,-417.73"/>
+<polygon fill="black" stroke="black" points="2109.22,-418.7 2107.79,-408.2 2102.36,-417.3 2109.22,-418.7"/>
+<text text-anchor="middle" x="2108.17" y="-463.9" font-family="Arial" font-size="9.00">appel à</text>
+</g>
+<!-- IdeePrealable -->
+<g id="node49" class="node">
+<title>IdeePrealable</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="2365.3,-309.6 2234.39,-309.6 2200.71,-245.6 2331.62,-245.6 2365.3,-309.6"/>
+<text text-anchor="middle" x="2283" y="-280.6" font-family="Arial" font-size="10.00">Idée préalable</text>
+<text text-anchor="middle" x="2283" y="-268.6" font-family="Arial" font-size="10.00">précconçue</text>
+</g>
+<!-- NoirSurBlanc&#45;&gt;IdeePrealable -->
+<g id="edge49" class="edge">
+<title>NoirSurBlanc-&gt;IdeePrealable</title>
+<path fill="none" stroke="black" d="M2138.64,-369.92C2161.67,-355.35 2195.29,-334.09 2224.29,-315.74"/>
+<polygon fill="black" stroke="black" points="2226.06,-318.76 2232.64,-310.46 2222.32,-312.85 2226.06,-318.76"/>
+<text text-anchor="middle" x="2230.43" y="-330.3" font-family="Arial" font-size="9.00">idée préalable</text>
+</g>
+</g>
+</svg>

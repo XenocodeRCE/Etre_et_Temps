@@ -1,0 +1,389 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2952pt" height="1360pt" viewBox="0.00 0.00 2952.00 1360.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1356)">
+<title>Temporalite</title>
+<text text-anchor="middle" x="1472" y="-1333.6" font-family="Arial" font-size="16.00">§45 - Dasein et Temporellité</text>
+<text text-anchor="middle" x="1472" y="-1314.4" font-family="Arial" font-size="16.00">(Transition vers l'analytique existentiale originaire)</text>
+<g id="clust1" class="cluster">
+<title>cluster_preparatoire</title>
+<polygon fill="none" stroke="#dc2626" stroke-width="2" points="484,-907.72 484,-1110.32 1259,-1110.32 1259,-907.72 484,-907.72"/>
+<text text-anchor="middle" x="871.5" y="-1091.92" font-family="Arial" font-size="16.00">ANALYTIQUE PRÉPARATOIRE</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_originaire</title>
+<polygon fill="none" stroke="#059669" stroke-width="2" points="8,-191.34 8,-872.92 558,-872.92 558,-191.34 8,-191.34"/>
+<text text-anchor="middle" x="283" y="-854.52" font-family="Arial" font-size="16.00">ANALYTIQUE EXISTENTIALE ORIGINAIRE</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_structures</title>
+<polygon fill="none" stroke="#3b82f6" stroke-dasharray="5,2" points="996,-453.84 996,-869.25 1627,-869.25 1627,-453.84 996,-453.84"/>
+<text text-anchor="middle" x="1311.5" y="-850.85" font-family="Arial" font-size="16.00">STRUCTURES EXISTENTIALES</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_temporels</title>
+<polygon fill="none" stroke="#7c3aed" stroke-dasharray="5,2" points="1635,-143.39 1635,-664.79 2936,-664.79 2936,-143.39 1635,-143.39"/>
+<text text-anchor="middle" x="2285.5" y="-646.39" font-family="Arial" font-size="16.00">PHÉNOMÈNES TEMPORELS</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_horizon</title>
+<polygon fill="none" stroke="#ea580c" stroke-width="2" points="746,-8 746,-599.73 988,-599.73 988,-8 746,-8"/>
+<text text-anchor="middle" x="867" y="-581.33" font-family="Arial" font-size="16.00">HORIZON ONTOLOGIQUE</text>
+</g>
+<!-- AnalytiquePreparatoire -->
+<g id="node1" class="node">
+<title>AnalytiquePreparatoire</title>
+<ellipse fill="#dc2626" stroke="black" cx="773" cy="-995.42" rx="79.7" ry="79.7"/>
+<text text-anchor="middle" x="773" y="-1013.42" font-family="Arial" font-size="12.00" fill="white">ANALYTIQUE</text>
+<text text-anchor="middle" x="773" y="-999.02" font-family="Arial" font-size="12.00" fill="white">PRÉPARATOIRE</text>
+<text text-anchor="middle" x="773" y="-984.62" font-family="Arial" font-size="12.00" fill="white">Résultat : le Souci</text>
+<text text-anchor="middle" x="773" y="-970.22" font-family="Arial" font-size="12.00" fill="white">Non-originaire</text>
+</g>
+<!-- AnalytiqueOriginaire -->
+<g id="node5" class="node">
+<title>AnalytiqueOriginaire</title>
+<ellipse fill="#059669" stroke="black" cx="485" cy="-772.65" rx="65.07" ry="65.07"/>
+<text text-anchor="middle" x="485" y="-790.65" font-family="Arial" font-size="12.00" fill="white">ANALYTIQUE</text>
+<text text-anchor="middle" x="485" y="-776.25" font-family="Arial" font-size="12.00" fill="white">ORIGINAIRE</text>
+<text text-anchor="middle" x="485" y="-761.85" font-family="Arial" font-size="12.00" fill="white">Dasein entier</text>
+<text text-anchor="middle" x="485" y="-747.45" font-family="Arial" font-size="12.00" fill="white">et propre</text>
+</g>
+<!-- AnalytiquePreparatoire&#45;&gt;AnalytiqueOriginaire -->
+<g id="edge1" class="edge">
+<title>AnalytiquePreparatoire-&gt;AnalytiqueOriginaire</title>
+<path fill="none" stroke="#dc2626" stroke-dasharray="5,2" d="M718.14,-937.28C707.47,-927.07 696.13,-916.8 685,-907.72 642.21,-872.82 590.32,-838.23 550.12,-812.94"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="552.04,-810.01 541.71,-807.67 548.33,-815.95 552.04,-810.01"/>
+<text text-anchor="middle" x="727.08" y="-885.12" font-family="Times,serif" font-size="14.00">transition nécessaire</text>
+</g>
+<!-- Souci -->
+<g id="node2" class="node">
+<title>Souci</title>
+<ellipse fill="#ef4444" stroke="black" cx="1164" cy="-995.42" rx="86.7" ry="53.17"/>
+<text text-anchor="middle" x="1164" y="-1016.42" font-family="Arial" font-size="14.00" fill="white">SOUCI</text>
+<text text-anchor="middle" x="1164" y="-999.62" font-family="Arial" font-size="14.00" fill="white">(Sorge)</text>
+<text text-anchor="middle" x="1164" y="-982.82" font-family="Arial" font-size="14.00" fill="white">Être du Dasein</text>
+<text text-anchor="middle" x="1164" y="-966.02" font-family="Arial" font-size="14.00" fill="white">Structure unitaire</text>
+</g>
+<!-- Temporellite -->
+<g id="node12" class="node">
+<title>Temporellite</title>
+<polygon fill="#3b82f6" stroke="black" points="1619.41,-772.65 1568.7,-834.05 1467.3,-834.05 1416.59,-772.65 1467.3,-711.25 1568.7,-711.25 1619.41,-772.65"/>
+<text text-anchor="middle" x="1518" y="-793.65" font-family="Arial" font-size="14.00" fill="white">TEMPORELLITÉ</text>
+<text text-anchor="middle" x="1518" y="-776.85" font-family="Arial" font-size="14.00" fill="white">(Zeitlichkeit)</text>
+<text text-anchor="middle" x="1518" y="-760.05" font-family="Arial" font-size="14.00" fill="white">Sens ontologique</text>
+<text text-anchor="middle" x="1518" y="-743.25" font-family="Arial" font-size="14.00" fill="white">du souci</text>
+</g>
+<!-- Souci&#45;&gt;Temporellite -->
+<g id="edge3" class="edge">
+<title>Souci-&gt;Temporellite</title>
+<path fill="none" stroke="#dc2626" d="M1182.35,-943.12C1193.43,-919.99 1210.03,-894.79 1233.51,-880.92 1266.73,-861.29 1371.27,-887.52 1407,-872.92 1425.38,-865.41 1442.71,-853.48 1457.98,-840.45"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="1459.96,-843.38 1465.12,-834.12 1455.31,-838.14 1459.96,-843.38"/>
+<text text-anchor="middle" x="1280.75" y="-885.12" font-family="Times,serif" font-size="14.00">sens ontologique</text>
+</g>
+<!-- EtreAuMonde -->
+<g id="node3" class="node">
+<title>EtreAuMonde</title>
+<ellipse fill="#ef4444" stroke="black" cx="965" cy="-995.42" rx="93.81" ry="41.3"/>
+<text text-anchor="middle" x="965" y="-1008.02" font-family="Arial" font-size="14.00" fill="white">ÊTRE-AU-MONDE</text>
+<text text-anchor="middle" x="965" y="-991.22" font-family="Arial" font-size="14.00" fill="white">Constitution</text>
+<text text-anchor="middle" x="965" y="-974.42" font-family="Arial" font-size="14.00" fill="white">fondamentale</text>
+</g>
+<!-- QuotidienneteMoyenne -->
+<g id="node4" class="node">
+<title>QuotidienneteMoyenne</title>
+<ellipse fill="#ef4444" stroke="black" cx="584" cy="-995.42" rx="91.61" ry="53.17"/>
+<text text-anchor="middle" x="584" y="-1016.42" font-family="Arial" font-size="14.00" fill="white">QUOTIDIENNETÉ</text>
+<text text-anchor="middle" x="584" y="-999.62" font-family="Arial" font-size="14.00" fill="white">MOYENNE</text>
+<text text-anchor="middle" x="584" y="-982.82" font-family="Arial" font-size="14.00" fill="white">Point de départ</text>
+<text text-anchor="middle" x="584" y="-966.02" font-family="Arial" font-size="14.00" fill="white">incomplet</text>
+</g>
+<!-- DaseinEntier -->
+<g id="node6" class="node">
+<title>DaseinEntier</title>
+<polygon fill="#10b981" stroke="black" points="153,-598.44 15.62,-523.24 153,-448.04 290.38,-523.24 153,-598.44"/>
+<text text-anchor="middle" x="153" y="-544.24" font-family="Arial" font-size="14.00" fill="white">DASEIN ENTIER</text>
+<text text-anchor="middle" x="153" y="-527.44" font-family="Arial" font-size="14.00" fill="white">(Ganzheit)</text>
+<text text-anchor="middle" x="153" y="-510.64" font-family="Arial" font-size="14.00" fill="white">Du commencement</text>
+<text text-anchor="middle" x="153" y="-493.84" font-family="Arial" font-size="14.00" fill="white">à la fin</text>
+</g>
+<!-- QuotidienneteMoyenne&#45;&gt;DaseinEntier -->
+<g id="edge2" class="edge">
+<title>QuotidienneteMoyenne-&gt;DaseinEntier</title>
+<path fill="none" stroke="#dc2626" d="M540.05,-948.47C523.69,-933.6 504.16,-918.25 484,-907.72 428.26,-878.6 396.69,-911.28 346.85,-872.92 256.5,-803.38 202.19,-679.11 174.93,-599.24"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="178.4,-598.56 171.9,-590.19 171.76,-600.78 178.4,-598.56"/>
+<text text-anchor="middle" x="378.93" y="-768.45" font-family="Times,serif" font-size="14.00">doit inclure</text>
+</g>
+<!-- AnalytiqueOriginaire&#45;&gt;DaseinEntier -->
+<g id="edge4" class="edge">
+<title>AnalytiqueOriginaire-&gt;DaseinEntier</title>
+<path fill="none" stroke="#059669" stroke-width="2" d="M435.49,-730.14C425.86,-722.45 415.72,-714.63 406,-707.59 382.88,-690.84 378.71,-682.87 352,-672.79 329.71,-664.37 320.37,-675.32 299,-664.79 261.09,-646.09 226.61,-613.99 200.68,-585.18"/>
+<polygon fill="#059669" stroke="#059669" stroke-width="2" points="204.5,-584.22 195.26,-579.03 199.25,-588.85 204.5,-584.22"/>
+<text text-anchor="middle" x="393.36" y="-676.99" font-family="Times,serif" font-size="14.00">vise</text>
+</g>
+<!-- PouvoirEtrePropre -->
+<g id="node7" class="node">
+<title>PouvoirEtrePropre</title>
+<polygon fill="#10b981" stroke="black" points="429,-598.44 307.99,-523.24 429,-448.04 550.01,-523.24 429,-598.44"/>
+<text text-anchor="middle" x="429" y="-544.24" font-family="Arial" font-size="14.00" fill="white">POUVOIR-ÊTRE</text>
+<text text-anchor="middle" x="429" y="-527.44" font-family="Arial" font-size="14.00" fill="white">PROPRE</text>
+<text text-anchor="middle" x="429" y="-510.64" font-family="Arial" font-size="14.00" fill="white">(Eigenheit)</text>
+<text text-anchor="middle" x="429" y="-493.84" font-family="Arial" font-size="14.00" fill="white">Authentique</text>
+</g>
+<!-- AnalytiqueOriginaire&#45;&gt;PouvoirEtrePropre -->
+<g id="edge5" class="edge">
+<title>AnalytiqueOriginaire-&gt;PouvoirEtrePropre</title>
+<path fill="none" stroke="#059669" stroke-width="2" d="M452.42,-715.92C448.48,-707.32 444.97,-698.38 442.45,-689.59 435.17,-664.27 431.38,-635.93 429.51,-609.97"/>
+<polygon fill="#059669" stroke="#059669" stroke-width="2" points="433.11,-611.4 428.99,-601.64 426.12,-611.84 433.11,-611.4"/>
+<text text-anchor="middle" x="453.72" y="-676.99" font-family="Times,serif" font-size="14.00">vise</text>
+</g>
+<!-- Programme -->
+<g id="node21" class="node">
+<title>Programme</title>
+<ellipse fill="#6366f1" stroke="black" cx="652" cy="-523.24" rx="83.64" ry="53.17"/>
+<text text-anchor="middle" x="652" y="-544.24" font-family="Arial" font-size="14.00" fill="white">PROGRAMME</text>
+<text text-anchor="middle" x="652" y="-527.44" font-family="Arial" font-size="14.00" fill="white">6 chapitres</text>
+<text text-anchor="middle" x="652" y="-510.64" font-family="Arial" font-size="14.00" fill="white">Vers la question</text>
+<text text-anchor="middle" x="652" y="-493.84" font-family="Arial" font-size="14.00" fill="white">du sens de l'être</text>
+</g>
+<!-- AnalytiqueOriginaire&#45;&gt;Programme -->
+<g id="edge24" class="edge">
+<title>AnalytiqueOriginaire-&gt;Programme</title>
+<path fill="none" stroke="#6366f1" d="M512.73,-713.27C521.57,-698.76 532.39,-684.13 545.01,-672.79 551.21,-667.2 555.73,-670.29 562,-664.79 587.3,-642.56 608.18,-611.55 623.44,-584.31"/>
+<polygon fill="#6366f1" stroke="#6366f1" points="626.37,-586.25 628.08,-575.79 620.22,-582.9 626.37,-586.25"/>
+<text text-anchor="middle" x="566" y="-676.99" font-family="Times,serif" font-size="14.00">déploie</text>
+</g>
+<!-- SituationHermeneutique -->
+<g id="node8" class="node">
+<title>SituationHermeneutique</title>
+<polygon fill="#10b981" stroke="black" points="153,-316.14 15.66,-257.74 153,-199.34 290.34,-257.74 153,-316.14"/>
+<text text-anchor="middle" x="153" y="-270.34" font-family="Arial" font-size="14.00" fill="white">SITUATION</text>
+<text text-anchor="middle" x="153" y="-253.54" font-family="Arial" font-size="14.00" fill="white">HERMÉNEUTIQUE</text>
+<text text-anchor="middle" x="153" y="-236.74" font-family="Arial" font-size="14.00" fill="white">Originaire</text>
+</g>
+<!-- DaseinEntier&#45;&gt;SituationHermeneutique -->
+<g id="edge6" class="edge">
+<title>DaseinEntier-&gt;SituationHermeneutique</title>
+<path fill="none" stroke="#059669" d="M153,-447.79C153,-410 153,-364.4 153,-327.45"/>
+<polygon fill="#059669" stroke="#059669" points="156.5,-327.79 153,-317.79 149.5,-327.79 156.5,-327.79"/>
+<text text-anchor="middle" x="170.49" y="-386.29" font-family="Times,serif" font-size="14.00">assure</text>
+</g>
+<!-- EtreVersLaMort -->
+<g id="node9" class="node">
+<title>EtreVersLaMort</title>
+<polygon fill="#3b82f6" stroke="black" points="1201.82,-772.65 1152.41,-834.05 1053.59,-834.05 1004.18,-772.65 1053.59,-711.25 1152.41,-711.25 1201.82,-772.65"/>
+<text text-anchor="middle" x="1103" y="-793.65" font-family="Arial" font-size="14.00" fill="white">ÊTRE VERS</text>
+<text text-anchor="middle" x="1103" y="-776.85" font-family="Arial" font-size="14.00" fill="white">LA MORT</text>
+<text text-anchor="middle" x="1103" y="-760.05" font-family="Arial" font-size="14.00" fill="white">(Sein-zum-Tode)</text>
+<text text-anchor="middle" x="1103" y="-743.25" font-family="Arial" font-size="14.00" fill="white">Finitude</text>
+</g>
+<!-- DaseinEntier&#45;&gt;EtreVersLaMort -->
+<g id="edge7" class="edge">
+<title>DaseinEntier-&gt;EtreVersLaMort</title>
+<path fill="none" stroke="#3b82f6" d="M191.54,-577.51C217.84,-609.18 255.68,-646.62 299,-664.79 328.52,-677.17 556.79,-662.19 587,-672.79 598.68,-676.89 597.85,-684.7 609.23,-689.59 734.66,-743.5 892.11,-762.15 995.03,-768.51"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="994.68,-772 1004.86,-769.09 995.09,-765.01 994.68,-772"/>
+<text text-anchor="middle" x="634.11" y="-676.99" font-family="Times,serif" font-size="14.00">implique</text>
+</g>
+<!-- ConscienceMorale -->
+<g id="node10" class="node">
+<title>ConscienceMorale</title>
+<polygon fill="#3b82f6" stroke="black" points="1398.28,-772.65 1353.64,-834.05 1264.36,-834.05 1219.72,-772.65 1264.36,-711.25 1353.64,-711.25 1398.28,-772.65"/>
+<text text-anchor="middle" x="1309" y="-793.65" font-family="Arial" font-size="14.00" fill="white">CONSCIENCE</text>
+<text text-anchor="middle" x="1309" y="-776.85" font-family="Arial" font-size="14.00" fill="white">MORALE</text>
+<text text-anchor="middle" x="1309" y="-760.05" font-family="Arial" font-size="14.00" fill="white">(Gewissen)</text>
+<text text-anchor="middle" x="1309" y="-743.25" font-family="Arial" font-size="14.00" fill="white">Attestation</text>
+</g>
+<!-- PouvoirEtrePropre&#45;&gt;ConscienceMorale -->
+<g id="edge8" class="edge">
+<title>PouvoirEtrePropre-&gt;ConscienceMorale</title>
+<path fill="none" stroke="#3b82f6" d="M463.15,-577.77C486.18,-608.91 519.5,-645.68 559,-664.79 579.87,-674.88 640.16,-668.85 663,-672.79 691.17,-677.64 696.82,-685.3 725.08,-689.59 831.91,-705.8 1108.03,-674.83 1211,-707.59 1221.68,-710.98 1232.3,-715.89 1242.4,-721.49"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="1240.6,-724.5 1251,-726.54 1244.14,-718.46 1240.6,-724.5"/>
+<text text-anchor="middle" x="754.04" y="-676.99" font-family="Times,serif" font-size="14.00">attesté par</text>
+</g>
+<!-- PartiDyVoirClair -->
+<g id="node11" class="node">
+<title>PartiDyVoirClair</title>
+<polygon fill="#3b82f6" stroke="black" points="1411.18,-523.24 1338.59,-584.64 1193.41,-584.64 1120.82,-523.24 1193.41,-461.84 1338.59,-461.84 1411.18,-523.24"/>
+<text text-anchor="middle" x="1266" y="-544.24" font-family="Arial" font-size="14.00" fill="white">PARTI D'Y VOIR</text>
+<text text-anchor="middle" x="1266" y="-527.44" font-family="Arial" font-size="14.00" fill="white">CLAIR EN CONSCIENCE</text>
+<text text-anchor="middle" x="1266" y="-510.64" font-family="Arial" font-size="14.00" fill="white">(Entschlossenheit)</text>
+<text text-anchor="middle" x="1266" y="-493.84" font-family="Arial" font-size="14.00" fill="white">Résolution</text>
+</g>
+<!-- EtreVersLaMort&#45;&gt;PartiDyVoirClair -->
+<g id="edge10" class="edge">
+<title>EtreVersLaMort-&gt;PartiDyVoirClair</title>
+<path fill="none" stroke="#3b82f6" d="M1166.04,-727.63C1179.17,-716.35 1192.02,-703.45 1202,-689.59 1222.19,-661.54 1236.98,-626.29 1247.22,-595.56"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="1250.46,-596.92 1250.19,-586.33 1243.8,-594.78 1250.46,-596.92"/>
+<text text-anchor="middle" x="1240.9" y="-676.99" font-family="Times,serif" font-size="14.00">détermine</text>
+</g>
+<!-- ConscienceMorale&#45;&gt;PartiDyVoirClair -->
+<g id="edge9" class="edge">
+<title>ConscienceMorale-&gt;PartiDyVoirClair</title>
+<path fill="none" stroke="#3b82f6" d="M1298.43,-710.81C1292.39,-676.06 1284.78,-632.3 1278.45,-595.89"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="1281.95,-595.59 1276.79,-586.33 1275.06,-596.79 1281.95,-595.59"/>
+<text text-anchor="middle" x="1311.75" y="-676.99" font-family="Times,serif" font-size="14.00">révèle</text>
+</g>
+<!-- Temporellite&#45;&gt;Souci -->
+<g id="edge11" class="edge">
+<title>Temporellite-&gt;Souci</title>
+<path fill="none" stroke="#3b82f6" stroke-width="2" d="M1464.23,-830.59C1447.16,-846.11 1427.39,-861.7 1407,-872.92 1395.58,-879.2 1390.89,-876.07 1378.79,-880.92 1329.25,-900.78 1276.19,-928.75 1235.2,-951.95"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" stroke-width="2" points="1234.9,-948.09 1227.95,-956.08 1238.37,-954.17 1234.9,-948.09"/>
+<text text-anchor="middle" x="1434.4" y="-885.12" font-family="Times,serif" font-size="14.00">sens ontologique de</text>
+</g>
+<!-- Temporellite&#45;&gt;DaseinEntier -->
+<g id="edge12" class="edge">
+<title>Temporellite-&gt;DaseinEntier</title>
+<path fill="none" stroke="#3b82f6" d="M1453.48,-727.37C1438.8,-719.33 1422.84,-712.08 1407,-707.59 1278.25,-671.02 931.09,-734.39 804.97,-689.59 793.39,-685.47 794.61,-676.82 783,-672.79 732.2,-655.12 348.72,-685.31 299,-664.79 259.48,-648.48 224.59,-615.99 198.83,-586.35"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="201.59,-584.19 192.45,-578.83 196.25,-588.72 201.59,-584.19"/>
+<text text-anchor="middle" x="849.48" y="-676.99" font-family="Times,serif" font-size="14.00">rend intelligible</text>
+</g>
+<!-- Temporellite&#45;&gt;PouvoirEtrePropre -->
+<g id="edge13" class="edge">
+<title>Temporellite-&gt;PouvoirEtrePropre</title>
+<path fill="none" stroke="#3b82f6" d="M1453.45,-727.47C1438.77,-719.42 1422.82,-712.15 1407,-707.59 1305.5,-678.32 1034.36,-715.58 931.97,-689.59 915.64,-685.44 914.35,-676.81 898,-672.79 861.42,-663.78 593.34,-680.29 559,-664.79 522.62,-648.37 491.77,-616.43 469.26,-587.14"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="472.24,-585.28 463.45,-579.37 466.64,-589.47 472.24,-585.28"/>
+<text text-anchor="middle" x="976.48" y="-676.99" font-family="Times,serif" font-size="14.00">rend intelligible</text>
+</g>
+<!-- Historialite -->
+<g id="node13" class="node">
+<title>Historialite</title>
+<polygon fill="#8b5cf6" stroke="black" points="1827,-629.59 1642.64,-470.06 2011.36,-470.06 1827,-629.59"/>
+<text text-anchor="middle" x="1827" y="-544.24" font-family="Arial" font-size="14.00" fill="white">HISTORIALITÉ</text>
+<text text-anchor="middle" x="1827" y="-527.44" font-family="Arial" font-size="14.00" fill="white">(Geschichtlichkeit)</text>
+<text text-anchor="middle" x="1827" y="-510.64" font-family="Arial" font-size="14.00" fill="white">Être historial</text>
+<text text-anchor="middle" x="1827" y="-493.84" font-family="Arial" font-size="14.00" fill="white">du Dasein</text>
+</g>
+<!-- Temporellite&#45;&gt;Historialite -->
+<g id="edge14" class="edge">
+<title>Temporellite-&gt;Historialite</title>
+<path fill="none" stroke="#7c3aed" d="M1578.68,-723.07C1629.21,-682.61 1701.29,-624.89 1754.78,-582.06"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1756.74,-584.98 1762.36,-576 1752.36,-579.52 1756.74,-584.98"/>
+<text text-anchor="middle" x="1651.67" y="-676.99" font-family="Times,serif" font-size="14.00">fonde</text>
+</g>
+<!-- TempsQuotidien -->
+<g id="node14" class="node">
+<title>TempsQuotidien</title>
+<polygon fill="#8b5cf6" stroke="black" points="2236,-605.83 2029.67,-481.94 2442.33,-481.94 2236,-605.83"/>
+<text text-anchor="middle" x="2236" y="-535.84" font-family="Arial" font-size="14.00" fill="white">TEMPS QUOTIDIEN</text>
+<text text-anchor="middle" x="2236" y="-519.04" font-family="Arial" font-size="14.00" fill="white">(Zeitrechnung)</text>
+<text text-anchor="middle" x="2236" y="-502.24" font-family="Arial" font-size="14.00" fill="white">Calcul du temps</text>
+</g>
+<!-- Temporellite&#45;&gt;TempsQuotidien -->
+<g id="edge15" class="edge">
+<title>Temporellite-&gt;TempsQuotidien</title>
+<path fill="none" stroke="#7c3aed" d="M1611.25,-762.16C1714.4,-749.32 1884,-721.22 2020,-664.79 2073.21,-642.71 2127.54,-607.28 2168.4,-577.52"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="2170.23,-580.52 2176.21,-571.77 2166.08,-574.88 2170.23,-580.52"/>
+<text text-anchor="middle" x="2022.54" y="-676.99" font-family="Times,serif" font-size="14.00">origine de</text>
+</g>
+<!-- Intratemporanite -->
+<g id="node15" class="node">
+<title>Intratemporanite</title>
+<polygon fill="#8b5cf6" stroke="black" points="2694,-605.83 2460.18,-481.94 2927.82,-481.94 2694,-605.83"/>
+<text text-anchor="middle" x="2694" y="-535.84" font-family="Arial" font-size="14.00" fill="white">INTRATEMPORANÉITÉ</text>
+<text text-anchor="middle" x="2694" y="-519.04" font-family="Arial" font-size="14.00" fill="white">(Innerzeitigkeit)</text>
+<text text-anchor="middle" x="2694" y="-502.24" font-family="Arial" font-size="14.00" fill="white">Étant dans le temps</text>
+</g>
+<!-- Temporellite&#45;&gt;Intratemporanite -->
+<g id="edge17" class="edge">
+<title>Temporellite-&gt;Intratemporanite</title>
+<path fill="none" stroke="#7c3aed" d="M1614.03,-765.64C1819.83,-751.94 2297.17,-715.63 2451,-664.79 2511.39,-644.83 2573.36,-608.69 2619.61,-578.06"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="2621.32,-581.12 2627.68,-572.65 2617.42,-575.31 2621.32,-581.12"/>
+<text text-anchor="middle" x="2447.34" y="-676.99" font-family="Times,serif" font-size="14.00">possibilité de</text>
+</g>
+<!-- EntenteEtre -->
+<g id="node18" class="node">
+<title>EntenteEtre</title>
+<ellipse fill="#f59e0b" stroke="black" cx="867" cy="-523.24" rx="113.12" ry="41.3"/>
+<text text-anchor="middle" x="867" y="-535.84" font-family="Arial" font-size="14.00" fill="white">ENTENTE DE L'ÊTRE</text>
+<text text-anchor="middle" x="867" y="-519.04" font-family="Arial" font-size="14.00" fill="white">(Seinsverständnis)</text>
+<text text-anchor="middle" x="867" y="-502.24" font-family="Arial" font-size="14.00" fill="white">Condition de possibilité</text>
+</g>
+<!-- Temporellite&#45;&gt;EntenteEtre -->
+<g id="edge18" class="edge">
+<title>Temporellite-&gt;EntenteEtre</title>
+<path fill="none" stroke="#ea580c" stroke-width="2" d="M1453.34,-727.84C1438.67,-719.78 1422.75,-712.39 1407,-707.59 1296.41,-673.82 1262.34,-702.71 1147.46,-689.59 1130.08,-687.6 1007.34,-673.19 992,-664.79 952.81,-643.32 919.8,-604.64 897.56,-573.29"/>
+<polygon fill="#ea580c" stroke="#ea580c" stroke-width="2" points="901.3,-572.54 892.73,-566.31 895.54,-576.52 901.3,-572.54"/>
+<text text-anchor="middle" x="1172.73" y="-676.99" font-family="Times,serif" font-size="14.00">constitue</text>
+</g>
+<!-- ConceptTraditionnel -->
+<g id="node16" class="node">
+<title>ConceptTraditionnel</title>
+<polygon fill="#8b5cf6" stroke="black" points="2236,-364.09 2068.17,-204.56 2403.83,-204.56 2236,-364.09"/>
+<text text-anchor="middle" x="2236" y="-278.74" font-family="Arial" font-size="14.00" fill="white">CONCEPT</text>
+<text text-anchor="middle" x="2236" y="-261.94" font-family="Arial" font-size="14.00" fill="white">TRADITIONNEL</text>
+<text text-anchor="middle" x="2236" y="-245.14" font-family="Arial" font-size="14.00" fill="white">du temps</text>
+<text text-anchor="middle" x="2236" y="-228.34" font-family="Arial" font-size="14.00" fill="white">(dérivé)</text>
+</g>
+<!-- TempsQuotidien&#45;&gt;ConceptTraditionnel -->
+<g id="edge16" class="edge">
+<title>TempsQuotidien-&gt;ConceptTraditionnel</title>
+<path fill="none" stroke="#7c3aed" d="M2236,-481.64C2236,-453.2 2236,-413.63 2236,-375.72"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="2239.5,-376.06 2236,-366.06 2232.5,-376.06 2239.5,-376.06"/>
+<text text-anchor="middle" x="2265.16" y="-386.29" font-family="Times,serif" font-size="14.00">développe</text>
+</g>
+<!-- SensEtre -->
+<g id="node17" class="node">
+<title>SensEtre</title>
+<ellipse fill="#ea580c" stroke="black" cx="857" cy="-257.74" rx="81.57" ry="81.57"/>
+<text text-anchor="middle" x="857" y="-268.54" font-family="Arial" font-size="12.00" fill="white">SENS DE L'ÊTRE</text>
+<text text-anchor="middle" x="857" y="-254.14" font-family="Arial" font-size="12.00" fill="white">en général</text>
+<text text-anchor="middle" x="857" y="-239.74" font-family="Arial" font-size="12.00" fill="white">(Horizon temporel)</text>
+</g>
+<!-- OntologieFondamentale -->
+<g id="node19" class="node">
+<title>OntologieFondamentale</title>
+<ellipse fill="#f59e0b" stroke="black" cx="857" cy="-57.3" rx="92.72" ry="41.3"/>
+<text text-anchor="middle" x="857" y="-69.9" font-family="Arial" font-size="14.00" fill="white">ONTOLOGIE</text>
+<text text-anchor="middle" x="857" y="-53.1" font-family="Arial" font-size="14.00" fill="white">FONDAMENTALE</text>
+<text text-anchor="middle" x="857" y="-36.3" font-family="Arial" font-size="14.00" fill="white">Question de l'être</text>
+</g>
+<!-- SensEtre&#45;&gt;OntologieFondamentale -->
+<g id="edge20" class="edge">
+<title>SensEtre-&gt;OntologieFondamentale</title>
+<path fill="none" stroke="#ea580c" d="M857,-175.74C857,-153.61 857,-130.23 857,-110.2"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="860.5,-110.35 857,-100.35 853.5,-110.35 860.5,-110.35"/>
+<text text-anchor="middle" x="874.3" y="-120.79" font-family="Times,serif" font-size="14.00">but de</text>
+</g>
+<!-- EntenteEtre&#45;&gt;SensEtre -->
+<g id="edge19" class="edge">
+<title>EntenteEtre-&gt;SensEtre</title>
+<path fill="none" stroke="#ea580c" stroke-width="2" d="M865.46,-481.64C864.14,-446.91 862.19,-395.61 860.5,-350.98"/>
+<polygon fill="#ea580c" stroke="#ea580c" stroke-width="2" points="864.06,-352.38 860.18,-342.52 857.06,-352.64 864.06,-352.38"/>
+<text text-anchor="middle" x="883.68" y="-386.29" font-family="Times,serif" font-size="14.00">projette</text>
+</g>
+<!-- Dasein -->
+<g id="node20" class="node">
+<title>Dasein</title>
+<ellipse fill="#1e40af" stroke="black" cx="773" cy="-1229.36" rx="76.24" ry="76.24"/>
+<text text-anchor="middle" x="773" y="-1250.36" font-family="Arial" font-size="14.00" fill="white">DASEIN</text>
+<text text-anchor="middle" x="773" y="-1233.56" font-family="Arial" font-size="14.00" fill="white">Être-au-monde</text>
+<text text-anchor="middle" x="773" y="-1216.76" font-family="Arial" font-size="14.00" fill="white">Temporel</text>
+<text text-anchor="middle" x="773" y="-1199.96" font-family="Arial" font-size="14.00" fill="white">Historial</text>
+</g>
+<!-- Dasein&#45;&gt;AnalytiquePreparatoire -->
+<g id="edge21" class="edge">
+<title>Dasein-&gt;AnalytiquePreparatoire</title>
+<path fill="none" stroke="#1e40af" d="M773,-1152.73C773,-1131.68 773,-1108.6 773,-1086.8"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="776.5,-1087.04 773,-1077.04 769.5,-1087.04 776.5,-1087.04"/>
+<text text-anchor="middle" x="798.85" y="-1122.52" font-family="Times,serif" font-size="14.00">thème de</text>
+</g>
+<!-- Dasein&#45;&gt;AnalytiqueOriginaire -->
+<g id="edge22" class="edge">
+<title>Dasein-&gt;AnalytiqueOriginaire</title>
+<path fill="none" stroke="#1e40af" d="M696.67,-1226.44C615.01,-1219.8 489.07,-1195.36 428.29,-1110.32 371.11,-1030.29 411.89,-912.55 447.66,-839.62"/>
+<polygon fill="#1e40af" stroke="#1e40af" points="450.63,-841.49 451.98,-830.98 444.37,-838.36 450.63,-841.49"/>
+<text text-anchor="middle" x="454.15" y="-991.22" font-family="Times,serif" font-size="14.00">thème de</text>
+</g>
+<!-- Dasein&#45;&gt;Temporellite -->
+<g id="edge23" class="edge">
+<title>Dasein-&gt;Temporellite</title>
+<path fill="none" stroke="#1e40af" stroke-width="2" d="M849.07,-1222.16C949.24,-1211.38 1128.41,-1182.89 1263,-1110.32 1384.67,-1044.71 1421.31,-1017.67 1490,-897.72 1499.09,-881.85 1505.22,-863.27 1509.37,-845.38"/>
+<polygon fill="#1e40af" stroke="#1e40af" stroke-width="2" points="1512.43,-847.84 1511.08,-837.33 1505.58,-846.39 1512.43,-847.84"/>
+<text text-anchor="middle" x="1512.68" y="-991.22" font-family="Times,serif" font-size="14.00">sens d'être</text>
+</g>
+<!-- Programme&#45;&gt;SensEtre -->
+<g id="edge25" class="edge">
+<title>Programme-&gt;SensEtre</title>
+<path fill="none" stroke="#6366f1" d="M688.65,-475.13C719.64,-435.3 764.55,-377.57 800.19,-331.76"/>
+<polygon fill="#6366f1" stroke="#6366f1" points="802.88,-334 806.26,-323.96 797.36,-329.7 802.88,-334"/>
+<text text-anchor="middle" x="786.89" y="-386.29" font-family="Times,serif" font-size="14.00">conduit à</text>
+</g>
+</g>
+</svg>

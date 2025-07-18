@@ -1,0 +1,287 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1461pt" height="1264pt" viewBox="0.00 0.00 1460.80 1264.47">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1260.47)">
+<title>ContrEpreuve</title>
+<text text-anchor="middle" x="726.4" y="-1238.07" font-family="Arial" font-size="16.00">§42 - Contre-épreuve de l'interprétation existentiale du Dasein comme souci</text>
+<text text-anchor="middle" x="726.4" y="-1218.87" font-family="Arial" font-size="16.00">(Fable de Cura - Témoignage préontologique)</text>
+<g id="clust1" class="cluster">
+<title>cluster_fable</title>
+<polygon fill="none" stroke="#dc2626" stroke-width="2" points="652,-558.57 652,-845.29 929,-845.29 929,-558.57 652,-558.57"/>
+<text text-anchor="middle" x="790.5" y="-826.89" font-family="Arial" font-size="16.00">TÉMOIGNAGE PRÉONTOLOGIQUE</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_personnages</title>
+<polygon fill="none" stroke="#7c3aed" stroke-dasharray="5,2" points="765,-896.89 765,-1202.07 1310,-1202.07 1310,-896.89 765,-896.89"/>
+<text text-anchor="middle" x="1037.5" y="-1183.67" font-family="Arial" font-size="16.00">Acteurs Mythologiques</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_elements</title>
+<polygon fill="none" stroke="#059669" stroke-dasharray="5,2" points="809,-8 809,-136.8 1238,-136.8 1238,-8 809,-8"/>
+<text text-anchor="middle" x="1023.5" y="-118.4" font-family="Arial" font-size="16.00">Éléments Constitutifs</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_existential</title>
+<polygon fill="none" stroke="#3b82f6" stroke-dasharray="5,2" points="8,-372.17 8,-795.53 636,-795.53 636,-372.17 8,-372.17"/>
+<text text-anchor="middle" x="322" y="-777.13" font-family="Arial" font-size="16.00">Structures Existentiales</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_seneca</title>
+<polygon fill="none" stroke="#ea580c" stroke-dasharray="5,2" points="295,-171.6 295,-337.37 757,-337.37 757,-171.6 295,-171.6"/>
+<text text-anchor="middle" x="526" y="-318.97" font-family="Arial" font-size="16.00">Double Sens de Cura (Sénèque)</text>
+</g>
+<!-- Fable -->
+<g id="node1" class="node">
+<title>Fable</title>
+<ellipse fill="#dc2626" stroke="black" cx="770" cy="-674.73" rx="108.16" ry="108.16"/>
+<text text-anchor="middle" x="770" y="-695.73" font-family="Arial" font-size="14.00" fill="white">FABLE DE CURA</text>
+<text text-anchor="middle" x="770" y="-678.93" font-family="Arial" font-size="14.00" fill="white">(Témoignage antique)</text>
+<text text-anchor="middle" x="770" y="-662.13" font-family="Arial" font-size="14.00" fill="white">Confirmation</text>
+<text text-anchor="middle" x="770" y="-645.33" font-family="Arial" font-size="14.00" fill="white">préontologique</text>
+</g>
+<!-- SouciExist -->
+<g id="node10" class="node">
+<title>SouciExist</title>
+<polygon fill="#3b82f6" stroke="black" points="474,-496.97 320.3,-438.57 474,-380.17 627.7,-438.57 474,-496.97"/>
+<text text-anchor="middle" x="474" y="-451.17" font-family="Arial" font-size="14.00" fill="white">SOUCI EXISTENTIAL</text>
+<text text-anchor="middle" x="474" y="-434.37" font-family="Arial" font-size="14.00" fill="white">(Sorge)</text>
+<text text-anchor="middle" x="474" y="-417.57" font-family="Arial" font-size="14.00" fill="white">Structure d'être</text>
+</g>
+<!-- Fable&#45;&gt;SouciExist -->
+<g id="edge1" class="edge">
+<title>Fable-&gt;SouciExist</title>
+<path fill="none" stroke="#dc2626" stroke-width="2" d="M748.97,-568.24C741.02,-548.55 730.07,-529.59 715,-514.97 684.23,-485.12 641.81,-467.07 601.12,-456.16"/>
+<polygon fill="#dc2626" stroke="#dc2626" stroke-width="2" points="603.47,-453.15 592.92,-454.08 601.75,-459.93 603.47,-453.15"/>
+<text text-anchor="middle" x="795.93" y="-535.97" font-family="Times,serif" font-size="14.00">confirme</text>
+<text text-anchor="middle" x="795.93" y="-519.17" font-family="Times,serif" font-size="14.00">préontologiquement</text>
+</g>
+<!-- Historialite -->
+<g id="node13" class="node">
+<title>Historialite</title>
+<polygon fill="#3b82f6" stroke="black" points="390,-733.13 260.41,-674.73 390,-616.33 519.59,-674.73 390,-733.13"/>
+<text text-anchor="middle" x="390" y="-687.33" font-family="Arial" font-size="14.00" fill="white">HISTORIALITÉ</text>
+<text text-anchor="middle" x="390" y="-670.53" font-family="Arial" font-size="14.00" fill="white">Caractère historial</text>
+<text text-anchor="middle" x="390" y="-653.73" font-family="Arial" font-size="14.00" fill="white">du témoignage</text>
+</g>
+<!-- Fable&#45;&gt;Historialite -->
+<g id="edge16" class="edge">
+<title>Fable-&gt;Historialite</title>
+<path fill="none" stroke="#3b82f6" d="M716.76,-769.28C696.5,-796.16 670.74,-822.11 640,-836.86 597.53,-857.25 576.97,-856.17 534,-836.86 485.88,-815.24 447.3,-768.72 422.22,-731.02"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="425.35,-729.41 416.97,-722.92 419.47,-733.22 425.35,-729.41"/>
+<text text-anchor="middle" x="608" y="-865.89" font-family="Times,serif" font-size="14.00">exprime</text>
+</g>
+<!-- Cura -->
+<g id="node2" class="node">
+<title>Cura</title>
+<ellipse fill="#8b5cf6" stroke="black" cx="864" cy="-946.19" rx="90.53" ry="41.3"/>
+<text text-anchor="middle" x="864" y="-958.79" font-family="Arial" font-size="14.00" fill="white">CURA</text>
+<text text-anchor="middle" x="864" y="-941.99" font-family="Arial" font-size="14.00" fill="white">(Le Souci)</text>
+<text text-anchor="middle" x="864" y="-925.19" font-family="Arial" font-size="14.00" fill="white">Creator primordial</text>
+</g>
+<!-- Homo -->
+<g id="node8" class="node">
+<title>Homo</title>
+<polygon fill="#10b981" stroke="black" points="1031.79,-74.4 930.21,-74.4 930.21,-16 1031.79,-16 1031.79,-74.4"/>
+<text text-anchor="middle" x="981" y="-57.8" font-family="Arial" font-size="14.00" fill="white">HOMO</text>
+<text text-anchor="middle" x="981" y="-41" font-family="Arial" font-size="14.00" fill="white">(de humus)</text>
+<text text-anchor="middle" x="981" y="-24.2" font-family="Arial" font-size="14.00" fill="white">Nom terrestre</text>
+</g>
+<!-- Cura&#45;&gt;Homo -->
+<g id="edge2" class="edge">
+<title>Cura-&gt;Homo</title>
+<path fill="none" stroke="#8b5cf6" stroke-width="2" d="M897.03,-907.49C910.6,-889.81 924.98,-867.72 933,-845.29 958.46,-774.09 947,-751.35 947,-675.73 947,-675.73 947,-675.73 947,-226.28 947,-177.33 959.28,-122.18 969.08,-85.95"/>
+<polygon fill="#8b5cf6" stroke="#8b5cf6" stroke-width="2" points="972.04,-88.38 971.34,-77.81 965.29,-86.5 972.04,-88.38"/>
+<text text-anchor="middle" x="994.71" y="-442.77" font-family="Times,serif" font-size="14.00">prima finxit</text>
+<text text-anchor="middle" x="994.71" y="-425.97" font-family="Times,serif" font-size="14.00">(modela d'abord)</text>
+</g>
+<!-- Cura&#45;&gt;SouciExist -->
+<g id="edge10" class="edge">
+<title>Cura-&gt;SouciExist</title>
+<path fill="none" stroke="#dc2626" d="M776.1,-935.54C704.72,-926.2 611.14,-910.03 581,-886.89 564.6,-874.3 565.47,-865.28 560.16,-845.29 541.28,-774.24 570.25,-582.84 542,-514.97 538.16,-505.74 532.69,-496.91 526.5,-488.74"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="529.22,-486.55 520.2,-481 523.79,-490.96 529.22,-486.55"/>
+<text text-anchor="middle" x="604.08" y="-678.93" font-family="Times,serif" font-size="14.00">correspondance</text>
+<text text-anchor="middle" x="604.08" y="-662.13" font-family="Times,serif" font-size="14.00">ontologique</text>
+</g>
+<!-- Temporalite -->
+<g id="node11" class="node">
+<title>Temporalite</title>
+<polygon fill="#3b82f6" stroke="black" points="129,-733.13 15.75,-674.73 129,-616.33 242.25,-674.73 129,-733.13"/>
+<text text-anchor="middle" x="129" y="-687.33" font-family="Arial" font-size="14.00" fill="white">TEMPORALITÉ</text>
+<text text-anchor="middle" x="129" y="-670.53" font-family="Arial" font-size="14.00" fill="white">Quamdiu vixerit</text>
+<text text-anchor="middle" x="129" y="-653.73" font-family="Arial" font-size="14.00" fill="white">(tant qu'il vivra)</text>
+</g>
+<!-- Cura&#45;&gt;Temporalite -->
+<g id="edge6" class="edge">
+<title>Cura-&gt;Temporalite</title>
+<path fill="none" stroke="#7c3aed" d="M774.44,-939.23C625.87,-927.95 336.36,-899.57 251,-845.29 208.44,-818.23 176.12,-770.53 155.47,-732.6"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="158.7,-731.22 150.92,-724.02 152.51,-734.5 158.7,-731.22"/>
+<text text-anchor="middle" x="394.28" y="-874.29" font-family="Times,serif" font-size="14.00">possède tant</text>
+<text text-anchor="middle" x="394.28" y="-857.49" font-family="Times,serif" font-size="14.00">qu'il vivra</text>
+</g>
+<!-- Jupiter -->
+<g id="node3" class="node">
+<title>Jupiter</title>
+<ellipse fill="#8b5cf6" stroke="black" cx="1006" cy="-1098.38" rx="83.64" ry="41.3"/>
+<text text-anchor="middle" x="1006" y="-1110.98" font-family="Arial" font-size="14.00" fill="white">JUPITER</text>
+<text text-anchor="middle" x="1006" y="-1094.18" font-family="Arial" font-size="14.00" fill="white">(Jovis)</text>
+<text text-anchor="middle" x="1006" y="-1077.38" font-family="Arial" font-size="14.00" fill="white">Donneur d'esprit</text>
+</g>
+<!-- Esprit -->
+<g id="node7" class="node">
+<title>Esprit</title>
+<polygon fill="#10b981" stroke="black" points="1127.74,-74.4 1050.26,-74.4 1050.26,-16 1127.74,-16 1127.74,-74.4"/>
+<text text-anchor="middle" x="1089" y="-57.8" font-family="Arial" font-size="14.00" fill="white">ESPRIT</text>
+<text text-anchor="middle" x="1089" y="-41" font-family="Arial" font-size="14.00" fill="white">(spiritus)</text>
+<text text-anchor="middle" x="1089" y="-24.2" font-family="Arial" font-size="14.00" fill="white">de Jupiter</text>
+</g>
+<!-- Jupiter&#45;&gt;Esprit -->
+<g id="edge3" class="edge">
+<title>Jupiter-&gt;Esprit</title>
+<path fill="none" stroke="#8b5cf6" d="M999.98,-1057.08C983.37,-940.11 941.93,-603.2 1001.45,-514.97 1013.39,-497.26 1033.23,-514.08 1046,-496.97 1094,-432.62 1092.78,-184.05 1090.32,-86.15"/>
+<polygon fill="#8b5cf6" stroke="#8b5cf6" points="1093.83,-86.13 1090.06,-76.22 1086.83,-86.32 1093.83,-86.13"/>
+<text text-anchor="middle" x="1043.72" y="-535.97" font-family="Times,serif" font-size="14.00">spiritum dedit</text>
+<text text-anchor="middle" x="1043.72" y="-519.17" font-family="Times,serif" font-size="14.00">(donna l'esprit)</text>
+</g>
+<!-- Jupiter&#45;&gt;Esprit -->
+<g id="edge8" class="edge">
+<title>Jupiter-&gt;Esprit</title>
+<path fill="none" stroke="#6b7280" stroke-dasharray="5,2" d="M1047.49,-1062.35C1075.73,-1034.42 1108,-992.57 1108,-947.19 1108,-947.19 1108,-947.19 1108,-226.28 1108,-177.77 1101.1,-122.32 1095.61,-85.91"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="1099.11,-85.64 1094.12,-76.29 1092.19,-86.71 1099.11,-85.64"/>
+<text text-anchor="middle" x="1159.9" y="-527.57" font-family="Times,serif" font-size="14.00">récupère à la mort</text>
+</g>
+<!-- Tellus -->
+<g id="node4" class="node">
+<title>Tellus</title>
+<ellipse fill="#8b5cf6" stroke="black" cx="1205" cy="-1098.38" rx="97.17" ry="41.3"/>
+<text text-anchor="middle" x="1205" y="-1110.98" font-family="Arial" font-size="14.00" fill="white">TELLUS</text>
+<text text-anchor="middle" x="1205" y="-1094.18" font-family="Arial" font-size="14.00" fill="white">(La Terre)</text>
+<text text-anchor="middle" x="1205" y="-1077.38" font-family="Arial" font-size="14.00" fill="white">Donneuse de corps</text>
+</g>
+<!-- Corps -->
+<g id="node6" class="node">
+<title>Corps</title>
+<polygon fill="#10b981" stroke="black" points="1229.85,-74.4 1146.15,-74.4 1146.15,-16 1229.85,-16 1229.85,-74.4"/>
+<text text-anchor="middle" x="1188" y="-57.8" font-family="Arial" font-size="14.00" fill="white">CORPS</text>
+<text text-anchor="middle" x="1188" y="-41" font-family="Arial" font-size="14.00" fill="white">(corpus)</text>
+<text text-anchor="middle" x="1188" y="-24.2" font-family="Arial" font-size="14.00" fill="white">de la Terre</text>
+</g>
+<!-- Tellus&#45;&gt;Corps -->
+<g id="edge4" class="edge">
+<title>Tellus-&gt;Corps</title>
+<path fill="none" stroke="#8b5cf6" d="M1217.55,-1057.02C1225.77,-1027.02 1235,-984.94 1235,-947.19 1235,-947.19 1235,-947.19 1235,-226.28 1235,-176.36 1217.88,-121.09 1204.3,-85.13"/>
+<polygon fill="#8b5cf6" stroke="#8b5cf6" points="1207.65,-84.08 1200.77,-76.02 1201.12,-86.61 1207.65,-84.08"/>
+<text text-anchor="middle" x="1280.48" y="-535.97" font-family="Times,serif" font-size="14.00">corpus dedit</text>
+<text text-anchor="middle" x="1280.48" y="-519.17" font-family="Times,serif" font-size="14.00">(donna le corps)</text>
+</g>
+<!-- Tellus&#45;&gt;Corps -->
+<g id="edge9" class="edge">
+<title>Tellus-&gt;Corps</title>
+<path fill="none" stroke="#6b7280" stroke-dasharray="5,2" d="M1264.82,-1065.34C1304.38,-1039.37 1349,-998.66 1349,-947.19 1349,-947.19 1349,-947.19 1349,-226.28 1349,-159.58 1286.86,-106.25 1239.79,-75.43"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="1241.89,-72.61 1231.58,-70.19 1238.13,-78.52 1241.89,-72.61"/>
+<text text-anchor="middle" x="1400.9" y="-527.57" font-family="Times,serif" font-size="14.00">récupère à la mort</text>
+</g>
+<!-- Saturne -->
+<g id="node5" class="node">
+<title>Saturne</title>
+<ellipse fill="#8b5cf6" stroke="black" cx="839" cy="-1098.38" rx="65.79" ry="41.3"/>
+<text text-anchor="middle" x="839" y="-1110.98" font-family="Arial" font-size="14.00" fill="white">SATURNE</text>
+<text text-anchor="middle" x="839" y="-1094.18" font-family="Arial" font-size="14.00" fill="white">(Le Temps)</text>
+<text text-anchor="middle" x="839" y="-1077.38" font-family="Arial" font-size="14.00" fill="white">Juge arbitral</text>
+</g>
+<!-- Saturne&#45;&gt;Cura -->
+<g id="edge5" class="edge">
+<title>Saturne-&gt;Cura</title>
+<path fill="none" stroke="#8b5cf6" stroke-width="2" d="M845.7,-1057.13C848.67,-1039.27 852.21,-1018.04 855.37,-999.01"/>
+<polygon fill="#8b5cf6" stroke="#8b5cf6" stroke-width="2" points="858.55,-1001.23 856.74,-990.79 851.65,-1000.08 858.55,-1001.23"/>
+<text text-anchor="middle" x="916.72" y="-1026.48" font-family="Times,serif" font-size="14.00">sentence:</text>
+<text text-anchor="middle" x="916.72" y="-1009.68" font-family="Times,serif" font-size="14.00">teneat quamdiu vixerit</text>
+</g>
+<!-- Saturne&#45;&gt;Temporalite -->
+<g id="edge7" class="edge">
+<title>Saturne-&gt;Temporalite</title>
+<path fill="none" stroke="#7c3aed" d="M774.85,-1087.84C660.9,-1068.1 420.36,-1013.58 263,-886.89 212.38,-846.14 175.14,-780.85 152.95,-733.65"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="156.16,-732.27 148.8,-724.65 149.8,-735.2 156.16,-732.27"/>
+<text text-anchor="middle" x="469.07" y="-941.99" font-family="Times,serif" font-size="14.00">juge du temps</text>
+</g>
+<!-- Etre -->
+<g id="node9" class="node">
+<title>Etre</title>
+<polygon fill="#10b981" stroke="black" points="912.69,-74.4 817.31,-74.4 817.31,-16 912.69,-16 912.69,-74.4"/>
+<text text-anchor="middle" x="865" y="-57.8" font-family="Arial" font-size="14.00" fill="white">ÊTRE</text>
+<text text-anchor="middle" x="865" y="-41" font-family="Arial" font-size="14.00" fill="white">Origine dans</text>
+<text text-anchor="middle" x="865" y="-24.2" font-family="Arial" font-size="14.00" fill="white">le Souci</text>
+</g>
+<!-- SouciExist&#45;&gt;Fable -->
+<g id="edge18" class="edge">
+<title>SouciExist-&gt;Fable</title>
+<path fill="none" stroke="#6b7280" stroke-dasharray="1,5" d="M525.05,-478.07C553.75,-499.37 590.44,-526 623.94,-548.57 630.91,-553.26 633.26,-553.54 640,-558.57 654.21,-569.17 668.75,-580.97 682.72,-592.87"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="680.32,-595.43 690.19,-599.29 684.89,-590.12 680.32,-595.43"/>
+<text text-anchor="middle" x="667.47" y="-535.97" font-family="Times,serif" font-size="14.00">universalité</text>
+<text text-anchor="middle" x="667.47" y="-519.17" font-family="Times,serif" font-size="14.00">transcendantale</text>
+</g>
+<!-- ZeleAnxieux -->
+<g id="node14" class="node">
+<title>ZeleAnxieux</title>
+<polygon fill="#f59e0b" stroke="black" points="490.74,-227.28 443.87,-274.97 350.13,-274.97 303.26,-227.28 350.13,-179.6 443.87,-179.6 490.74,-227.28"/>
+<text text-anchor="middle" x="397" y="-239.88" font-family="Arial" font-size="14.00" fill="white">ZÈLE ANXIEUX</text>
+<text text-anchor="middle" x="397" y="-223.08" font-family="Arial" font-size="14.00" fill="white">(cura inquieta)</text>
+<text text-anchor="middle" x="397" y="-206.28" font-family="Arial" font-size="14.00" fill="white">Sollicitudo</text>
+</g>
+<!-- SouciExist&#45;&gt;ZeleAnxieux -->
+<g id="edge12" class="edge">
+<title>SouciExist-&gt;ZeleAnxieux</title>
+<path fill="none" stroke="#ea580c" d="M455.36,-386.91C444.12,-356.36 429.78,-317.38 418.12,-285.7"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="421.54,-284.85 414.8,-276.68 414.97,-287.27 421.54,-284.85"/>
+<text text-anchor="middle" x="472.65" y="-349.57" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- SoinApplication -->
+<g id="node15" class="node">
+<title>SoinApplication</title>
+<polygon fill="#f59e0b" stroke="black" points="748.78,-227.28 688.89,-274.97 569.11,-274.97 509.22,-227.28 569.11,-179.6 688.89,-179.6 748.78,-227.28"/>
+<text text-anchor="middle" x="629" y="-239.88" font-family="Arial" font-size="14.00" fill="white">SOIN/APPLICATION</text>
+<text text-anchor="middle" x="629" y="-223.08" font-family="Arial" font-size="14.00" fill="white">(cura diligentia)</text>
+<text text-anchor="middle" x="629" y="-206.28" font-family="Arial" font-size="14.00" fill="white">Perfectio</text>
+</g>
+<!-- SouciExist&#45;&gt;SoinApplication -->
+<g id="edge13" class="edge">
+<title>SouciExist-&gt;SoinApplication</title>
+<path fill="none" stroke="#ea580c" d="M507.44,-392.41C530.97,-360.64 562.61,-317.92 587.71,-284.03"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="590.24,-286.5 593.37,-276.39 584.61,-282.34 590.24,-286.5"/>
+<text text-anchor="middle" x="570.21" y="-349.57" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- EtreAuMonde -->
+<g id="node12" class="node">
+<title>EtreAuMonde</title>
+<polygon fill="#3b5cf6" stroke="black" points="159,-480.17 16.15,-438.57 159,-396.97 301.85,-438.57 159,-480.17"/>
+<text text-anchor="middle" x="159" y="-442.77" font-family="Arial" font-size="14.00" fill="white">ÊTRE-AU-MONDE</text>
+<text text-anchor="middle" x="159" y="-425.97" font-family="Arial" font-size="14.00" fill="white">Domination du souci</text>
+</g>
+<!-- Temporalite&#45;&gt;EtreAuMonde -->
+<g id="edge11" class="edge">
+<title>Temporalite-&gt;EtreAuMonde</title>
+<path fill="none" stroke="#3b82f6" d="M135.96,-619.42C140.95,-580.48 147.62,-528.4 152.5,-490.3"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="155.96,-490.82 153.76,-480.46 149.02,-489.93 155.96,-490.82"/>
+<text text-anchor="middle" x="177.68" y="-527.57" font-family="Times,serif" font-size="14.00">détermine</text>
+</g>
+<!-- Historialite&#45;&gt;SouciExist -->
+<g id="edge17" class="edge">
+<title>Historialite-&gt;SouciExist</title>
+<path fill="none" stroke="#3b82f6" d="M405.98,-623.39C416.16,-592.03 429.9,-550.94 443.25,-514.97 445.09,-510.01 447.05,-504.89 449.06,-499.76"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="452.22,-501.27 452.65,-490.69 445.72,-498.69 452.22,-501.27"/>
+<text text-anchor="middle" x="492.63" y="-535.97" font-family="Times,serif" font-size="14.00">auto-explicitation</text>
+<text text-anchor="middle" x="492.63" y="-519.17" font-family="Times,serif" font-size="14.00">du Dasein</text>
+</g>
+<!-- ZeleAnxieux&#45;&gt;EtreAuMonde -->
+<g id="edge15" class="edge">
+<title>ZeleAnxieux-&gt;EtreAuMonde</title>
+<path fill="none" stroke="#ea580c" d="M347.22,-272.06C304.44,-309.67 243.37,-363.38 202.52,-399.3"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="200.45,-396.45 195.25,-405.69 205.08,-401.71 200.45,-396.45"/>
+<text text-anchor="middle" x="333.15" y="-349.57" font-family="Times,serif" font-size="14.00">préoccupation mondaine</text>
+</g>
+<!-- SoinApplication&#45;&gt;Etre -->
+<g id="edge14" class="edge">
+<title>SoinApplication-&gt;Etre</title>
+<path fill="none" stroke="#ea580c" d="M689.78,-179.91C729.94,-149.26 781.77,-109.71 818.62,-81.59"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="820.62,-84.47 826.44,-75.62 816.37,-78.9 820.62,-84.47"/>
+<text text-anchor="middle" x="792.05" y="-149" font-family="Times,serif" font-size="14.00">perfectio de l'homme</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,557 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1919pt" height="945pt" viewBox="0.00 0.00 1918.56 944.84">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 940.84)">
+<title>Dasein_comme_disposibilite</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-940.84 1914.56,-940.84 1914.56,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_trois_caracteres</title>
+<polygon fill="lightcyan" stroke="blue" points="498.82,-255.11 498.82,-426.83 872.82,-426.83 872.82,-255.11 498.82,-255.11"/>
+<text text-anchor="middle" x="685.82" y="-410.23" font-family="Times,serif" font-size="14.00">Trois caractères essentiels de la disposibilité</text>
+</g>
+<!-- Dasein -->
+<g id="node1" class="node">
+<title>Dasein</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="1622.82" cy="-904.84" rx="28.34" ry="28.34"/>
+<text text-anchor="middle" x="1622.82" y="-901.84" font-family="Arial" font-size="10.00">Dasein</text>
+</g>
+<!-- Da -->
+<g id="node3" class="node">
+<title>Da</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="1464.82" cy="-797.04" rx="29.01" ry="29.01"/>
+<text text-anchor="middle" x="1464.82" y="-800.04" font-family="Arial" font-size="10.00">Le Là</text>
+<text text-anchor="middle" x="1464.82" y="-788.04" font-family="Arial" font-size="10.00">(Da)</text>
+</g>
+<!-- Dasein&#45;&gt;Da -->
+<g id="edge1" class="edge">
+<title>Dasein-&gt;Da</title>
+<path fill="none" stroke="black" d="M1599.5,-888.23C1572.7,-870.29 1528.51,-840.69 1498.09,-820.32"/>
+<polygon fill="black" stroke="black" points="1500.26,-817.56 1490,-814.9 1496.36,-823.38 1500.26,-817.56"/>
+<text text-anchor="middle" x="1563.06" y="-846.74" font-family="Arial" font-size="9.00">est son</text>
+</g>
+<!-- EtreAuMonde -->
+<g id="node2" class="node">
+<title>EtreAuMonde</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="732.82" cy="-167.24" rx="49.06" ry="49.06"/>
+<text text-anchor="middle" x="732.82" y="-164.24" font-family="Arial" font-size="10.00">Être-au-monde</text>
+</g>
+<!-- Disposibilite -->
+<g id="node5" class="node">
+<title>Disposibilite</title>
+<polygon fill="#7ed321" stroke="blue" points="1181.61,-721.23 1100.03,-721.23 1100.03,-685.23 1181.61,-685.23 1181.61,-721.23"/>
+<text text-anchor="middle" x="1140.82" y="-706.23" font-family="Arial" font-size="10.00">Disposibilité</text>
+<text text-anchor="middle" x="1140.82" y="-694.23" font-family="Arial" font-size="10.00">(Befindlichkeit)</text>
+</g>
+<!-- Da&#45;&gt;Disposibilite -->
+<g id="edge2" class="edge">
+<title>Da-&gt;Disposibilite</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1436.97,-787.97C1398.66,-776.89 1327.56,-756.38 1266.82,-739.23 1242.5,-732.37 1215.51,-724.86 1192.78,-718.56"/>
+<polygon fill="red" stroke="red" stroke-width="2" points="1195.47,-715.67 1184.9,-716.38 1193.61,-722.42 1195.47,-715.67"/>
+<text text-anchor="middle" x="1330.5" y="-741.93" font-family="Arial" font-size="9.00">constitué par</text>
+</g>
+<!-- Existence -->
+<g id="node4" class="node">
+<title>Existence</title>
+<ellipse fill="#4a90e2" stroke="blue" cx="475.82" cy="-35.69" rx="35.69" ry="35.69"/>
+<text text-anchor="middle" x="475.82" y="-32.69" font-family="Arial" font-size="10.00">Existence</text>
+</g>
+<!-- EtreJete -->
+<g id="node6" class="node">
+<title>EtreJete</title>
+<polygon fill="#7ed321" stroke="blue" points="588.89,-299.11 506.75,-299.11 506.75,-263.11 588.89,-263.11 588.89,-299.11"/>
+<text text-anchor="middle" x="547.82" y="-284.11" font-family="Arial" font-size="10.00">Être-jeté</text>
+<text text-anchor="middle" x="547.82" y="-272.11" font-family="Arial" font-size="10.00">(Geworfenheit)</text>
+</g>
+<!-- Disposibilite&#45;&gt;EtreJete -->
+<g id="edge4" class="edge">
+<title>Disposibilite-&gt;EtreJete</title>
+<path fill="none" stroke="green" stroke-width="2" d="M1099.85,-701.45C1063.17,-699.07 1009.11,-691.3 968.82,-667.23 954.51,-658.69 954.4,-652.06 944.82,-638.43 911.98,-591.72 895.67,-582.48 879.79,-527.63 857.32,-450.01 926.2,-407.44 873.82,-345.91 856.22,-325.23 688.14,-300.45 600.47,-288.79"/>
+<polygon fill="green" stroke="green" stroke-width="2" points="602.54,-285.54 592.17,-287.7 601.63,-292.48 602.54,-285.54"/>
+<text text-anchor="middle" x="903.3" y="-492.93" font-family="Arial" font-size="9.00">1. découvre</text>
+</g>
+<!-- EtreRelie -->
+<g id="node8" class="node">
+<title>EtreRelie</title>
+<polygon fill="#7ed321" stroke="blue" points="763.06,-299.11 702.58,-299.11 702.58,-263.11 763.06,-263.11 763.06,-299.11"/>
+<text text-anchor="middle" x="732.82" y="-284.11" font-family="Arial" font-size="10.00">Être-relié</text>
+<text text-anchor="middle" x="732.82" y="-272.11" font-family="Arial" font-size="10.00">au monde</text>
+</g>
+<!-- Disposibilite&#45;&gt;EtreRelie -->
+<g id="edge5" class="edge">
+<title>Disposibilite-&gt;EtreRelie</title>
+<path fill="none" stroke="green" stroke-width="2" d="M1099.63,-699.77C1043.21,-693.92 948.82,-674.16 948.82,-607.43 948.82,-607.43 948.82,-607.43 948.82,-371.03 948.82,-295.09 868.02,-315.3 793.82,-299.11 787.42,-297.71 780.69,-296.04 774.14,-294.31"/>
+<polygon fill="green" stroke="green" stroke-width="2" points="776.85,-291.42 766.29,-292.15 775.01,-298.17 776.85,-291.42"/>
+<text text-anchor="middle" x="995.85" y="-492.93" font-family="Arial" font-size="9.00">2. ouverture cooriginale</text>
+</g>
+<!-- Humeur -->
+<g id="node9" class="node">
+<title>Humeur</title>
+<polygon fill="#f5a623" stroke="blue" points="368.82,-638.43 301.14,-606.43 368.82,-574.43 436.49,-606.43 368.82,-638.43"/>
+<text text-anchor="middle" x="368.82" y="-609.43" font-family="Arial" font-size="10.00">Humeur</text>
+<text text-anchor="middle" x="368.82" y="-597.43" font-family="Arial" font-size="10.00">(Stimmung)</text>
+</g>
+<!-- Disposibilite&#45;&gt;Humeur -->
+<g id="edge3" class="edge">
+<title>Disposibilite-&gt;Humeur</title>
+<path fill="none" stroke="black" d="M1099.79,-702.03C1010.08,-701.05 789.97,-695.66 608.26,-667.23 542.28,-656.91 467.89,-636.99 419.78,-622.99"/>
+<polygon fill="black" stroke="black" points="421.07,-619.72 410.49,-620.26 419.1,-626.43 421.07,-619.72"/>
+<text text-anchor="middle" x="651.04" y="-659.13" font-family="Arial" font-size="9.00">manifestation ontique</text>
+</g>
+<!-- Divertissement -->
+<g id="node16" class="node">
+<title>Divertissement</title>
+<polygon fill="#d0021b" stroke="blue" points="488.87,-372.03 455.35,-398.16 388.29,-398.16 354.76,-372.03 388.29,-345.91 455.35,-345.91 488.87,-372.03"/>
+<text text-anchor="middle" x="421.82" y="-375.03" font-family="Arial" font-size="10.00">Divertissement</text>
+<text text-anchor="middle" x="421.82" y="-363.03" font-family="Arial" font-size="10.00">(fuite)</text>
+</g>
+<!-- Disposibilite&#45;&gt;Divertissement -->
+<g id="edge20" class="edge">
+<title>Disposibilite-&gt;Divertissement</title>
+<path fill="none" stroke="black" d="M1099.71,-700.73C1030.51,-697.63 894.17,-688.9 851.82,-667.23 792.15,-636.71 794.26,-606.35 749.53,-556.43 713.05,-515.72 715.93,-491.35 668.82,-463.63 600.68,-423.56 566.93,-459.19 494.82,-426.83 482.6,-421.35 470.44,-413.57 459.65,-405.62"/>
+<polygon fill="black" stroke="black" points="461.82,-402.88 451.75,-399.57 457.56,-408.43 461.82,-402.88"/>
+<text text-anchor="middle" x="800.67" y="-548.33" font-family="Arial" font-size="9.00">d'abord et le plus souvent</text>
+</g>
+<!-- Monde -->
+<g id="node21" class="node">
+<title>Monde</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="856.82,-299.11 802.82,-299.11 802.82,-263.11 856.82,-263.11 856.82,-299.11"/>
+<text text-anchor="middle" x="829.82" y="-278.11" font-family="Arial" font-size="10.00">Monde</text>
+</g>
+<!-- Disposibilite&#45;&gt;Monde -->
+<g id="edge6" class="edge">
+<title>Disposibilite-&gt;Monde</title>
+<path fill="none" stroke="green" stroke-width="2" d="M1181.79,-700.59C1272.64,-696.64 1485.05,-685.54 1511.82,-667.23 1536.36,-650.45 1541.82,-637.17 1541.82,-607.43 1541.82,-607.43 1541.82,-607.43 1541.82,-371.03 1541.82,-302.58 1016.95,-286.12 868.51,-282.83"/>
+<polygon fill="green" stroke="green" stroke-width="2" points="870.39,-279.37 860.32,-282.66 870.24,-286.37 870.39,-279.37"/>
+<text text-anchor="middle" x="1584.84" y="-492.93" font-family="Arial" font-size="9.00">3. rencontre première</text>
+</g>
+<!-- Utilisable -->
+<g id="node23" class="node">
+<title>Utilisable</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1176.1,-624.43 1119.53,-624.43 1119.53,-588.43 1176.1,-588.43 1176.1,-624.43"/>
+<text text-anchor="middle" x="1147.82" y="-603.43" font-family="Arial" font-size="10.00">Utilisable</text>
+</g>
+<!-- Disposibilite&#45;&gt;Utilisable -->
+<g id="edge25" class="edge">
+<title>Disposibilite-&gt;Utilisable</title>
+<path fill="none" stroke="black" d="M1141.05,-684.82C1141.24,-676.26 1141.61,-665.8 1142.28,-656.43 1142.76,-649.82 1143.46,-642.71 1144.2,-636.03"/>
+<polygon fill="black" stroke="black" points="1147.67,-636.48 1145.36,-626.14 1140.72,-635.66 1147.67,-636.48"/>
+<text text-anchor="middle" x="1176.55" y="-659.13" font-family="Arial" font-size="9.00">permet rencontre</text>
+</g>
+<!-- Sens -->
+<g id="node32" class="node">
+<title>Sens</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1030.82,-598.98 1030.82,-613.89 1015,-624.43 992.63,-624.43 976.82,-613.89 976.82,-598.98 992.63,-588.43 1015,-588.43 1030.82,-598.98"/>
+<text text-anchor="middle" x="1003.82" y="-603.43" font-family="Arial" font-size="10.00">Sens</text>
+</g>
+<!-- Disposibilite&#45;&gt;Sens -->
+<g id="edge34" class="edge">
+<title>Disposibilite-&gt;Sens</title>
+<path fill="none" stroke="black" d="M1099.83,-697.61C1062.86,-692.49 1012.48,-682.83 1000.28,-667.23 993.46,-658.51 992.93,-646.69 994.63,-635.87"/>
+<polygon fill="black" stroke="black" points="998.03,-636.71 996.83,-626.19 991.2,-635.16 998.03,-636.71"/>
+<text text-anchor="middle" x="1027.05" y="-659.13" font-family="Arial" font-size="9.00">rend possible</text>
+</g>
+<!-- PrincipeMethodologique -->
+<g id="node35" class="node">
+<title>PrincipeMethodologique</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1669.4,-624.43 1588.24,-624.43 1588.24,-588.43 1675.4,-588.43 1675.4,-618.43 1669.4,-624.43"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1669.4,-624.43 1669.4,-618.43"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1675.4,-618.43 1669.4,-618.43"/>
+<text text-anchor="middle" x="1631.82" y="-609.43" font-family="Arial" font-size="10.00">Principe</text>
+<text text-anchor="middle" x="1631.82" y="-597.43" font-family="Arial" font-size="10.00">méthodologique</text>
+</g>
+<!-- Disposibilite&#45;&gt;PrincipeMethodologique -->
+<g id="edge37" class="edge">
+<title>Disposibilite-&gt;PrincipeMethodologique</title>
+<path fill="none" stroke="black" d="M1182.05,-701.63C1272.56,-699.83 1485.88,-692.92 1552.82,-667.23 1572.9,-659.53 1592.21,-645.08 1606.72,-632.32"/>
+<polygon fill="black" stroke="black" points="1608.95,-635.02 1613.97,-625.69 1604.23,-629.85 1608.95,-635.02"/>
+<text text-anchor="middle" x="1601.93" y="-659.13" font-family="Arial" font-size="9.00">signification de</text>
+</g>
+<!-- Reflexion -->
+<g id="node36" class="node">
+<title>Reflexion</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1295.68,-624.43 1214.77,-624.43 1193.96,-588.43 1274.86,-588.43 1295.68,-624.43"/>
+<text text-anchor="middle" x="1244.82" y="-603.43" font-family="Arial" font-size="10.00">Réflexion</text>
+</g>
+<!-- Disposibilite&#45;&gt;Reflexion -->
+<g id="edge39" class="edge">
+<title>Disposibilite-&gt;Reflexion</title>
+<path fill="none" stroke="red" stroke-dasharray="5,2" d="M1181.94,-686.7C1192.15,-681.55 1202.53,-675.09 1210.82,-667.23 1220.34,-658.2 1227.95,-645.91 1233.54,-634.82"/>
+<polygon fill="red" stroke="red" points="1236.57,-636.6 1237.63,-626.06 1230.23,-633.64 1236.57,-636.6"/>
+<text text-anchor="middle" x="1259.54" y="-659.13" font-family="Arial" font-size="9.00">≠ saisie après coup</text>
+</g>
+<!-- EtatsVecus -->
+<g id="node37" class="node">
+<title>EtatsVecus</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1431.51,-624.43 1338.14,-624.43 1314.12,-588.43 1407.49,-588.43 1431.51,-624.43"/>
+<text text-anchor="middle" x="1372.82" y="-603.43" font-family="Arial" font-size="10.00">États vécus</text>
+</g>
+<!-- Disposibilite&#45;&gt;EtatsVecus -->
+<g id="edge40" class="edge">
+<title>Disposibilite-&gt;EtatsVecus</title>
+<path fill="none" stroke="green" d="M1181.87,-699.13C1216.01,-695.24 1265.1,-686.55 1303.82,-667.23 1320.87,-658.72 1337.13,-645.01 1349.58,-632.87"/>
+<polygon fill="green" stroke="green" points="1351.95,-635.44 1356.48,-625.87 1346.97,-630.53 1351.95,-635.44"/>
+<text text-anchor="middle" x="1367.13" y="-659.13" font-family="Arial" font-size="9.00">rend possible détection</text>
+</g>
+<!-- Angoisse -->
+<g id="node38" class="node">
+<title>Angoisse</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1500.39,-624.43 1449.25,-624.43 1449.25,-588.43 1506.39,-588.43 1506.39,-618.43 1500.39,-624.43"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1500.39,-624.43 1500.39,-618.43"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1506.39,-618.43 1500.39,-618.43"/>
+<text text-anchor="middle" x="1477.82" y="-609.43" font-family="Arial" font-size="10.00">Angoisse</text>
+<text text-anchor="middle" x="1477.82" y="-597.43" font-family="Arial" font-size="10.00">(§ 40)</text>
+</g>
+<!-- Disposibilite&#45;&gt;Angoisse -->
+<g id="edge41" class="edge">
+<title>Disposibilite-&gt;Angoisse</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M1182,-700.28C1248.75,-696.59 1377.21,-687.09 1417.82,-667.23 1433.77,-659.44 1448.01,-645.7 1458.62,-633.35"/>
+<polygon fill="black" stroke="black" points="1461.1,-635.85 1464.71,-625.89 1455.68,-631.42 1461.1,-635.85"/>
+<text text-anchor="middle" x="1470.66" y="-659.13" font-family="Arial" font-size="9.00">mode fondamental</text>
+</g>
+<!-- Factice -->
+<g id="node7" class="node">
+<title>Factice</title>
+<polygon fill="#7ed321" stroke="blue" points="480.82,-185.24 426.82,-185.24 426.82,-149.24 480.82,-149.24 480.82,-185.24"/>
+<text text-anchor="middle" x="453.82" y="-164.24" font-family="Arial" font-size="10.00">Facticité</text>
+</g>
+<!-- EtreJete&#45;&gt;Factice -->
+<g id="edge7" class="edge">
+<title>EtreJete-&gt;Factice</title>
+<path fill="none" stroke="black" d="M506.5,-275.5C487.12,-271.03 465.72,-262.27 453.79,-245.11 444.15,-231.22 444.06,-212.25 446.42,-196.63"/>
+<polygon fill="black" stroke="black" points="449.83,-197.45 448.31,-186.97 442.96,-196.11 449.83,-197.45"/>
+<text text-anchor="middle" x="478.81" y="-237.01" font-family="Arial" font-size="9.00">caractère de</text>
+</g>
+<!-- PurQue -->
+<g id="node18" class="node">
+<title>PurQue</title>
+<ellipse fill="#f8e71c" stroke="blue" cx="605.82" cy="-167.24" rx="59.82" ry="22.63"/>
+<text text-anchor="middle" x="605.82" y="-170.24" font-family="Arial" font-size="10.00">Pur « qu'il est »</text>
+<text text-anchor="middle" x="605.82" y="-158.24" font-family="Arial" font-size="10.00">(Dass)</text>
+</g>
+<!-- EtreJete&#45;&gt;PurQue -->
+<g id="edge8" class="edge">
+<title>EtreJete-&gt;PurQue</title>
+<path fill="none" stroke="black" d="M556.88,-262.63C565.56,-245.88 578.86,-220.23 589.41,-199.89"/>
+<polygon fill="black" stroke="black" points="592.44,-201.65 593.94,-191.16 586.23,-198.42 592.44,-201.65"/>
+<text text-anchor="middle" x="586.92" y="-237.01" font-family="Arial" font-size="9.00">révèle le</text>
+</g>
+<!-- Factice&#45;&gt;Existence -->
+<g id="edge10" class="edge">
+<title>Factice-&gt;Existence</title>
+<path fill="none" stroke="black" d="M455.61,-148.77C457.32,-133.15 460.18,-109.65 463.8,-89.38 464.23,-86.95 464.71,-84.45 465.2,-81.93"/>
+<polygon fill="black" stroke="black" points="468.58,-82.88 467.21,-72.37 461.73,-81.44 468.58,-82.88"/>
+<text text-anchor="middle" x="483.81" y="-92.08" font-family="Arial" font-size="9.00">inhérent à</text>
+</g>
+<!-- EtreRelie&#45;&gt;EtreAuMonde -->
+<g id="edge22" class="edge">
+<title>EtreRelie-&gt;EtreAuMonde</title>
+<path fill="none" stroke="black" d="M732.82,-262.63C732.82,-253.03 732.82,-240.5 732.82,-227.72"/>
+<polygon fill="black" stroke="black" points="736.32,-228.01 732.82,-218.01 729.32,-228.01 736.32,-228.01"/>
+<text text-anchor="middle" x="737.82" y="-237.01" font-family="Arial" font-size="9.00">de</text>
+</g>
+<!-- EtreRelie&#45;&gt;Existence -->
+<g id="edge24" class="edge">
+<title>EtreRelie-&gt;Existence</title>
+<path fill="none" stroke="black" d="M702.27,-274.62C656.8,-266.33 575.3,-250.96 562.82,-245.11 544.27,-236.4 537.3,-233.91 526.81,-216.31 497.45,-167.07 522.6,-143.55 503.82,-89.38 502.39,-85.26 500.67,-81.07 498.8,-76.94"/>
+<polygon fill="black" stroke="black" points="502.1,-75.72 494.57,-68.26 495.8,-78.78 502.1,-75.72"/>
+<text text-anchor="middle" x="531.81" y="-164.54" font-family="Arial" font-size="9.00">de</text>
+</g>
+<!-- Coexistence -->
+<g id="node22" class="node">
+<title>Coexistence</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="871.33,-185.24 800.3,-185.24 800.3,-149.24 871.33,-149.24 871.33,-185.24"/>
+<text text-anchor="middle" x="835.82" y="-164.24" font-family="Arial" font-size="10.00">Coexistence</text>
+</g>
+<!-- EtreRelie&#45;&gt;Coexistence -->
+<g id="edge23" class="edge">
+<title>EtreRelie-&gt;Coexistence</title>
+<path fill="none" stroke="black" d="M748.91,-262.63C765.84,-244.24 792.67,-215.1 812.04,-194.07"/>
+<polygon fill="black" stroke="black" points="814.61,-196.44 818.81,-186.71 809.46,-191.7 814.61,-196.44"/>
+<text text-anchor="middle" x="777.07" y="-237.01" font-family="Arial" font-size="9.00">de</text>
+</g>
+<!-- MoraleImperturbable -->
+<g id="node11" class="node">
+<title>MoraleImperturbable</title>
+<polygon fill="#f5a623" stroke="blue" points="582.82,-527.63 505.67,-495.63 582.82,-463.63 659.96,-495.63 582.82,-527.63"/>
+<text text-anchor="middle" x="582.82" y="-498.63" font-family="Arial" font-size="10.00">Moral</text>
+<text text-anchor="middle" x="582.82" y="-486.63" font-family="Arial" font-size="10.00">imperturbable</text>
+</g>
+<!-- Humeur&#45;&gt;MoraleImperturbable -->
+<g id="edge13" class="edge">
+<title>Humeur-&gt;MoraleImperturbable</title>
+<path fill="none" stroke="black" d="M400.86,-589.15C437.43,-570.55 497.49,-540.01 538.53,-519.15"/>
+<polygon fill="black" stroke="black" points="540.11,-522.27 547.44,-514.62 536.94,-516.03 540.11,-522.27"/>
+<text text-anchor="middle" x="493.49" y="-548.33" font-family="Arial" font-size="9.00">mode</text>
+</g>
+<!-- MauvaisMoral -->
+<g id="node12" class="node">
+<title>MauvaisMoral</title>
+<polygon fill="#f5a623" stroke="blue" points="300.82,-513.63 231.92,-495.63 300.82,-477.63 369.72,-495.63 300.82,-513.63"/>
+<text text-anchor="middle" x="300.82" y="-492.63" font-family="Arial" font-size="10.00">Mauvais moral</text>
+</g>
+<!-- Humeur&#45;&gt;MauvaisMoral -->
+<g id="edge14" class="edge">
+<title>Humeur-&gt;MauvaisMoral</title>
+<path fill="none" stroke="black" d="M353.73,-581.29C342.6,-563.49 327.53,-539.37 316.31,-521.43"/>
+<polygon fill="black" stroke="black" points="319.28,-519.58 311.02,-512.95 313.35,-523.29 319.28,-519.58"/>
+<text text-anchor="middle" x="348.11" y="-548.33" font-family="Arial" font-size="9.00">mode</text>
+</g>
+<!-- Morosite -->
+<g id="node13" class="node">
+<title>Morosite</title>
+<polygon fill="#d0021b" stroke="blue" points="213.55,-495.63 194.68,-513.63 156.95,-513.63 138.09,-495.63 156.95,-477.63 194.68,-477.63 213.55,-495.63"/>
+<text text-anchor="middle" x="175.82" y="-492.63" font-family="Arial" font-size="10.00">Morosité</text>
+</g>
+<!-- Humeur&#45;&gt;Morosite -->
+<g id="edge11" class="edge">
+<title>Humeur-&gt;Morosite</title>
+<path fill="none" stroke="black" d="M336.44,-589.28C306.53,-574.1 261.08,-550.38 222.82,-527.63 217.57,-524.51 212.08,-521.07 206.78,-517.64"/>
+<polygon fill="black" stroke="black" points="209.09,-514.97 198.81,-512.41 205.25,-520.82 209.09,-514.97"/>
+<text text-anchor="middle" x="281.55" y="-548.33" font-family="Arial" font-size="9.00">mode</text>
+</g>
+<!-- EuphorieSoulagement -->
+<g id="node14" class="node">
+<title>EuphorieSoulagement</title>
+<polygon fill="#d0021b" stroke="blue" points="119.63,-495.63 89.73,-521.76 29.91,-521.76 0,-495.63 29.91,-469.51 89.73,-469.51 119.63,-495.63"/>
+<text text-anchor="middle" x="59.82" y="-498.63" font-family="Arial" font-size="10.00">Euphorie</text>
+<text text-anchor="middle" x="59.82" y="-486.63" font-family="Arial" font-size="10.00">soulagement</text>
+</g>
+<!-- Humeur&#45;&gt;EuphorieSoulagement -->
+<g id="edge12" class="edge">
+<title>Humeur-&gt;EuphorieSoulagement</title>
+<path fill="none" stroke="black" d="M327.58,-593.56C279.38,-579.33 197.48,-554.1 128.82,-527.63 122.22,-525.09 115.35,-522.25 108.61,-519.34"/>
+<polygon fill="black" stroke="black" points="110.14,-516.19 99.57,-515.37 107.32,-522.6 110.14,-516.19"/>
+<text text-anchor="middle" x="218.42" y="-548.33" font-family="Arial" font-size="9.00">mode</text>
+</g>
+<!-- Indisposition -->
+<g id="node15" class="node">
+<title>Indisposition</title>
+<polygon fill="#d0021b" stroke="blue" points="487.53,-495.63 462.67,-513.63 412.96,-513.63 388.11,-495.63 412.96,-477.63 462.67,-477.63 487.53,-495.63"/>
+<text text-anchor="middle" x="437.82" y="-492.63" font-family="Arial" font-size="10.00">Indisposition</text>
+</g>
+<!-- Humeur&#45;&gt;Indisposition -->
+<g id="edge15" class="edge">
+<title>Humeur-&gt;Indisposition</title>
+<path fill="none" stroke="black" d="M384.13,-581.29C394.95,-564.23 409.46,-541.35 420.67,-523.67"/>
+<polygon fill="black" stroke="black" points="423.62,-525.55 426.02,-515.23 417.71,-521.8 423.62,-525.55"/>
+<text text-anchor="middle" x="416.64" y="-548.33" font-family="Arial" font-size="9.00">mode</text>
+</g>
+<!-- Disposition -->
+<g id="node10" class="node">
+<title>Disposition</title>
+<polygon fill="#f5a623" stroke="blue" points="1737.82,-936.84 1668.78,-904.84 1737.82,-872.84 1806.85,-904.84 1737.82,-936.84"/>
+<text text-anchor="middle" x="1737.82" y="-907.84" font-family="Arial" font-size="10.00">Disposition</text>
+<text text-anchor="middle" x="1737.82" y="-895.84" font-family="Arial" font-size="10.00">(état d'âme)</text>
+</g>
+<!-- Fardeau -->
+<g id="node17" class="node">
+<title>Fardeau</title>
+<ellipse fill="#f8e71c" stroke="blue" cx="119.82" cy="-372.03" rx="37.65" ry="22.63"/>
+<text text-anchor="middle" x="119.82" y="-375.03" font-family="Arial" font-size="10.00">Fardeau</text>
+<text text-anchor="middle" x="119.82" y="-363.03" font-family="Arial" font-size="10.00">(Last)</text>
+</g>
+<!-- Morosite&#45;&gt;Fardeau -->
+<g id="edge16" class="edge">
+<title>Morosite-&gt;Fardeau</title>
+<path fill="none" stroke="black" d="M168.5,-477.28C163.39,-465.3 156.34,-449.03 149.82,-434.83 145.21,-424.81 140.01,-413.95 135.25,-404.18"/>
+<polygon fill="black" stroke="black" points="138.52,-402.9 130.98,-395.45 132.23,-405.97 138.52,-402.9"/>
+<text text-anchor="middle" x="166.48" y="-437.53" font-family="Arial" font-size="9.00">révèle</text>
+</g>
+<!-- EuphorieSoulagement&#45;&gt;Fardeau -->
+<g id="edge17" class="edge">
+<title>EuphorieSoulagement-&gt;Fardeau</title>
+<path fill="none" stroke="black" d="M58.96,-469.04C59.45,-458.11 61.18,-445.46 65.78,-434.83 71.5,-421.65 81.08,-409.27 90.61,-399.11"/>
+<polygon fill="black" stroke="black" points="92.91,-401.76 97.45,-392.19 87.93,-396.84 92.91,-401.76"/>
+<text text-anchor="middle" x="105.8" y="-437.53" font-family="Arial" font-size="9.00">soulage mais révèle</text>
+</g>
+<!-- Indisposition&#45;&gt;Divertissement -->
+<g id="edge21" class="edge">
+<title>Indisposition-&gt;Divertissement</title>
+<path fill="none" stroke="black" d="M435.52,-477.21C433.21,-459.65 429.58,-432.02 426.63,-409.62"/>
+<polygon fill="black" stroke="black" points="430.14,-409.43 425.36,-399.97 423.2,-410.34 430.14,-409.43"/>
+<text text-anchor="middle" x="449.01" y="-437.53" font-family="Arial" font-size="9.00">forme de</text>
+</g>
+<!-- Divertissement&#45;&gt;EtreJete -->
+<g id="edge19" class="edge">
+<title>Divertissement-&gt;EtreJete</title>
+<path fill="none" stroke="red" d="M456.58,-346.5C474.4,-333.92 496.03,-318.66 513.75,-306.15"/>
+<polygon fill="red" stroke="red" points="515.76,-309.02 521.91,-300.39 511.72,-303.3 515.76,-309.02"/>
+<text text-anchor="middle" x="511.61" y="-319.81" font-family="Arial" font-size="9.00">esquive</text>
+</g>
+<!-- CommentOnVa -->
+<g id="node19" class="node">
+<title>CommentOnVa</title>
+<ellipse fill="#f8e71c" stroke="blue" cx="119.82" cy="-281.11" rx="62.09" ry="18"/>
+<text text-anchor="middle" x="119.82" y="-278.11" font-family="Arial" font-size="10.00">« Comment on va »</text>
+</g>
+<!-- Fardeau&#45;&gt;CommentOnVa -->
+<g id="edge18" class="edge">
+<title>Fardeau-&gt;CommentOnVa</title>
+<path fill="none" stroke="black" d="M119.82,-349.05C119.82,-337.44 119.82,-323.04 119.82,-310.58"/>
+<polygon fill="black" stroke="black" points="123.32,-310.9 119.82,-300.9 116.32,-310.9 123.32,-310.9"/>
+<text text-anchor="middle" x="134.33" y="-319.81" font-family="Arial" font-size="9.00">dans le</text>
+</g>
+<!-- Enigmatique -->
+<g id="node20" class="node">
+<title>Enigmatique</title>
+<ellipse fill="#f8e71c" stroke="blue" cx="605.82" cy="-35.69" rx="60.06" ry="22.63"/>
+<text text-anchor="middle" x="605.82" y="-38.69" font-family="Arial" font-size="10.00">Inexorablement</text>
+<text text-anchor="middle" x="605.82" y="-26.69" font-family="Arial" font-size="10.00">énigmatique</text>
+</g>
+<!-- PurQue&#45;&gt;Enigmatique -->
+<g id="edge9" class="edge">
+<title>PurQue-&gt;Enigmatique</title>
+<path fill="none" stroke="black" d="M605.82,-144.27C605.82,-123.98 605.82,-93.56 605.82,-70.23"/>
+<polygon fill="black" stroke="black" points="609.32,-70.29 605.82,-60.29 602.32,-70.29 609.32,-70.29"/>
+<text text-anchor="middle" x="623.58" y="-92.08" font-family="Arial" font-size="9.00">demeure</text>
+</g>
+<!-- Menaçant -->
+<g id="node24" class="node">
+<title>Menaçant</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1225.05,-513.63 1164.58,-513.63 1164.58,-477.63 1225.05,-477.63 1225.05,-513.63"/>
+<text text-anchor="middle" x="1194.82" y="-492.63" font-family="Arial" font-size="10.00">Menaçant</text>
+</g>
+<!-- Utilisable&#45;&gt;Menaçant -->
+<g id="edge26" class="edge">
+<title>Utilisable-&gt;Menaçant</title>
+<path fill="none" stroke="black" d="M1155.37,-587.95C1162.77,-570.82 1174.16,-544.44 1182.81,-524.43"/>
+<polygon fill="black" stroke="black" points="1185.93,-526.03 1186.68,-515.46 1179.51,-523.25 1185.93,-526.03"/>
+<text text-anchor="middle" x="1190.49" y="-548.33" font-family="Arial" font-size="9.00">peut être</text>
+</g>
+<!-- Menaçant&#45;&gt;Disposibilite -->
+<g id="edge27" class="edge">
+<title>Menaçant-&gt;Disposibilite</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1174.17,-513.91C1168.35,-518.53 1161.94,-523.41 1155.82,-527.63 1122.2,-550.79 1097,-538.97 1076.79,-574.43 1062.7,-599.15 1065.88,-612.16 1076.79,-638.43 1083.09,-653.59 1094.93,-667.02 1106.73,-677.59"/>
+<polygon fill="black" stroke="black" points="1104.18,-680.02 1114.08,-683.8 1108.7,-674.67 1104.18,-680.02"/>
+<text text-anchor="middle" x="1093.8" y="-603.73" font-family="Arial" font-size="9.00">suppose</text>
+</g>
+<!-- Theoria -->
+<g id="node25" class="node">
+<title>Theoria</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1219.82,-815.04 1169.82,-815.04 1169.82,-779.04 1225.82,-779.04 1225.82,-809.04 1219.82,-815.04"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1219.82,-815.04 1219.82,-809.04"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1225.82,-809.04 1219.82,-809.04"/>
+<text text-anchor="middle" x="1197.82" y="-800.04" font-family="Arial" font-size="10.00">Théorie</text>
+<text text-anchor="middle" x="1197.82" y="-788.04" font-family="Arial" font-size="10.00">(θεωρία)</text>
+</g>
+<!-- Theoria&#45;&gt;Disposibilite -->
+<g id="edge33" class="edge">
+<title>Theoria-&gt;Disposibilite</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M1193.18,-778.75C1189.55,-767.01 1183.78,-751.46 1175.82,-739.23 1173.69,-735.97 1171.22,-732.76 1168.59,-729.69"/>
+<polygon fill="black" stroke="black" points="1171.34,-727.51 1161.95,-722.59 1166.22,-732.29 1171.34,-727.51"/>
+<text text-anchor="middle" x="1222.36" y="-741.93" font-family="Arial" font-size="9.00">présuppose toujours</text>
+</g>
+<!-- LumenNaturale -->
+<g id="node26" class="node">
+<title>LumenNaturale</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1904.56,-922.84 1825.07,-922.84 1825.07,-886.84 1910.56,-886.84 1910.56,-916.84 1904.56,-922.84"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1904.56,-922.84 1904.56,-916.84"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1910.56,-916.84 1904.56,-916.84"/>
+<text text-anchor="middle" x="1867.82" y="-901.84" font-family="Arial" font-size="10.00">Lumen naturale</text>
+</g>
+<!-- Affections -->
+<g id="node27" class="node">
+<title>Affections</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1107.77,-815.04 1053.86,-815.04 1053.86,-779.04 1113.77,-779.04 1113.77,-809.04 1107.77,-815.04"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1107.77,-815.04 1107.77,-809.04"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1113.77,-809.04 1107.77,-809.04"/>
+<text text-anchor="middle" x="1083.82" y="-800.04" font-family="Arial" font-size="10.00">Affections</text>
+<text text-anchor="middle" x="1083.82" y="-788.04" font-family="Arial" font-size="10.00">(πάθη)</text>
+</g>
+<!-- Affections&#45;&gt;Disposibilite -->
+<g id="edge32" class="edge">
+<title>Affections-&gt;Disposibilite</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M1080.2,-778.76C1078.64,-766.88 1078.49,-751.15 1085.27,-739.23 1087.39,-735.5 1090.1,-732.1 1093.17,-729.03"/>
+<polygon fill="black" stroke="black" points="1095.41,-731.71 1100.82,-722.6 1090.91,-726.35 1095.41,-731.71"/>
+<text text-anchor="middle" x="1130.54" y="-741.93" font-family="Arial" font-size="9.00">interprétation moderne</text>
+</g>
+<!-- RhetoriqueAristote -->
+<g id="node28" class="node">
+<title>RhetoriqueAristote</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1110.28,-922.84 1051.36,-922.84 1051.36,-886.84 1116.28,-886.84 1116.28,-916.84 1110.28,-922.84"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1110.28,-922.84 1110.28,-916.84"/>
+<polyline fill="none" stroke="blue" stroke-dasharray="5,2" points="1116.28,-916.84 1110.28,-916.84"/>
+<text text-anchor="middle" x="1083.82" y="-907.84" font-family="Arial" font-size="10.00">Rhétorique</text>
+<text text-anchor="middle" x="1083.82" y="-895.84" font-family="Arial" font-size="10.00">d'Aristote</text>
+</g>
+<!-- RhetoriqueAristote&#45;&gt;Affections -->
+<g id="edge31" class="edge">
+<title>RhetoriqueAristote-&gt;Affections</title>
+<path fill="none" stroke="black" d="M1083.82,-886.37C1083.82,-870.21 1083.82,-845.9 1083.82,-826.86"/>
+<polygon fill="black" stroke="black" points="1087.32,-827.05 1083.82,-817.05 1080.32,-827.05 1087.32,-827.05"/>
+<text text-anchor="middle" x="1132.84" y="-846.74" font-family="Arial" font-size="9.00">première herméneutique</text>
+</g>
+<!-- Premier -->
+<g id="node29" class="node">
+<title>Premier</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="584.94,-390.03 506.69,-390.03 506.69,-354.03 584.94,-354.03 584.94,-390.03"/>
+<text text-anchor="middle" x="545.82" y="-375.03" font-family="Arial" font-size="10.00">1. Découverte</text>
+<text text-anchor="middle" x="545.82" y="-363.03" font-family="Arial" font-size="10.00">de l'être-jeté</text>
+</g>
+<!-- Premier&#45;&gt;EtreJete -->
+<g id="edge28" class="edge">
+<title>Premier-&gt;EtreJete</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M546.2,-353.89C546.48,-341.66 546.85,-324.94 547.17,-310.71"/>
+<polygon fill="black" stroke="black" points="550.67,-311.09 547.39,-301.02 543.67,-310.93 550.67,-311.09"/>
+</g>
+<!-- Deuxieme -->
+<g id="node30" class="node">
+<title>Deuxieme</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="728.29,-394.03 603.34,-394.03 603.34,-350.03 728.29,-350.03 728.29,-394.03"/>
+<text text-anchor="middle" x="665.82" y="-381.03" font-family="Arial" font-size="10.00">2. Ouvertude cooriginale</text>
+<text text-anchor="middle" x="665.82" y="-369.03" font-family="Arial" font-size="10.00">du monde, coexistence,</text>
+<text text-anchor="middle" x="665.82" y="-357.03" font-family="Arial" font-size="10.00">existence</text>
+</g>
+<!-- Deuxieme&#45;&gt;EtreRelie -->
+<g id="edge29" class="edge">
+<title>Deuxieme-&gt;EtreRelie</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M681.7,-349.96C691.04,-337.56 702.93,-321.77 712.9,-308.54"/>
+<polygon fill="black" stroke="black" points="715.62,-310.75 718.84,-300.66 710.03,-306.54 715.62,-310.75"/>
+</g>
+<!-- Troisieme -->
+<g id="node31" class="node">
+<title>Troisieme</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="864.95,-394.03 746.68,-394.03 746.68,-350.03 864.95,-350.03 864.95,-394.03"/>
+<text text-anchor="middle" x="805.82" y="-381.03" font-family="Arial" font-size="10.00">3. Ouvertude prioritaire</text>
+<text text-anchor="middle" x="805.82" y="-369.03" font-family="Arial" font-size="10.00">du monde pour</text>
+<text text-anchor="middle" x="805.82" y="-357.03" font-family="Arial" font-size="10.00">la rencontre</text>
+</g>
+<!-- Troisieme&#45;&gt;Monde -->
+<g id="edge30" class="edge">
+<title>Troisieme-&gt;Monde</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M811.5,-349.96C814.69,-338.16 818.7,-323.29 822.16,-310.48"/>
+<polygon fill="black" stroke="black" points="825.52,-311.47 824.74,-300.91 818.76,-309.65 825.52,-311.47"/>
+</g>
+<!-- Stimulation -->
+<g id="node34" class="node">
+<title>Stimulation</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1146.43,-488.18 1146.43,-503.09 1121.47,-513.63 1086.17,-513.63 1061.21,-503.09 1061.21,-488.18 1086.17,-477.63 1121.47,-477.63 1146.43,-488.18"/>
+<text text-anchor="middle" x="1103.82" y="-492.63" font-family="Arial" font-size="10.00">Stimulation</text>
+</g>
+<!-- Sens&#45;&gt;Stimulation -->
+<g id="edge35" class="edge">
+<title>Sens-&gt;Stimulation</title>
+<path fill="none" stroke="black" d="M999,-587.99C996.53,-575.2 995.56,-557.99 1003.79,-545.63 1015.27,-528.38 1028.12,-536.6 1046.82,-527.63 1054.07,-524.16 1061.7,-520.21 1068.95,-516.32"/>
+<polygon fill="black" stroke="black" points="1070.42,-519.51 1077.52,-511.65 1067.07,-513.37 1070.42,-519.51"/>
+<text text-anchor="middle" x="1028.8" y="-548.33" font-family="Arial" font-size="9.00">peuvent être</text>
+</g>
+<!-- Affection -->
+<g id="node33" class="node">
+<title>Affection</title>
+<polygon fill="none" stroke="blue" stroke-dasharray="5,2" points="1139.56,-364.58 1139.56,-379.49 1118.62,-390.03 1089.01,-390.03 1068.08,-379.49 1068.08,-364.58 1089.01,-354.03 1118.62,-354.03 1139.56,-364.58"/>
+<text text-anchor="middle" x="1103.82" y="-369.03" font-family="Arial" font-size="10.00">Affection</text>
+</g>
+<!-- Stimulation&#45;&gt;Affection -->
+<g id="edge36" class="edge">
+<title>Stimulation-&gt;Affection</title>
+<path fill="none" stroke="black" d="M1103.82,-477.21C1103.82,-457.53 1103.82,-425.18 1103.82,-401.75"/>
+<polygon fill="black" stroke="black" points="1107.32,-401.94 1103.82,-391.94 1100.32,-401.94 1107.32,-401.94"/>
+<text text-anchor="middle" x="1134.83" y="-437.53" font-family="Arial" font-size="9.00">se montre dans</text>
+</g>
+<!-- PrincipeMethodologique&#45;&gt;Dasein -->
+<g id="edge38" class="edge">
+<title>PrincipeMethodologique-&gt;Dasein</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M1633.83,-624.69C1635.02,-636.62 1636.21,-652.88 1635.82,-667.23 1633.91,-736.84 1628.84,-817.84 1625.62,-864.74"/>
+<polygon fill="black" stroke="black" points="1622.14,-864.45 1624.94,-874.67 1629.12,-864.94 1622.14,-864.45"/>
+<text text-anchor="middle" x="1670.03" y="-741.93" font-family="Arial" font-size="9.00">pour analytique de</text>
+</g>
+</g>
+</svg>

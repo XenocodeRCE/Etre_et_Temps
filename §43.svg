@@ -1,0 +1,394 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2010pt" height="1657pt" viewBox="0.00 0.00 2009.86 1656.87">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1652.87)">
+<title>RealiteEtMonde</title>
+<text text-anchor="middle" x="1000.93" y="-1630.47" font-family="Arial" font-size="16.00">§43 - Dasein, Mondéité et Réalité</text>
+<text text-anchor="middle" x="1000.93" y="-1611.27" font-family="Arial" font-size="16.00">(Critique du problème traditionnel de la réalité)</text>
+<g id="clust1" class="cluster">
+<title>cluster_probleme_traditionnel</title>
+<polygon fill="none" stroke="#dc2626" stroke-width="2" points="8,-731.45 8,-1594.47 351,-1594.47 351,-731.45 8,-731.45"/>
+<text text-anchor="middle" x="179.5" y="-1576.07" font-family="Arial" font-size="16.00">PROBLÈME TRADITIONNEL DE LA RÉALITÉ</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_realite_mode</title>
+<polygon fill="none" stroke="#059669" stroke-dasharray="5,2" points="847,-61.39 847,-408.17 1299,-408.17 1299,-61.39 847,-61.39"/>
+<text text-anchor="middle" x="1073" y="-389.77" font-family="Arial" font-size="16.00">RÉALITÉ COMME MODE D'ÊTRE</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_ontologique</title>
+<polygon fill="none" stroke="#3b82f6" stroke-dasharray="5,2" points="945,-468.15 945,-1325.82 1517,-1325.82 1517,-468.15 945,-468.15"/>
+<text text-anchor="middle" x="1231" y="-1307.42" font-family="Arial" font-size="16.00">STRUCTURE ONTOLOGIQUE FONDAMENTALE</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_entente</title>
+<polygon fill="none" stroke="#7c3aed" stroke-dasharray="5,2" points="359,-725.06 359,-1060.42 937,-1060.42 937,-725.06 359,-725.06"/>
+<text text-anchor="middle" x="648" y="-1042.02" font-family="Arial" font-size="16.00">ENTENTE DE L'ÊTRE</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_resistance</title>
+<polygon fill="none" stroke="#ea580c" stroke-dasharray="5,2" points="1525,-8 1525,-679.54 1957,-679.54 1957,-8 1525,-8"/>
+<text text-anchor="middle" x="1741" y="-661.14" font-family="Arial" font-size="16.00">THÉORIE DE LA RÉSISTANCE</text>
+</g>
+<!-- ProblemeRealite -->
+<g id="node1" class="node">
+<title>ProblemeRealite</title>
+<ellipse fill="#dc2626" stroke="black" cx="261" cy="-1450.35" rx="81.73" ry="81.73"/>
+<text text-anchor="middle" x="261" y="-1471.35" font-family="Arial" font-size="14.00" fill="white">PROBLÈME DE</text>
+<text text-anchor="middle" x="261" y="-1454.55" font-family="Arial" font-size="14.00" fill="white">LA RÉALITÉ</text>
+<text text-anchor="middle" x="261" y="-1437.75" font-family="Arial" font-size="14.00" fill="white">(traditionnel)</text>
+<text text-anchor="middle" x="261" y="-1420.95" font-family="Arial" font-size="14.00" fill="white">Mal posé</text>
+</g>
+<!-- SubjectiviteIsolee -->
+<g id="node4" class="node">
+<title>SubjectiviteIsolee</title>
+<ellipse fill="#ef4444" stroke="black" cx="157" cy="-1183.32" rx="117.48" ry="41.3"/>
+<text text-anchor="middle" x="157" y="-1195.92" font-family="Arial" font-size="14.00" fill="white">SUBJECTIVITÉ ISOLÉE</text>
+<text text-anchor="middle" x="157" y="-1179.12" font-family="Arial" font-size="14.00" fill="white">(cogito sum)</text>
+<text text-anchor="middle" x="157" y="-1162.32" font-family="Arial" font-size="14.00" fill="white">Point de départ erroné</text>
+</g>
+<!-- ProblemeRealite&#45;&gt;SubjectiviteIsolee -->
+<g id="edge1" class="edge">
+<title>ProblemeRealite-&gt;SubjectiviteIsolee</title>
+<path fill="none" stroke="#dc2626" d="M231.34,-1373.76C213.94,-1329.42 192.43,-1274.6 177.03,-1235.35"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="180.32,-1234.16 173.41,-1226.13 173.8,-1236.72 180.32,-1234.16"/>
+<text text-anchor="middle" x="240.61" y="-1338.02" font-family="Times,serif" font-size="14.00">part de</text>
+</g>
+<!-- Dasein -->
+<g id="node9" class="node">
+<title>Dasein</title>
+<ellipse fill="#3b82f6" stroke="black" cx="1033" cy="-1183.32" rx="80.1" ry="80.1"/>
+<text text-anchor="middle" x="1033" y="-1195.92" font-family="Arial" font-size="14.00" fill="white">DASEIN</text>
+<text text-anchor="middle" x="1033" y="-1179.12" font-family="Arial" font-size="14.00" fill="white">Être-au-monde</text>
+<text text-anchor="middle" x="1033" y="-1162.32" font-family="Arial" font-size="14.00" fill="white">Non-substantiel</text>
+</g>
+<!-- ProblemeRealite&#45;&gt;Dasein -->
+<g id="edge25" class="edge">
+<title>ProblemeRealite-&gt;Dasein</title>
+<path fill="none" stroke="#dc2626" stroke-dasharray="1,5" d="M342.34,-1438.55C435.02,-1424.7 590.07,-1396.79 717,-1350.62 802.3,-1319.59 893.4,-1269.66 955.76,-1232.59"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="957.43,-1235.67 964.21,-1227.54 953.83,-1229.67 957.43,-1235.67"/>
+<text text-anchor="middle" x="784.14" y="-1338.02" font-family="Times,serif" font-size="14.00">méconnaît</text>
+</g>
+<!-- MondeExterieur -->
+<g id="node2" class="node">
+<title>MondeExterieur</title>
+<ellipse fill="#ef4444" stroke="black" cx="150" cy="-950.34" rx="130.15" ry="29.42"/>
+<text text-anchor="middle" x="150" y="-954.54" font-family="Arial" font-size="14.00" fill="white">MONDE EXTÉRIEUR</text>
+<text text-anchor="middle" x="150" y="-937.74" font-family="Arial" font-size="14.00" fill="white">(démonstration impossible)</text>
+</g>
+<!-- Preuve -->
+<g id="node3" class="node">
+<title>Preuve</title>
+<ellipse fill="#ef4444" stroke="black" cx="187" cy="-780.74" rx="118.85" ry="41.3"/>
+<text text-anchor="middle" x="187" y="-793.34" font-family="Arial" font-size="14.00" fill="white">PREUVE</text>
+<text text-anchor="middle" x="187" y="-776.54" font-family="Arial" font-size="14.00" fill="white">(Kant - Descartes)</text>
+<text text-anchor="middle" x="187" y="-759.74" font-family="Arial" font-size="14.00" fill="white">Refutation de l'idéalisme</text>
+</g>
+<!-- MondeExterieur&#45;&gt;Preuve -->
+<g id="edge3" class="edge">
+<title>MondeExterieur-&gt;Preuve</title>
+<path fill="none" stroke="#dc2626" d="M156.36,-920.53C161.63,-896.65 169.26,-862.11 175.58,-833.46"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="178.96,-834.4 177.7,-823.88 172.12,-832.89 178.96,-834.4"/>
+<text text-anchor="middle" x="195.27" y="-861.34" font-family="Times,serif" font-size="14.00">nécessite</text>
+</g>
+<!-- Preuve&#45;&gt;ProblemeRealite -->
+<g id="edge4" class="edge">
+<title>Preuve-&gt;ProblemeRealite</title>
+<path fill="none" stroke="#dc2626" stroke-dasharray="5,2" d="M234.72,-818.81C255.61,-838.08 277.87,-863.54 289,-891.94 350.14,-1048.01 315.87,-1247.68 287.21,-1360.76"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="283.86,-1359.74 284.75,-1370.3 290.64,-1361.49 283.86,-1359.74"/>
+<text text-anchor="middle" x="343.18" y="-1072.62" font-family="Times,serif" font-size="14.00">échoue</text>
+</g>
+<!-- SubjectiviteIsolee&#45;&gt;MondeExterieur -->
+<g id="edge2" class="edge">
+<title>SubjectiviteIsolee-&gt;MondeExterieur</title>
+<path fill="none" stroke="#dc2626" d="M155.76,-1141.56C154.48,-1099.27 152.49,-1033.55 151.22,-991.49"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="154.72,-991.43 150.92,-981.54 147.72,-991.65 154.72,-991.43"/>
+<text text-anchor="middle" x="188.33" y="-1072.62" font-family="Times,serif" font-size="14.00">doit prouver</text>
+</g>
+<!-- Realite -->
+<g id="node5" class="node">
+<title>Realite</title>
+<polygon fill="#10b981" stroke="black" points="957.18,-345.77 854.82,-345.77 854.82,-287.37 957.18,-287.37 957.18,-345.77"/>
+<text text-anchor="middle" x="906" y="-329.17" font-family="Arial" font-size="14.00" fill="white">RÉALITÉ</text>
+<text text-anchor="middle" x="906" y="-312.37" font-family="Arial" font-size="14.00" fill="white">(Realitas)</text>
+<text text-anchor="middle" x="906" y="-295.57" font-family="Arial" font-size="14.00" fill="white">Être-là-devant</text>
+</g>
+<!-- EtreLaDevant -->
+<g id="node6" class="node">
+<title>EtreLaDevant</title>
+<polygon fill="#10b981" stroke="black" points="1066.73,-127.79 933.27,-127.79 933.27,-69.39 1066.73,-69.39 1066.73,-127.79"/>
+<text text-anchor="middle" x="1000" y="-111.19" font-family="Arial" font-size="14.00" fill="white">ÊTRE-LÀ-DEVANT</text>
+<text text-anchor="middle" x="1000" y="-94.39" font-family="Arial" font-size="14.00" fill="white">(Vorhandenheit)</text>
+<text text-anchor="middle" x="1000" y="-77.59" font-family="Arial" font-size="14.00" fill="white">Mode dérivé</text>
+</g>
+<!-- Realite&#45;&gt;EtreLaDevant -->
+<g id="edge9" class="edge">
+<title>Realite-&gt;EtreLaDevant</title>
+<path fill="none" stroke="#059669" d="M918.48,-286.89C935.07,-248.78 964.43,-181.31 983.02,-138.6"/>
+<polygon fill="#059669" stroke="#059669" points="986.23,-140 987.01,-129.43 979.81,-137.21 986.23,-140"/>
+<text text-anchor="middle" x="959.77" y="-203.38" font-family="Times,serif" font-size="14.00">=</text>
+</g>
+<!-- Utilisabilite -->
+<g id="node7" class="node">
+<title>Utilisabilite</title>
+<polygon fill="#10b981" stroke="black" points="1291.25,-345.77 1178.75,-345.77 1178.75,-287.37 1291.25,-287.37 1291.25,-345.77"/>
+<text text-anchor="middle" x="1235" y="-329.17" font-family="Arial" font-size="14.00" fill="white">UTILISABILITÉ</text>
+<text text-anchor="middle" x="1235" y="-312.37" font-family="Arial" font-size="14.00" fill="white">(Zuhandenheit)</text>
+<text text-anchor="middle" x="1235" y="-295.57" font-family="Arial" font-size="14.00" fill="white">Mode originaire</text>
+</g>
+<!-- Utilisabilite&#45;&gt;EtreLaDevant -->
+<g id="edge10" class="edge">
+<title>Utilisabilite-&gt;EtreLaDevant</title>
+<path fill="none" stroke="#059669" d="M1214.82,-287.05C1202.67,-270.74 1186.42,-250.34 1170,-233.98 1132.81,-196.93 1085.66,-160.34 1050.45,-134.72"/>
+<polygon fill="#059669" stroke="#059669" points="1052.7,-132.03 1042.54,-129.01 1048.6,-137.7 1052.7,-132.03"/>
+<text text-anchor="middle" x="1183.45" y="-203.38" font-family="Times,serif" font-size="14.00">peut devenir</text>
+</g>
+<!-- Substantialite -->
+<g id="node8" class="node">
+<title>Substantialite</title>
+<polygon fill="#10b981" stroke="black" points="1161.21,-345.77 974.79,-345.77 974.79,-287.37 1161.21,-287.37 1161.21,-345.77"/>
+<text text-anchor="middle" x="1068" y="-329.17" font-family="Arial" font-size="14.00" fill="white">SUBSTANTIALITÉ</text>
+<text text-anchor="middle" x="1068" y="-312.37" font-family="Arial" font-size="14.00" fill="white">(Substantialität)</text>
+<text text-anchor="middle" x="1068" y="-295.57" font-family="Arial" font-size="14.00" fill="white">Détermination traditionnelle</text>
+</g>
+<!-- Dasein&#45;&gt;ProblemeRealite -->
+<g id="edge26" class="edge">
+<title>Dasein-&gt;ProblemeRealite</title>
+<path fill="none" stroke="#3b82f6" stroke-width="2" d="M957.12,-1210.37C813.26,-1259.76 501.61,-1366.74 348.92,-1419.17"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" stroke-width="2" points="349.39,-1415.3 341.06,-1421.86 351.66,-1421.92 349.39,-1415.3"/>
+<text text-anchor="middle" x="622.38" y="-1338.02" font-family="Times,serif" font-size="14.00">rend impossible</text>
+</g>
+<!-- EtreAuMonde -->
+<g id="node10" class="node">
+<title>EtreAuMonde</title>
+<polygon fill="#3b82f6" stroke="black" points="1347,-1008.74 1185.47,-950.34 1347,-891.94 1508.53,-950.34 1347,-1008.74"/>
+<text text-anchor="middle" x="1347" y="-962.94" font-family="Arial" font-size="14.00" fill="white">ÊTRE-AU-MONDE</text>
+<text text-anchor="middle" x="1347" y="-946.14" font-family="Arial" font-size="14.00" fill="white">(In-der-Welt-sein)</text>
+<text text-anchor="middle" x="1347" y="-929.34" font-family="Arial" font-size="14.00" fill="white">Structure fondamentale</text>
+</g>
+<!-- Dasein&#45;&gt;EtreAuMonde -->
+<g id="edge5" class="edge">
+<title>Dasein-&gt;EtreAuMonde</title>
+<path fill="none" stroke="#3b82f6" stroke-width="2" d="M1097.3,-1135.02C1152.25,-1094.6 1230.82,-1036.81 1285.08,-996.89"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" stroke-width="2" points="1285.82,-1000.69 1291.8,-991.95 1281.67,-995.05 1285.82,-1000.69"/>
+<text text-anchor="middle" x="1210.91" y="-1072.62" font-family="Times,serif" font-size="14.00">a pour être</text>
+</g>
+<!-- Souci -->
+<g id="node12" class="node">
+<title>Souci</title>
+<polygon fill="#3b82f6" stroke="black" points="1060,-1008.74 952.95,-950.34 1060,-891.94 1167.05,-950.34 1060,-1008.74"/>
+<text text-anchor="middle" x="1060" y="-962.94" font-family="Arial" font-size="14.00" fill="white">SOUCI</text>
+<text text-anchor="middle" x="1060" y="-946.14" font-family="Arial" font-size="14.00" fill="white">(Sorge)</text>
+<text text-anchor="middle" x="1060" y="-929.34" font-family="Arial" font-size="14.00" fill="white">Être du Dasein</text>
+</g>
+<!-- Dasein&#45;&gt;Souci -->
+<g id="edge8" class="edge">
+<title>Dasein-&gt;Souci</title>
+<path fill="none" stroke="#3b82f6" stroke-width="2" d="M1042.22,-1103.48C1045.5,-1075.35 1049.17,-1043.98 1052.32,-1017.07"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" stroke-width="2" points="1055.59,-1019.18 1053.28,-1008.84 1048.64,-1018.36 1055.59,-1019.18"/>
+<text text-anchor="middle" x="1087.57" y="-1072.62" font-family="Times,serif" font-size="14.00">structure d'être</text>
+</g>
+<!-- EntenteEtre -->
+<g id="node14" class="node">
+<title>EntenteEtre</title>
+<polygon fill="#8b5cf6" stroke="black" points="628.62,-950.34 563.31,-998.02 432.69,-998.02 367.38,-950.34 432.69,-902.66 563.31,-902.66 628.62,-950.34"/>
+<text text-anchor="middle" x="498" y="-962.94" font-family="Arial" font-size="14.00" fill="white">ENTENTE DE L'ÊTRE</text>
+<text text-anchor="middle" x="498" y="-946.14" font-family="Arial" font-size="14.00" fill="white">(Seinsverständnis)</text>
+<text text-anchor="middle" x="498" y="-929.34" font-family="Arial" font-size="14.00" fill="white">Condition de possibilité</text>
+</g>
+<!-- Dasein&#45;&gt;EntenteEtre -->
+<g id="edge15" class="edge">
+<title>Dasein-&gt;EntenteEtre</title>
+<path fill="none" stroke="#7c3aed" stroke-width="2" d="M968.63,-1135.37C930.83,-1110.56 880.98,-1082.42 832,-1068.42 790.51,-1056.57 678.51,-1075.28 638,-1060.42 606.17,-1048.75 575.84,-1026.96 551.6,-1005.91"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" stroke-width="2" points="555.35,-1004.55 545.55,-1000.52 550.69,-1009.78 555.35,-1004.55"/>
+<text text-anchor="middle" x="895.94" y="-1072.62" font-family="Times,serif" font-size="14.00">possède</text>
+</g>
+<!-- Monde -->
+<g id="node11" class="node">
+<title>Monde</title>
+<polygon fill="#3b82f6" stroke="black" points="1347,-839.14 1273.42,-780.74 1347,-722.34 1420.58,-780.74 1347,-839.14"/>
+<text text-anchor="middle" x="1347" y="-793.34" font-family="Arial" font-size="14.00" fill="white">MONDE</text>
+<text text-anchor="middle" x="1347" y="-776.54" font-family="Arial" font-size="14.00" fill="white">(Welt)</text>
+<text text-anchor="middle" x="1347" y="-759.74" font-family="Arial" font-size="14.00" fill="white">Mondéité</text>
+</g>
+<!-- EtreAuMonde&#45;&gt;Monde -->
+<g id="edge6" class="edge">
+<title>EtreAuMonde-&gt;Monde</title>
+<path fill="none" stroke="#3b82f6" d="M1347,-891.66C1347,-878.49 1347,-864.37 1347,-850.78"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="1350.5,-851.04 1347,-841.04 1343.5,-851.04 1350.5,-851.04"/>
+<text text-anchor="middle" x="1374.99" y="-861.34" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- Intramondanite -->
+<g id="node13" class="node">
+<title>Intramondanite</title>
+<polygon fill="#3b82f6" stroke="black" points="1249,-592.95 1091.03,-534.55 1249,-476.15 1406.97,-534.55 1249,-592.95"/>
+<text text-anchor="middle" x="1249" y="-547.15" font-family="Arial" font-size="14.00" fill="white">INTRAMONDANÉITÉ</text>
+<text text-anchor="middle" x="1249" y="-530.35" font-family="Arial" font-size="14.00" fill="white">(Innerweltlichkeit)</text>
+<text text-anchor="middle" x="1249" y="-513.55" font-family="Arial" font-size="14.00" fill="white">Mode d'être des étants</text>
+</g>
+<!-- EtreAuMonde&#45;&gt;Intramondanite -->
+<g id="edge7" class="edge">
+<title>EtreAuMonde-&gt;Intramondanite</title>
+<path fill="none" stroke="#3b82f6" d="M1283.14,-914.73C1255.87,-896.24 1226.9,-870.72 1211.91,-839.14 1174.83,-761.04 1199.92,-659.47 1223.1,-595.88"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="1226.33,-597.25 1226.56,-586.66 1219.77,-594.79 1226.33,-597.25"/>
+<text text-anchor="middle" x="1237.96" y="-776.54" font-family="Times,serif" font-size="14.00">découvre</text>
+</g>
+<!-- Monde&#45;&gt;Intramondanite -->
+<g id="edge13" class="edge">
+<title>Monde-&gt;Intramondanite</title>
+<path fill="none" stroke="#3b82f6" stroke-width="2" d="M1329.37,-735.8C1313.74,-696.86 1290.76,-639.61 1273.38,-596.29"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" stroke-width="2" points="1277.3,-596.66 1270.33,-588.69 1270.8,-599.27 1277.3,-596.66"/>
+<text text-anchor="middle" x="1352.43" y="-691.74" font-family="Times,serif" font-size="14.00">rend possible</text>
+</g>
+<!-- Resistance -->
+<g id="node18" class="node">
+<title>Resistance</title>
+<polygon fill="#f59e0b" stroke="black" points="1722,-617.14 1533.21,-493.26 1910.79,-493.26 1722,-617.14"/>
+<text text-anchor="middle" x="1722" y="-547.15" font-family="Arial" font-size="14.00" fill="white">RÉSISTANCE</text>
+<text text-anchor="middle" x="1722" y="-530.35" font-family="Arial" font-size="14.00" fill="white">(Dilthey-Scheler)</text>
+<text text-anchor="middle" x="1722" y="-513.55" font-family="Arial" font-size="14.00" fill="white">Phénomène dérivé</text>
+</g>
+<!-- Monde&#45;&gt;Resistance -->
+<g id="edge24" class="edge">
+<title>Monde-&gt;Resistance</title>
+<path fill="none" stroke="#ea580c" d="M1390.25,-756.4C1425.9,-736.79 1477.48,-707.56 1521,-679.54 1566.78,-650.07 1616.53,-614.45 1655.09,-586.02"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="1656.96,-588.99 1662.92,-580.23 1652.8,-583.36 1656.96,-588.99"/>
+<text text-anchor="middle" x="1544.4" y="-691.74" font-family="Times,serif" font-size="14.00">rend possible</text>
+</g>
+<!-- Souci&#45;&gt;Realite -->
+<g id="edge14" class="edge">
+<title>Souci-&gt;Realite</title>
+<path fill="none" stroke="#3b82f6" stroke-width="2" d="M1016.64,-915.29C1003.91,-903.4 991,-889.19 982,-873.94 946.52,-813.83 970.15,-785.76 941,-722.34 936.96,-713.55 931.87,-713.5 928.75,-704.34 887.57,-583.41 894.97,-429.03 901.53,-357.4"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" stroke-width="2" points="904.85,-359.53 902.32,-349.24 897.88,-358.85 904.85,-359.53"/>
+<text text-anchor="middle" x="993.87" y="-691.74" font-family="Times,serif" font-size="14.00">fondement ontologique</text>
+</g>
+<!-- Souci&#45;&gt;Substantialite -->
+<g id="edge29" class="edge">
+<title>Souci-&gt;Substantialite</title>
+<path fill="none" stroke="#3b82f6" stroke-dasharray="5,2" d="M1060.58,-891.88C1061.13,-838.84 1061.99,-757.88 1062.87,-687.54 1064.36,-567.26 1066.42,-424.99 1067.41,-357.26"/>
+<polygon fill="#3b82f6" stroke="#3b82f6" points="1070.91,-357.45 1067.56,-347.4 1063.91,-357.34 1070.91,-357.45"/>
+<text text-anchor="middle" x="1091.93" y="-691.74" font-family="Times,serif" font-size="14.00">s'oppose à</text>
+</g>
+<!-- Souci&#45;&gt;EntenteEtre -->
+<g id="edge28" class="edge">
+<title>Souci-&gt;EntenteEtre</title>
+<path fill="none" stroke="#7c3aed" d="M1027.25,-991.4C1005.61,-1015.08 975.04,-1042.64 941,-1055.53 878.03,-1079.37 701.87,-1076.85 638,-1055.53 607.31,-1045.28 577.94,-1025.38 554.1,-1005.61"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="556.61,-1003.15 546.72,-999.34 552.07,-1008.48 556.61,-1003.15"/>
+<text text-anchor="middle" x="791" y="-1072.62" font-family="Times,serif" font-size="14.00">rend possible</text>
+</g>
+<!-- Volonte -->
+<g id="node19" class="node">
+<title>Volonte</title>
+<polygon fill="#f59e0b" stroke="black" points="1741,-399.16 1533.48,-275.28 1948.52,-275.28 1741,-399.16"/>
+<text text-anchor="middle" x="1741" y="-329.17" font-family="Arial" font-size="14.00" fill="white">VOLONTÉ</text>
+<text text-anchor="middle" x="1741" y="-312.37" font-family="Arial" font-size="14.00" fill="white">Instinct</text>
+<text text-anchor="middle" x="1741" y="-295.57" font-family="Arial" font-size="14.00" fill="white">Modification du souci</text>
+</g>
+<!-- Souci&#45;&gt;Volonte -->
+<g id="edge23" class="edge">
+<title>Souci-&gt;Volonte</title>
+<path fill="none" stroke="#ea580c" d="M1110.58,-919.07C1130.33,-908.68 1153.58,-898.11 1176,-891.94 1275.28,-864.61 1306.5,-896.41 1407,-873.94 1644.95,-820.73 1781.47,-880.18 1920,-679.54 1977.47,-596.31 1965.21,-542.44 1920,-451.96 1900.23,-412.39 1862.65,-381.44 1827.01,-359.27"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="1829.18,-356.49 1818.81,-354.32 1825.56,-362.48 1829.18,-356.49"/>
+<text text-anchor="middle" x="1957.73" y="-691.74" font-family="Times,serif" font-size="14.00">modification de</text>
+</g>
+<!-- Intramondanite&#45;&gt;Realite -->
+<g id="edge11" class="edge">
+<title>Intramondanite-&gt;Realite</title>
+<path fill="none" stroke="#059669" d="M1159.83,-508.59C1100.18,-488.6 1022.55,-455.94 966,-408.17 949.13,-393.92 935.15,-373.77 924.94,-356.08"/>
+<polygon fill="#059669" stroke="#059669" points="928,-354.4 920.1,-347.34 921.88,-357.79 928,-354.4"/>
+<text text-anchor="middle" x="1027.45" y="-421.36" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- Intramondanite&#45;&gt;Utilisabilite -->
+<g id="edge12" class="edge">
+<title>Intramondanite-&gt;Utilisabilite</title>
+<path fill="none" stroke="#059669" d="M1245.34,-477.09C1242.9,-439.41 1239.75,-390.8 1237.57,-357.19"/>
+<polygon fill="#059669" stroke="#059669" points="1241.08,-357.24 1236.94,-347.49 1234.09,-357.69 1241.08,-357.24"/>
+<text text-anchor="middle" x="1270.41" y="-421.36" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- EntenteEtre&#45;&gt;Realite -->
+<g id="edge27" class="edge">
+<title>EntenteEtre-&gt;Realite</title>
+<path fill="none" stroke="#7c3aed" d="M498.33,-902.36C498.82,-856.44 500.03,-784.55 503,-722.34 503.74,-706.85 500.87,-702.32 505.56,-687.54 542.47,-571.13 558.01,-535.59 647,-451.96 704.31,-398.1 787.36,-360.14 843.85,-338.61"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="844.88,-341.96 853.01,-335.18 842.42,-335.41 844.88,-341.96"/>
+<text text-anchor="middle" x="571.28" y="-691.74" font-family="Times,serif" font-size="14.00">condition de possibilité</text>
+</g>
+<!-- Ouvertude -->
+<g id="node15" class="node">
+<title>Ouvertude</title>
+<polygon fill="#8b5cf6" stroke="black" points="929.37,-780.74 878.68,-828.42 777.32,-828.42 726.63,-780.74 777.32,-733.06 878.68,-733.06 929.37,-780.74"/>
+<text text-anchor="middle" x="828" y="-793.34" font-family="Arial" font-size="14.00" fill="white">OUVERTUDE</text>
+<text text-anchor="middle" x="828" y="-776.54" font-family="Arial" font-size="14.00" fill="white">(Erschlossenheit)</text>
+<text text-anchor="middle" x="828" y="-759.74" font-family="Arial" font-size="14.00" fill="white">Dévoilement</text>
+</g>
+<!-- EntenteEtre&#45;&gt;Ouvertude -->
+<g id="edge16" class="edge">
+<title>EntenteEtre-&gt;Ouvertude</title>
+<path fill="none" stroke="#7c3aed" d="M575.13,-910.79C617.14,-889.73 669.99,-863.12 717,-839.14 728.63,-833.21 740.92,-826.9 752.92,-820.71"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="754.29,-823.94 761.57,-816.25 751.07,-817.72 754.29,-823.94"/>
+<text text-anchor="middle" x="706.12" y="-861.34" font-family="Times,serif" font-size="14.00">implique</text>
+</g>
+<!-- DifferencOntologique -->
+<g id="node17" class="node">
+<title>DifferencOntologique</title>
+<polygon fill="#8b5cf6" stroke="black" points="708.17,-780.74 659.09,-828.42 560.91,-828.42 511.83,-780.74 560.91,-733.06 659.09,-733.06 708.17,-780.74"/>
+<text text-anchor="middle" x="610" y="-793.34" font-family="Arial" font-size="14.00" fill="white">DIFFÉRENCE</text>
+<text text-anchor="middle" x="610" y="-776.54" font-family="Arial" font-size="14.00" fill="white">ONTOLOGIQUE</text>
+<text text-anchor="middle" x="610" y="-759.74" font-family="Arial" font-size="14.00" fill="white">Être ≠ Étant</text>
+</g>
+<!-- EntenteEtre&#45;&gt;DifferencOntologique -->
+<g id="edge19" class="edge">
+<title>EntenteEtre-&gt;DifferencOntologique</title>
+<path fill="none" stroke="#7c3aed" d="M529.5,-902.21C542.79,-882.31 558.39,-858.97 572.29,-838.17"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="575.06,-840.33 577.71,-830.07 569.24,-836.44 575.06,-840.33"/>
+<text text-anchor="middle" x="589.24" y="-861.34" font-family="Times,serif" font-size="14.00">présuppose</text>
+</g>
+<!-- Ouvertude&#45;&gt;Monde -->
+<g id="edge17" class="edge">
+<title>Ouvertude-&gt;Monde</title>
+<path fill="none" stroke="#7c3aed" d="M888.36,-819.84C916.75,-835.84 951.8,-852.33 985.96,-859.81 1055.89,-875.11 1158.52,-874.64 1259,-839.14 1273.75,-833.93 1288.44,-825.71 1301.47,-817.06"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1303.16,-820.15 1309.4,-811.59 1299.18,-814.39 1303.16,-820.15"/>
+<text text-anchor="middle" x="1012" y="-861.34" font-family="Times,serif" font-size="14.00">découvre</text>
+</g>
+<!-- Ouvertude&#45;&gt;Intramondanite -->
+<g id="edge18" class="edge">
+<title>Ouvertude-&gt;Intramondanite</title>
+<path fill="none" stroke="#7c3aed" d="M889.94,-743.09C906.08,-735 923.78,-727.36 941,-722.34 1019.88,-699.34 1053.59,-744.98 1125,-704.34 1168.37,-679.66 1200.88,-632.93 1221.7,-594.89"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1224.69,-596.73 1226.29,-586.26 1218.51,-593.44 1224.69,-596.73"/>
+<text text-anchor="middle" x="1169.13" y="-691.74" font-family="Times,serif" font-size="14.00">dévoile</text>
+</g>
+<!-- Transcendance -->
+<g id="node16" class="node">
+<title>Transcendance</title>
+<polygon fill="#8b5cf6" stroke="black" points="929.41,-950.34 858.7,-984.31 717.3,-984.31 646.59,-950.34 717.3,-916.37 858.7,-916.37 929.41,-950.34"/>
+<text text-anchor="middle" x="788" y="-954.54" font-family="Arial" font-size="14.00" fill="white">TRANSCENDANCE</text>
+<text text-anchor="middle" x="788" y="-937.74" font-family="Arial" font-size="14.00" fill="white">Du Dasein vers le monde</text>
+</g>
+<!-- DifferencOntologique&#45;&gt;Realite -->
+<g id="edge20" class="edge">
+<title>DifferencOntologique-&gt;Realite</title>
+<path fill="none" stroke="#7c3aed" d="M628.13,-732.68C654.75,-666.63 708.47,-544.18 774.31,-451.96 800.45,-415.34 836.59,-379.22 864.4,-353.66"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="866.57,-356.41 871.62,-347.1 861.86,-351.23 866.57,-356.41"/>
+<text text-anchor="middle" x="835.15" y="-530.35" font-family="Times,serif" font-size="14.00">distingue être et étant</text>
+</g>
+<!-- Resistance&#45;&gt;Volonte -->
+<g id="edge21" class="edge">
+<title>Resistance-&gt;Volonte</title>
+<path fill="none" stroke="#ea580c" d="M1725.57,-492.93C1727.71,-468.66 1730.51,-436.82 1733.14,-406.95"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="1736.61,-407.4 1734,-397.13 1729.64,-406.78 1736.61,-407.4"/>
+<text text-anchor="middle" x="1773.09" y="-421.36" font-family="Times,serif" font-size="14.00">éprouvée dans</text>
+</g>
+<!-- Effort -->
+<g id="node20" class="node">
+<title>Effort</title>
+<polygon fill="#f59e0b" stroke="black" points="1741,-181.18 1639.19,-57.3 1842.81,-57.3 1741,-181.18"/>
+<text text-anchor="middle" x="1741" y="-111.19" font-family="Arial" font-size="14.00" fill="white">EFFORT</text>
+<text text-anchor="middle" x="1741" y="-94.39" font-family="Arial" font-size="14.00" fill="white">Barrage</text>
+<text text-anchor="middle" x="1741" y="-77.59" font-family="Arial" font-size="14.00" fill="white">Obstacle</text>
+</g>
+<!-- Volonte&#45;&gt;Effort -->
+<g id="edge22" class="edge">
+<title>Volonte-&gt;Effort</title>
+<path fill="none" stroke="#ea580c" d="M1741,-274.95C1741,-251.75 1741,-221.66 1741,-192.96"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="1744.5,-193.14 1741,-183.14 1737.5,-193.14 1744.5,-193.14"/>
+<text text-anchor="middle" x="1771.32" y="-203.38" font-family="Times,serif" font-size="14.00">se heurte à</text>
+</g>
+</g>
+</svg>

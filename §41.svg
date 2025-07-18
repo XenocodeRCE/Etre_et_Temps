@@ -1,0 +1,343 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2173pt" height="1012pt" viewBox="0.00 0.00 2173.24 1012.17">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1008.17)">
+<title>Souci</title>
+<text text-anchor="middle" x="1082.62" y="-985.77" font-family="Arial" font-size="16.00">§41 - L'Être du Dasein comme Souci</text>
+<text text-anchor="middle" x="1082.62" y="-966.57" font-family="Arial" font-size="16.00">(Heidegger, Être et Temps)</text>
+<g id="clust1" class="cluster">
+<title>cluster_souci</title>
+<polygon fill="none" stroke="#dc2626" stroke-width="2" points="700.24,-719.48 700.24,-949.77 976.24,-949.77 976.24,-719.48 700.24,-719.48"/>
+<text text-anchor="middle" x="838.24" y="-931.37" font-family="Arial" font-size="16.00">STRUCTURE UNITAIRE DU SOUCI</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_moments</title>
+<polygon fill="none" stroke="#2563eb" stroke-dasharray="5,2" points="1399.24,-405.32 1399.24,-897.52 1623.24,-897.52 1623.24,-405.32 1399.24,-405.32"/>
+<text text-anchor="middle" x="1511.24" y="-879.12" font-family="Arial" font-size="16.00">Trois Moments Structuraux</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_ontologique</title>
+<polygon fill="none" stroke="#059669" stroke-dasharray="5,2" points="933.24,-144 933.24,-370.22 1619.24,-370.22 1619.24,-144 933.24,-144"/>
+<text text-anchor="middle" x="1276.24" y="-351.82" font-family="Arial" font-size="16.00">Concepts Ontologiques</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_existential</title>
+<polygon fill="none" stroke="#7c3aed" stroke-dasharray="5,2" points="1663.24,-8 1663.24,-531.42 2157.24,-531.42 2157.24,-8 1663.24,-8"/>
+<text text-anchor="middle" x="1910.24" y="-513.02" font-family="Arial" font-size="16.00">Structures Existentiales</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_derives</title>
+<polygon fill="none" stroke="#ea580c" stroke-dasharray="5,2" points="442.24,-412.65 442.24,-684.68 1214.24,-684.68 1214.24,-412.65 442.24,-412.65"/>
+<text text-anchor="middle" x="828.24" y="-666.28" font-family="Arial" font-size="16.00">Phénomènes Dérivés</text>
+</g>
+<!-- Souci -->
+<g id="node1" class="node">
+<title>Souci</title>
+<ellipse fill="#dc2626" stroke="black" cx="838.24" cy="-821.02" rx="93.55" ry="93.55"/>
+<text text-anchor="middle" x="838.24" y="-842.02" font-family="Arial" font-size="14.00" fill="white">SOUCI</text>
+<text text-anchor="middle" x="838.24" y="-825.22" font-family="Arial" font-size="14.00" fill="white">(Sorge)</text>
+<text text-anchor="middle" x="838.24" y="-808.42" font-family="Arial" font-size="14.00" fill="white">Structure unitaire</text>
+<text text-anchor="middle" x="838.24" y="-791.62" font-family="Arial" font-size="14.00" fill="white">de l'être du Dasein</text>
+</g>
+<!-- EtreEnAvance -->
+<g id="node2" class="node">
+<title>EtreEnAvance</title>
+<ellipse fill="#3b82f6" stroke="black" cx="1514.24" cy="-821.02" rx="97.67" ry="41.3"/>
+<text text-anchor="middle" x="1514.24" y="-833.62" font-family="Arial" font-size="14.00" fill="white">ÊTRE-EN-AVANCE</text>
+<text text-anchor="middle" x="1514.24" y="-816.82" font-family="Arial" font-size="14.00" fill="white">-SUR-SOI</text>
+<text text-anchor="middle" x="1514.24" y="-800.02" font-family="Arial" font-size="14.00" fill="white">(Sich-vorweg-sein)</text>
+</g>
+<!-- Souci&#45;&gt;EtreEnAvance -->
+<g id="edge1" class="edge">
+<title>Souci-&gt;EtreEnAvance</title>
+<path fill="none" stroke="#dc2626" stroke-width="2" d="M932.23,-821.02C1056.14,-821.02 1273.72,-821.02 1404.87,-821.02"/>
+<polygon fill="#dc2626" stroke="#dc2626" stroke-width="2" points="1403.08,-824.52 1413.08,-821.02 1403.08,-817.52 1403.08,-824.52"/>
+<text text-anchor="middle" x="1174.17" y="-828.22" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- EtreDejaAu -->
+<g id="node3" class="node">
+<title>EtreDejaAu</title>
+<ellipse fill="#3b82f6" stroke="black" cx="1511.24" cy="-615.51" rx="80.06" ry="41.3"/>
+<text text-anchor="middle" x="1511.24" y="-628.11" font-family="Arial" font-size="14.00" fill="white">ÊTRE-DÉJÀ-AU</text>
+<text text-anchor="middle" x="1511.24" y="-611.31" font-family="Arial" font-size="14.00" fill="white">(monde)</text>
+<text text-anchor="middle" x="1511.24" y="-594.51" font-family="Arial" font-size="14.00" fill="white">(Schon-sein-in)</text>
+</g>
+<!-- Souci&#45;&gt;EtreDejaAu -->
+<g id="edge2" class="edge">
+<title>Souci-&gt;EtreDejaAu</title>
+<path fill="none" stroke="#dc2626" stroke-width="2" d="M931.04,-808.69C1037.72,-793.8 1216.95,-763.04 1363.24,-709.48 1397.13,-697.06 1431.49,-676.11 1458.56,-657.23"/>
+<polygon fill="#dc2626" stroke="#dc2626" stroke-width="2" points="1459.22,-661.06 1465.35,-652.41 1455.17,-655.35 1459.22,-661.06"/>
+<text text-anchor="middle" x="1426.08" y="-696.88" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- EtreApres -->
+<g id="node4" class="node">
+<title>EtreApres</title>
+<ellipse fill="#3b82f6" stroke="black" cx="1511.24" cy="-454.62" rx="103.99" ry="41.3"/>
+<text text-anchor="middle" x="1511.24" y="-467.22" font-family="Arial" font-size="14.00" fill="white">ÊTRE-APRÈS</text>
+<text text-anchor="middle" x="1511.24" y="-450.42" font-family="Arial" font-size="14.00" fill="white">(l'étant intramondain)</text>
+<text text-anchor="middle" x="1511.24" y="-433.62" font-family="Arial" font-size="14.00" fill="white">(Sein-bei)</text>
+</g>
+<!-- Souci&#45;&gt;EtreApres -->
+<g id="edge3" class="edge">
+<title>Souci-&gt;EtreApres</title>
+<path fill="none" stroke="#dc2626" stroke-width="2" d="M931.58,-811.7C1020.49,-800.15 1155.11,-772.93 1254.24,-709.48 1319.98,-667.39 1310.9,-629.24 1366.26,-574.22 1393.52,-547.12 1426.52,-519.76 1454.14,-498.15"/>
+<polygon fill="#dc2626" stroke="#dc2626" stroke-width="2" points="1454.76,-502.1 1460.51,-493.21 1450.47,-496.57 1454.76,-502.1"/>
+<text text-anchor="middle" x="1394.25" y="-611.31" font-family="Times,serif" font-size="14.00">comprend</text>
+</g>
+<!-- EtreAuMonde -->
+<g id="node6" class="node">
+<title>EtreAuMonde</title>
+<ellipse fill="#10b981" stroke="black" cx="1144.24" cy="-243.51" rx="91.51" ry="91.51"/>
+<text text-anchor="middle" x="1144.24" y="-239.31" font-family="Arial" font-size="14.00" fill="white">ÊTRE-AU-MONDE</text>
+</g>
+<!-- Souci&#45;&gt;EtreAuMonde -->
+<g id="edge10" class="edge">
+<title>Souci-&gt;EtreAuMonde</title>
+<path fill="none" stroke="#dc2626" d="M931.53,-809.8C1010.29,-797.21 1122.62,-769.54 1202.24,-709.48 1212.71,-701.58 1214.53,-697.26 1218.24,-684.68 1253.32,-565.58 1244.8,-526.6 1218.24,-405.32 1212.96,-381.24 1203.73,-356.46 1193.53,-333.79"/>
+<polygon fill="#dc2626" stroke="#dc2626" points="1196.8,-332.51 1189.42,-324.9 1190.44,-335.44 1196.8,-332.51"/>
+<text text-anchor="middle" x="1271.77" y="-543.62" font-family="Times,serif" font-size="14.00">caractérise</text>
+</g>
+<!-- Preoccupation -->
+<g id="node14" class="node">
+<title>Preoccupation</title>
+<polygon fill="#f59e0b" stroke="black" points="842.74,-615.51 786.99,-649.48 675.48,-649.48 619.73,-615.51 675.48,-581.54 786.99,-581.54 842.74,-615.51"/>
+<text text-anchor="middle" x="731.24" y="-619.71" font-family="Arial" font-size="14.00" fill="white">PRÉOCCUPATION</text>
+<text text-anchor="middle" x="731.24" y="-602.91" font-family="Arial" font-size="14.00" fill="white">(Besorgen)</text>
+</g>
+<!-- Souci&#45;&gt;Preoccupation -->
+<g id="edge16" class="edge">
+<title>Souci-&gt;Preoccupation</title>
+<path fill="none" stroke="#ea580c" d="M758.54,-771.18C738.13,-754.37 718.79,-733.6 707.61,-709.48 700.49,-694.13 702.74,-676.33 708.04,-660.44"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="711.27,-661.8 711.58,-651.21 704.74,-659.29 711.27,-661.8"/>
+<text text-anchor="middle" x="765.92" y="-696.88" font-family="Times,serif" font-size="14.00">se détermine comme</text>
+</g>
+<!-- SouciMutuel -->
+<g id="node15" class="node">
+<title>SouciMutuel</title>
+<polygon fill="#f59e0b" stroke="black" points="1206.67,-615.51 1156.95,-649.48 1057.52,-649.48 1007.8,-615.51 1057.52,-581.54 1156.95,-581.54 1206.67,-615.51"/>
+<text text-anchor="middle" x="1107.24" y="-619.71" font-family="Arial" font-size="14.00" fill="white">SOUCI MUTUEL</text>
+<text text-anchor="middle" x="1107.24" y="-602.91" font-family="Arial" font-size="14.00" fill="white">(Fürsorge)</text>
+</g>
+<!-- Souci&#45;&gt;SouciMutuel -->
+<g id="edge17" class="edge">
+<title>Souci-&gt;SouciMutuel</title>
+<path fill="none" stroke="#ea580c" d="M928.37,-794.79C975.91,-777.5 1032.12,-750.19 1070.24,-709.48 1082.9,-695.95 1091.43,-677.56 1097.08,-660.71"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="1100.36,-661.96 1099.94,-651.37 1093.66,-659.9 1100.36,-661.96"/>
+<text text-anchor="middle" x="1139.96" y="-696.88" font-family="Times,serif" font-size="14.00">se détermine comme</text>
+</g>
+<!-- Vouloir -->
+<g id="node16" class="node">
+<title>Vouloir</title>
+<polygon fill="#f59e0b" stroke="black" points="989.75,-615.51 957.49,-649.48 892.98,-649.48 860.72,-615.51 892.98,-581.54 957.49,-581.54 989.75,-615.51"/>
+<text text-anchor="middle" x="925.24" y="-619.71" font-family="Arial" font-size="14.00" fill="white">VOULOIR</text>
+<text text-anchor="middle" x="925.24" y="-602.91" font-family="Arial" font-size="14.00" fill="white">(Wollen)</text>
+</g>
+<!-- Souci&#45;&gt;Vouloir -->
+<g id="edge18" class="edge">
+<title>Souci-&gt;Vouloir</title>
+<path fill="none" stroke="#ea580c" d="M921.99,-778.54C948.09,-761.07 973.79,-738.06 988.24,-709.48 998.28,-689.59 986.8,-668.93 971.01,-652.15"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="973.65,-649.83 964.07,-645.31 968.73,-654.82 973.65,-649.83"/>
+<text text-anchor="middle" x="1029.14" y="-696.88" font-family="Times,serif" font-size="14.00">rend possible</text>
+</g>
+<!-- Souci&#45;&gt;Vouloir -->
+<g id="edge24" class="edge">
+<title>Souci-&gt;Vouloir</title>
+<path fill="none" stroke="#6b7280" stroke-dasharray="1,5" d="M823.43,-728.44C824.93,-715.76 828.53,-703.42 835.33,-692.68 839.78,-685.65 845.36,-689.35 852.24,-684.68 863.89,-676.76 875.51,-667 885.93,-657.36"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="888.06,-660.16 892.91,-650.74 883.25,-655.08 888.06,-660.16"/>
+<text text-anchor="middle" x="909.78" y="-696.88" font-family="Times,serif" font-size="14.00">ontologiquement antérieur</text>
+</g>
+<!-- Envie -->
+<g id="node17" class="node">
+<title>Envie</title>
+<polygon fill="#f59e0b" stroke="black" points="599.91,-454.62 562.57,-488.58 487.9,-488.58 450.56,-454.62 487.9,-420.65 562.57,-420.65 599.91,-454.62"/>
+<text text-anchor="middle" x="525.24" y="-458.82" font-family="Arial" font-size="14.00" fill="white">ENVIE</text>
+<text text-anchor="middle" x="525.24" y="-442.02" font-family="Arial" font-size="14.00" fill="white">(Wünschen)</text>
+</g>
+<!-- Souci&#45;&gt;Envie -->
+<g id="edge19" class="edge">
+<title>Souci-&gt;Envie</title>
+<path fill="none" stroke="#ea580c" d="M744.25,-818.58C558.44,-813.42 155.28,-790.07 76.97,-684.68 47.69,-645.27 49.85,-615.14 76.97,-574.22 117.75,-512.69 330.15,-478.45 447.35,-463.98"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="447.73,-467.46 457.23,-462.78 446.88,-460.51 447.73,-467.46"/>
+<text text-anchor="middle" x="114.1" y="-611.31" font-family="Times,serif" font-size="14.00">rend possible</text>
+</g>
+<!-- Souci&#45;&gt;Envie -->
+<g id="edge25" class="edge">
+<title>Souci-&gt;Envie</title>
+<path fill="none" stroke="#6b7280" stroke-dasharray="1,5" d="M744.48,-814.5C582.26,-802.77 259.97,-769.17 191.33,-684.68 160.37,-646.57 163.01,-614.32 191.33,-574.22 247.89,-494.1 363.48,-467.78 442.66,-459.31"/>
+<polygon fill="#6b7280" stroke="#6b7280" points="442.95,-462.8 452.56,-458.34 442.26,-455.83 442.95,-462.8"/>
+<text text-anchor="middle" x="265.78" y="-611.31" font-family="Times,serif" font-size="14.00">ontologiquement antérieur</text>
+</g>
+<!-- Penchant -->
+<g id="node18" class="node">
+<title>Penchant</title>
+<polygon fill="#f59e0b" stroke="black" points="602.18,-615.51 564.21,-649.48 488.27,-649.48 450.3,-615.51 488.27,-581.54 564.21,-581.54 602.18,-615.51"/>
+<text text-anchor="middle" x="526.24" y="-619.71" font-family="Arial" font-size="14.00" fill="white">PENCHANT</text>
+<text text-anchor="middle" x="526.24" y="-602.91" font-family="Arial" font-size="14.00" fill="white">(Hang)</text>
+</g>
+<!-- Souci&#45;&gt;Penchant -->
+<g id="edge20" class="edge">
+<title>Souci-&gt;Penchant</title>
+<path fill="none" stroke="#ea580c" d="M752.58,-782.35C712.33,-763 664.6,-737.58 624.97,-709.48 603.65,-694.36 582.26,-674.88 564.86,-657.65"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="567.77,-655.61 558.23,-650.99 562.81,-660.55 567.77,-655.61"/>
+<text text-anchor="middle" x="662.1" y="-696.88" font-family="Times,serif" font-size="14.00">rend possible</text>
+</g>
+<!-- Appetit -->
+<g id="node19" class="node">
+<title>Appetit</title>
+<polygon fill="#f59e0b" stroke="black" points="736.67,-454.62 706.95,-488.58 647.52,-488.58 617.81,-454.62 647.52,-420.65 706.95,-420.65 736.67,-454.62"/>
+<text text-anchor="middle" x="677.24" y="-458.82" font-family="Arial" font-size="14.00" fill="white">APPÉTIT</text>
+<text text-anchor="middle" x="677.24" y="-442.02" font-family="Arial" font-size="14.00" fill="white">(Drang)</text>
+</g>
+<!-- Souci&#45;&gt;Appetit -->
+<g id="edge21" class="edge">
+<title>Souci-&gt;Appetit</title>
+<path fill="none" stroke="#ea580c" d="M745.3,-806.67C621.41,-786.75 412.42,-745.02 366.97,-684.68 337.43,-645.46 336.45,-612.67 366.97,-574.22 409.32,-520.86 448.96,-550.1 516.24,-539.42 536.72,-536.16 590.67,-540.67 609.24,-531.42 624.66,-523.72 638.2,-510.89 649.05,-497.96"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="651.71,-500.24 655.18,-490.23 646.23,-495.89 651.71,-500.24"/>
+<text text-anchor="middle" x="404.1" y="-611.31" font-family="Times,serif" font-size="14.00">rend possible</text>
+</g>
+<!-- EtreEnAvance&#45;&gt;EtreDejaAu -->
+<g id="edge4" class="edge">
+<title>EtreEnAvance-&gt;EtreDejaAu</title>
+<path fill="none" stroke="#2563eb" stroke-width="2" d="M1513.64,-779.33C1513.17,-747.44 1512.51,-702.85 1512,-668.4"/>
+<polygon fill="#2563eb" stroke="#2563eb" stroke-width="2" points="1515.53,-670.11 1511.88,-660.16 1508.53,-670.21 1515.53,-670.11"/>
+<text text-anchor="middle" x="1532.38" y="-696.88" font-family="Times,serif" font-size="14.00">tout-en</text>
+</g>
+<!-- Existentialite -->
+<g id="node7" class="node">
+<title>Existentialite</title>
+<polygon fill="#10b981" stroke="black" points="1611.08,-264.31 1485.39,-264.31 1485.39,-222.71 1611.08,-222.71 1611.08,-264.31"/>
+<text text-anchor="middle" x="1548.24" y="-247.71" font-family="Arial" font-size="14.00" fill="white">EXISTENTIALITÉ</text>
+<text text-anchor="middle" x="1548.24" y="-230.91" font-family="Arial" font-size="14.00" fill="white">(Existenzialität)</text>
+</g>
+<!-- EtreEnAvance&#45;&gt;Existentialite -->
+<g id="edge6" class="edge">
+<title>EtreEnAvance-&gt;Existentialite</title>
+<path fill="none" stroke="#059669" d="M1544.82,-781.46C1563.78,-755.56 1586.97,-719.84 1600.24,-684.68 1644.22,-568.08 1651.52,-526.91 1624.24,-405.32 1613.36,-356.86 1586.16,-305.83 1567.43,-274.57"/>
+<polygon fill="#059669" stroke="#059669" points="1570.43,-272.77 1562.23,-266.06 1564.46,-276.41 1570.43,-272.77"/>
+<text text-anchor="middle" x="1675.93" y="-543.62" font-family="Times,serif" font-size="14.00">correspond à</text>
+</g>
+<!-- PouvoirEtre -->
+<g id="node10" class="node">
+<title>PouvoirEtre</title>
+<polygon fill="#8b5cf6" stroke="black" points="2028.24,-496.22 1907.23,-454.62 2028.24,-413.02 2149.24,-454.62 2028.24,-496.22"/>
+<text text-anchor="middle" x="2028.24" y="-458.82" font-family="Arial" font-size="14.00" fill="white">POUVOIR-ÊTRE</text>
+<text text-anchor="middle" x="2028.24" y="-442.02" font-family="Arial" font-size="14.00" fill="white">(Sein-können)</text>
+</g>
+<!-- EtreEnAvance&#45;&gt;PouvoirEtre -->
+<g id="edge11" class="edge">
+<title>EtreEnAvance-&gt;PouvoirEtre</title>
+<path fill="none" stroke="#7c3aed" d="M1563.52,-785.08C1662.13,-715.17 1882.58,-558.88 1980.17,-489.69"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1982.14,-492.59 1988.27,-483.95 1978.09,-486.88 1982.14,-492.59"/>
+<text text-anchor="middle" x="1884.46" y="-611.31" font-family="Times,serif" font-size="14.00">tendu vers</text>
+</g>
+<!-- EtreDejaAu&#45;&gt;EtreApres -->
+<g id="edge5" class="edge">
+<title>EtreDejaAu-&gt;EtreApres</title>
+<path fill="none" stroke="#2563eb" stroke-width="2" d="M1511.24,-574C1511.24,-553.82 1511.24,-529.18 1511.24,-507.61"/>
+<polygon fill="#2563eb" stroke="#2563eb" stroke-width="2" points="1514.74,-509.35 1511.24,-499.35 1507.74,-509.35 1514.74,-509.35"/>
+<text text-anchor="middle" x="1531.84" y="-543.62" font-family="Times,serif" font-size="14.00">comme</text>
+</g>
+<!-- Factivite -->
+<g id="node8" class="node">
+<title>Factivite</title>
+<polygon fill="#10b981" stroke="black" points="1467.24,-264.31 1381.24,-264.31 1381.24,-222.71 1467.24,-222.71 1467.24,-264.31"/>
+<text text-anchor="middle" x="1424.24" y="-247.71" font-family="Arial" font-size="14.00" fill="white">FACTIVITÉ</text>
+<text text-anchor="middle" x="1424.24" y="-230.91" font-family="Arial" font-size="14.00" fill="white">(Faktizität)</text>
+</g>
+<!-- EtreDejaAu&#45;&gt;Factivite -->
+<g id="edge7" class="edge">
+<title>EtreDejaAu-&gt;Factivite</title>
+<path fill="none" stroke="#059669" d="M1449.57,-588.81C1396.98,-566.6 1329.27,-537.18 1325.54,-531.42 1295.06,-484.39 1295.59,-452.69 1325.54,-405.32 1331.24,-396.3 1338.5,-401.15 1347.24,-395.02 1360.04,-386.02 1363.52,-383.21 1372.24,-370.22 1392.18,-340.49 1406.73,-301.89 1415.29,-275.36"/>
+<polygon fill="#059669" stroke="#059669" points="1418.61,-276.47 1418.24,-265.88 1411.93,-274.38 1418.61,-276.47"/>
+<text text-anchor="middle" x="1361.89" y="-450.42" font-family="Times,serif" font-size="14.00">correspond à</text>
+</g>
+<!-- EtreJete -->
+<g id="node11" class="node">
+<title>EtreJete</title>
+<polygon fill="#8b5cf6" stroke="black" points="1780.24,-496.22 1671.64,-454.62 1780.24,-413.02 1888.83,-454.62 1780.24,-496.22"/>
+<text text-anchor="middle" x="1780.24" y="-458.82" font-family="Arial" font-size="14.00" fill="white">ÊTRE-JETÉ</text>
+<text text-anchor="middle" x="1780.24" y="-442.02" font-family="Arial" font-size="14.00" fill="white">(Geworfenheit)</text>
+</g>
+<!-- EtreDejaAu&#45;&gt;EtreJete -->
+<g id="edge14" class="edge">
+<title>EtreDejaAu-&gt;EtreJete</title>
+<path fill="none" stroke="#7c3aed" d="M1590.02,-606.8C1632.12,-599.38 1682.82,-584.81 1720.24,-556.22 1738.45,-542.3 1752.26,-521.13 1762.01,-501.79"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1765.07,-503.5 1766.22,-492.96 1758.76,-500.48 1765.07,-503.5"/>
+<text text-anchor="middle" x="1754.17" y="-543.62" font-family="Times,serif" font-size="14.00">révèle</text>
+</g>
+<!-- Devalement -->
+<g id="node9" class="node">
+<title>Devalement</title>
+<polygon fill="#10b981" stroke="black" points="1362.91,-264.31 1253.56,-264.31 1253.56,-222.71 1362.91,-222.71 1362.91,-264.31"/>
+<text text-anchor="middle" x="1308.24" y="-247.71" font-family="Arial" font-size="14.00" fill="white">DÉVALEMENT</text>
+<text text-anchor="middle" x="1308.24" y="-230.91" font-family="Arial" font-size="14.00" fill="white">(Verfall)</text>
+</g>
+<!-- EtreApres&#45;&gt;Devalement -->
+<g id="edge8" class="edge">
+<title>EtreApres-&gt;Devalement</title>
+<path fill="none" stroke="#059669" d="M1440.34,-424.18C1415.76,-410.89 1389.95,-392.99 1372.24,-370.22 1349.34,-340.78 1331.04,-301.9 1319.97,-275.21"/>
+<polygon fill="#059669" stroke="#059669" points="1323.24,-273.95 1316.24,-265.99 1316.75,-276.57 1323.24,-273.95"/>
+<text text-anchor="middle" x="1429.74" y="-382.42" font-family="Times,serif" font-size="14.00">correspond à</text>
+</g>
+<!-- Dasein -->
+<g id="node5" class="node">
+<title>Dasein</title>
+<ellipse fill="#10b981" stroke="black" cx="988.24" cy="-243.51" rx="46.99" ry="46.99"/>
+<text text-anchor="middle" x="988.24" y="-239.31" font-family="Arial" font-size="14.00" fill="white">DASEIN</text>
+</g>
+<!-- Dasein&#45;&gt;Souci -->
+<g id="edge9" class="edge">
+<title>Dasein-&gt;Souci</title>
+<path fill="none" stroke="#dc2626" stroke-width="2" d="M941.66,-251.45C765.34,-278.78 143.24,-385.03 31.59,-539.42 -146.38,-785.51 476.85,-817.44 733.1,-820.37"/>
+<polygon fill="#dc2626" stroke="#dc2626" stroke-width="2" points="731.22,-823.85 741.26,-820.45 731.29,-816.85 731.22,-823.85"/>
+<text text-anchor="middle" x="61.91" y="-543.62" font-family="Times,serif" font-size="14.00">a pour être</text>
+</g>
+<!-- Projection -->
+<g id="node12" class="node">
+<title>Projection</title>
+<polygon fill="#8b5cf6" stroke="black" points="2028.24,-285.11 1922.01,-243.51 2028.24,-201.91 2134.46,-243.51 2028.24,-285.11"/>
+<text text-anchor="middle" x="2028.24" y="-247.71" font-family="Arial" font-size="14.00" fill="white">PROJECTION</text>
+<text text-anchor="middle" x="2028.24" y="-230.91" font-family="Arial" font-size="14.00" fill="white">(Entwurf)</text>
+</g>
+<!-- PouvoirEtre&#45;&gt;Projection -->
+<g id="edge12" class="edge">
+<title>PouvoirEtre-&gt;Projection</title>
+<path fill="none" stroke="#7c3aed" d="M2028.24,-412.8C2028.24,-379.66 2028.24,-332.71 2028.24,-296.81"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="2031.74,-297.09 2028.24,-287.09 2024.74,-297.09 2031.74,-297.09"/>
+<text text-anchor="middle" x="2053.12" y="-382.42" font-family="Times,serif" font-size="14.00">implique</text>
+</g>
+<!-- EtreJete&#45;&gt;Factivite -->
+<g id="edge15" class="edge">
+<title>EtreJete-&gt;Factivite</title>
+<path fill="none" stroke="#7c3aed" d="M1723.15,-434.44C1694.52,-425.12 1659.21,-414.07 1627.24,-405.32 1560.78,-387.14 1528.78,-414.79 1476.24,-370.22 1447.9,-346.18 1434.75,-304.21 1428.83,-275.43"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="1432.32,-275.04 1427.05,-265.85 1425.43,-276.32 1432.32,-275.04"/>
+<text text-anchor="middle" x="1538.11" y="-382.42" font-family="Times,serif" font-size="14.00">fonde</text>
+</g>
+<!-- Entendre -->
+<g id="node13" class="node">
+<title>Entendre</title>
+<polygon fill="#8b5cf6" stroke="black" points="2028.24,-99.2 1935.23,-57.6 2028.24,-16 2121.24,-57.6 2028.24,-99.2"/>
+<text text-anchor="middle" x="2028.24" y="-61.8" font-family="Arial" font-size="14.00" fill="white">ENTENDRE</text>
+<text text-anchor="middle" x="2028.24" y="-45" font-family="Arial" font-size="14.00" fill="white">(Verstehen)</text>
+</g>
+<!-- Projection&#45;&gt;Entendre -->
+<g id="edge13" class="edge">
+<title>Projection-&gt;Entendre</title>
+<path fill="none" stroke="#7c3aed" d="M2028.24,-201.69C2028.24,-175 2028.24,-139.88 2028.24,-111.11"/>
+<polygon fill="#7c3aed" stroke="#7c3aed" points="2031.74,-111.13 2028.24,-101.13 2024.74,-111.13 2031.74,-111.13"/>
+<text text-anchor="middle" x="2052.14" y="-121.4" font-family="Times,serif" font-size="14.00">mode de</text>
+</g>
+<!-- Vouloir&#45;&gt;Envie -->
+<g id="edge22" class="edge">
+<title>Vouloir-&gt;Envie</title>
+<path fill="none" stroke="#ea580c" stroke-dasharray="5,2" d="M885.72,-588.52C875.23,-582.81 863.64,-577.5 852.24,-574.22 817.83,-564.32 555.82,-581.57 530.55,-556.22 516.2,-541.82 513.78,-519.77 515.42,-499.98"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="518.88,-500.51 516.61,-490.16 511.93,-499.67 518.88,-500.51"/>
+<text text-anchor="middle" x="584.39" y="-543.62" font-family="Times,serif" font-size="14.00">peut se modifier en</text>
+</g>
+<!-- Penchant&#45;&gt;Appetit -->
+<g id="edge23" class="edge">
+<title>Penchant-&gt;Appetit</title>
+<path fill="none" stroke="#ea580c" stroke-dasharray="5,2" d="M575.16,-590.96C605.68,-576.09 639.65,-559.16 642.24,-556.22 656.1,-540.41 664.55,-518.8 669.66,-499.66"/>
+<polygon fill="#ea580c" stroke="#ea580c" points="673,-500.76 671.95,-490.21 666.2,-499.11 673,-500.76"/>
+<text text-anchor="middle" x="688.59" y="-543.62" font-family="Times,serif" font-size="14.00">peut devenir</text>
+</g>
+</g>
+</svg>
